@@ -1,12 +1,27 @@
-:root {--nav-bg: #ffffff; --card-bg: #fdfdfd;}
-
-@media (prefers-color-scheme: dark) { :root { --nav-bg: #1a1a1a; --card-bg: #222; } }
+:root {
+    --bg: #1b1a1a;
+    --fg: #ffffff;
+    --card-bg: #272221;
+    --border: #e2e8f0;
+    --primary: #e57046;
+    --gray: #ffffff;
+    --accent: #f1f5f9;
+    --nav-bg: rgba(255, 255, 255, 0.8);
+}
 
 body { max-width: 1100px; margin: auto; padding: 20px 20px 120px 20px; font-family: -apple-system, sans-serif; }
 
 header { margin-bottom: 40px; }
 header h1 { font-size: 2.2rem; margin-bottom: 15px; }
 header p { line-height: 1.8; color: var(--gray); font-size: 1.1rem; }
+
+html, body {
+    background-color: var(--bg) !important;
+}
+
+.head-title{
+    color: var(--primary);
+}
 
 .bottom-nav {
     position: fixed; 
@@ -24,7 +39,7 @@ header p { line-height: 1.8; color: var(--gray); font-size: 1.1rem; }
     font-weight: bold;
     border: 1px solid var(--border);
     background: var(--accent);
-    color: var(--fg);
+    color: var(--card-bg);
     transition: all 0.2s;
 }
 
@@ -34,12 +49,29 @@ header p { line-height: 1.8; color: var(--gray); font-size: 1.1rem; }
     border-color: var(--primary) !important;
 }
 
+.button.outline:hover {
+    background-color: var(--primary) !important;
+    color: var(--secondary) !important;
+    border-color: var(--primary) !important;
+    cursor: pointer;
+    transform: translateY(-1px); 
+}
+
+a.outline.button {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+}
+
 .card a { text-decoration: none !important; color: inherit !important; display: block; height: 100%; }
 .card { 
     border: 1px solid var(--border); padding: 20px; border-radius: 10px; 
-    background: var(--card-bg); transition: transform 0.2s, border-color 0.2s;
+    background: var(--card-bg); transition: all 0.2s ease-in-out, border-color 0.2s;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
 }
-.card:hover { border-color: var(--primary); transform: translateY(-2px); }
+.card:hover { border-color: var(--primary); transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);}
 
 .meta { font-size: 0.75rem; font-weight: bold; margin-bottom: 12px; display: flex; justify-content: space-between; }
 .source { color: var(--primary); text-transform: uppercase; }
