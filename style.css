@@ -11,12 +11,52 @@
 
 body { max-width: 1100px; margin: auto; padding: 20px 20px 120px 20px; font-family: -apple-system, sans-serif; }
 
-header { margin-bottom: 40px; }
-header h1 { font-size: 2.2rem; margin-bottom: 15px; }
-header p { line-height: 1.8; color: var(--gray); font-size: 1.1rem; }
-
 html, body {
     background-color: var(--bg) !important;
+}
+
+.status-bar {
+    background-color: var(--card-bg);
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3000;
+    padding: 16px calc((100% - 1100px) / 2 + 20px);
+    width: 100%;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05); 
+}
+
+@media (max-width: 1140px) {
+    .status-bar {
+        padding: 10px 20px;
+    }
+}
+
+.status-bar {
+    font-size: 0.6rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: var(--primary);
+    margin-bottom: 15px;
+    letter-spacing: 0.1em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #10b981;
+    display: inline-block;
+    box-shadow: 0 0 8px rgba(16, 185, 129, 0.6);
+    animation: pulse-dot 2s infinite;
+}
+
+@keyframes pulse-dot {
+    0% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.9); }
+    100% { opacity: 1; transform: scale(1); }
 }
 
 .head-title{

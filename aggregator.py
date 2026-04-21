@@ -2,11 +2,23 @@ import feedparser
 import json
 from datetime import datetime, timedelta, timezone
 
+ist_tz = timezone(timedelta(hours=5, minutes=30))
+
+last_run_time = datetime.now(ist_tz)
+next_run_time = last_run_time + timedelta(hours=1)
+
+last_run_str = last_run_time.strftime("%I:%M %p IST")
+next_run_str = next_run_time.strftime("%I:%M %p IST")
+
 def fetch_all():
     with open('feeds.json', 'r') as f:
         sources = json.load(f)
 
     data = {"news": [], "tweets": [], "youtube": []}
+    data["metadata"] = {
+    "last_updated": last_run_str,
+    "next_update": next_run_str
+    }
     now_utc = datetime.now(timezone.utc)
     cutoff = now_utc - timedelta(hours=48)
 
@@ -51,6 +63,8 @@ def fetch_all():
                 data[category].append(item)
 
     for cat in data:
+        if cat == "metadata":
+            continue
         data[cat].sort(key=lambda x: x['sort_key'], reverse=True)
 
     with open('data.json', 'w') as f:

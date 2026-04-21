@@ -4,8 +4,13 @@ let allData = {};
 
         async function init() {
             try {
-                const res = await fetch('data.json');
+                const res = await fetch(`data.json?v=${new Date().getTime()}`);
                 allData = await res.json();
+
+                if (allData.metadata) {
+                    document.getElementById('last-run').innerText = allData.metadata.last_updated;
+                    document.getElementById('next-run').innerText = allData.metadata.next_update;
+                }
                 
                 const allItems = [...allData.news, ...allData.tweets, ...allData.youtube];
                 allItems.forEach(i => activeSources.add(i.source));
