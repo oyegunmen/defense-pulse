@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Cuba confirms recent talks with visiting U.S. delegation",
+      "link": "https://www.thehindu.com/news/international/cuba-confirms-recent-talks-with-visiting-us-delegation/article70889994.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-21T22:21:22+05:30",
+      "time": "21 Apr, 10:21 PM",
+      "type": "news",
+      "description": "The U.S. negotiators laid out several conditions for negotiations with Cuba to continue, including the release of prominent political prisoners"
+    },
+    {
+      "title": "Amnesty warns that 'predator' leaders seek to impose new 'world order'",
+      "link": "https://www.thehindu.com/news/international/amnesty-warns-that-predator-leaders-seek-to-impose-new-world-order/article70889992.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-21T22:15:19+05:30",
+      "time": "21 Apr, 10:15 PM",
+      "type": "news",
+      "description": "Secretary General Agnes Callamard condemned U.S. President Donald Trump, Russia's Vladimir Putin and Israel's Benjamin Netanyahu as \"predators\""
+    },
+    {
+      "title": "PM Modi Congratulates Rumen Radev on Bulgaria Election Win",
+      "link": "https://www.newsonair.gov.in/pm-modi-congratulates-rumen-radev-on-bulgaria-election-win/",
+      "source": "DD News International",
+      "sort_key": "2026-04-21T22:10:15+05:30",
+      "time": "21 Apr, 10:10 PM",
+      "type": "news",
+      "description": "Prime Minister Narendra Modi has congratulated Rumen Radev and his party, Progressive Bulgaria, for their victory in the recently concluded parliament"
+    },
+    {
+      "title": "Apple Announces John Ternus as Successor to Tim Cook as CEO from September 1",
+      "link": "https://www.newsonair.gov.in/apple-announces-john-ternus-as-successor-to-tim-cook-as-ceo-from-september-1/",
+      "source": "DD News International",
+      "sort_key": "2026-04-21T22:07:03+05:30",
+      "time": "21 Apr, 10:07 PM",
+      "type": "news",
+      "description": "John Ternus is set to become the next Chief Executive Officer (CEO) of Apple, succeeding Tim Cook, who will step down on 1st of September this year. T"
+    },
+    {
+      "title": "Watch: Several killed in fireworks unit blast in Kerala | Above the Fold | 21.04.2026",
+      "link": "https://www.thehindu.com/videos/several-killed-in-fireworks-unit-blast-in-kerala-above-the-fold-21042026/article70889816.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-21T22:06:57+05:30",
+      "time": "21 Apr, 10:06 PM",
+      "type": "news",
+      "description": "Today\u2019s Above the Fold episode, take a closer look at the tragic blast in Thrissur, Kerala. We begin with India\u2019s outreach to West Asia, including a k"
+    },
+    {
+      "title": "Trump's $1.5 trillion defense budget includes $750 billion for ships, jets and Golden Dome",
+      "link": "https://economictimes.indiatimes.com/news/defence/trumps-1-5-trillion-defense-budget-includes-750-billion-for-ships-f35-fighter-jets-and-golden-dome/articleshow/130422162.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-21T21:54:24+05:30",
+      "time": "21 Apr, 09:54 PM",
+      "type": "news",
+      "description": "Trump 2027 defence budget: The Pentagon unveiled Donald Trump\u2019s ambitious 2027 defense budget, prioritizing missile defense, drones, AI, and industria"
+    },
+    {
       "title": "Uncertainty clouds Iran talks as ceasefire deadline nears",
       "link": "https://www.thehindu.com/news/international/uncertainty-clouds-iran-talks-as-ceasefire-deadline-nears/article70889919.ece",
       "source": "The Hindu",
@@ -88,7 +142,7 @@
       "sort_key": "2026-04-21T21:01:29+05:30",
       "time": "21 Apr, 09:01 PM",
       "type": "news",
-      "description": "The terrorist attack on innocent tourists at Baisaran in Pahalgam in Jammu and Kashmir last year on 22nd April shocked the nation and stirred deep ang"
+      "description": "The Indian Army on Tuesday asserted its resolve to fight against terrorism on the eve of the first anniversary of the Pahalgam terror attack. On 22nd "
     },
     {
       "title": "Keralam:\u00a0Thrissur Fireworks Blast Kills 7; PM Modi Expresses Grief",
@@ -496,15 +550,6 @@
       "description": ""
     },
     {
-      "title": "Japan Lifts Ban on Lethal Weapons Exports, Signals Major Shift in Defence Policy",
-      "link": "https://www.newsonair.gov.in/japan-lifts-ban-on-lethal-weapons-exports-signals-major-shift-in-defence-policy/",
-      "source": "DD News International",
-      "sort_key": "2026-04-21T17:11:48+05:30",
-      "time": "21 Apr, 05:11 PM",
-      "type": "news",
-      "description": "Japan scrapped a ban on lethal weapons exports, a major change in its post-World War-2 pacifist policy as the country seeks to build up its arms indus"
-    },
-    {
       "title": "Donald Trump\u2019s \u2018Board of Peace\u2019 held talks with DP World over Gaza reconstruction: report",
       "link": "https://www.thehindu.com/news/international/donald-trumps-board-of-peace-held-talks-with-dp-world-over-gaza-reconstruction-report/article70887241.ece",
       "source": "The Hindu",
@@ -575,15 +620,6 @@
       "time": "21 Apr, 04:18 PM",
       "type": "news",
       "description": "Mr. Starmer has insisted that he and other Ministers were not told until last week that Mr. Mandelson had failed the independent vetting process, whic"
-    },
-    {
-      "title": "India doubles its imports of sanctioned Russian crude - Reuters - The New Voice of Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOXZic2Z0c0syRThkc185NW9JSFVNemc5MnlETHhpZDN1eXZ3S0plQUtISElidm5qU002V3gtZUxZWHI4dmVXbFhXTlAtd0Rod3dYMmwtMmRpRC1KYW1RU1J0VXZzdHFEZ1V2NHRwVkRqMWpJQVFIb1hSUFJ6UzJFeTVjdXY0RFRiU3ZscV9uUll3Rm9zcXBPTlFkR3LSAZYBQVVfeXFMT2RBdWdwblByLVZOTmg1OFUyTmJ3T21WNVBHa0dMN0xKYmoyUnZtLXZYS3NCbzh1ajFyc1M2OVBGVFFpODlkQllBb2tKZ2lsTWVJTndRaHFhMUVMb3ZaZkx4cnZlYUFpR2NtVXNaLS1pcDdUYzV5eFhJQnlUcnFwWGNPRDNIM0s1bEZYU1hYMXB2dk5Nekdn?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T16:01:00+05:30",
-      "time": "21 Apr, 04:01 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "Who is the new Apple CEO, John Ternus and what\u2019s next for Tim Cook?",
@@ -719,15 +755,6 @@
       "time": "21 Apr, 02:38 PM",
       "type": "news",
       "description": "Since October last year, Japan PM Sanae Takaichi has planned to increase defence spending target to 2 percent of GDP."
-    },
-    {
-      "title": "Japan scraps ban on lethal weapons exports",
-      "link": "https://www.newsonair.gov.in/japan-scraps-ban-on-lethal-weapons-exports/",
-      "source": "DD News International",
-      "sort_key": "2026-04-21T14:31:35+05:30",
-      "time": "21 Apr, 02:31 PM",
-      "type": "news",
-      "description": "Japan today scrapped a ban on lethal weapons exports, a major change in its postwar pacifist policy as the country seeks to build up its arms industry"
     },
     {
       "title": "Nestle India posts quarterly profit rise on strong demand - Yahoo Finance Singapore",
@@ -1036,7 +1063,7 @@
       "description": "U.S. forces seized the Iranian-flagged container ship Touska near the Gulf of Oman, citing suspected carriage of dual-use goods that could have milita"
     },
     {
-      "title": "US Iran War News Live Updates: EU agrees to widen sanctions against Iran to include Strait \u200bof Hormuz",
+      "title": "US Iran War News Live Updates: Trump says \u2018ready to go\u2019 back to war with Iran as ceasefire end looms",
       "link": "https://indianexpress.com/article/world/us-news/us-iran-war-news-live-updates-tehran-shuns-talks-trump-says-us-blockade-to-remain-10647328/",
       "source": "The Indian Express",
       "sort_key": "2026-04-21T09:07:05+05:30",
@@ -1594,24 +1621,6 @@
       "description": "American forces boarded an Iranian ship, the Touska, in the Gulf of Oman. The vessel allegedly ignored warnings and attempted to breach a US naval blo"
     },
     {
-      "title": "Over 3,300 people have died in Iran during war: Iran\u2019s Forensic Chief",
-      "link": "https://www.thehindu.com/news/international/over-3300-people-have-died-in-iran-during-war-irans-forensic-chief/article70883668.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-20T14:01:08+05:30",
-      "time": "20 Apr, 02:01 PM",
-      "type": "news",
-      "description": "His comments did not break down casualties among civilians and security forces; instead, he just said that 2,875 were male and 496 were female. Mr. Ma"
-    },
-    {
-      "title": "Los Angeles woman arrested on Iranian arms trafficking charge",
-      "link": "https://www.thehindu.com/news/international/los-angeles-woman-arrested-on-iranian-arms-trafficking-charge/article70883350.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-20T13:13:58+05:30",
-      "time": "20 Apr, 01:13 PM",
-      "type": "news",
-      "description": "Shamim Mafi will face charges that she brokered the sale of \u201cdrones, bombs, bomb fuses, and millions of rounds of ammunition\u201d between Iran and the Sud"
-    },
-    {
       "title": "India arrests officials at aviation regulator, Reliance in drone bribery probe - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbjYxX01Lal90S2dON3hTbFlCZHJLVnpnaGxQVUI1a3RrQU9BU29LUmxfRk9JQ3U0WExsME9hUC05dUZ4TThpYWVnejI0ckRpVEhNS3lSd3JDSldmbG1pUHV2TkdWQ19qX2k4MVRPNWRpQnJvSmJVUVI0MS14ZFpFQWFCbzlfelMzM0V0Vk1WX0Z3TjRTM3NtZG9KN3BxYTkyclREczg5bjRpQ05remE3c29mcU5qMTVmREln?oc=5",
       "source": "Reuters",
@@ -1619,15 +1628,6 @@
       "time": "20 Apr, 01:08 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Iran executes two men accused of involvement in \u2018spy network linked to Israel\u2019, judiciary news outlet reports",
-      "link": "https://www.thehindu.com/news/international/iran-executes-two-men-accused-of-involvement-in-spy-network-linked-to-israel-judiciary-news-outlet-reports/article70883452.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-20T12:49:29+05:30",
-      "time": "20 Apr, 12:49 PM",
-      "type": "news",
-      "description": "The two, identified as Mohammad Masoum \u200bShahi and Hamed \u200cValidi, were accused of belonging to a \u200cspy network linked to \u200bMossad and had received \u2060train"
     },
     {
       "title": "Watch: How US Marines boarded and took control of Iranian vessel Touska",
@@ -1839,6 +1839,42 @@
   ],
   "tweets": [
     {
+      "title": "Did the Indian media put a bounty on that pig who orchestrated Pahalgam by putting out his pictures in public and stating how much bounty he has on his head?",
+      "link": "https://nitter.net/elitepredatorss/status/2046632903304757470#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-21T22:21:23+05:30",
+      "time": "21 Apr, 10:21 PM",
+      "type": "tweets",
+      "content": "Did the Indian media put a bounty on that pig who orchestrated Pahalgam by putting out his pictures in public and stating how much bounty he has on his head?"
+    },
+    {
+      "title": "Here we go\u2026\n\nNOW: IDF: Hezbollah (rocket and drone) attack is blatant violation of ceasefire pact.\n\nI\u2019ll may hear jets over my head soon.",
+      "link": "https://nitter.net/Osint613/status/2046629692887724415#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-21T22:08:37+05:30",
+      "time": "21 Apr, 10:08 PM",
+      "type": "tweets",
+      "content": "Here we go\u2026\n\nNOW: IDF: Hezbollah (rocket and drone) attack is blatant violation of ceasefire pact.\n\nI\u2019ll may hear jets over my head soon."
+    },
+    {
+      "title": "Daily US-Israel-Iran War Brief: \n21st April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.  \n\n\u25cf The fragile US-Iran ceasefire, which began on April 8, is set to expire tomorrow. Trump stated it is unlikely that the truce will be extended, and if there is no deal signed, then US will be ready to drop bombs.\n\n\u25cf A second round of US-Iran talks is expected in Islamabad, Pakistan. However, confusion remains whether the talks will take place.\n\n\u25cf Iranian tanker \"Sili City,\" escorted by the Iranian Navy, safely crossed the Arabian Sea and entered Iranian territorial waters last night.\n\n\u25cf Maersk continues to advise avoiding transit through the Strait of Hormuz.\n\n\u25cf In 3 separate incidents, IDF soldiers identified and eliminated terrorists who crossed the Forward Defense Line.\n\n\u25cf US is reportedly preparing financial and stabilization aid packages for Gulf states to ensure regional stability.\n\n\u25cf US intercepts stateless sanctioned vessel M/F TIFANI in Indo-Pacific area, enforcing Iran sanctions.\n\nEND IF THE BRIEF",
+      "link": "https://nitter.net/NetramDefence/status/2046627223734820894#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-21T21:58:49+05:30",
+      "time": "21 Apr, 09:58 PM",
+      "type": "tweets",
+      "content": "Daily US-Israel-Iran War Brief: \n21st April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.  \n\n\u25cf The fragile US-Iran ceasefire, which began on April 8, is set to expire tomorrow. Trump stated it is unlikely that the truce will be extended, and if there is no deal signed, then US will be ready to drop bombs.\n\n\u25cf A second round of US-Iran talks is expected in Islamabad, Pakistan. However, confusion remains whether the talks will take place.\n\n\u25cf Iranian tanker \"Sili City,\" escorted by the Iranian Navy, safely crossed the Arabian Sea and entered Iranian territorial waters last night.\n\n\u25cf Maersk continues to advise avoiding transit through the Strait of Hormuz.\n\n\u25cf In 3 separate incidents, IDF soldiers identified and eliminated terrorists who crossed the Forward Defense Line.\n\n\u25cf US is reportedly preparing financial and stabilization aid packages for Gulf states to ensure regional stability.\n\n\u25cf US intercepts stateless sanctioned vessel M/F TIFANI in Indo-Pacific area, enforcing Iran sanctions.\n\nEND IF THE BRIEF"
+    },
+    {
+      "title": "Iranian Foreign Ministry spokesperson: \"No final decision has been made yet regarding participation or non-participation in the negotiations in Pakistan.\"",
+      "link": "https://nitter.net/Osint613/status/2046627180969431091#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-21T21:58:39+05:30",
+      "time": "21 Apr, 09:58 PM",
+      "type": "tweets",
+      "content": "Iranian Foreign Ministry spokesperson: \"No final decision has been made yet regarding participation or non-participation in the negotiations in Pakistan.\""
+    },
+    {
       "title": "Our National Security Advisor is older than your country, stfu \ud83d\ude01",
       "link": "https://nitter.net/elitepredatorss/status/2046626974026932689#m",
       "source": "Elite Predators",
@@ -1846,6 +1882,42 @@
       "time": "21 Apr, 09:57 PM",
       "type": "tweets",
       "content": "Our National Security Advisor is older than your country, stfu \ud83d\ude01"
+    },
+    {
+      "title": "UPDATE: More on the \u201cfalse alarm\u201d: alongside rocket fire toward IDF forces in southern Lebanon, Hezbollah launched a drone into Israel, triggering alerts in Kibbutz Yuval and Ma\u2019ayan Baruch.\n\nThe drone was intercepted by the Air Force. \n\nVia military reporter @BittonRosen",
+      "link": "https://nitter.net/Osint613/status/2046626837002912055#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-21T21:57:17+05:30",
+      "time": "21 Apr, 09:57 PM",
+      "type": "tweets",
+      "content": "UPDATE: More on the \u201cfalse alarm\u201d: alongside rocket fire toward IDF forces in southern Lebanon, Hezbollah launched a drone into Israel, triggering alerts in Kibbutz Yuval and Ma\u2019ayan Baruch.\n\nThe drone was intercepted by the Air Force. \n\nVia military reporter @BittonRosen"
+    },
+    {
+      "title": "Indian Defence Minister Rajnath Singh looks at a fighter jet escort as he land in Berlin earlier during the day.",
+      "link": "https://nitter.net/sidhant/status/2046626584577376483#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-21T21:56:16+05:30",
+      "time": "21 Apr, 09:56 PM",
+      "type": "tweets",
+      "content": "Indian Defence Minister Rajnath Singh looks at a fighter jet escort as he land in Berlin earlier during the day."
+    },
+    {
+      "title": "Indian Defence Minister Rajnath Singh addresses German Parliamentary Standing Committee on Defence and Security in Berlin",
+      "link": "https://nitter.net/sidhant/status/2046626134134345939#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-21T21:54:29+05:30",
+      "time": "21 Apr, 09:54 PM",
+      "type": "tweets",
+      "content": "Indian Defence Minister Rajnath Singh addresses German Parliamentary Standing Committee on Defence and Security in Berlin"
+    },
+    {
+      "title": "The IDF is investigating possible Hezbollah rocket fire at troops in southern Lebanon. (Separate incident)\n\nIm pretty sure that it\u2019s very easy to figure that out. I have feeling it happened.",
+      "link": "https://nitter.net/Osint613/status/2046625626988085715#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-21T21:52:28+05:30",
+      "time": "21 Apr, 09:52 PM",
+      "type": "tweets",
+      "content": "The IDF is investigating possible Hezbollah rocket fire at troops in southern Lebanon. (Separate incident)\n\nIm pretty sure that it\u2019s very easy to figure that out. I have feeling it happened."
     },
     {
       "title": "The airbridge for U.S. weapons to the Middle East has not stopped.",
@@ -2217,24 +2289,6 @@
       "content": "Not one, actually two aircraft, ATS9272 and ATS9273, took off from Tehran and are currently heading toward an unknown location."
     },
     {
-      "title": "The UK communications regulator is investigating Telegram over alleged child sexual abuse content on the platform.",
-      "link": "https://nitter.net/Osint613/status/2046606801907433695#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-21T20:37:40+05:30",
-      "time": "21 Apr, 08:37 PM",
-      "type": "tweets",
-      "content": "The UK communications regulator is investigating Telegram over alleged child sexual abuse content on the platform."
-    },
-    {
-      "title": "Trump proposed a $1.5 trillion defense budget for FY2027, a 40%+ increase over last year and one of the largest jumps in modern U.S. history.\n\nOver $750 billion goes to weapons development and procurement. Priorities include major naval shipbuilding, F-35 and next-gen aircraft, the \"Golden Dome\" missile defense system, drones, AI, and munitions.",
-      "link": "https://nitter.net/Osint613/status/2046606312260169802#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-21T20:35:43+05:30",
-      "time": "21 Apr, 08:35 PM",
-      "type": "tweets",
-      "content": "Trump proposed a $1.5 trillion defense budget for FY2027, a 40%+ increase over last year and one of the largest jumps in modern U.S. history.\n\nOver $750 billion goes to weapons development and procurement. Priorities include major naval shipbuilding, F-35 and next-gen aircraft, the \"Golden Dome\" missile defense system, drones, AI, and munitions."
-    },
-    {
       "title": "\"Pakistan urge the United States and Iran to extend the ceasefire\": Ishaq Dar- FM of Pak\n\n\"I don't want to extend ceasefire with Iran; US in 'strong' negotiating position\": Donald Trump",
       "link": "https://nitter.net/OsintTV/status/2046603391254573086#m",
       "source": "OsintTV",
@@ -2242,42 +2296,6 @@
       "time": "21 Apr, 08:24 PM",
       "type": "tweets",
       "content": "\"Pakistan urge the United States and Iran to extend the ceasefire\": Ishaq Dar- FM of Pak\n\n\"I don't want to extend ceasefire with Iran; US in 'strong' negotiating position\": Donald Trump"
-    },
-    {
-      "title": "Iranian MP Ahmad Naderi: \n\n\"The naval blockade is the last malice of the Americans. The blockade will fail and we will take revenge for what they did to the Iranian ship yesterday. Collection of tolls in the Strait of Hormuz will be in riyals and the tolls will be fixed. The U.S. and the countries that support it will have to pay reparations.\"",
-      "link": "https://nitter.net/Osint613/status/2046602050985681010#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-21T20:18:47+05:30",
-      "time": "21 Apr, 08:18 PM",
-      "type": "tweets",
-      "content": "Iranian MP Ahmad Naderi: \n\n\"The naval blockade is the last malice of the Americans. The blockade will fail and we will take revenge for what they did to the Iranian ship yesterday. Collection of tolls in the Strait of Hormuz will be in riyals and the tolls will be fixed. The U.S. and the countries that support it will have to pay reparations.\""
-    },
-    {
-      "title": "Lebanon's military court released two Hezbollah detainees on bail of 100 million Lebanese lira (~$1,100 each), held since March 4. \n\nWith this, the court has now released all Hezbollah detainees brought before it.",
-      "link": "https://nitter.net/Osint613/status/2046601792134238483#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-21T20:17:45+05:30",
-      "time": "21 Apr, 08:17 PM",
-      "type": "tweets",
-      "content": "Lebanon's military court released two Hezbollah detainees on bail of 100 million Lebanese lira (~$1,100 each), held since March 4. \n\nWith this, the court has now released all Hezbollah detainees brought before it."
-    },
-    {
-      "title": "South Korea President Lee Jae Myung says Republic of Korea will be the 'most reliable partner to realise India's vision of 2047'.",
-      "link": "https://nitter.net/sidhant/status/2046600737636196797#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-21T20:13:34+05:30",
-      "time": "21 Apr, 08:13 PM",
-      "type": "tweets",
-      "content": "South Korea President Lee Jae Myung says Republic of Korea will be the 'most reliable partner to realise India's vision of 2047'."
-    },
-    {
-      "title": "'We continue to be in touch with Iranian authorities for safe passage through Hormuz', says MEA Spox Randhir Jaiswal",
-      "link": "https://nitter.net/sidhant/status/2046597342552633408#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-21T20:00:05+05:30",
-      "time": "21 Apr, 08:00 PM",
-      "type": "tweets",
-      "content": "'We continue to be in touch with Iranian authorities for safe passage through Hormuz', says MEA Spox Randhir Jaiswal"
     },
     {
       "title": "RT by @elitepredatorss: All the Pakistanis crying that Indian media shared a CNIC which has a formatting issue. Here is the phone numbers linked with this CNIC; go and check yourself if you have resources to verify.",
@@ -2912,6 +2930,24 @@
   ],
   "youtube": [
     {
+      "title": "Defence Updates - 2 ISI Operative Arrested, India T72 & T90 Tanks Upgrade, Philippines BrahMos Power",
+      "link": "https://www.youtube.com/watch?v=T5C7jyw0cIk",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-21T22:11:46+05:30",
+      "time": "21 Apr, 10:11 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/T5C7jyw0cIk/mqdefault.jpg"
+    },
+    {
+      "title": "Rafale Deal Cancel? \ud83d\ude33 India\u2019s BIG Condition SHOCKS France |,KF-21 Entry Confirmed?",
+      "link": "https://www.youtube.com/watch?v=Y2-FRlUVjJc",
+      "source": "Indian Defense News",
+      "sort_key": "2026-04-21T22:00:11+05:30",
+      "time": "21 Apr, 10:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Y2-FRlUVjJc/mqdefault.jpg"
+    },
+    {
       "title": "India ka SECRET Air Defence Upgrade!,Hypersonic Missiles Ka Khel Khatam?, Army Ka Masterplan EXPOSED",
       "link": "https://www.youtube.com/watch?v=CMuyVmrZ8_Q",
       "source": "Indian Defense News",
@@ -2991,19 +3027,10 @@
       "time": "20 Apr, 12:28 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi//mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - IAF 6th Gen Program, Asim Munir Danger For US, Trump Warning To Iran",
-      "link": "https://www.youtube.com/watch?v=w1q2Ag9uods",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-19T22:20:36+05:30",
-      "time": "19 Apr, 10:20 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/w1q2Ag9uods/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "09:57 PM IST",
-    "next_update": "10:57 PM IST"
+    "last_updated": "10:26 PM IST",
+    "next_update": "11:26 PM IST"
   }
 }
