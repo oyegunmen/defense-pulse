@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0dac0FOcTVjR1h4cW5PS0FxVVdkRUlsU3VfMWdZOVRialU3S3cxNl9ZOVZOOWtMekJsdWFnZ21aNENlaFA1Q3E5QlQ3NE5Ea0lYdDVteU5RWGNpNTU2OHhZMzZCZGJiRXZPTnFwWVluT20wUWxVMHA4Q2NfM21IWlB0OWxiblY0cTlzY29KWkpiQUpVcWtkVnNscjBKX2hKTjRESld1b3ZxY0NsOHFYV1RLbVpRdmN4OXc?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T03:06:50+05:30",
+      "time": "23 Apr, 03:06 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India rate panel stood pat to avoid erring on Iran war uncertainty, minutes show - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUQ0Z0ZIRjg5anpGMUd6elZTODVTanpxMjAzVWNMajF2WFQ2VDJiUVJPc2pXbFJXUFZrX0hqNjIwNEFQcFNuSm1raXBUZTFOWDYtWFRLZnR5aXhHbWxCZEZQZzN2MEJvVmZHeDNaaHpWSXUteTZld3FYYUZZYnNna0xjdzVMTVBDX3daazhwZmtNTEJsQ0pLdGRBUklnR3c0bTQ3S1pRYUJyZktUUkNzX19kZGRYamo1Z1V5NHln?oc=5",
       "source": "Reuters",
@@ -2082,6 +2091,15 @@
   ],
   "tweets": [
     {
+      "title": "Hezbollah members Mouhamad Hourani and Ali Bazzi were eliminated in an IDF targeted strike.",
+      "link": "https://nitter.net/Osint613/status/2047057637485740103#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T02:29:07+05:30",
+      "time": "23 Apr, 02:29 AM",
+      "type": "tweets",
+      "content": "Hezbollah members Mouhamad Hourani and Ali Bazzi were eliminated in an IDF targeted strike."
+    },
+    {
       "title": "Al-Akhbar, a Lebanese outlet linked to Hezbollah, reports that the body of its journalist Amal Khalil was recovered from the rubble of a building hit by the IDF in A-Tiri.",
       "link": "https://nitter.net/Osint613/status/2047056296663228457#m",
       "source": "Open Source Intel",
@@ -2242,15 +2260,6 @@
       "time": "23 Apr, 01:14 AM",
       "type": "tweets",
       "content": "WH Press Sec. Leavitt: Iran must turn over its enriched uranium to the U.S.\n\nLeavitt called Iran \"a bunch of pirates\" and confirmed the blockade targets ships going to and from Iranian ports."
-    },
-    {
-      "title": "White House's Leavitt: \"The President has not set a firm deadline to receive an Iranian proposal.\"",
-      "link": "https://nitter.net/Osint613/status/2047038437539123602#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T01:12:50+05:30",
-      "time": "23 Apr, 01:12 AM",
-      "type": "tweets",
-      "content": "White House's Leavitt: \"The President has not set a firm deadline to receive an Iranian proposal.\""
     },
     {
       "title": "Indians here \ud83d\udc47 and on the other side, Iran is repaying it, by firing on and seizing India bound vessels.... \n\n@Iran_in_India",
@@ -3264,7 +3273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:42 AM IST",
-    "next_update": "03:42 AM IST"
+    "last_updated": "03:22 AM IST",
+    "next_update": "04:22 AM IST"
   }
 }
