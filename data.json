@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Iran seizes two ships in Strait of Hormuz after Trump extends ceasefire",
+      "link": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-22T22:18:07+05:30",
+      "time": "22 Apr, 10:18 PM",
+      "type": "news",
+      "description": "U.K. Maritime Trade Operations Centre reported that two ships came under attack in the strait; Iran yet to officially confirm whether they would also "
+    },
+    {
+      "title": "RBI Monetary Policy Committee keeps repo rate unchanged at 5.25% amid global uncertainties",
+      "link": "https://www.newsonair.gov.in/rbi-monetary-policy-committee-keeps-repo-rate-unchanged-at-5-25-amid-global-uncertainties/",
+      "source": "DD News National",
+      "sort_key": "2026-04-22T22:14:38+05:30",
+      "time": "22 Apr, 10:14 PM",
+      "type": "news",
+      "description": "The Reserve Bank of India\u2019s Monetary Policy Committee has unanimously decided to keep the policy repo rate unchanged at 5.25 per cent, citing rising g"
+    },
+    {
+      "title": "Vice President urges youth to be stakeholders in nation-building for Viksit Bharat",
+      "link": "https://www.newsonair.gov.in/vice-president-urges-youth-to-be-stakeholders-in-nation-building-for-viksit-bharat/",
+      "source": "DD News National",
+      "sort_key": "2026-04-22T22:12:38+05:30",
+      "time": "22 Apr, 10:12 PM",
+      "type": "news",
+      "description": "Vice President CP Radhakrishnan has called upon youth to work for Viksit Bharat by being a stakeholder in nation building. He was speaking at the 10th"
+    },
+    {
+      "title": "Government launches VM Frames National Filmmaking Competition to mark 150 years of Vande Mataram",
+      "link": "https://www.newsonair.gov.in/government-launches-vm-frames-national-filmmaking-competition-to-mark-150-years-of-vande-mataram/",
+      "source": "DD News National",
+      "sort_key": "2026-04-22T22:10:58+05:30",
+      "time": "22 Apr, 10:10 PM",
+      "type": "news",
+      "description": "Government has launched VM Frames National Filmmaking Competition to mark 150 Years of Vande Mataram. The Ministry of Culture in a statement invited c"
+    },
+    {
+      "title": "Sri Lanka government denies media claims on changes to SLC leadership",
+      "link": "https://www.newsonair.gov.in/sri-lanka-government-denies-media-claims-on-changes-to-slc-leadership/",
+      "source": "DD News International",
+      "sort_key": "2026-04-22T22:07:57+05:30",
+      "time": "22 Apr, 10:07 PM",
+      "type": "news",
+      "description": "Sri Lanka\u2019s government has rejected media reports claiming plans to remove the leadership of Sri Lanka Cricket (SLC), asserting that no official discu"
+    },
+    {
       "title": "PM Narendra Modi highlights global recognition of Indian cheese",
       "link": "https://www.newsonair.gov.in/pm-narendra-modi-highlights-global-recognition-of-indian-cheese/",
       "source": "DD News National",
@@ -82,6 +127,15 @@
       "description": "Campaigning for the second phase of the assembly elections is in full swing in the West Bengal. Senior BJP leader and Home Minister Amit Shah addresse"
     },
     {
+      "title": "Watch: Tamil Nadu and West Bengal to decide their fate tomorrow | Above the Fold | 22.04.2016",
+      "link": "https://www.thehindu.com/videos/watch-tamil-nadu-and-west-bengal-to-decide-their-fate-tomorrow-above-the-fold-22042016/article70893999.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-22T21:05:38+05:30",
+      "time": "22 Apr, 09:05 PM",
+      "type": "news",
+      "description": "In today\u2019s video, we cover the upcoming Tamil Nadu and West Bengal Assembly elections as attention turns to polling day. We also bring you the latest "
+    },
+    {
       "title": "Balloon bearing image of Pakistan flag, PIA inscription spotted in Himachal village",
       "link": "https://economictimes.indiatimes.com/news/defence/balloon-bearing-image-of-pakistan-flag-pia-inscription-spotted-in-himachal-village/articleshow/130445692.cms",
       "source": "Economic Times",
@@ -154,24 +208,6 @@
       "description": ""
     },
     {
-      "title": "PM Modi expresses condolences over loss of lives in Valsad mishap",
-      "link": "https://www.newsonair.gov.in/pm-modi-expresses-condolences-over-loss-of-lives-in-valsad-mishap/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T20:07:02+05:30",
-      "time": "22 Apr, 08:07 PM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi has expressed condolence at the loss of lives due to a mishap in Valsad, Gujarat. Mr Modi said his thoughts are with the "
-    },
-    {
-      "title": "Defence Minister Rajnath Singh holds talks with German counterpart Boris Pistorius in Berlin",
-      "link": "https://www.newsonair.gov.in/defence-minister-rajnath-singh-holds-talks-with-german-counterpart-boris-pistorius-in-berlin/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T19:53:50+05:30",
-      "time": "22 Apr, 07:53 PM",
-      "type": "news",
-      "description": "Defence Minister Rajnath Singh today held bilateral talks with his German counterpart Boris Pistorius in Berlin to bolster the strategic defence partn"
-    },
-    {
       "title": "Day 54: Ceasefire extended after 11th-hour plea from Pakistan, but Strait of Hormuz attacks keep Iran war on edge",
       "link": "https://indianexpress.com/article/world/rump-iran-war-day-54-ceasefire-extension-pakistan-mediator-hormuz-attacks-10650260/",
       "source": "The Indian Express",
@@ -179,15 +215,6 @@
       "time": "22 Apr, 07:29 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Govt sets up Online Gaming Authority to regulate gaming sector",
-      "link": "https://www.newsonair.gov.in/govt-sets-up-online-gaming-authority-to-regulate-gaming-sector/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T19:27:21+05:30",
-      "time": "22 Apr, 07:27 PM",
-      "type": "news",
-      "description": "The government has constituted the Online Gaming Authority of India, comprising six members. According to a gazette notification of Ministry of Electr"
     },
     {
       "title": "India-bound ship among two vessels \u2018seized\u2019 by Iran Guards in Strait of Hormuz",
@@ -316,15 +343,6 @@
       "description": ""
     },
     {
-      "title": "Iran fires on three ships in Strait of Hormuz, complicating efforts to resume U.S.-Iran talks",
-      "link": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-22T17:04:15+05:30",
-      "time": "22 Apr, 05:04 PM",
-      "type": "news",
-      "description": "Iran opened fire on a container ship in the strait, and a second was attacked a short time later, according to the British military\u2019s United Kingdom M"
-    },
-    {
       "title": "Iran fires on 3 ships, seizes 2 in Strait of Hormuz after Trump extends ceasefire",
       "link": "https://indianexpress.com/article/world/strait-of-hormuz-iran-ship-attack-seizure-10650268/",
       "source": "The Indian Express",
@@ -449,15 +467,6 @@
       "time": "22 Apr, 03:41 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Nepal\u2019s Terai region to experience intense heatwave, Bhairahawa expected at 41\u201343\u00b0C",
-      "link": "https://www.newsonair.gov.in/nepals-terai-region-to-experience-intense-heatwave-bhairahawa-expected-at-41-43c/",
-      "source": "DD News International",
-      "sort_key": "2026-04-22T15:39:57+05:30",
-      "time": "22 Apr, 03:39 PM",
-      "type": "news",
-      "description": "The western and central Terai across Nepal will swelter through another day of heatwave conditions today, with Bhairahawa forecast to record the count"
     },
     {
       "title": "China condemns Japanese leaders' war shrine offerings, visits",
@@ -1918,15 +1927,6 @@
       "description": ""
     },
     {
-      "title": "Doval\u2019s Riyadh visit on PM\u2019s instructions, part of government outreach to Gulf: MEA",
-      "link": "https://www.thehindu.com/news/national/nsa-doval-discusses-bilateral-relations-regional-situation-with-saudi-leaders/article70883229.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T07:49:31+05:30",
-      "time": "21 Apr, 07:49 AM",
-      "type": "news",
-      "description": "In a statement, the Saudi Ministry of Foreign Affairs said that the talks between the Saudi Foreign Minister and Mr. Doval had reviewed areas of India"
-    },
-    {
       "title": "Lebanon President Joseph Aoun says aiming to end hostilities with Israel talks",
       "link": "https://economictimes.indiatimes.com/news/defence/lebanon-president-joseph-aoun-says-aiming-to-end-hostilities-with-israel-talks/articleshow/130405564.cms",
       "source": "Economic Times",
@@ -2024,27 +2024,81 @@
       "time": "20 Apr, 10:55 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "At least 21 killed as bus crashes into Kashmir gorge - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ2pQcVhVOTZhNV93NjFGcEl4T0tkRDdReEV3Y0oxOFVTdTBtemRXMmhRTFlUMU9kUjRlWUQ5RDZoMGl1bE5UV0g0SzNuRnp2X1IySTMxbGdfMW90b2FnUndkaEtPM0QyZFpGU0gzS0hLSkIyMjgyT0lIOTE3R0F2cTMzODRQTzZ0aE5EMEdlQm44dmJyRUNGeHRIeTZkS202YUHSAacBQVVfeXFMUGRNN0hyZlo1emFXaGFiUTRlUVVWTjVFcEhjRUpNZzdNanBRTWhiRHo1bUk1MjNuN2N3REtiS2t0dld1YlJ0Qm5IM0RIcHlkWHB6NmNFVko1blhxWkROSWNwdkxQb0ZFeER1amRuUzBYd1B1b3VxTmNlU2lRMkhYVlVnVHNXenhLZUNNa3Ezbmo4WEh2VU9aZjNyd1Y0dGxMcHlOVWhSTDQ?oc=5",
-      "source": "Al Jazeera",
-      "sort_key": "2026-04-20T22:22:10+05:30",
-      "time": "20 Apr, 10:22 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Who rules Iran? Hormuz exposes shadow power play behind the curtain",
-      "link": "https://economictimes.indiatimes.com/news/defence/who-rules-iran-hormuz-exposes-shadow-power-play-behind-the-curtain/articleshow/130397204.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-20T22:20:19+05:30",
-      "time": "20 Apr, 10:20 PM",
-      "type": "news",
-      "description": "Iran's abrupt policy shifts over  Strait of Hormuz have revealed internal power struggles, not just diplomatic confusion. The IRGC's coercive actions "
     }
   ],
   "tweets": [
+    {
+      "title": "Indian ambassador to Kuwait, @ParamitaTrpathi presents credentials to Kuwait Amir. Paramita Tripathi (IFS:2001) is the 1st woman Ambassador of India to Kuwait",
+      "link": "https://nitter.net/sidhant/status/2046995270916055264#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-22T22:21:18+05:30",
+      "time": "22 Apr, 10:21 PM",
+      "type": "tweets",
+      "content": "Indian ambassador to Kuwait, @ParamitaTrpathi presents credentials to Kuwait Amir. Paramita Tripathi (IFS:2001) is the 1st woman Ambassador of India to Kuwait"
+    },
+    {
+      "title": "\ud83d\udccdDear @IN_GNA, after posting the updates, please remember to lock your phone. Otherwise your pocket might start posting too...\n\nOpen screen can create unwanted surprises to your followers \ud83d\ude04",
+      "link": "https://nitter.net/OsintTV/status/2046995006301389294#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-22T22:20:15+05:30",
+      "time": "22 Apr, 10:20 PM",
+      "type": "tweets",
+      "content": "\ud83d\udccdDear @IN_GNA, after posting the updates, please remember to lock your phone. Otherwise your pocket might start posting too...\n\nOpen screen can create unwanted surprises to your followers \ud83d\ude04"
+    },
+    {
+      "title": "R to @sidhant: 22th April (Day 54)\n-Trump extends ceasefire ahead of deadline\n-Confusion on US Iran talks\n-Iran: confiscated 2 vessels in Hormuz\n-2nd French UN Peacekeeper killed in Lebanon\n-Israel says ceasefire violated by Hezbollah \n-US extends wavier on Iran, Russian seaborne oil",
+      "link": "https://nitter.net/sidhant/status/2046994708136915263#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-22T22:19:04+05:30",
+      "time": "22 Apr, 10:19 PM",
+      "type": "tweets",
+      "content": "R to @sidhant: 22th April (Day 54)\n-Trump extends ceasefire ahead of deadline\n-Confusion on US Iran talks\n-Iran: confiscated 2 vessels in Hormuz\n-2nd French UN Peacekeeper killed in Lebanon\n-Israel says ceasefire violated by Hezbollah \n-US extends wavier on Iran, Russian seaborne oil"
+    },
+    {
+      "title": "RT by @OsintTV: CNIC cards of two out of the three terrorists who executed the terror attack in Pahalgam on 22.04.2025, killing 26 civilians.\n\nHabib Nazeer alias Habib Tahir and Bilal Afzal alias Faisal Jutt alias Suleman.\n\nBoth of these terrorists, who were citizens of Pakistan and were issued CNIC cards by @NadraPak, were eliminated on 28.07.2025 along with their third accomplice, Hanan Zafar alias Hamza Afghani.\n\n@TararAttaullah, if you want to verify, ask NADRA to provide you with their addresses so you can visit their families and offer Ghaibana Namaz upon their deaths.\n\nAlso, just search for Operation Mahadev. You can find their photos after they were sent to hell by @adgpi, and you can ask your team to use facial recognition to confirm that the Pahalgam terror attack was orchestrated and executed by your nationals.",
+      "link": "https://nitter.net/shivank_8mishra/status/2046992571038056894#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-22T22:10:34+05:30",
+      "time": "22 Apr, 10:10 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: CNIC cards of two out of the three terrorists who executed the terror attack in Pahalgam on 22.04.2025, killing 26 civilians.\n\nHabib Nazeer alias Habib Tahir and Bilal Afzal alias Faisal Jutt alias Suleman.\n\nBoth of these terrorists, who were citizens of Pakistan and were issued CNIC cards by @NadraPak, were eliminated on 28.07.2025 along with their third accomplice, Hanan Zafar alias Hamza Afghani.\n\n@TararAttaullah, if you want to verify, ask NADRA to provide you with their addresses so you can visit their families and offer Ghaibana Namaz upon their deaths.\n\nAlso, just search for Operation Mahadev. You can find their photos after they were sent to hell by @adgpi, and you can ask your team to use facial recognition to confirm that the Pahalgam terror attack was orchestrated and executed by your nationals."
+    },
+    {
+      "title": "Intl Maritime Organisation Secretary-General Arsenio Dominguez: The attacks on and seizures of commercial ships are unacceptable.",
+      "link": "https://nitter.net/sidhant/status/2046992564948181008#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-22T22:10:33+05:30",
+      "time": "22 Apr, 10:10 PM",
+      "type": "tweets",
+      "content": "Intl Maritime Organisation Secretary-General Arsenio Dominguez: The attacks on and seizures of commercial ships are unacceptable."
+    },
+    {
+      "title": "A large forest fire broke out in \u014ctsuchi Town, Iwate Prefecture, Japan.",
+      "link": "https://nitter.net/Osint613/status/2046990934038966771#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T22:04:04+05:30",
+      "time": "22 Apr, 10:04 PM",
+      "type": "tweets",
+      "content": "A large forest fire broke out in \u014ctsuchi Town, Iwate Prefecture, Japan."
+    },
+    {
+      "title": "Netanyahu: \n\nPrepared for every scenario - in defense and offense",
+      "link": "https://nitter.net/Osint613/status/2046990295225471281#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T22:01:32+05:30",
+      "time": "22 Apr, 10:01 PM",
+      "type": "tweets",
+      "content": "Netanyahu: \n\nPrepared for every scenario - in defense and offense"
+    },
+    {
+      "title": "AP: Hundreds of migrants, most from Haiti, left Tapachula on foot seeking better living conditions elsewhere in Mexico.\nMany said they no longer expect to reach the United States because of asylum restrictions imposed by the Trump administration.",
+      "link": "https://nitter.net/Osint613/status/2046989786267693402#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T21:59:30+05:30",
+      "time": "22 Apr, 09:59 PM",
+      "type": "tweets",
+      "content": "AP: Hundreds of migrants, most from Haiti, left Tapachula on foot seeking better living conditions elsewhere in Mexico.\nMany said they no longer expect to reach the United States because of asylum restrictions imposed by the Trump administration."
+    },
     {
       "title": "Lukashenko:\n\n\"I am not a dictator; I don't have the resource to dictate. Now Trump has this resource, and he dictates.\"",
       "link": "https://nitter.net/Osint613/status/2046988324133310619#m",
@@ -2325,15 +2379,6 @@
       "content": "ALERT \ud83d\udd34 \n\nU.S. Embassy: Iran's airspace has partially reopened as of April 21. American citizens are urged to leave Iran now by air or by land to Armenia, Azerbaijan, T\u00fcrkiye, or Turkmenistan.\n\nThe embassy warned that Iran may prevent U.S. citizens from departing or charge an \"exit fee.\" Dual nationals must exit on Iranian passports. Americans are told not to travel to Afghanistan, Iraq, or the Pakistan-Iran border area."
     },
     {
-      "title": "Lebanon is looking to extend its ceasefire with Israel by at least one month. - CNN",
-      "link": "https://nitter.net/Osint613/status/2046966299461349815#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T20:26:11+05:30",
-      "time": "22 Apr, 08:26 PM",
-      "type": "tweets",
-      "content": "Lebanon is looking to extend its ceasefire with Israel by at least one month. - CNN"
-    },
-    {
       "title": "Today Mock drills were conducted in Jhalawar Rajasthan",
       "link": "https://nitter.net/Goreunit/status/2046965006143832127#m",
       "source": "War & Gore",
@@ -2341,15 +2386,6 @@
       "time": "22 Apr, 08:21 PM",
       "type": "tweets",
       "content": "Today Mock drills were conducted in Jhalawar Rajasthan"
-    },
-    {
-      "title": "Iran Parliament National Security Member: \n\nRaising nuclear issue in Pakistan talks was a strategic mistake.",
-      "link": "https://nitter.net/Osint613/status/2046963032236896534#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T20:13:12+05:30",
-      "time": "22 Apr, 08:13 PM",
-      "type": "tweets",
-      "content": "Iran Parliament National Security Member: \n\nRaising nuclear issue in Pakistan talks was a strategic mistake."
     },
     {
       "title": "The Special Forces, who understood how they did Pahalgam, eventually hunted the perpetrators through a text book operation.\n\nSeries of events minutes after Pahalgam :\n- HUMINT / TECHINT inputs collected.\n- We have seen this kind of precision before, the training by Pak Army was coming handy to the pigs.\n- As expected, they started climbing to the higher ridges. It gives them vantage points and buys time from the Indian forces on hunt.\n\nAfter scanning every inch of 300 sq kilometer the area for close to three months. \n\nThey were finally spotted, 3 kilometers of careful and stealth approach. Which was so cautious that it took the SF 10 hours to carefully approach the site of the hideout.\n\nAnd then revenge was serve cold to the Pahalgam victims.",
@@ -2368,15 +2404,6 @@
       "time": "22 Apr, 07:54 PM",
       "type": "tweets",
       "content": "India, Japan hold first ever AI Strategic Dialogue:"
-    },
-    {
-      "title": "French President Macron:\n\nCorporal Anicet Girardin of the 132nd Cynotechnical Infantry Regiment of Suippes, repatriated yesterday from Lebanon where he had been seriously wounded by Hezbollah fighters, died this morning from his injuries.",
-      "link": "https://nitter.net/Osint613/status/2046957984727638226#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T19:53:08+05:30",
-      "time": "22 Apr, 07:53 PM",
-      "type": "tweets",
-      "content": "French President Macron:\n\nCorporal Anicet Girardin of the 132nd Cynotechnical Infantry Regiment of Suippes, repatriated yesterday from Lebanon where he had been seriously wounded by Hezbollah fighters, died this morning from his injuries."
     },
     {
       "title": "RT by @Osint613: IRGC mocking our president. I predict they\u2019ll pay a price.",
@@ -2440,15 +2467,6 @@
       "time": "22 Apr, 06:59 PM",
       "type": "tweets",
       "content": "Dear Comrades,\n\nThink before you post anything online....\n\nLikes and reposts are temporary....\n\nWhat stays is the impact on your nation and its image...."
-    },
-    {
-      "title": "Viewers Discretion Advised \n\nImage of Jaish al-Zulm militants eliminated by Iranian forces near the Rask border while infiltrating from the Pakistan side.",
-      "link": "https://nitter.net/OsintTV/status/2046937938395603212#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-22T18:33:29+05:30",
-      "time": "22 Apr, 06:33 PM",
-      "type": "tweets",
-      "content": "Viewers Discretion Advised \n\nImage of Jaish al-Zulm militants eliminated by Iranian forces near the Rask border while infiltrating from the Pakistan side."
     },
     {
       "title": "Israel military says Hezbollah has violated ceasefire & launched a hostile aircraft toward IDF soldiers. The statement said, \"the aircraft was intercepted by the Israeli side and did not cross into Israel.\"",
@@ -2595,24 +2613,6 @@
       "content": "R to @NetramDefence: Integrated National Power\n\nIndia\u2019s worldview now treats security as a multi-domain effort. The suspension of the Indus Waters Treaty (IWT) illustrated that \"blood and water cannot flow together.\"\n\n1. Economic & Diplomatic Leverage: Using trade, water rights, and diplomatic isolation as active tools of warfare rather than just passive negotiation points. \n\n2. Zero Tolerance: Any state complicity in terror is now met with immediate diplomatic downgrades and economic decoupling.\n\n4/5"
     },
     {
-      "title": "R to @NetramDefence: Calling the \"Nuclear Bluff\"\n\nA major change in the defense doctrine is the rejection of Pakistan's nuclear coercion. India has established that there is significant space for conventional military operations below the nuclear threshold. This removes the \"shield\" that state-sponsored actors previously used to facilitate cross-border attacks.\n\n3/5",
-      "link": "https://nitter.net/NetramDefence/status/2046898022735585765#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T15:54:52+05:30",
-      "time": "22 Apr, 03:54 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Calling the \"Nuclear Bluff\"\n\nA major change in the defense doctrine is the rejection of Pakistan's nuclear coercion. India has established that there is significant space for conventional military operations below the nuclear threshold. This removes the \"shield\" that state-sponsored actors previously used to facilitate cross-border attacks.\n\n3/5"
-    },
-    {
-      "title": "R to @NetramDefence: Shift from Strategic Restraint to Proactive Deterrence\n\nFor years, India followed a policy of \"Strategic Restraint\" to avoid regional escalation. Post-Pahalgam, this was replaced by Calibrated Coercive Capability. This doctrine focuses on:\n\n1. Pre-emptive and Punitive Action: Taking the fight to the source of the threat rather than waiting to defend.\n\n2. Operation Sindoor: A military response that demonstrated India\u2019s willingness to strike deep into hostile territory using precision technology, establishing a new threshold for retaliation.\n\n2/5",
-      "link": "https://nitter.net/NetramDefence/status/2046898020084863472#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T15:54:52+05:30",
-      "time": "22 Apr, 03:54 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Shift from Strategic Restraint to Proactive Deterrence\n\nFor years, India followed a policy of \"Strategic Restraint\" to avoid regional escalation. Post-Pahalgam, this was replaced by Calibrated Coercive Capability. This doctrine focuses on:\n\n1. Pre-emptive and Punitive Action: Taking the fight to the source of the threat rather than waiting to defend.\n\n2. Operation Sindoor: A military response that demonstrated India\u2019s willingness to strike deep into hostile territory using precision technology, establishing a new threshold for retaliation.\n\n2/5"
-    },
-    {
       "title": "The anniversary of the 2025 Pahalgam attack marks a definitive turning point in India\u2019s national security doctrine. It was the moment that moved the India from a decades-long policy of \"Strategic Restraint\" to a posture of \"Proactive Deterrence.\"  \n\nBy launching Operation Sindoor and suspending the Indus Waters Treaty, India signaled that terror is no longer a non-state actor issue but an state sponsered act of war. Pakistan's \"nuclear bluff\" has been called, and the new normal is one of set, cost-imposing retaliation. India\u2019s core has shifted: from seeking global empathy to enforcing accountability on those who back terrorism.\n\n@rashtrapatibhvn\n@PMOIndia\n@HMOIndia\n@DefenceMinIndia \n@adgpi\n@HQ_IDS_India\n@narendramodi\n@AmitShah\n@AmitShahOffice\n@rajnathsingh\n@airnewsalerts\n@DDNational\n@SpokespersonMoD\n@NorthernComd_IA \n@westerncomd_IA \n@ChinarcorpsIA \n\n1/5",
       "link": "https://nitter.net/NetramDefence/status/2046898016377098411#m",
       "source": "Netram Defense",
@@ -2638,15 +2638,6 @@
       "time": "22 Apr, 03:27 PM",
       "type": "tweets",
       "content": "Iran, Afghan FMs hold talks"
-    },
-    {
-      "title": "India, New Zealand to sign free trade agreement next week, announces New Zealand PM",
-      "link": "https://nitter.net/sidhant/status/2046889651626287457#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-22T15:21:36+05:30",
-      "time": "22 Apr, 03:21 PM",
-      "type": "tweets",
-      "content": "India, New Zealand to sign free trade agreement next week, announces New Zealand PM"
     },
     {
       "title": "RT by @NetramDefence: BREAKING: Two arrested for instigating violence at Koirengei crossing in Imphal East, One of them, Thoudam Gojendro Singh, is a serving Manipur Police personnel. Accused blocked the highway, set debris on fire, and attacked security forces.",
@@ -2694,24 +2685,6 @@
       "content": "Defence Minister Rajnath Singh addressed the German Parliamentary Standing Committee on Defence and Security, stating the ongoing West Asian conflict and disruptions in the Strait of Hormuz as immediate threats to India\u2019s national interest rather than localized regional issues."
     },
     {
-      "title": "INS Nireekshak Arrives at Colombo to participate in IN -SLN DIVEX 26, a bilateral diving exercise scheduled from 21\u201327 Apr 26.",
-      "link": "https://nitter.net/sidhant/status/2046847345116196940#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-22T12:33:30+05:30",
-      "time": "22 Apr, 12:33 PM",
-      "type": "tweets",
-      "content": "INS Nireekshak Arrives at Colombo to participate in IN -SLN DIVEX 26, a bilateral diving exercise scheduled from 21\u201327 Apr 26."
-    },
-    {
-      "title": "Talks with US only if blockade is lifted, Iran\u2019s UN Ambassador Amir Saeid Iravani",
-      "link": "https://nitter.net/sidhant/status/2046845896613360019#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-22T12:27:44+05:30",
-      "time": "22 Apr, 12:27 PM",
-      "type": "tweets",
-      "content": "Talks with US only if blockade is lifted, Iran\u2019s UN Ambassador Amir Saeid Iravani"
-    },
-    {
       "title": "R to @NetramDefence: In retaliation to Pahalgam terrorist attack Indian Armed Forces launched Operation Sindoor, a major military offensive on Pakistan's terror Infrastructure. 9 major terror bases across Pakistan and Pakistan-occupied Jammu and Kashmir (PoK) were dismantled.  The Indian government described the strikes as \"focused, measured, and non-escalatory,\" specifically avoiding Pakistani military and civilian facilities.\n\n13/13",
       "link": "https://nitter.net/NetramDefence/status/2046842790274121728#m",
       "source": "Netram Defense",
@@ -2730,67 +2703,13 @@
       "content": "R to @NetramDefence: On 25th April 2025, the United Nations Security Council issued a press statement in which the Pahalgam incident was criticised. In the first draft of the statement, the name The Resistance Front (TRF) was written, but after reaching Pakistan\u2019s notice, they publicly opposed this mention and asked for TRF\u2019s name to be removed. Pakistan\u2019s foreign minister, Ishaq Dar, stated in the parliament that they did not allow the TRF\u2019s name to be included in the press statement and altered its language.\n\n12/13"
     },
     {
-      "title": "R to @NetramDefence: Orders for high-resolution satellite frequency ranges in Pahalgam from a US-based firm peaked in February 2025, with purchases made on the 12th, 15th, 18th, and 22nd. There were no orders in March. An order was placed on April 12, 2025, just ten days before the attack.\n\n11/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842783999414638#m",
+      "title": "THREAD\ud83e\uddf5\n\nPahalgam Terrorist Attack: Pakistan's use of terrorism as a state policy and massacre of innocent civilians\n\nOne year ago, on April 22, 2025, the beautiful scenic views of Pahalgam witnessed something tragic, unforgiving and hateful. Pahalgam was shattered by bursts of gunfire and the horrified screams of those who had come to make peaceful memories with their loved ones. \n\nToday, the valley lies silent, with echoes of those screams lingering in the air. Reflecting on the anniversary of the Pahalgam attack, let us mourn those innocent lives lost to terrorism and reflect on what really took place on that dreadful day.\n\n@rashtrapatibhvn\n@PMOIndia\n@HMOIndia\n@DefenceMinIndia \n@adg\n@HQ_IDS_India\n@narendramodi\n@AmitShah\n@AmitShahOffice\n@rajnathsingh\n@airnewsalerts\n@DDNational\n@SpokespersonMoD\n@NorthernComd_IA \n@westerncomd_IA \n@ChinarcorpsIA \n1/13",
+      "link": "https://nitter.net/NetramDefence/status/2046842750453305578#m",
       "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:22+05:30",
+      "sort_key": "2026-04-22T12:15:14+05:30",
       "time": "22 Apr, 12:15 PM",
       "type": "tweets",
-      "content": "R to @NetramDefence: Orders for high-resolution satellite frequency ranges in Pahalgam from a US-based firm peaked in February 2025, with purchases made on the 12th, 15th, 18th, and 22nd. There were no orders in March. An order was placed on April 12, 2025, just ten days before the attack.\n\n11/13"
-    },
-    {
-      "title": "R to @NetramDefence: Adil Houssain Thoker was a resident of Guree Bijbehara. He came into the limelight in  his 20s when he was seen attending funerals of terrorists in South Kashmir in 2018. The  same year, he went to Pakistan on a VTD Valid Travel Document via the Wagah border  and disappeared thereafter.\n\n10/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842780643955023#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:22+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Adil Houssain Thoker was a resident of Guree Bijbehara. He came into the limelight in  his 20s when he was seen attending funerals of terrorists in South Kashmir in 2018. The  same year, he went to Pakistan on a VTD Valid Travel Document via the Wagah border  and disappeared thereafter.\n\n10/13"
-    },
-    {
-      "title": "R to @NetramDefence: Hasim Musa was a former member of the Pakistan elite Special Service Group (SSG).  Officials believe that he was likely loaned to terrorist outfits like Lashkar-e-Taiba (LeT) by Pakistani military establishments.\n\n9/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842777435267306#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:21+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Hasim Musa was a former member of the Pakistan elite Special Service Group (SSG).  Officials believe that he was likely loaned to terrorist outfits like Lashkar-e-Taiba (LeT) by Pakistani military establishments.\n\n9/13"
-    },
-    {
-      "title": "R to @NetramDefence: Sajid Jatt, mastermind behind the attack, is also known as Saifullah Sajid, Habibullah  Tabassum, or \"Salim Langra\". He is a Pakistan-based terrorist linked to Lashkar-e-Taiba  (LeT) and heads its offshoot, The Resistance Front (TRF). There has been exclusive  footage and photographs of his Pakistani identity card, showcasing his alias Habibullah  Tabassum.\n\n8/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842774411215227#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:20+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Sajid Jatt, mastermind behind the attack, is also known as Saifullah Sajid, Habibullah  Tabassum, or \"Salim Langra\". He is a Pakistan-based terrorist linked to Lashkar-e-Taiba  (LeT) and heads its offshoot, The Resistance Front (TRF). There has been exclusive  footage and photographs of his Pakistani identity card, showcasing his alias Habibullah  Tabassum.\n\n8/13"
-    },
-    {
-      "title": "R to @NetramDefence: After sometime TRF (The Resistance Front) took responsibility for the attack in a social  media message. The reason for the attack was that \u201coutsiders\u201d had been settled in the  region, and the domiciles were being issued.\n\nTRF, The Resistance Front, was a Pakistani terror outfit with a new name; it emerged as  a smokescreen and offshoot of LeT, aimed at giving a new face to the Kashmiri cause as  \u2018homegrown\u2019.  TRF was created in such a manner to provide a fa\u00e7ade of a clean, local  group. They wished to remain hidden from the global view, with Pakistan\u2019s name not  being mentioned anywhere. TRF took shape on the ground as an amalgamation of  different terror outfits, including Tehreek-e-Millat Islamia and Ghaznavi Hind.\n\n7/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842771294798149#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:19+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: After sometime TRF (The Resistance Front) took responsibility for the attack in a social  media message. The reason for the attack was that \u201coutsiders\u201d had been settled in the  region, and the domiciles were being issued.\n\nTRF, The Resistance Front, was a Pakistani terror outfit with a new name; it emerged as  a smokescreen and offshoot of LeT, aimed at giving a new face to the Kashmiri cause as  \u2018homegrown\u2019.  TRF was created in such a manner to provide a fa\u00e7ade of a clean, local  group. They wished to remain hidden from the global view, with Pakistan\u2019s name not  being mentioned anywhere. TRF took shape on the ground as an amalgamation of  different terror outfits, including Tehreek-e-Millat Islamia and Ghaznavi Hind.\n\n7/13"
-    },
-    {
-      "title": "R to @NetramDefence: At 2:30 PM, the police first received information about the events that unfolded in  Baisiran Valley, after which rescue operations began.  26 people were killed during the attack, including one foreign national from Nepal.  Approximately 17 to 20 people sustained injuries.\n\n6/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842768044208440#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:19+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: At 2:30 PM, the police first received information about the events that unfolded in  Baisiran Valley, after which rescue operations began.  26 people were killed during the attack, including one foreign national from Nepal.  Approximately 17 to 20 people sustained injuries.\n\n6/13"
-    },
-    {
-      "title": "R to @NetramDefence: The terrorists had M4 rifles, AK47s, and GoPro cameras set up on their bodies and caps. The terrorists then proceeded to casually take selfies with the bleeding victims.  Two mobile phones, one belonging to a resident and the other to a tourist, were snatched by the terrorists. They then climbed over the fence on the left wall and ran towards the forest.\n\n5/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842764806287629#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:18+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: The terrorists had M4 rifles, AK47s, and GoPro cameras set up on their bodies and caps. The terrorists then proceeded to casually take selfies with the bleeding victims.  Two mobile phones, one belonging to a resident and the other to a tourist, were snatched by the terrorists. They then climbed over the fence on the left wall and ran towards the forest.\n\n5/13"
+      "content": "THREAD\ud83e\uddf5\n\nPahalgam Terrorist Attack: Pakistan's use of terrorism as a state policy and massacre of innocent civilians\n\nOne year ago, on April 22, 2025, the beautiful scenic views of Pahalgam witnessed something tragic, unforgiving and hateful. Pahalgam was shattered by bursts of gunfire and the horrified screams of those who had come to make peaceful memories with their loved ones. \n\nToday, the valley lies silent, with echoes of those screams lingering in the air. Reflecting on the anniversary of the Pahalgam attack, let us mourn those innocent lives lost to terrorism and reflect on what really took place on that dreadful day.\n\n@rashtrapatibhvn\n@PMOIndia\n@HMOIndia\n@DefenceMinIndia \n@adg\n@HQ_IDS_India\n@narendramodi\n@AmitShah\n@AmitShahOffice\n@rajnathsingh\n@airnewsalerts\n@DDNational\n@SpokespersonMoD\n@NorthernComd_IA \n@westerncomd_IA \n@ChinarcorpsIA \n1/13"
     },
     {
       "title": "EU statement on anniversary of the TERRORIST attack at Pahalgam.",
@@ -2845,15 +2764,6 @@
       "time": "22 Apr, 10:08 AM",
       "type": "tweets",
       "content": "Chief of Chemical and Nuclear Surety for the U.S. Army, Andrew Hugg  stripped the US naked!\n\nJust listen to how much confidential information he is spilling."
-    },
-    {
-      "title": "RT by @OsintTV: \ud83e\ude94 - Pahalgam - \ud83e\ude94\n\nThe lions don\u2019t roar for show. Their roar shakes the ground and strikes fear in every heart of ENEMY...\n\nNever forget-Never forgive",
-      "link": "https://nitter.net/OsintTV/status/2046803211936309536#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-22T09:38:08+05:30",
-      "time": "22 Apr, 09:38 AM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: \ud83e\ude94 - Pahalgam - \ud83e\ude94\n\nThe lions don\u2019t roar for show. Their roar shakes the ground and strikes fear in every heart of ENEMY...\n\nNever forget-Never forgive"
     },
     {
       "title": "RT by @OsintTV: Ultimate Proof: Rawalpindi\u2019s \"Good Terrorist, Bad Terrorist\" script hasn't changed. \n\nFormer DGISPR Asif Ghafoor meeting Lashkar senior leader Yasir Arafat Butt in islamabad proves the Rawalpindi-Terror nexus is alive and kicking. \n\nRebranding LeT terrorists as politicians(PMML) doesn't change their DNA, it just confirms who\u2019s pulling the strings",
@@ -2964,15 +2874,6 @@
       "content": "RT by @OsintTV: We Never Forget, We Never Forgive. \n#OperationSindoor"
     },
     {
-      "title": "\ud83d\udccdFYKI @DailyMail \n\nThe names are \n1, Mustafa Iqbal\n2, Mohamed Usman Arshad\n3, Ziaullah Badshah.\n\nThe names clearly indicate the country of origin they belong to.\n\nStop using the label \u201cAsian grooming gang.\u201d Asia includes many countries and communities. \n\nUse precise language. Call them a British grooming gang or state the specific country origin of the culprits.",
-      "link": "https://nitter.net/OsintTV/status/2046645939893379156#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-21T23:13:11+05:30",
-      "time": "21 Apr, 11:13 PM",
-      "type": "tweets",
-      "content": "\ud83d\udccdFYKI @DailyMail \n\nThe names are \n1, Mustafa Iqbal\n2, Mohamed Usman Arshad\n3, Ziaullah Badshah.\n\nThe names clearly indicate the country of origin they belong to.\n\nStop using the label \u201cAsian grooming gang.\u201d Asia includes many countries and communities. \n\nUse precise language. Call them a British grooming gang or state the specific country origin of the culprits."
-    },
-    {
       "title": "Did the Indian media put a bounty on that pig who orchestrated Pahalgam by putting out his pictures in public and stating how much bounty he has on his head?",
       "link": "https://nitter.net/elitepredatorss/status/2046632903304757470#m",
       "source": "Elite Predators",
@@ -3016,15 +2917,6 @@
       "time": "21 Apr, 07:44 PM",
       "type": "tweets",
       "content": "RT by @elitepredatorss: All the Pakistanis crying that Indian media shared a CNIC which has a formatting issue. Here is the phone numbers linked with this CNIC; go and check yourself if you have resources to verify."
-    },
-    {
-      "title": "RT by @OsintTV: Must Listen Lt Gen Prashant Srivastava, 15 Corps Commander,the key officer who led #OperationSindoor in the Kashmir region and also played a crucial role in #OperationMahadev speaks for the first time exclusively on @indiatvnews. A rare and powerful insight from the @ChinarcorpsIA Cdr behind two decisive operations. @adgpi @NorthernComd_IA",
-      "link": "https://nitter.net/manishindiatv/status/2046588256184414311#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-21T19:23:58+05:30",
-      "time": "21 Apr, 07:23 PM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: Must Listen Lt Gen Prashant Srivastava, 15 Corps Commander,the key officer who led #OperationSindoor in the Kashmir region and also played a crucial role in #OperationMahadev speaks for the first time exclusively on @indiatvnews. A rare and powerful insight from the @ChinarcorpsIA Cdr behind two decisive operations. @adgpi @NorthernComd_IA"
     },
     {
       "title": "Meghalaya: State-wide mock drill on April 24; two-minute blackout planned",
@@ -3128,6 +3020,15 @@
   ],
   "youtube": [
     {
+      "title": "Defence Updates - India Su57 Upgrade, US Missile Shortage, Barak-8 Stop PAK Missile",
+      "link": "https://www.youtube.com/watch?v=zHWDkePqzP4",
+      "source": "Defense Squad",
+      "sort_key": "2026-04-22T22:19:38+05:30",
+      "time": "22 Apr, 10:19 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/zHWDkePqzP4/mqdefault.jpg"
+    },
+    {
       "title": "Pahalgam Facts- Part 4 #Phalagam #ISI #viral #shortvideo #shorts #trending #army #facts",
       "link": "https://www.youtube.com/shorts/wJ4O2f1s6b4",
       "source": "Defense Squad",
@@ -3183,7 +3084,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:05 PM IST",
-    "next_update": "11:05 PM IST"
+    "last_updated": "10:22 PM IST",
+    "next_update": "11:22 PM IST"
   }
 }
