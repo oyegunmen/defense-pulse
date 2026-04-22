@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Union Minister Bhupender Yadav urges citizens to adopt environment friendly actions",
+      "link": "https://www.newsonair.gov.in/union-minister-bhupender-yadav-urges-citizens-to-adopt-environment-friendly-actions/",
+      "source": "DD News National",
+      "sort_key": "2026-04-22T13:37:53+05:30",
+      "time": "22 Apr, 01:37 PM",
+      "type": "news",
+      "description": "Union Minister of Environment, Forest and Climate Change Bhupender Yadav has encouraged the citizens to adopt environment-friendly actions, emphasizin"
+    },
+    {
+      "title": "Bangladesh external debt rises to 78 billion dollars, Finance Minister informs Parliament",
+      "link": "https://www.newsonair.gov.in/bangladesh-external-debt-rises-to-78-billion-dollars-finance-minister-informs-parliament/",
+      "source": "DD News International",
+      "sort_key": "2026-04-22T13:27:21+05:30",
+      "time": "22 Apr, 01:27 PM",
+      "type": "news",
+      "description": "Bangladesh\u2019s external debt has climbed to around 78 billion dollars as of February 2026, Finance Minister Amir Khosru Mahmud Chowdhury informed parlia"
+    },
+    {
+      "title": "Diet Coke loses its fizz in India as Iran war hits cans supply - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHZHQllnbzVPXzdBZXo4LUhrLTlsX2VJLVU2ZVhBRDMycGlpd2JxVUt2SW5TQTFqM0VwSXByakVTMmRod09MY1BHR1EwZ2NGNE5TRFI3aXlNQ1BzcGFCYmdCTUFGQ2dybUNFa25ka1lTdTFJR3hGakVGZDVDdXNReTcyMGk3akFYdC13emZkcm1rYkh6UEtJSHpBZ0R5MVZ2NWNCYVd5aw?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T13:26:59+05:30",
+      "time": "22 Apr, 01:26 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Union Minister Virendra Kumar criticises Opposition for not supporting Nari Shakti Vandan Act Bill",
       "link": "https://www.newsonair.gov.in/union-minister-virendra-kumar-criticises-opposition-for-not-supporting-nari-shakti-vandan-act-bill/",
       "source": "DD News National",
@@ -260,15 +287,6 @@
       "time": "22 Apr, 11:26 AM",
       "type": "news",
       "description": "Health Minister Wes Streeting called this a \"historic moment for the nation's health\" that will lead to the \"first smoke-free generation, protected fr"
-    },
-    {
-      "title": "PM Modi says Kedarnath Dham and Chardham yatra reflects faith, unity and tradition",
-      "link": "https://www.newsonair.gov.in/pm-modi-says-kedarnath-dham-and-chardham-yatra-reflects-faith-unity-and-tradition/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T11:22:18+05:30",
-      "time": "22 Apr, 11:22 AM",
-      "type": "news",
-      "description": "Prime Minister Narendra Modi has said that the journey to Kedarnath Dham and the Chardham is a divine celebration of the country\u2019s faith, unity, and r"
     },
     {
       "title": "JD Vance\u2019s Pakistan visit delayed after Iran fails to respond on nuclear deal",
@@ -827,15 +845,6 @@
       "time": "21 Apr, 08:11 PM",
       "type": "news",
       "description": "President Donald Trump on April 21 accused Iran of repeatedly violating the ceasefire with the U.S. in the war in West Asia"
-    },
-    {
-      "title": "US President Donald Trump Warns of Bombing if Iran Deal Not Reached Before Ceasefire Ends",
-      "link": "https://www.newsonair.gov.in/us-president-donald-trump-warns-of-bombing-if-iran-deal-not-reached-before-ceasefire-ends/",
-      "source": "DD News International",
-      "sort_key": "2026-04-21T20:08:35+05:30",
-      "time": "21 Apr, 08:08 PM",
-      "type": "news",
-      "description": "US President Donald Trump today\u00a0said, he\u00a0will start bombing Iran if they do not agree to a deal with the United States before the end of the two-week "
     },
     {
       "title": "Iran-US Islamabad talks: Why Tehran is delaying Round 2, and what happens if ceasefire expires",
@@ -2010,6 +2019,33 @@
   ],
   "tweets": [
     {
+      "title": "British Navy:\n\n\"We have received 35 reports of attacks and suspicious activities in the Gulf and Hormuz since the start of the war.\"",
+      "link": "https://nitter.net/Osint613/status/2046861857697194288#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T13:31:10+05:30",
+      "time": "22 Apr, 01:31 PM",
+      "type": "tweets",
+      "content": "British Navy:\n\n\"We have received 35 reports of attacks and suspicious activities in the Gulf and Hormuz since the start of the war.\""
+    },
+    {
+      "title": "IDF Chief of Staff Zamir at a military ceremony: \n\nThe IDF is maintaining high readiness and is prepared to return to combat \"powerfully\" across all sectors.",
+      "link": "https://nitter.net/Osint613/status/2046861355852947788#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T13:29:10+05:30",
+      "time": "22 Apr, 01:29 PM",
+      "type": "tweets",
+      "content": "IDF Chief of Staff Zamir at a military ceremony: \n\nThe IDF is maintaining high readiness and is prepared to return to combat \"powerfully\" across all sectors."
+    },
+    {
+      "title": "Russian oil flows to Hungary and Slovakia will resume \"within a few hours\" after Ukraine completed repairs to the Druzhba pipeline, damaged by a Russian strike, a Kyiv official told AFP.",
+      "link": "https://nitter.net/Osint613/status/2046859274073116907#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-22T13:20:54+05:30",
+      "time": "22 Apr, 01:20 PM",
+      "type": "tweets",
+      "content": "Russian oil flows to Hungary and Slovakia will resume \"within a few hours\" after Ukraine completed repairs to the Druzhba pipeline, damaged by a Russian strike, a Kyiv official told AFP."
+    },
+    {
       "title": "IDF: Two Hezbollah terrorists eliminated in the Saluki area. Operations ongoing in southern Lebanon.",
       "link": "https://nitter.net/Osint613/status/2046858628515168719#m",
       "source": "Open Source Intel",
@@ -2379,6 +2415,15 @@
       "content": "From Australia on Pahalgam terror attack anniversary:"
     },
     {
+      "title": "RT by @OsintTV: \ud83e\ude94 - Pahalgam - \ud83e\ude94\n\nThe lions don\u2019t roar for show. Their roar shakes the ground and strikes fear in every heart of ENEMY...\n\nNever forget-Never forgive",
+      "link": "https://nitter.net/OsintTV/status/2046803211936309536#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-22T09:38:08+05:30",
+      "time": "22 Apr, 09:38 AM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: \ud83e\ude94 - Pahalgam - \ud83e\ude94\n\nThe lions don\u2019t roar for show. Their roar shakes the ground and strikes fear in every heart of ENEMY...\n\nNever forget-Never forgive"
+    },
+    {
       "title": "U.S. President Donald Trump:\n\n\"Iran is collapsing financially! They want the Strait of Hormuz opened immediately- Starving for cash! Losing 500 Million Dollars a day. Military and Police complaining that they are not getting paid. SOS!!!\"",
       "link": "https://nitter.net/Osint613/status/2046796887584313564#m",
       "source": "Open Source Intel",
@@ -2496,24 +2541,6 @@
       "content": "Latest Trump post: \n\nIran doesn't want the Strait of Hormuz closed, they want it open so they can make $500 Million Dollars a day (which is, therefore, what they are losing if it is closed!). They only say they want it closed because I have it totally BLOCKADED (CLOSED!), so they merely want to \"save face.\" People approached me four days ago, saying, \"Sir, Iran wants to open up the Strait, immediately.\" But if we do that, there can never be a Deal with Iran, unless we blow up the rest of their Country, their leaders included! President DONALD J. TRUMP"
     },
     {
-      "title": "R to @Osint613: *In context of the negotiations. \n\nIran is obviously bleeding out with the blockade.",
-      "link": "https://nitter.net/Osint613/status/2046749503986815116#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T06:04:43+05:30",
-      "time": "22 Apr, 06:04 AM",
-      "type": "tweets",
-      "content": "R to @Osint613: *In context of the negotiations. \n\nIran is obviously bleeding out with the blockade."
-    },
-    {
-      "title": "Today the Islamic regime wins, let\u2019s see what happens Thursday",
-      "link": "https://nitter.net/Osint613/status/2046742159211000154#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T05:35:32+05:30",
-      "time": "22 Apr, 05:35 AM",
-      "type": "tweets",
-      "content": "Today the Islamic regime wins, let\u2019s see what happens Thursday"
-    },
-    {
       "title": "R to @Goreunit: +923229307136 \ud83d\ude09\n\nCope it Porkis \n\nPersonal mobile number of Habibullah alias Noman alias Sajid Jatt\n\nToday ISPR activated bots on X to prove that Habibullah isn't Pakistani. Indians are posting fake news. \ud83d\ude01\n\nDisclaimer - \u26a0\ufe0f\nWe've not posted anything exclusive. His CNIC number was shared by ABP after permission from central agencies. We've fetched his number from CNIC. \ud83d\ude01\nIdentity has been double confirmed.",
       "link": "https://nitter.net/Goreunit/status/2046703699011977528#m",
       "source": "War & Gore",
@@ -2521,15 +2548,6 @@
       "time": "22 Apr, 03:02 AM",
       "type": "tweets",
       "content": "R to @Goreunit: +923229307136 \ud83d\ude09\n\nCope it Porkis \n\nPersonal mobile number of Habibullah alias Noman alias Sajid Jatt\n\nToday ISPR activated bots on X to prove that Habibullah isn't Pakistani. Indians are posting fake news. \ud83d\ude01\n\nDisclaimer - \u26a0\ufe0f\nWe've not posted anything exclusive. His CNIC number was shared by ABP after permission from central agencies. We've fetched his number from CNIC. \ud83d\ude01\nIdentity has been double confirmed."
-    },
-    {
-      "title": "RT by @Osint613: As @POTUS has made clear, the United States Navy will continue the blockade of Iranian ports.  In a matter of days, Kharg Island storage will be full and the fragile Iranian oil wells will be shut in. Constraining Iran\u2019s maritime trade directly targets the regime\u2019s primary revenue lifelines.\n\nThe @USTreasury will continue to apply maximum pressure through Economic Fury to systematically degrade Tehran\u2019s ability to generate, move, and repatriate funds.\n\nAny person or vessel facilitating these flows\u2014through covert trade and finance\u2014risks exposure to U.S. sanctions.\n\nWe continue to freeze the funds stolen by the corrupt leadership on behalf of the people of Iran.",
-      "link": "https://nitter.net/SecScottBessent/status/2046703137541837285#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-22T03:00:28+05:30",
-      "time": "22 Apr, 03:00 AM",
-      "type": "tweets",
-      "content": "RT by @Osint613: As @POTUS has made clear, the United States Navy will continue the blockade of Iranian ports.  In a matter of days, Kharg Island storage will be full and the fragile Iranian oil wells will be shut in. Constraining Iran\u2019s maritime trade directly targets the regime\u2019s primary revenue lifelines.\n\nThe @USTreasury will continue to apply maximum pressure through Economic Fury to systematically degrade Tehran\u2019s ability to generate, move, and repatriate funds.\n\nAny person or vessel facilitating these flows\u2014through covert trade and finance\u2014risks exposure to U.S. sanctions.\n\nWe continue to freeze the funds stolen by the corrupt leadership on behalf of the people of Iran."
     },
     {
       "title": "RT by @OsintTV: Dear @CMShehbaz,  you forget to add this line \ud83d\udc47\n\n*Draft - Pakistan's PM Message on X*",
@@ -3210,7 +3228,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:20 PM IST",
-    "next_update": "02:20 PM IST"
+    "last_updated": "01:37 PM IST"
   }
 }

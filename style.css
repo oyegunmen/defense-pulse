@@ -13,7 +13,7 @@
 body { max-width: 1100px; margin: auto; padding: 20px 20px 120px 20px; font-family: -apple-system, sans-serif; }
 
 html, body {
-    background-color: var(--bg), !important;
+    background-color: var(--bg);
 }
 
 p{
@@ -89,15 +89,15 @@ p{
 }
 
 .bottom-nav button.active { 
-    background: var(--primary) !important; 
+    background: var(--primary); 
     color: var(--bg);
-    border-color: var(--primary) !important;
+    border-color: var(--primary);
 }
 
 .button.outline:hover {
-    background-color: var(--primary) !important;
-    color: var(--bg) !important;
-    border-color: var(--primary) !important;
+    background-color: var(--primary);
+    color: var(--bg);
+    border-color: var(--primary);
     cursor: pointer;
     transform: translateY(-1px); 
 }
@@ -110,7 +110,7 @@ a.outline.button {
     transition: all 0.2s ease;
 }
 
-.card a { text-decoration: none !important; color: inherit !important; display: block; height: 100%; }
+.card a { text-decoration: none; color: inherit; display: block; height: 100%; }
 .card { 
     border: 1px solid var(--border); padding: 20px; border-radius: 10px; 
     background: var(--card-bg); transition: all 0.2s ease-in-out, border-color 0.2s;
