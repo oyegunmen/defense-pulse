@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "CBSE to conduct Class 10 second phase examination from 15 May 2026",
+      "link": "https://www.newsonair.gov.in/cbse-to-conduct-class-10-second-phase-examination-from-15-may-2026/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T12:18:14+05:30",
+      "time": "23 Apr, 12:18 PM",
+      "type": "news",
+      "description": "The Central Board of Secondary Education, CBSE, will conduct the second phase of CBSE 10th exam &#8211; 2026 from 15th May. The exam is optional for t"
+    },
+    {
+      "title": "Two trains collide in Denmark, prompting massive emergency response",
+      "link": "https://www.thehindu.com/news/international/denmark-train-collision-copenhagen-injured-updates/article70896159.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T12:03:34+05:30",
+      "time": "23 Apr, 12:03 PM",
+      "type": "news",
+      "description": "The collision occurred north of Copenhagen. It was not immediately clear how many people were injured."
+    },
+    {
+      "title": "Govt refutes news reports of petrol, diesel price hike",
+      "link": "https://www.newsonair.gov.in/govt-refutes-news-reports-of-petrol-diesel-price-hike/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T11:57:14+05:30",
+      "time": "23 Apr, 11:57 AM",
+      "type": "news",
+      "description": "The Ministry of Petroleum and Natural Gas has refuted some news reports suggesting a possible hike in petrol and diesel prices. The Ministry has clari"
+    },
+    {
+      "title": "India emerged as one of Africa\u2019s largest trading partners and bilateral investors: EAM Jaishankar",
+      "link": "https://www.newsonair.gov.in/india-emerged-as-one-of-africas-largest-trading-partners-and-bilateral-investors-eam-jaishankar/",
+      "source": "DD News National",
+      "sort_key": "2026-04-23T11:56:49+05:30",
+      "time": "23 Apr, 11:56 AM",
+      "type": "news",
+      "description": "The Fourth India-Africa Forum Summit &#8211; 2026 is scheduled to be held in New Delhi from 28th May this year. Addressing a curtain raiser event of t"
+    },
+    {
+      "title": "US Iran War News Live Updates: Lebanon likely to protest widespread demolitions by Israeli military at Washington peace talks",
+      "link": "https://indianexpress.com/article/world/united-states-iran-war-news-live-updates-lebanon-israel-trump-peace-talks-10651366/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-23T11:56:39+05:30",
+      "time": "23 Apr, 11:56 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Trust trumps everything else: Anthropic\u2019s India chief Irina Ghose",
+      "link": "https://www.thehindu.com/sci-tech/technology/trust-trumps-everything-else-anthropics-india-chief-irina-ghose/article70895901.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T11:52:35+05:30",
+      "time": "23 Apr, 11:52 AM",
+      "type": "news",
+      "description": "At the AWS Summit in Bengaluru, Irina Ghose, Managing Director of India at Anthropic, highlighted the importance of customers\u2019 trust and reliable prod"
+    },
+    {
+      "title": "\u2018Hellhole on the planet\u2019: Trump endorses activist who claims Indians, Chinese abuse birthright citizenship in US",
+      "link": "https://indianexpress.com/article/world/us-news/trump-india-china-hellhole-birthright-citizenship-video-10651407/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-23T11:50:29+05:30",
+      "time": "23 Apr, 11:50 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US: Los Angeles education board restricts student screen time in classrooms",
       "link": "https://www.newsonair.gov.in/us-los-angeles-education-board-restricts-student-screen-time-in-classrooms/",
       "source": "DD News International",
@@ -37,6 +100,24 @@
       "description": "The 11th India-Egypt Joint Defence Committee meeting concluded yesterday in Cairo, marking another important step in deepening bilateral defence coope"
     },
     {
+      "title": "From machine tools to military tech: German industry dons fatigues",
+      "link": "https://economictimes.indiatimes.com/news/defence/from-machine-tools-to-military-tech-german-industry-dons-fatigues/articleshow/130458842.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-23T11:35:45+05:30",
+      "time": "23 Apr, 11:35 AM",
+      "type": "news",
+      "description": "Defence and security-related firms for the first time have their own section at the world's top industrial fair in Hanover this week -- a sign of the "
+    },
+    {
+      "title": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T11:31:22+05:30",
+      "time": "23 Apr, 11:31 AM",
+      "type": "news",
+      "description": "Lebanon meets Israel in Washington to request truce extension"
+    },
+    {
       "title": "LS Speaker Om Birla stresses need to develop democratic understanding among youth",
       "link": "https://www.newsonair.gov.in/ls-speaker-om-birla-stresses-need-to-develop-democratic-understanding-among-youth/",
       "source": "DD News National",
@@ -44,6 +125,15 @@
       "time": "23 Apr, 11:24 AM",
       "type": "news",
       "description": "Lok Sabha Speaker Om Birla today said that Education is not merely a medium for acquiring knowledge but a continuous process of holistic personality d"
+    },
+    {
+      "title": "Two Pakistanis to be China\u2019s first foreign astronauts: reports",
+      "link": "https://www.thehindu.com/sci-tech/science/two-pakistanis-to-be-chinas-first-foreign-astronauts-reports/article70895753.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T11:23:43+05:30",
+      "time": "23 Apr, 11:23 AM",
+      "type": "news",
+      "description": "A Pakistani astronaut in orbit ahead of an Indian one as part of the \u2018Gaganyaan\u2019 mission is at minimum a reversal of the usual regional optics"
     },
     {
       "title": "India's cotton yarn makers rare winners amid Iran war shocks - Yahoo Finance",
@@ -82,15 +172,6 @@
       "description": "Secretary (West) in the Ministry of External Affairs, Sibi George, has called on Secretary-General of the United Nations, Antonio Guterres. In a socia"
     },
     {
-      "title": "Two Pakistanis to be China\u2019s first foreign astronauts: reports",
-      "link": "https://www.thehindu.com/sci-tech/science/two-pakistanis-to-be-chinas-first-foreign-astronauts-reports/article70895753.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T11:07:48+05:30",
-      "time": "23 Apr, 11:07 AM",
-      "type": "news",
-      "description": "A Pakistani astronaut in orbit ahead of an Indian one as part of the \u2018Gaganyaan\u2019 mission is at minimum a reversal of the usual regional optics"
-    },
-    {
       "title": "Watch: Donald Trump should lift the blockade | The Hindu Editorial",
       "link": "https://www.thehindu.com/videos/watch-donald-trump-should-lift-the-blockade-the-hindu-editorial/article70895995.ece",
       "source": "The Hindu",
@@ -116,24 +197,6 @@
       "time": "23 Apr, 10:54 AM",
       "type": "news",
       "description": "<p>India and Germany ink Defence Industrial Cooperation Roadmap &#38; Implementing Arrangement for Cooperation in UN Peacekeeping Training Terrorism i"
-    },
-    {
-      "title": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T10:52:38+05:30",
-      "time": "23 Apr, 10:52 AM",
-      "type": "news",
-      "description": "Lebanon meets Israel in Washington to request truce extension"
-    },
-    {
-      "title": "Trust trumps everything else: Anthropic\u2019s India chief Irina Ghose",
-      "link": "https://www.thehindu.com/sci-tech/technology/trust-trumps-everything-else-anthropics-india-chief-irina-ghose/article70895901.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T10:46:39+05:30",
-      "time": "23 Apr, 10:46 AM",
-      "type": "news",
-      "description": "At the AWS Summit in Bengaluru, Irina Ghose, Managing Director of India at Anthropic, highlighted the importance of customers\u2019 trust and reliable prod"
     },
     {
       "title": "\u2018Ceasefire continues, so does economic pressure on Iran\u2019, says White House press secretary",
@@ -213,6 +276,15 @@
       "source": "Reuters",
       "sort_key": "2026-04-23T10:28:17+05:30",
       "time": "23 Apr, 10:28 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India's John Distilleries open to further stake sale to Sazerac, founder says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHRid05uMGk1NWpQTEFteG5KRUVPb3JSc3UwdFBnWGpkNGVTODBRclBjVGtJT3lFNUFZVDVtQUh3dHdMVl9ncTBnT0tLSGk3UXVwVEFlZGk5S2pqZnlSSUl3RGZrM2lNaEJzcTl5SXFCVm94ZDNTQ205TmxuUlVXQ2xlUEU2Zl93RUFuY29oNVZtSWlRRDJBNzAxbENMb2pBZ0t5d3lUWjZsTldkZzFOTE14Y0xwUS02MUtobGtGVkt5dmw4aHE1WFJB?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T10:24:00+05:30",
+      "time": "23 Apr, 10:24 AM",
       "type": "news",
       "description": ""
     },
@@ -629,33 +701,6 @@
       "time": "22 Apr, 10:21 PM",
       "type": "news",
       "description": "As diplomatic talks have stalled and neither side has made a breakthrough on the front, Moscow and Kyiv have both stepped up their long-range drone at"
-    },
-    {
-      "title": "RBI Monetary Policy Committee keeps repo rate unchanged at 5.25% amid global uncertainties",
-      "link": "https://www.newsonair.gov.in/rbi-monetary-policy-committee-keeps-repo-rate-unchanged-at-5-25-amid-global-uncertainties/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T22:14:38+05:30",
-      "time": "22 Apr, 10:14 PM",
-      "type": "news",
-      "description": "The Reserve Bank of India\u2019s Monetary Policy Committee has unanimously decided to keep the policy repo rate unchanged at 5.25 per cent, citing rising g"
-    },
-    {
-      "title": "Vice President urges youth to be stakeholders in nation-building for Viksit Bharat",
-      "link": "https://www.newsonair.gov.in/vice-president-urges-youth-to-be-stakeholders-in-nation-building-for-viksit-bharat/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T22:12:38+05:30",
-      "time": "22 Apr, 10:12 PM",
-      "type": "news",
-      "description": "Vice President CP Radhakrishnan has called upon youth to work for Viksit Bharat by being a stakeholder in nation building. He was speaking at the 10th"
-    },
-    {
-      "title": "Government launches VM Frames National Filmmaking Competition to mark 150 years of Vande Mataram",
-      "link": "https://www.newsonair.gov.in/government-launches-vm-frames-national-filmmaking-competition-to-mark-150-years-of-vande-mataram/",
-      "source": "DD News National",
-      "sort_key": "2026-04-22T22:10:58+05:30",
-      "time": "22 Apr, 10:10 PM",
-      "type": "news",
-      "description": "Government has launched VM Frames National Filmmaking Competition to mark 150 Years of Vande Mataram. The Ministry of Culture in a statement invited c"
     },
     {
       "title": "Sri Lanka government denies media claims on changes to SLC leadership",
@@ -1882,15 +1927,6 @@
       "description": ""
     },
     {
-      "title": "Japan PM Takaichi sends offering to Yasukuni war shrine",
-      "link": "https://www.thehindu.com/news/international/japan-pm-takaichi-sends-offering-to-yasukuni-war-shrine/article70888045.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T15:18:12+05:30",
-      "time": "21 Apr, 03:18 PM",
-      "type": "news",
-      "description": "The Yasukuni Shrine in central Tokyo is dedicated to 2.5 million war dead, mostly Japanese, who perished in conflicts since the late 19th century."
-    },
-    {
       "title": "BEL inks pact with BMIT for advanced defence electronics, aerospace systems",
       "link": "https://economictimes.indiatimes.com/news/defence/bel-inks-pact-with-bmit-for-advanced-defence-electronics-aerospace-systems/articleshow/130413480.cms",
       "source": "Economic Times",
@@ -2033,27 +2069,45 @@
       "time": "21 Apr, 12:25 PM",
       "type": "news",
       "description": "The USS Abraham Lincoln is operating in West Asia, enforcing a US naval blockade on vessels near Iranian ports. This deployment highlights significant"
-    },
-    {
-      "title": "Indian recyclers seek removal of import tax on aluminium scrap, letter shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUmlfejZmbDNXU1ZMMmpsVDM2b1dxVm9hb2pCTG5hcURVelBqSFNKazlKQmpWOUZicmZLT09aTlhoNTA1WFpjQW5LQzVGLThaOFo3b1BNNDZXNllmWkw0M0ZtRFZkWnFfdVBFY3Vqdmdwd0JDeHdnZzU1eDRuTkxTZElTM2UybENSNU1ZRlpnVEtQeWlmREpkSXVSa19YSHVJb2RBekhmOEIwWkkxaC0tZWNQZkVWR044SkxQbjdyNEVGVzRhbTFlaWxsQVJPNGJ6VzBBdDk3SWY4T0FmV0E?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T12:19:00+05:30",
-      "time": "21 Apr, 12:19 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Kirpans out, turbans tossed in air: Multiple injured in violent clash in Germany gurdwara",
-      "link": "https://indianexpress.com/article/world/germany-gurdwara-clash-moers-turban-kirpans-pepper-spray-10647518/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-21T11:51:05+05:30",
-      "time": "21 Apr, 11:51 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "The moment the USS New Orleans intercepted the Iranian cargo ship Touska in the Gulf of Oman.",
+      "link": "https://nitter.net/Osint613/status/2047202314792952297#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T12:04:01+05:30",
+      "time": "23 Apr, 12:04 PM",
+      "type": "tweets",
+      "content": "The moment the USS New Orleans intercepted the Iranian cargo ship Touska in the Gulf of Oman."
+    },
+    {
+      "title": "\"America has literally spit in India's face under the Trump administration. Bringing India closer to the US has been a 30 year project for every US president. I would not do what Trump has done,\" says former US Ambassador Rahm Emanuel",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047201803784315133#m",
+      "source": "WarMonitor",
+      "sort_key": "2026-04-23T12:01:59+05:30",
+      "time": "23 Apr, 12:01 PM",
+      "type": "tweets",
+      "content": "\"America has literally spit in India's face under the Trump administration. Bringing India closer to the US has been a 30 year project for every US president. I would not do what Trump has done,\" says former US Ambassador Rahm Emanuel"
+    },
+    {
+      "title": "Ukrainian drones hit a Russian oil pumping station in Kstovo overnight, setting it on fire. The Gorky station feeds Transneft's Surgut pipeline connecting Siberian oil fields to western customers.",
+      "link": "https://nitter.net/Osint613/status/2047201077540401211#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T11:59:06+05:30",
+      "time": "23 Apr, 11:59 AM",
+      "type": "tweets",
+      "content": "Ukrainian drones hit a Russian oil pumping station in Kstovo overnight, setting it on fire. The Gorky station feeds Transneft's Surgut pipeline connecting Siberian oil fields to western customers."
+    },
+    {
+      "title": "Several people were injured after 2 passenger trains collided near Kagerup, Denmark, local media report.",
+      "link": "https://nitter.net/Osint613/status/2047197969842089986#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T11:46:45+05:30",
+      "time": "23 Apr, 11:46 AM",
+      "type": "tweets",
+      "content": "Several people were injured after 2 passenger trains collided near Kagerup, Denmark, local media report."
+    },
     {
       "title": "EAM Jaishankar with African envoys, diplomats in Delhi earlier today.",
       "link": "https://nitter.net/sidhant/status/2047192383583056206#m",
@@ -2460,33 +2514,6 @@
       "content": "Karoline Leavitt: Iran is split between pragmatists and hardliners and can't deliver a unified response. Trump extended the ceasefire but the naval blockade continues. Iran is losing $500 million a day. Kharg Island is full. They can't move oil or pay their own people.\n\nNo firm deadline has been set for an Iranian proposal. \"The timeline will be dictated by the commander in chief.\""
     },
     {
-      "title": "White House denies that Sunday is the deadline",
-      "link": "https://nitter.net/Osint613/status/2047043456598491529#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T01:32:46+05:30",
-      "time": "23 Apr, 01:32 AM",
-      "type": "tweets",
-      "content": "White House denies that Sunday is the deadline"
-    },
-    {
-      "title": "White House Press Secretary on Iranian messaging: \"What they say publicly is much different than what they concede to the U.S. and our negotiating team privately.\"",
-      "link": "https://nitter.net/Osint613/status/2047043181481512998#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T01:31:41+05:30",
-      "time": "23 Apr, 01:31 AM",
-      "type": "tweets",
-      "content": "White House Press Secretary on Iranian messaging: \"What they say publicly is much different than what they concede to the U.S. and our negotiating team privately.\""
-    },
-    {
-      "title": "Iran's state Broadcasting Research Center says 66% of people consider Iran the winner of the war. - Tasnim News\n\nSerious delusion in the pro regime camp in Iran",
-      "link": "https://nitter.net/Osint613/status/2047042796566073644#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T01:30:09+05:30",
-      "time": "23 Apr, 01:30 AM",
-      "type": "tweets",
-      "content": "Iran's state Broadcasting Research Center says 66% of people consider Iran the winner of the war. - Tasnim News\n\nSerious delusion in the pro regime camp in Iran"
-    },
-    {
       "title": "RT by @OsintTV: Indians here \ud83d\udc47 and on the other side, Iran is repaying it, by firing on and seizing India bound vessels.... \n\n@Iran_in_India",
       "link": "https://nitter.net/OsintTV/status/2047035552256389347#m",
       "source": "OsintTV",
@@ -2755,15 +2782,6 @@
       "time": "22 Apr, 06:59 PM",
       "type": "tweets",
       "content": "Dear Comrades,\n\nThink before you post anything online....\n\nLikes and reposts are temporary....\n\nWhat stays is the impact on your nation and its image...."
-    },
-    {
-      "title": "Viewers Discretion Advised \n\nImage of Jaish al-Zulm militants eliminated by Iranian forces near the Rask border while infiltrating from the Pakistan side.",
-      "link": "https://nitter.net/OsintTV/status/2046937938395603212#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-22T18:33:29+05:30",
-      "time": "22 Apr, 06:33 PM",
-      "type": "tweets",
-      "content": "Viewers Discretion Advised \n\nImage of Jaish al-Zulm militants eliminated by Iranian forces near the Rask border while infiltrating from the Pakistan side."
     },
     {
       "title": "RT by @OsintTV: \u092c\u094d\u0930\u093f\u0917\u0947\u0921\u093f\u092f\u0930 \u0928\u0940\u0930\u091c \u0916\u091c\u0942\u0930\u093f\u092f\u093e \u0914\u0930 \u0906\u0930\u094d\u092e\u0940 \u090f\u092f\u0930 \u0921\u093f\u092b\u0947\u0902\u0938 \u092f\u0942\u0928\u093f\u091f \u0915\u0947 \u0915\u092e\u093e\u0902\u0921\u093f\u0902\u0917 \u0911\u092b\u093f\u0938\u0930 \u0915\u093e \u092c\u0921\u093c\u093e \u0916\u0941\u0932\u093e\u0938\u093e\u2014\u0911\u092a\u0930\u0947\u0936\u0928 \u0938\u093f\u0902\u0926\u0942\u0930 \u092e\u0947\u0902 \u0930\u093e\u091c\u0938\u094d\u0925\u093e\u0928-\u0915\u091a\u094d\u091b \u0938\u0947\u0915\u094d\u091f\u0930 \u092e\u0947\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0938\u0947\u0928\u093e \u0915\u093e \u092a\u0930\u093e\u0915\u094d\u0930\u092e, 7 \u092e\u0908 2025 \u0915\u094b \u092a\u0942\u0930\u094d\u0923 \u0924\u0948\u0928\u093e\u0924\u0940 \u0915\u0947 \u092c\u093e\u0926 \u0926\u0941\u0936\u094d\u092e\u0928 \u0915\u0947 \u0921\u094d\u0930\u094b\u0928 \u0939\u092e\u0932\u094b\u0902 \u0915\u094b \u0915\u093f\u092f\u093e \u0927\u094d\u0935\u0938\u094d\u0924, 5 \u092a\u093e\u0915\u093f\u0938\u094d\u0924\u093e\u0928\u0940 \u0921\u094d\u0930\u094b\u0928 \u092e\u093e\u0930 \u0917\u093f\u0930\u093e\u090f, \u0938\u0902\u0935\u0947\u0926\u0928\u0936\u0940\u0932 \u0930\u0923 \u0914\u0930 \u0915\u094d\u0930\u0940\u0915 \u0915\u094d\u0937\u0947\u0924\u094d\u0930 \u092e\u0947\u0902 \u092c\u093f\u0928\u093e \u0915\u093f\u0938\u0940 \u0928\u0941\u0915\u0938\u093e\u0928 \u0915\u0947 \u092c\u091a\u093e\u090f \u092e\u0939\u0924\u094d\u0935\u092a\u0942\u0930\u094d\u0923 \u0938\u0948\u0928\u094d\u092f \u0914\u0930 \u0928\u093e\u0917\u0930\u093f\u0915 \u0920\u093f\u0915\u093e\u0928\u0947\n\nIn a powerful account from Bhuj, Gujarat, Brigadier Neeraj Khajuria, Commander of 75 (Independent) Infantry Brigade, and the Commanding Officer of an Army Air Defence Unit have revealed the extraordinary scale, precision, and coordination behind Operation Sindoor in the highly sensitive Rajasthan\u2013Kachchh sector.\n\nBetween 7th and 12th May 2025, Pakistan deployed multiple drones targeting critical military and civilian infrastructure across the Rann and Creek regions. Responding with unmatched speed and precision, Indian Army formations carried out swift mobilisation and achieved full operational readiness by 7th May. The Army Air Defence warriors demonstrated exceptional skill and composure under pressure, successfully neutralising repeated aerial threats and destroying five Pakistani drones in the sector.\n\nWhat stands out is the seamless jointness between the Indian Army, Indian Air Force, BSF, Coast Guard, intelligence agencies, and civil administration. A robust, multi-layered anti-drone grid combined with advanced surveillance systems ensured that every incoming threat was detected, tracked, and neutralised before causing any damage. Simultaneously, a well-coordinated civil defence mechanism safeguarded population centres and vital installations.\n\nOperation Sindoor not only prevented any damage to key military or civilian infrastructure but also highlighted India's growing technological edge, operational preparedness, and decisive response capability. The mission stands as a testament to the unwavering resolve, high morale, and lethal precision of Indian forces\u2014sending a clear message that no matter how the threat evolves, India's skies will remain sovereign and secure.\n\n#OperationSindoor #IndianArmy #AirDefence #BrigadierNeerajKhajuria #DroneWarfare #IndiaDefence #RajasthanSector #Kachchh #NationalSecurity #MilitaryPower #IAF #BSF #CoastGuard #JointOperations #IndiaStrong #DefenceNews",
@@ -3200,7 +3218,7 @@
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:50 AM IST",
-    "next_update": "12:50 PM IST"
+    "last_updated": "12:22 PM IST",
+    "next_update": "01:22 PM IST"
   }
 }
