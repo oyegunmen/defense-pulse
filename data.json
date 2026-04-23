@@ -1,22 +1,67 @@
 {
   "news": [
     {
-      "title": "ECI issues show-cause notice to Mallikarjun Kharge over derogatory remarks against PM Modi",
+      "title": "Indian shares seen opening lower as crude prices top $100 on Mideast uncertainty - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUzFZejd1WkVuaTZxclc4V0RqYVQ2U0E1UndyWTZLZE1BN3BEWnNSR282NnBtRmVma3ktd2ZHMUxYWXAtQmkyRWpuTU1rVWNkdFVTUGlpUUd2NkppdkFlMnA2WVE0TU9aMGxxVl9sYnNMeFMxOTdoOXpVRXJqcVdMRWdrYXhIM2JVajRtWGUteG5TM2JoOTJBRkMzcVM0UWp4WTBYNURGdjhDWmlVb1EwcDA2Ry1pS2NCLVpfQ2pTcEgyNUY4STJqVUpTTF90OXg4cmlMZENQNU9YWmUtN0Q0?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T08:14:00+05:30",
+      "time": "23 Apr, 08:14 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Strait of Hormuz cannot be opened due to ceasefire breaches: Iran",
+      "link": "https://www.newsonair.gov.in/strait-of-hormuz-cannot-be-opened-due-to-ceasefire-breaches-iran/",
+      "source": "DD News International",
+      "sort_key": "2026-04-23T08:11:49+05:30",
+      "time": "23 Apr, 08:11 AM",
+      "type": "news",
+      "description": "Iran has said that the Strait of Hormuz cannot be opened due to ceasefire breaches by the US and Israel. In a post on Social media, Iran&#8217;s chief"
+    },
+    {
+      "title": "ECI issues show cause notice to Congress President Mallikarjun Kharge for violating Model Code of Conduct",
       "link": "https://www.newsonair.gov.in/eci-issues-show-cause-notice-to-mallikarjun-kharge-over-derogatory-remarks-against-pm-modi/",
       "source": "DD News National",
-      "sort_key": "2026-04-23T07:08:26+05:30",
-      "time": "23 Apr, 07:08 AM",
+      "sort_key": "2026-04-23T08:10:26+05:30",
+      "time": "23 Apr, 08:10 AM",
       "type": "news",
       "description": "The Election Commission has issued a show-cause notice to Congress President Mallikarjun Kharge for violating the provisions of the Model Code of Cond"
+    },
+    {
+      "title": "US military says 31 vessels turned back in Iran port blockade, mostly oil tankers",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-31-vessels-turned-back-in-iran-port-blockade-mostly-oil-tankers/articleshow/130454999.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-23T07:54:53+05:30",
+      "time": "23 Apr, 07:54 AM",
+      "type": "news",
+      "description": "US-Iran war news: American forces intercepted 31 vessels, mostly oil tankers, as part of a blockade against Iran. This action follows Iran firing on c"
     },
     {
       "title": "Israel-Iran LIVE: Iran attacks 3 ships in Strait of Hormuz",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-23T07:06:37+05:30",
-      "time": "23 Apr, 07:06 AM",
+      "sort_key": "2026-04-23T07:20:25+05:30",
+      "time": "23 Apr, 07:20 AM",
       "type": "news",
       "description": "Lebanon meets Israel in Washington to request truce extension"
+    },
+    {
+      "title": "Chemical leak at U.S. plant kills two, sends 19 more to hospital: Officials",
+      "link": "https://www.thehindu.com/news/international/west-virginia-chemical-plant-leak-death-hospital-april-23-2026/article70894735.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T07:17:58+05:30",
+      "time": "23 Apr, 07:17 AM",
+      "type": "news",
+      "description": "A chemical gas reaction occurred at the plant involving nitric acid and another substance, an official said"
+    },
+    {
+      "title": "U.S. Navy Secretary John Phelan fired by Pentagon",
+      "link": "https://www.thehindu.com/news/international/us-navy-secretary-john-phelan-fired-by-pentagon/article70894741.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T07:08:55+05:30",
+      "time": "23 Apr, 07:08 AM",
+      "type": "news",
+      "description": "Mr. Phelan's departure also comes just weeks after Defence Secretary Pete Hegseth fired the Army's top officer, Gen. Randy George, as well as two othe"
     },
     {
       "title": "Iran war: US intercepts three Iranian oil tankers in Asian waters, sources say",
@@ -64,15 +109,6 @@
       "description": "Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz; Iran says it has yet to decide whether to join a new round of talks with the "
     },
     {
-      "title": "U.S. Navy Secretary John Phelan fired by Pentagon",
-      "link": "https://www.thehindu.com/news/international/us-navy-secretary-john-phelan-fired-by-pentagon/article70894741.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T04:38:35+05:30",
-      "time": "23 Apr, 04:38 AM",
-      "type": "news",
-      "description": "Mr. Phelan's departure also comes just weeks after Defence Secretary Pete Hegseth fired the Army's top officer, Gen. Randy George, as well as two othe"
-    },
-    {
       "title": "New Zealand's opposition Labour Party to support India free trade deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDUxQzBOcnU5MDcyYlVfdXZ2SFRfVnpEcTlRYWtRMzNnbVVKeTVDTER0SkVUODhOTi1xWjZzYUV3Ql9wWDBKQUY3TXhJN1h4YWxBX0RQRU9NYVFSOW5DX3NvcGdURENyQThhZGpHZ2dmMElNb0RKX3VDXzVmd3IxZWhGSENUYmpYZzZOcmwycWY5cjRpN0tiNGwtWHBEMDh0WEE?oc=5",
       "source": "Reuters",
@@ -89,15 +125,6 @@
       "time": "23 Apr, 04:08 AM",
       "type": "news",
       "description": "It was the latest violence in Africa's most populous country, which has long been battling a complex security crisis."
-    },
-    {
-      "title": "Chemical leak at U.S. plant kills two, sends 19 more to hospital: Officials",
-      "link": "https://www.thehindu.com/news/international/west-virginia-chemical-plant-leak-death-hospital-april-23-2026/article70894735.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T04:02:54+05:30",
-      "time": "23 Apr, 04:02 AM",
-      "type": "news",
-      "description": "A chemical gas reaction occurred at the plant involving nitric acid and another substance, an official said"
     },
     {
       "title": "Exclusive: US intercepts three Iranian oil tankers in Asian waters, sources say - Reuters",
@@ -181,15 +208,6 @@
       "description": "Ahead of the talks on Thursday (April 23, 2026), Israel called on the Lebanese government to \"work together\" with it against Iran-backed militant grou"
     },
     {
-      "title": "India to import record 2.5 million tons of urea at nearly double price paid two months ago - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVlRN2RPTWFGUWlULS1zcU5UQ0dDMlh0TkM1WExDSHpnMnlXZW5IVzh6UEJ6blJmNkFZRFFDdWNvMVFDVTFNcFJ4NV9nVFM4S3FBdDdJN1VvV0dTdE14TTdpWjVKTFRtbU5rR21iSXZmNWlMWUYyQWN6ZUhPeE1ocVF0NlhueGNfM252dUkxSVBlTTZrQkNwRkJlemhhUkEyY1hOdzlscnd0TV9BYTV3WjV4cnBwS01zS2lud2xwTGk1LXFVOFh3?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T23:10:16+05:30",
-      "time": "22 Apr, 11:10 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Defence Minister Rajnath Singh holds talks with German counterpart to boost ties",
       "link": "https://economictimes.indiatimes.com/news/defence/defence-minister-rajnath-singh-holds-talks-with-german-counterpart-to-boost-ties/articleshow/130448896.cms",
       "source": "Economic Times",
@@ -224,6 +242,15 @@
       "time": "22 Apr, 10:44 PM",
       "type": "news",
       "description": "In order to test civil defence preparedness in the state, a civil defence air raid/blackout mock exercise will be conducted in all districts at 8 pm, "
+    },
+    {
+      "title": "India to import record 2.5 million tons of urea at nearly double price paid two months ago - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVlRN2RPTWFGUWlULS1zcU5UQ0dDMlh0TkM1WExDSHpnMnlXZW5IVzh6UEJ6blJmNkFZRFFDdWNvMVFDVTFNcFJ4NV9nVFM4S3FBdDdJN1VvV0dTdE14TTdpWjVKTFRtbU5rR21iSXZmNWlMWUYyQWN6ZUhPeE1ocVF0NlhueGNfM252dUkxSVBlTTZrQkNwRkJlemhhUkEyY1hOdzlscnd0TV9BYTV3WjV4cnBwS01zS2lud2xwTGk1LXFVOFh3?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T22:42:00+05:30",
+      "time": "22 Apr, 10:42 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "U.K. PM insists he won't resign over scandal of U.S. envoy's appointment",
@@ -406,6 +433,15 @@
       "description": "Campaigning for the second phase of the assembly elections is in full swing in the West Bengal. Senior BJP leader and Home Minister Amit Shah addresse"
     },
     {
+      "title": "India's L&T Tech misses quarterly estimates on soft demand for tech, mobility businesses - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYmRQTHY5aDMtTDJQSWZKTnRYbmRsYW5DM25wRDVWX0tYN2RlWVl2eFBKUHBTVThyVE8wTGZjaU5VSF9lYVVvYWpvUTVFOHpKcjI2M2xxUWt4N3B6SlpJTUhQMk1kYUlBUVhfNnlDX2g5dEVsNDBCdzBjdTBfZ19ZUk9PRndzc1RzWVVTWXE5R0VGRVgzS0ZlN3FmQ3ZOYklTUnk5aG9VVnlyZVFUN2xBQzZ2NkVsWktUQU81bjgzc3VQV3FYYU1zMzA5OGlodTF1dGRQRmdQNmJWcHNfUkdKTWFGUHJ1UzRSNGQyeDNB?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T21:06:38+05:30",
+      "time": "22 Apr, 09:06 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Watch: Tamil Nadu and West Bengal to decide their fate tomorrow | Above the Fold | 22.04.2016",
       "link": "https://www.thehindu.com/videos/watch-tamil-nadu-and-west-bengal-to-decide-their-fate-tomorrow-above-the-fold-22042016/article70893999.ece",
       "source": "The Hindu",
@@ -530,15 +566,6 @@
       "time": "22 Apr, 06:20 PM",
       "type": "news",
       "description": "Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) today claimed that its naval forces seized two vessels in the Strait of Hormuz. It alleged that "
-    },
-    {
-      "title": "Human rights groups allege four civilians forcibly disappeared by Pakistani forces in Balochistan",
-      "link": "https://www.newsonair.gov.in/human-rights-groups-allege-four-civilians-forcibly-disappeared-by-pakistani-forces-in-balochistan/",
-      "source": "DD News International",
-      "sort_key": "2026-04-22T17:40:39+05:30",
-      "time": "22 Apr, 05:40 PM",
-      "type": "news",
-      "description": "Leading human rights organisations have said that four civilians, including a woman, have been forcibly disappeared by Pakistani forces in Balochistan"
     },
     {
       "title": "Trump extends ceasefire after request from Pakistan leaders, but Iran strikes ships in Hormuz",
@@ -764,15 +791,6 @@
       "time": "22 Apr, 02:42 PM",
       "type": "news",
       "description": "Airbus landing on highway: The exercise was organised to assess the expressway\u2019s potential as an alternative runway during times of war or national em"
-    },
-    {
-      "title": "India's Tech Mahindra beats quarterly revenue view on broad-based growth - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdEFHYW1QZUhyTFNOczZTVmRkUi11Q1UtNHpDWFctVnNKMVNIbXhTTlVoZlh5RXhVcWlRaHJnTUtqazRXMFBRSUF4dk5IWGVqSThXSGF0aUlWb1NxRGlQalNWeE9LZlRwaXh1MUc0YzB0dkhMdTdEcUdjOXpkWGV1Mk1pWXJCSTc3eWxlVXpCV2h6aWpFc0p4eWpzNll3R0xYTzh1Z1VLM2ZSUFo3QkFvQUlpZTc0MTU0eXV4XzBJRjN2WUEtWmE4VWpxNFp6TXpHY0xwbFh3a1FUUQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T14:27:03+05:30",
-      "time": "22 Apr, 02:27 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "India's FX curbs drove foreign bond exits, stoking selloff, Nuvama's Marwaha says - Reuters",
@@ -1099,15 +1117,6 @@
       "description": ""
     },
     {
-      "title": "Indian shares set to open lower as investors assess Iran developments; HCLTech in focus - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2Z1MzB2NDdFMXRqVFJwNmpjNm1wb2NTQ0g4LVhPQlZrdm5SMVp1ZkhMRTNtRkdfSDN0RGhWb0gxazdoYnYxbnpKZXV1Nm1XZ21HZ2RYQjVYRFFOOEJXXy1CYWNEYVdJX2twWHhXRzVFWnliQkY5ZHpFaWo2RzhQRGE0bw?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T08:27:00+05:30",
-      "time": "22 Apr, 08:27 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "IT stocks weigh on India's Sensex, Nifty after HCLTech forecasts slower growth - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYThmTWdEZ2dhQ24yTnRWN290bzBIeFJ2WEZLR1hFQmxPZzhwR1pPVUFiLWJhVk54S0ZKbkwzRlRPQkxjZHhiTG00OGdiMEtvQXprMGxRWUN1TC1SVWlqdDNqVEVpYV9JMEdSSGduWlJJQVpiWTZjYnJyWlIwZFg1cUZFTTREZUtUa3NXdWtIQXpLbUF1OTZ0Sl83REZxaS1FbEhPRUQycFZLa2lBU1h6VWpScTBvSWh4Q1JUZkRFbzJMZFE?oc=5",
       "source": "Reuters",
@@ -1140,15 +1149,6 @@
       "source": "Reuters",
       "sort_key": "2026-04-22T07:01:00+05:30",
       "time": "22 Apr, 07:01 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran seizes ships in Strait of Hormuz after Trump extends ceasefire - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZJOE9ma2lEV3F2d1E2Q1hrelFLSVBqQ1otM2dSSm9GRXRQbE84bl9sd3NhNVhPZzhsdF9WdXVwMVlXem51bmlKWnFJamttSG8wdnN2eTM1VHFMRmZFOWI4R3JPZ3dUSWQtd0pIRmZ3dTl5OTJpUDVpaUpFZkFwTzdhQWVRSVJiT3JMS05UOGNaWmttdUQxQ00yN2N0UzdpWi1vMmZySnBVRjZqb05DOXNVMTZlQQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T06:59:00+05:30",
-      "time": "22 Apr, 06:59 AM",
       "type": "news",
       "description": ""
     },
@@ -1783,6 +1783,15 @@
       "description": "Since October last year, Japan PM Sanae Takaichi has planned to increase defence spending target to 2 percent of GDP."
     },
     {
+      "title": "Nestle India posts quarterly profit rise on strong demand - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnlIRkFRaDFMMkUyZHdjbzdrMzRlZ3NOWjB5eU1DbGlaT0Q1UTBfekYwdGdyRU9aakxRamZCSzRkTS16MlcyY0NUWnl0Mi1XbC1uYkJ2MW5pdEp0aENja2t6SGZacUtsTHgyTVZCbWV3OVZoZUs0dEtiYlNKdV80UmFNejhQU3U4U3Jkeg?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-21T14:29:42+05:30",
+      "time": "21 Apr, 02:29 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "US Senate hearing warns of rising nuclear threat from China, Russia",
       "link": "https://defencemonitor.in/us-senate-hearing-warns-of-rising-nuclear-threat-from-china-russia/",
       "source": "Defense Monitor",
@@ -2015,54 +2024,18 @@
       "time": "21 Apr, 09:07 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Gold slips over 2% as dollar, yields rise ahead of tentative US-Iran talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnNtbXA2Q3hlcmM1VVJTZjd1MTFGZUV0b0ZxLXhqMjFqWmp4UUZCYTdzMVZsOE96eW1reUNUSUJYeDlLczk5ZnY3c0M2aTQzemotZk1jVjhvSDFvWmlDeWR5ZFZDZlpnZmxqSzBFTlpQZXFKd3ZZM0tmRllnbl9QSFBVU0w4OWhnYXBTVU9aZUdnMEc4TmI1UlplUklhWkNvTjk4ZW9tVDY5YldQeHJv?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T08:04:00+05:30",
-      "time": "21 Apr, 08:04 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Indian shares end at 6-week high as banks gain, Iran peace hopes aid sentiment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFFtYnk2ZlpXZ0VTX04wZUlwM1BiaEhFeUF2R0hpVjRxUktVZUhpUHRQMTdjOHVZQWlvQjVHRW9ndjR3Y2lhTElzRmg2NGZwUDc1c2Z6b05oMmpUel9RdkZyTGJTN1VoWmpFWVBBZm9MU1hVZ0F2b0g2eVZwRmFQeTR2NXlKYzY4WFRQcEJYYVJVb1pkbGNvWTBiN201SFhyZ0JCWjNrSjRjNVpuTDZaczgtYkE?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-21T08:02:00+05:30",
-      "time": "21 Apr, 08:02 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Canadian tourist killed, 6 injured after gunman opens fire at Mexico\u2019s Teotihuacan pyramids",
-      "link": "https://indianexpress.com/article/world/us-news/teotihuacan-pyramid-shooting-mexico-canadian-tourist-killed-injured-10647255/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-21T07:58:52+05:30",
-      "time": "21 Apr, 07:58 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Lebanon President Joseph Aoun says aiming to end hostilities with Israel talks",
-      "link": "https://economictimes.indiatimes.com/news/defence/lebanon-president-joseph-aoun-says-aiming-to-end-hostilities-with-israel-talks/articleshow/130405564.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T07:45:25+05:30",
-      "time": "21 Apr, 07:45 AM",
-      "type": "news",
-      "description": "Lebanese President Aoun announced planned talks with Israel to end hostilities and occupation, despite strong rejection from Hezbollah. The negotiatio"
-    },
-    {
-      "title": "No talks with US under threat: Iran warns of 'new cards' if war resumes",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-warns-of-new-battlefield-cards-if-war-resumes-rejects-us-talks-under-threats/articleshow/130405451.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T07:29:26+05:30",
-      "time": "21 Apr, 07:29 AM",
-      "type": "news",
-      "description": "Iran's powerful parliament speaker warned Monday that Tehran had \"new cards\" if war resumes with the United States and Israel, ahead of the expiration"
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @sidhant: A year on, we remember the innocent victims of the #Pahalgam terrorist attack. #SriLanka's solidarity with #India, expressed at the time, remains unwavering. We continue to stand united against terrorism in all its forms.",
+      "link": "https://nitter.net/Mahishini/status/2047136493643395333#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-23T07:42:28+05:30",
+      "time": "23 Apr, 07:42 AM",
+      "type": "tweets",
+      "content": "RT by @sidhant: A year on, we remember the innocent victims of the #Pahalgam terrorist attack. #SriLanka's solidarity with #India, expressed at the time, remains unwavering. We continue to stand united against terrorism in all its forms."
+    },
     {
       "title": "R to @sidhant: Shri Thanedar\nRep Jamie Raskin\nRep Julie Johnson\nRep Jonathan Jackson\nRep Ro Khanna\nRep Ritchie Torres",
       "link": "https://nitter.net/sidhant/status/2047130483679711367#m",
@@ -2676,15 +2649,6 @@
       "content": "Shortly, an exhibition to open at the heart of US congress on the \"human cost of terrorism\" coinciding with Pahalgam terror attack. This is one of the biggest program of such kind organised by Indian mission at the Capitol Hill."
     },
     {
-      "title": "Indian Defence Minister Rajnath Singh in Berlin, meets German Defence Minister Boris Pistorius.",
-      "link": "https://nitter.net/sidhant/status/2046947048034017382#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-22T19:09:41+05:30",
-      "time": "22 Apr, 07:09 PM",
-      "type": "tweets",
-      "content": "Indian Defence Minister Rajnath Singh in Berlin, meets German Defence Minister Boris Pistorius."
-    },
-    {
       "title": "Dear Comrades,\n\nThink before you post anything online....\n\nLikes and reposts are temporary....\n\nWhat stays is the impact on your nation and its image....",
       "link": "https://nitter.net/OsintTV/status/2046944437633257682#m",
       "source": "OsintTV",
@@ -3178,20 +3142,30 @@
       "time": "21 Apr, 12:53 PM",
       "type": "tweets",
       "content": "RT by @elitepredatorss: OSINT Report\ud83d\uddc3\ufe0f\n\nDate - 21/04/2026\n\nExactly 364 days ago, three Pakistani terrorists of TRF-PAFF(LeT) committed the barbaric & cowardly act of Pahalgam Terrorist Attack claiming the lives of 26 innocent tourists!\n\nThis crime against humanity was avenged by the Indian Armed Forces in the form of 'OP SINDOOR'. Which resulted in the destruction of 09 terror camps inside Pakistan and POJK. Followed by successful strikes on PAF bases resulting in loss of High Value assets and structures leading to a ceasefire as requested by the Pakistani DGMO.\u2705\n\nAttached document puts forward Identities of the terrorists involved, clearly exposing the Pakistani hand behind the attack.\u2705\n\n'We Protect, We Serve!'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source"
-    },
-    {
-      "title": "\"Muslims! Never step back from Jihad. Never lose heart. Never say that Jihad has ended.\" Hafiz Abdul Rauf, a senior Lashkar-e-Taiba terrorist commander, said in Bahawalpur",
-      "link": "https://nitter.net/elitepredatorss/status/2046414520969814370#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-21T07:53:36+05:30",
-      "time": "21 Apr, 07:53 AM",
-      "type": "tweets",
-      "content": "\"Muslims! Never step back from Jihad. Never lose heart. Never say that Jihad has ended.\" Hafiz Abdul Rauf, a senior Lashkar-e-Taiba terrorist commander, said in Bahawalpur"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "Indian Defence Updates : 114 Rafale Deal at Risk,New FGFA Offer,5 Upgraded S-400,A400M MTA Deal",
+      "link": "https://www.youtube.com/watch?v=IWFxGt8HUVg",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-04-22T18:01:06+05:30",
+      "time": "22 Apr, 06:01 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/IWFxGt8HUVg/mqdefault.jpg"
+    },
+    {
+      "title": "Indian Defence Updates : Su-57 Deal Signed,6th Gen Entry,200 K9 Vajra Order,Japan Offers Mogami",
+      "link": "https://www.youtube.com/watch?v=URwKR83VNLs",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-04-21T17:41:53+05:30",
+      "time": "21 Apr, 05:41 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/URwKR83VNLs/mqdefault.jpg"
+    }
+  ],
   "metadata": {
-    "last_updated": "07:22 AM IST",
-    "next_update": "08:22 AM IST"
+    "last_updated": "08:22 AM IST",
+    "next_update": "09:22 AM IST"
   }
 }
