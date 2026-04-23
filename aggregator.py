@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 ist_tz = timezone(timedelta(hours=5, minutes=30))
 
-last_run_time = datetime.now(ist_tz)
+last_run_time = datetime.now(ist_tz) + timedelta(minutes=2)
 next_run_time = last_run_time + timedelta(hours=1)
 
 last_run_str = last_run_time.strftime("%I:%M %p IST")
