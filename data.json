@@ -1,20 +1,20 @@
 {
   "news": [
     {
+      "title": "US sets preliminary antidumping duties on solar imports from India, Indonesia and Laos - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXdkUzFjVlhfUzVBcTFhMjFEdGQwakk2em9qYVA4WFdianZvZ1l1ZnJ1aUNqMUlPNzZtQzFxSm9vS2JqUXQtbDdJa0JfNGpTOWE2ckYwZVoxbXI3eDJuV3BEbjJJSlVzUVpGWDdxcDIyVVZCT2NKRW9ENGU3ajFGaGUwNkxiX0RPeTI5eGRZMmRCclN0VkdSYjZ2bVdJcmQ1YVRPQjZBT1I4dWZ5d0kxZlcwVW01MTlBaFpSV1JtWGZJSGc?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-24T02:17:02+05:30",
+      "time": "24 Apr, 02:17 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "India says trade talks with U.S. remain constructive after Washington visit - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXR3dmhBMG5oTUpGRVRpSzFsdGRLNFBDMkFhd1lXWFF1b3MtNGpTTTFObHM4T1AyYlVPRmpnMldXaWJCN2VqbkdNLV94TWx0NWwtSkRNYjduOVBSeng4WVE4ZWF2OWtjcHVlSTBkWjlWM0JqbU1tWFllU1hocHZrX3ZJZDJSaTZQaDBSeklnTUh6TElfb2MyZklwYXhFRDlrY3dQRkNqVkx1eTduWW9CZm9aaXhOZ2pUcGt6TFF3?oc=5",
       "source": "Reuters",
       "sort_key": "2026-04-24T01:20:19+05:30",
       "time": "24 Apr, 01:20 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "US sets preliminary antidumping duties on solar imports from India, Indonesia and Laos - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXdkUzFjVlhfUzVBcTFhMjFEdGQwakk2em9qYVA4WFdianZvZ1l1ZnJ1aUNqMUlPNzZtQzFxSm9vS2JqUXQtbDdJa0JfNGpTOWE2ckYwZVoxbXI3eDJuV3BEbjJJSlVzUVpGWDdxcDIyVVZCT2NKRW9ENGU3ajFGaGUwNkxiX0RPeTI5eGRZMmRCclN0VkdSYjZ2bVdJcmQ1YVRPQjZBT1I4dWZ5d0kxZlcwVW01MTlBaFpSV1JtWGZJSGc?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-24T00:57:29+05:30",
-      "time": "24 Apr, 12:57 AM",
       "type": "news",
       "description": ""
     },
@@ -1450,15 +1450,6 @@
       "description": ""
     },
     {
-      "title": "Tesla launches new six-seater Model Y in India in attempt to boost tepid sales - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlJVRkF0MGRQQk80NTh6ajRzbF80X0toM0tUODlLN3d3anU3Z0NoWnhIX3dySXd0V3ctM0NIVm9rY0pVYUxnRklaaVJndzM4dUdaVkhMc3hqWXVndjREYW44Ynl6MWtDRkkxVHBGLVo5RGNmM1pzN05vVnV4LVRjODh3S1NseFR2cHpBSFRGUHJ1cEN0dmY0?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T17:15:55+05:30",
-      "time": "22 Apr, 05:15 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "India's Trent posts 26% jump in fourth-quarter profit, approves maiden bonus issue - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHFsangyWnBOejZHa2FlR2RmcGZfWng2REI0U3BNZXhrQVJvZ0ZxV3ZQVVVJcC0zX3hERmFSTVdkcGg3NV9sbEVUaUpRWTJSaU9nUWxxS2ZpdVZXcUxvdGtJRFdhT3c4d2xVOGl1RHJCZXZNd2Zxd1JwUzdCaGFHQm1GekhlVk1JcGE3Y1JmUzhta1RxdVlkYkE4WXYyUWlGdkcxbWtqT05uZTBFNDl6blc4Yl9XaTk4M3d5aUVOYTYyUQ?oc=5",
       "source": "Reuters",
@@ -1934,6 +1925,15 @@
       "time": "22 Apr, 07:07 AM",
       "type": "news",
       "description": "The Pentagon plans to triple drone spending to over $74 billion and invest more than $30 billion in critical munitions, including missile interceptors"
+    },
+    {
+      "title": "Tesla launches new six-seater Model Y in India in attempt to boost tepid sales - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWlJVRkF0MGRQQk80NTh6ajRzbF80X0toM0tUODlLN3d3anU3Z0NoWnhIX3dySXd0V3ctM0NIVm9rY0pVYUxnRklaaVJndzM4dUdaVkhMc3hqWXVndjREYW44Ynl6MWtDRkkxVHBGLVo5RGNmM1pzN05vVnV4LVRjODh3S1NseFR2cHpBSFRGUHJ1cEN0dmY0?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T07:01:00+05:30",
+      "time": "22 Apr, 07:01 AM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Ex-official describes pressure from U.K. PM's office, deepening Mandelson row",
@@ -3039,7 +3039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 AM IST",
-    "next_update": "04:24 AM IST"
+    "last_updated": "04:24 AM IST",
+    "next_update": "05:24 AM IST"
   }
 }
