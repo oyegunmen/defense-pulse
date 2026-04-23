@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Pentagon says top Navy official to leave office \u2018immediately\u2019",
+      "link": "https://www.thehindu.com/news/international/pentagon-says-top-navy-official-to-leave-office-immediately/article70898930.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T23:03:14+05:30",
+      "time": "23 Apr, 11:03 PM",
+      "type": "news",
+      "description": "No reason was given for the unexpected departure of the Navy\u2019s top civilian official, coming as the sea service has imposed a blockade of Iranian port"
+    },
+    {
+      "title": "Israel-Iran LIVE: Trump orders U.S. Navy to 'shoot, kill' small boats laying mines in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T22:54:57+05:30",
+      "time": "23 Apr, 10:54 PM",
+      "type": "news",
+      "description": "At least one Indian seafarer was among the crew of a vessel taken into custody by Iran in the latest maritime escalation near the Strait of Hormuz"
+    },
+    {
+      "title": "Teenager becomes first Congo virus fatality in Pakistan's Karachi",
+      "link": "https://www.thehindu.com/news/international/congo-virus-pakistan-karachi-first-recorded-death-teenager-cchf/article70898425.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T22:39:40+05:30",
+      "time": "23 Apr, 10:39 PM",
+      "type": "news",
+      "description": "Concern among health officials in Karachi with the festival of Id al-Azha due next month"
+    },
+    {
+      "title": "Watch: Above 92% turnout in Bengal, 85% in Tamil Nadu amid poll violence | Above the Fold | 23.04.2026",
+      "link": "https://www.thehindu.com/videos/watch-above-92-turnout-in-bengal-85-in-tamil-nadu-amid-poll-violence-above-the-fold-23042026/article70898876.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T22:39:07+05:30",
+      "time": "23 Apr, 10:39 PM",
+      "type": "news",
+      "description": "In today\u2019s episode, we look at the key election trends in Tamil Nadu and West Bengal, tracking major shifts ahead of polling. We also cover the politi"
+    },
+    {
+      "title": "Green Jobs and Entrepreneurship set to become defining drivers of Green Economy: Union Minister Jitendra Singh",
+      "link": "https://www.newsonair.gov.in/green-jobs-and-entrepreneurship-set-to-become-defining-drivers-of-green-economy-union-minister-jitendra-singh/",
+      "source": "AIR National",
+      "sort_key": "2026-04-23T22:31:30+05:30",
+      "time": "23 Apr, 10:31 PM",
+      "type": "news",
+      "description": "Science and Technology Minister Dr Jitendra Singh has said that Green Jobs and Green Entrepreneurship are set to become the defining drivers of the Gr"
+    },
+    {
+      "title": "Education should serve as powerful instrument for social responsibility and inclusivity: LS Speaker Om Birla",
+      "link": "https://www.newsonair.gov.in/education-should-serve-as-powerful-instrument-for-social-responsibility-and-inclusivity-ls-speaker-om-birla/",
+      "source": "AIR National",
+      "sort_key": "2026-04-23T22:27:27+05:30",
+      "time": "23 Apr, 10:27 PM",
+      "type": "news",
+      "description": "Lok Sabha Speaker Om Birla has said that education must not be confined merely to securing employment but should serve as a powerful instrument for so"
+    },
+    {
       "title": "Secretary (South), Dr Neena Malhotra, meets Russian Deputy Foreign Minister in diplomatic talks",
       "link": "https://www.newsonair.gov.in/secretary-south-dr-neena-malhotra-meets-russian-deputy-foreign-minister-in-diplomatic-talks/",
       "source": "AIR National",
@@ -55,7 +109,7 @@
       "description": "Defence Secretary Rajesh Kumar Singh today met the National Security Adviser of the United Kingdom, Jonathan Powell, in New Delhi. In a social media p"
     },
     {
-      "title": "\u2018Shoot and kill\u2019: Trump isssues lethal order after US seizes Iranian oil tanker in Indian Ocean",
+      "title": "\u2018Shoot and kill\u2019: Trump issues lethal order after US seizes Iranian oil tanker in Indian Ocean",
       "link": "https://indianexpress.com/article/world/world-trump-orders-us-navy-shoot-kill-iranian-boats-strait-of-hormuz-tanker-seizure-10652470/",
       "source": "The Indian Express",
       "sort_key": "2026-04-23T21:32:56+05:30",
@@ -88,7 +142,7 @@
       "sort_key": "2026-04-23T20:59:59+05:30",
       "time": "23 Apr, 08:59 PM",
       "type": "news",
-      "description": "<p>New Delhi, April 23. India\u2019s top military and space leadership on April 23 stressed the urgent need to build resilient, sovereign and integrated sp"
+      "description": "<p>By Aroonim Bhuyan New Delhi, April 23. India\u2019s top military and space leadership on April 23 stressed the urgent need to build resilient, sovereign"
     },
     {
       "title": "Defence Minister Rajnath Singh invites German industry to co-develop and co-produce with India in field of specific technologies",
@@ -172,15 +226,6 @@
       "description": ""
     },
     {
-      "title": "Israel-Iran LIVE: Trump orders U.S. Navy to 'shoot, kill' small boats laying mines in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-23-2026-strait-of-hormuz-ships-attacked-by-tehran-donald-trump-ceasefire-west-asia-crisis/article70895506.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T19:56:44+05:30",
-      "time": "23 Apr, 07:56 PM",
-      "type": "news",
-      "description": "Iran\u2019s vow not to reopen the Strait of Hormuz so long as a U.S. naval blockade remained in place"
-    },
-    {
       "title": "Military pushes for private participation in space, more Indian satellites. \u2018Can\u2019t rely on single entity\u2019",
       "link": "https://theprint.in/defence/military-pushes-for-private-participation-in-space-more-indian-satellites-cant-rely-on-single-entity/2912428/",
       "source": "The Print",
@@ -233,15 +278,6 @@
       "time": "23 Apr, 06:49 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "NSA Ajit Doval meets his counterpart from UK, Jonathan Powell",
-      "link": "https://www.newsonair.gov.in/nsa-ajit-doval-meets-his-counterpart-from-uk-jonathan-powell/",
-      "source": "AIR National",
-      "sort_key": "2026-04-23T18:49:03+05:30",
-      "time": "23 Apr, 06:49 PM",
-      "type": "news",
-      "description": "The National Security Advisor (NSA), Ajit Doval, today met his counterpart from the United Kingdom (UK), Jonathan Powell, in New Delhi for the annual "
     },
     {
       "title": "Reza Pahlavi splattered with red liquid in Berlin",
@@ -332,15 +368,6 @@
       "time": "23 Apr, 05:56 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "EAM Dr Jaishankar meets National Security Adviser of UK, Jonathan Powell",
-      "link": "https://www.newsonair.gov.in/eam-dr-jaishankar-meets-national-security-adviser-of-uk-jonathan-powell/",
-      "source": "AIR National",
-      "sort_key": "2026-04-23T17:53:49+05:30",
-      "time": "23 Apr, 05:53 PM",
-      "type": "news",
-      "description": "External Affairs Minister Dr S Jaishankar today met the National Security Adviser of the United Kingdom, Jonathan Powell, in New Delhi this afternoon."
     },
     {
       "title": "Indian food delivery giant Zomato drops pricing clause after pushback, source says - Reuters",
@@ -447,6 +474,15 @@
       "source": "Reuters",
       "sort_key": "2026-04-23T16:45:44+05:30",
       "time": "23 Apr, 04:45 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Exclusive-Nippon Life's India asset manager to settle Yes Bank investment case, document shows - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZURPbVFKdWhXQXVZRnp5SkxhWjc5X0ZPaklaVldQMUFDeTgxYTJBRWFoNnJFZUlMR1BGM3ZvM1JuTFJhQVF4N0xxdG1wQTQ2eTE4a0QzTFN2alRHNS1sVnh1cDVUazJuX0tsTVlRTGZsa2FLOV9xTjMtemhmMW1GeFVsb2VlR01jMEhF?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-23T16:43:57+05:30",
+      "time": "23 Apr, 04:43 PM",
       "type": "news",
       "description": ""
     },
@@ -1414,6 +1450,15 @@
       "description": ""
     },
     {
+      "title": "HCLTech's $4.5 billion wipeout sparks broad IT selloff, reviving doubts over sector recovery - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXk5R2s2MVQ5SFpleldMSkRwdU5CMGRUU3dOdlZtODlaXzNEMHAyZWkwSjJVVi1xNW1WOFZlZFN4Sm1CR3ZmdE84TE1zRTBZZ3I2NnhUdVJOX1FDdFhoZGxGdHFkM2gwbzREYVc5MXNDQVZKbFd5ODU4bVFJSlVFVUZULTFGVHRFZGZrb0dfMXcxcFlsZkxUUDRfbmRIc3pRWGNVZVV0d3lDWUw0TVNmOVFYZGt5U1F1VXc?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-22T16:47:13+05:30",
+      "time": "22 Apr, 04:47 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Nepal Home Minister Sudhan Gurung resigns amid questions over financial conduct",
       "link": "https://www.thehindu.com/news/international/nepal-home-minister-sudhan-gurung-resigns-april-22-2026/article70892347.ece",
       "source": "The Hindu",
@@ -1765,15 +1810,6 @@
       "description": ""
     },
     {
-      "title": "HCLTech's $4.5 billion wipeout sparks broad IT selloff, reviving doubts over sector recovery - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXk5R2s2MVQ5SFpleldMSkRwdU5CMGRUU3dOdlZtODlaXzNEMHAyZWkwSjJVVi1xNW1WOFZlZFN4Sm1CR3ZmdE84TE1zRTBZZ3I2NnhUdVJOX1FDdFhoZGxGdHFkM2gwbzREYVc5MXNDQVZKbFd5ODU4bVFJSlVFVUZULTFGVHRFZGZrb0dfMXcxcFlsZkxUUDRfbmRIc3pRWGNVZVV0d3lDWUw0TVNmOVFYZGt5U1F1VXc?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-22T09:23:00+05:30",
-      "time": "22 Apr, 09:23 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Pentagon intel says Iran retains 'key military capabilities,' contradicting Trump-Hegseth claims: US Media Report",
       "link": "https://economictimes.indiatimes.com/news/defence/pentagon-intel-says-iran-retains-key-military-capabilities-contradicting-trump-hegseth-claims-us-media-report/articleshow/130431406.cms",
       "source": "Economic Times",
@@ -1979,36 +2015,18 @@
       "time": "22 Apr, 12:02 AM",
       "type": "news",
       "description": "Iran warned that blockading its ports would be an \u201cact of war,\u201d escalating tensions with the United States as their fragile ceasefire nears expiry. Fo"
-    },
-    {
-      "title": "US Navy arming warships with Patriot missiles to counter China's hypersonic threat",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-navy-arming-warships-with-patriot-missiles-to-counter-chinas-hypersonic-threat/articleshow/130424283.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-21T23:21:24+05:30",
-      "time": "21 Apr, 11:21 PM",
-      "type": "news",
-      "description": "The U.S. Navy will integrate the Patriot missile into its Aegis combat system. This marks the first time the weapon will be fielded at sea. The move a"
-    },
-    {
-      "title": "Magyar says Netanyahu will face arrest in Hungary",
-      "link": "https://www.thehindu.com/news/international/magyar-says-netanyahu-will-face-arrest-in-hungary/article70890145.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T23:15:42+05:30",
-      "time": "21 Apr, 11:15 PM",
-      "type": "news",
-      "description": "In 2024, the ICC issued an arrest warrant for Netanyahu over allegations of crimes against humanity and war crimes, including starvation as a method o"
-    },
-    {
-      "title": "Trump says U.S. in \u2018very, very strong\u2019 position for Iran talks",
-      "link": "https://www.thehindu.com/news/international/donald-trump-says-us-in-very-very-strong-position-for-iran-talks/article70888667.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T23:05:45+05:30",
-      "time": "21 Apr, 11:05 PM",
-      "type": "news",
-      "description": "The U.S. President also told Iran it could boost the chances of success in peace talks with the United States by freeing eight women that he said face"
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @OsintTV: How does a former Pakistan Air Force Chief end up in the same circle as a LeT  operative ?\n\nEvidence is mounting of a deeply nexus between Rawalpindi\u2019s elite and global terror networks. A photograph shows Air Chief Marshal (Retd) Sohail Aman, Pakistan\u2019s former Air Chief, in close proximity with Yasir Arafat Butt, a senior commander of the designated terrorist organisation Lashkar i Toiba (LeT).\n\nYasir Arafat is also seen alongside LeT terrorist leader Saifullah Kasuri, widely identified as the mastermind behind the 2025 Pahalgam Terror Attack.",
+      "link": "https://nitter.net/MikeLimaBravo12/status/2047366481571401817#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-23T22:56:22+05:30",
+      "time": "23 Apr, 10:56 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: How does a former Pakistan Air Force Chief end up in the same circle as a LeT  operative ?\n\nEvidence is mounting of a deeply nexus between Rawalpindi\u2019s elite and global terror networks. A photograph shows Air Chief Marshal (Retd) Sohail Aman, Pakistan\u2019s former Air Chief, in close proximity with Yasir Arafat Butt, a senior commander of the designated terrorist organisation Lashkar i Toiba (LeT).\n\nYasir Arafat is also seen alongside LeT terrorist leader Saifullah Kasuri, widely identified as the mastermind behind the 2025 Pahalgam Terror Attack."
+    },
     {
       "title": "RT by @OsintTV: You don't need to prove any further this terror hell hole of a country.",
       "link": "https://nitter.net/RajaMuneeb/status/2047352170417422746#m",
@@ -2685,15 +2703,6 @@
       "content": "RT by @NetramDefence: New Drone based battle units raised by the Indian Army:\n\n1\ufe0f\u20e3 \u201cAshni\u201d platoons \u2192 Intelligence Surveillance Reconnaissance (ISR) + loitering strikes\n2\ufe0f\u20e3 \u201cDivyastra\u201d batteries \u2192 UAV-assisted artillery targeting\n3\ufe0f\u20e3 \u201cShaktibaan\u201d regiments \u2192 swarm drones & long-range strikes\n4\ufe0f\u20e3 \u201cShaurya\u201d squadrons \u2192 armoured UAV integration"
     },
     {
-      "title": "Under the leadership of Nalin Prabhat, the Special Operations Group in Jammu and Kashmir has become sharper, faster, and more far reaching.\n\nThe focus remains clear, sustained and intelligence driven operations. New units like Markhor and Snow leopards have been raised to counter evolving threats, with visible impact on the ground.\n\nTerror groups have lost both ground and narrative.",
-      "link": "https://nitter.net/OsintTV/status/2047000439246180778#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-22T22:41:50+05:30",
-      "time": "22 Apr, 10:41 PM",
-      "type": "tweets",
-      "content": "Under the leadership of Nalin Prabhat, the Special Operations Group in Jammu and Kashmir has become sharper, faster, and more far reaching.\n\nThe focus remains clear, sustained and intelligence driven operations. New units like Markhor and Snow leopards have been raised to counter evolving threats, with visible impact on the ground.\n\nTerror groups have lost both ground and narrative."
-    },
-    {
       "title": "RT by @elitepredatorss: CNIC cards of two out of the three terrorists who executed the terror attack in Pahalgam on 22.04.2025, killing 26 civilians.\n\nHabib Nazeer alias Habib Tahir and Bilal Afzal alias Faisal Jutt alias Suleman.\n\nBoth of these terrorists, who were citizens of Pakistan and were issued CNIC cards by @NadraPak, were eliminated on 28.07.2025 along with their third accomplice, Hanan Zafar alias Hamza Afghani.\n\n@TararAttaullah, if you want to verify, ask NADRA to provide you with their addresses so you can visit their families and offer Ghaibana Namaz upon their deaths.\n\nAlso, just search for Operation Mahadev. You can find their photos after they were sent to hell by @adgpi, and you can ask your team to use facial recognition to confirm that the Pahalgam terror attack was orchestrated and executed by your nationals.",
       "link": "https://nitter.net/shivank_8mishra/status/2046992571038056894#m",
       "source": "Elite Predators",
@@ -3030,7 +3039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST",
-    "next_update": "11:24 PM IST"
+    "last_updated": "11:24 PM IST",
+    "next_update": "12:24 AM IST"
   }
 }
