@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Hormuz crisis deepens: Mine clearance may take six months",
+      "link": "https://economictimes.indiatimes.com/news/defence/strait-of-hormuz-crisis-pentagon-estimate-reveals-6-month-mine-clearance-timeline-amid-rising-oil-prices/articleshow/130461466.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-23T13:29:50+05:30",
+      "time": "23 Apr, 01:29 PM",
+      "type": "news",
+      "description": "Clearing Iranian mines from the Strait of Hormuz could take six months. This operation may keep oil prices high. Iran has largely blocked the vital wa"
+    },
+    {
+      "title": "At least 10 killed in Pakistan mining project attack: officials",
+      "link": "https://www.thehindu.com/news/international/at-least-10-killed-in-pakistan-mining-project-attack-officials/article70896385.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-23T13:21:57+05:30",
+      "time": "23 Apr, 01:21 PM",
+      "type": "news",
+      "description": "About 40 militants on motorcycles and other vehicles stormed the mining project site of Pakistani company NRL in the Darigwan area of Chagai district "
+    },
+    {
       "title": "American lawmakers call for deeper India-US cooperation on security, trade and global stability",
       "link": "https://www.newsonair.gov.in/american-lawmakers-call-for-deeper-india-us-cooperation-on-security-trade-and-global-stability/",
       "source": "DD News International",
@@ -289,7 +307,7 @@
       "description": "If Donald Trump wants a negotiated exit, he should lift the blockade in return for Iran easing its restrictions on the Strait of Hormuz. Tehran, too, "
     },
     {
-      "title": "UK moves to phase out smoking: Anyone born after 2009 faces lifetime cigarette ban",
+      "title": "UK moves to phase out smoking: Anyone born after 2008 faces lifetime cigarette ban",
       "link": "https://indianexpress.com/article/world/uk-tobacco-vapes-bill-generational-smoking-ban-explained-2009-cutoff-10651250/",
       "source": "The Indian Express",
       "sort_key": "2026-04-23T10:59:39+05:30",
@@ -361,7 +379,7 @@
       "description": "The U.S. Congressman Brad Sherman remembered the victims of the Pahalgam attack on the first anniversary of the incident"
     },
     {
-      "title": "Video | Armed Iranian soldiers board containers as Tehran seizes 2 ships in Strait of Hormuz",
+      "title": "Iran seizes Gujarat-bound container ship in Strait of Hormuz; chilling video shows armed soldiers boarding vessels",
       "link": "https://indianexpress.com/article/world/video-shows-armed-soldiers-boarding-containers-in-the-strait-of-hormuz-10651349/",
       "source": "The Indian Express",
       "sort_key": "2026-04-23T10:32:17+05:30",
@@ -1927,15 +1945,6 @@
       "description": ""
     },
     {
-      "title": "Myanmar President seeks peace talks within 100 days, rebels reject offer",
-      "link": "https://www.thehindu.com/news/international/myanmar-president-seeks-peace-talks-within-100-days-rebels-reject-offer/article70887951.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-21T15:49:09+05:30",
-      "time": "21 Apr, 03:49 PM",
-      "type": "news",
-      "description": "For groups that have not yet engaged \u200cin \u2060dialogue and negotiation, we also invite them to come \u2060participate in discussions by the final deadline of J"
-    },
-    {
       "title": "Rupee falls, tracking Asian peers; partial rollback of RBI FX curbs weighs - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMWgzVnZpcUdYRWNUYmt0eVVNSUUzRVNlaUljUG9pSkNBY3BXd0Z0X1VsMzRJSENGUExjV2ttVGN2NnNzVEN0UWtEVDJGUm80WUZ1ODRlZDB4cTZHYW8wbVo3Q1FoYjFhWS1Hb0xmTVVKbmRrRVIxT1BSUlNIZFY5MWZPSVdnQVBIbFJXb3ZiUl9ZblFfYnFnRlRjeTVIck1Fcy1aelkyRVlLemNmME80Tg?oc=5",
       "source": "Reuters",
@@ -2064,6 +2073,15 @@
   ],
   "tweets": [
     {
+      "title": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua.",
+      "link": "https://nitter.net/Goreunit/status/2047226278315798691#m",
+      "source": "War & Gore",
+      "sort_key": "2026-04-23T13:39:15+05:30",
+      "time": "23 Apr, 01:39 PM",
+      "type": "tweets",
+      "content": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua."
+    },
+    {
       "title": "\ud83d\udea8Report:\n\nFour OGWs have been arrested in summer capital of Jammu and Kashmir for providing logistical support to terrorists\n\nThe accused have been identified as \n\nZahoor Ahmad Mir, \nBashir Ahmad Bhat, \nGhulam Mohammad Bhat, \nand Shazia Mohammad, \n\nAll residents of Hazratbal. Shazia Mohammad has been highlighted as the woman among those arrested.\n\nOfficials said a hand grenade, 15 AK-47 rounds, four mobile phones, and cash were recovered from their possession.\n\nA case has been registered under various sections of UAPA and Arms Act, and further investigation is underway.",
       "link": "https://nitter.net/OsintTV/status/2047220822201254072#m",
       "source": "OsintTV",
@@ -2071,6 +2089,15 @@
       "time": "23 Apr, 01:17 PM",
       "type": "tweets",
       "content": "\ud83d\udea8Report:\n\nFour OGWs have been arrested in summer capital of Jammu and Kashmir for providing logistical support to terrorists\n\nThe accused have been identified as \n\nZahoor Ahmad Mir, \nBashir Ahmad Bhat, \nGhulam Mohammad Bhat, \nand Shazia Mohammad, \n\nAll residents of Hazratbal. Shazia Mohammad has been highlighted as the woman among those arrested.\n\nOfficials said a hand grenade, 15 AK-47 rounds, four mobile phones, and cash were recovered from their possession.\n\nA case has been registered under various sections of UAPA and Arms Act, and further investigation is underway."
+    },
+    {
+      "title": "Head of the International Energy Agency, Birol: \n\nWe are facing the biggest threat to energy security in history",
+      "link": "https://nitter.net/Osint613/status/2047220366951485899#m",
+      "source": "Open Source Intel",
+      "sort_key": "2026-04-23T13:15:45+05:30",
+      "time": "23 Apr, 01:15 PM",
+      "type": "tweets",
+      "content": "Head of the International Energy Agency, Birol: \n\nWe are facing the biggest threat to energy security in history"
     },
     {
       "title": "\ud83d\udea8Just In:\n\nAt least 9 people, including a foreign national and two  security personnel were killed in the attack on National Resources Limited facility in Darigwan, Balochistan:  Sources",
@@ -2541,13 +2568,13 @@
       "content": "Reports from Iran: Over 100 Basij members were hospitalized in Parand, Tehran, after their food was poisoned by an unidentified individual. One Basij member, according to the report died from severe poisoning."
     },
     {
-      "title": "U.S. fighter jets intercepted Iranian kamikaze drones over Erbil, Iraq. Explosions reported from the interceptions.",
-      "link": "https://nitter.net/Osint613/status/2047049314111766536#m",
-      "source": "Open Source Intel",
-      "sort_key": "2026-04-23T01:56:03+05:30",
-      "time": "23 Apr, 01:56 AM",
+      "title": "RT by @NetramDefence: On April 22, 2026, security forces dismantled six illegal bunkers in Kangpokpi district: two in Tingpibung Village, three on Lungter Hill, and one in Leplen Village. Additionally, twelve empty 7.62 mm ammunition cases were recovered from the locations.",
+      "link": "https://nitter.net/ImphalWarrior/status/2047040893337895320#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-23T01:22:35+05:30",
+      "time": "23 Apr, 01:22 AM",
       "type": "tweets",
-      "content": "U.S. fighter jets intercepted Iranian kamikaze drones over Erbil, Iraq. Explosions reported from the interceptions."
+      "content": "RT by @NetramDefence: On April 22, 2026, security forces dismantled six illegal bunkers in Kangpokpi district: two in Tingpibung Village, three on Lungter Hill, and one in Leplen Village. Additionally, twelve empty 7.62 mm ammunition cases were recovered from the locations."
     },
     {
       "title": "RT by @OsintTV: Indians here \ud83d\udc47 and on the other side, Iran is repaying it, by firing on and seizing India bound vessels.... \n\n@Iran_in_India",
@@ -2847,13 +2874,13 @@
       "content": "Iran\u2019s state TV has accused Pakistan and Army Chief Asim Munir of playing a \u201cdouble game\u201d\" in the US-Iran peace talks. Iran claims Islamabad ignored its proposal to push 16 US-backed demands instead. It claims Pakistan is \u201cpublicly aligned with the U.S.\u201d while privately engaging Iran. Iran has also accused Pakistan of misrepresenting progress in talks."
     },
     {
-      "title": "It is encouraging to hear that the launch of \u2018Radio Highway\u2019 is being supported by thousands in Manipur. This station is providing a necessary platform for local voices and verified information, which becomes even more critical during crisis. A practical, community-focused initiative that is clearly resonating with the People. \n\n@rashtrapatibhvn @PMOIndia @HMOIndia @DefenceMinIndia @official_dgar @adgpi @easterncomd @Spearcorps @HQ_IDS_India @narendramodi @AmitShah @AmitShahOffice @rajnathsingh @airnewsalerts @DDNational @PIBImphal @SpokespersonMoD @airnews_imphal @YKhemchandSingh @govt_of_manipur @LokBhavManipur\n\n#AssamRifles #Manipur #RadioHighway",
+      "title": "RT by @NetramDefence: It is encouraging to hear that the launch of \u2018Radio Highway\u2019 is being supported by thousands in Manipur. This station is providing a necessary platform for local voices and verified information, which becomes even more critical during crisis. A practical, community-focused initiative that is clearly resonating with the People. \n\n@rashtrapatibhvn @PMOIndia @HMOIndia @DefenceMinIndia @official_dgar @adgpi @easterncomd @Spearcorps @HQ_IDS_India @narendramodi @AmitShah @AmitShahOffice @rajnathsingh @airnewsalerts @DDNational @PIBImphal @SpokespersonMoD @airnews_imphal @YKhemchandSingh @govt_of_manipur @LokBhavManipur\n\n#AssamRifles #Manipur #RadioHighway",
       "link": "https://nitter.net/NetramDefence/status/2046911521637454225#m",
       "source": "Netram Defense",
       "sort_key": "2026-04-22T16:48:31+05:30",
       "time": "22 Apr, 04:48 PM",
       "type": "tweets",
-      "content": "It is encouraging to hear that the launch of \u2018Radio Highway\u2019 is being supported by thousands in Manipur. This station is providing a necessary platform for local voices and verified information, which becomes even more critical during crisis. A practical, community-focused initiative that is clearly resonating with the People. \n\n@rashtrapatibhvn @PMOIndia @HMOIndia @DefenceMinIndia @official_dgar @adgpi @easterncomd @Spearcorps @HQ_IDS_India @narendramodi @AmitShah @AmitShahOffice @rajnathsingh @airnewsalerts @DDNational @PIBImphal @SpokespersonMoD @airnews_imphal @YKhemchandSingh @govt_of_manipur @LokBhavManipur\n\n#AssamRifles #Manipur #RadioHighway"
+      "content": "RT by @NetramDefence: It is encouraging to hear that the launch of \u2018Radio Highway\u2019 is being supported by thousands in Manipur. This station is providing a necessary platform for local voices and verified information, which becomes even more critical during crisis. A practical, community-focused initiative that is clearly resonating with the People. \n\n@rashtrapatibhvn @PMOIndia @HMOIndia @DefenceMinIndia @official_dgar @adgpi @easterncomd @Spearcorps @HQ_IDS_India @narendramodi @AmitShah @AmitShahOffice @rajnathsingh @airnewsalerts @DDNational @PIBImphal @SpokespersonMoD @airnews_imphal @YKhemchandSingh @govt_of_manipur @LokBhavManipur\n\n#AssamRifles #Manipur #RadioHighway"
     },
     {
       "title": "In 2016, the same Pro-ISI Jaish-Al-Zulm/Adl group was alleged to have abducted Indian businessman Kulbhushan Jadhav from Iran and handed him over to Pakistani agencies: Report",
@@ -2989,15 +3016,6 @@
       "time": "22 Apr, 12:15 PM",
       "type": "tweets",
       "content": "R to @NetramDefence: Adil Houssain Thoker was a resident of Guree Bijbehara. He came into the limelight in  his 20s when he was seen attending funerals of terrorists in South Kashmir in 2018. The  same year, he went to Pakistan on a VTD Valid Travel Document via the Wagah border  and disappeared thereafter.\n\n10/13"
-    },
-    {
-      "title": "R to @NetramDefence: Hasim Musa was a former member of the Pakistan elite Special Service Group (SSG).  Officials believe that he was likely loaned to terrorist outfits like Lashkar-e-Taiba (LeT) by Pakistani military establishments.\n\n9/13",
-      "link": "https://nitter.net/NetramDefence/status/2046842777435267306#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-22T12:15:21+05:30",
-      "time": "22 Apr, 12:15 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Hasim Musa was a former member of the Pakistan elite Special Service Group (SSG).  Officials believe that he was likely loaned to terrorist outfits like Lashkar-e-Taiba (LeT) by Pakistani military establishments.\n\n9/13"
     },
     {
       "title": "EU statement on anniversary of the TERRORIST attack at Pahalgam.",
@@ -3144,15 +3162,6 @@
       "content": "RT by @elitepredatorss: All the Pakistanis crying that Indian media shared a CNIC which has a formatting issue. Here is the phone numbers linked with this CNIC; go and check yourself if you have resources to verify."
     },
     {
-      "title": "\u092d\u092f \u092c\u093f\u0928\u0941 \u0939\u094b\u0907 \u0928 \u092a\u094d\u0930\u0940\u0924\u093f",
-      "link": "https://nitter.net/Goreunit/status/2046591884567695585#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-21T19:38:23+05:30",
-      "time": "21 Apr, 07:38 PM",
-      "type": "tweets",
-      "content": "\u092d\u092f \u092c\u093f\u0928\u0941 \u0939\u094b\u0907 \u0928 \u092a\u094d\u0930\u0940\u0924\u093f"
-    },
-    {
       "title": "Meghalaya: State-wide mock drill on April 24; two-minute blackout planned",
       "link": "https://nitter.net/WarMonitorINTL/status/2046579266268377333#m",
       "source": "WarMonitor",
@@ -3273,7 +3282,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:22 PM IST",
-    "next_update": "02:22 PM IST"
+    "last_updated": "01:46 PM IST",
+    "next_update": "02:46 PM IST"
   }
 }
