@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "title": "Israel-Hezbollah ceasefire extended by 3 weeks, says Trump",
+      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-24T10:18:23+05:30",
+      "time": "24 Apr, 10:18 AM",
+      "type": "news",
+      "description": "The White House meeting was the second high-level negotiation between Israel and Lebanon since last week"
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran\u2019s supreme leader Mojtaba Khamenei \u2018gravely wounded\u2019: NYT",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-24T10:12:16+05:30",
+      "time": "24 Apr, 10:12 AM",
+      "type": "news",
+      "description": "Israel says it struck a Hezbollah missile launcher soon after Trump said the Israel-Lebanon ceasefire had been extended by three weeks"
+    },
+    {
+      "title": "Iran\u2019s supreme leader Mojtaba Khamenei \u2018gravely wounded\u2019: NYT",
+      "link": "https://www.thehindu.com/news/international/irans-supreme-leader-mojtaba-khamenei-gravely-wounded-nyt/article70900329.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-24T10:06:40+05:30",
+      "time": "24 Apr, 10:06 AM",
+      "type": "news",
+      "description": "Mojtaba Khamenei has not appeared in public since succeeding his father and only issued written statements, creating speculation over his condition an"
+    },
+    {
+      "title": "US President announces biggest price cut on drugs after landmark deal with US Pharma Giants",
+      "link": "https://www.newsonair.gov.in/us-president-announces-biggest-price-cut-on-drugs-after-landmark-deal-with-us-pharma-giants/",
+      "source": "AIR International",
+      "sort_key": "2026-04-24T09:53:29+05:30",
+      "time": "24 Apr, 09:53 AM",
+      "type": "news",
+      "description": "US President Donald Trump has announced sweeping agreements with major pharmaceutical companies to lower prescription drug costs, calling it the bigge"
+    },
+    {
+      "title": "Trump says Navy Secretary Phelan was fired over shipbuilding conflicts",
+      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-navy-secretary-phelan-was-fired-over-shipbuilding-conflicts/articleshow/130482960.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-24T09:49:11+05:30",
+      "time": "24 Apr, 09:49 AM",
+      "type": "news",
+      "description": "Navy Secretary John Phelan has been dismissed. President Donald Trump stated conflicts over shipbuilding led to the firing. This is the latest wartime"
+    },
+    {
+      "title": "US soldier involved in Maduro\u2019s capture arrested for using classified intel to win $400,000 bet on Venezuela raid",
+      "link": "https://indianexpress.com/article/world/us-news/us-soldier-maduro-capture-intel-bet-raid-10652932/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-24T09:30:44+05:30",
+      "time": "24 Apr, 09:30 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India's Infosys slips on weak 2027 growth outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZDRUazdva1lwNVQxWGYzTWlrNExhZDNpaGM2YzVRYkVHX1pMN2NYQXBEZTZmbmx1cFkzNnVUZnZ6VmJaVTg5NGdXQWxQVEFEOFp0blQ0enV5clZvSXd3eHUzMlh3eGJjSXExXzkyMlBmR04zRjdwNk52NVBVVC1kRjktUVl2NVlKSVIzWjhETm9tV1dSYm1F?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-24T09:24:00+05:30",
+      "time": "24 Apr, 09:24 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India's Infosys slips on weak 2027 growth outlook - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0xwSVJXdVF2UG5nXzViNWtYa0ktcERQTVFjSmZsTmxUVU8tdjhKRF81MWZfX0s3TlhQQmpXZ21XWm1CQlEtQWJCZUZjY1VRS2tJeHRJWnU4R2wweF9ab1lubEV0Q2dZUnBIdHhXb0czZzVzV28tdXhsQUdQN1VzNEFzN1g5eld2V2pqSmtsSk9PQjhvdlhwZXhkTldMd0t3a1UzdlVuNFZXM2p6MDVrenBocUV5R29acFlV?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-24T09:23:00+05:30",
+      "time": "24 Apr, 09:23 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "RBI sees second-round inflation risks if Mideast war persists, Deputy Governor Gupta tells ET - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlVCVnc2UG40b3ZXLTFRNHlsYl9xaHUtRTMzc2ZrdElCNGd0UExuTHpPZDBFbjVydkpJRE9fMFhSemtPaklEcWl1WlZFTkJLTS1qTU5PXzFkNXBlTEVhYkN2dzg1X1FRNnYtejNEbmN0dWNDVHdVWUdlWVVvM2NXT1dNTW45LVJUVHZPcS15VzQ2Nnl2blc3dzloVE1XckxLUDd0VlJhcVNyWTlodnRCMjZ3UGZSVHlKdF9HZDNCVnVXc2M?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-24T09:22:00+05:30",
+      "time": "24 Apr, 09:22 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Britain and France express optimism over plan to secure Strait of Hormuz trade routes",
       "link": "https://www.newsonair.gov.in/britain-and-france-express-optimism-over-plan-to-secure-strait-of-hormuz-trade-routes/",
       "source": "AIR International",
@@ -30,6 +111,15 @@
     {
       "title": "India's Reliance seen posting quarterly profit fall on crude price surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEhiVEc5RmYxVElrZDhwQW1Gc3FRWGdZVU5zbXRJT05KNEhmZEdkQ1l3ZlhaTW1veXdUNV9xTm9XN0ZHSUNXV1M5cnp4NVc0QTdtRlJnWng5RUdqVU1TdU9qNHVhUXJrdFpaWURfU0MxYWdFVVVoQnRWRmRfMjExckM3U3IzUmhsZHp3MXJMejVzWk9QS216Y3I5eWFyYUFXZGd1RWdxX2pkc2xyMWcwSzlqMGQyRDg?oc=5",
+      "source": "Reuters",
+      "sort_key": "2026-04-24T08:55:00+05:30",
+      "time": "24 Apr, 08:55 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India's Reliance seen posting quarterly profit fall on crude price surge - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSHhlbmEyY0gxVnJ1RWdNNkttczVqOWxENWtVRnl4VXVQaC1FTUprZC0tMzlXRXNDXzBXSlNCbHd0LW5WU0hEVGctaEUtTG1wRUhsbGRkQ0pMR2ZLWTlXeVRwWjFyVkM2MVZTbmFGX05VZXRjaExPTGZMdURoZ1FYMC1kdkJ1RXg1Q3h0aHdGc3c?oc=5",
       "source": "Reuters",
       "sort_key": "2026-04-24T08:55:00+05:30",
       "time": "24 Apr, 08:55 AM",
@@ -91,7 +181,7 @@
       "description": ""
     },
     {
-      "title": "Donald Trump rules out nuclear strike on Iran, calls it stupid question",
+      "title": "Trump rules out nuclear strike on Iran, calls it \u2018stupid question\u2019",
       "link": "https://indianexpress.com/article/world/us-news/donald-trump-nuclear-strike-iran-stupid-question-10652956/",
       "source": "The Indian Express",
       "sort_key": "2026-04-24T08:05:23+05:30",
@@ -109,7 +199,7 @@
       "description": "Donald Trump says America has completed most initial goals in the West Asia conflict. He is now evaluating options for a negotiated settlement. Trump "
     },
     {
-      "title": "Indian shares seen muted on higher oil prices, weak Infosys forecast - Reuters",
+      "title": "Indian shares open lower on higher oil prices, weak Infosys forecast - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGVHMGg0eWRPTGhqN3p6eWQ0N19nVUJ5a3N4WFZWWjc5SUZIY29femxKWkhFbzFubDFmWndNaHAxY1Rub3NBTXh3UF96Vk96dHIwdE1qRDdGaGo4cmFKUGkzaWN0bTJWZEFCeGdEUTJfb2RsYURTeTNSTHBGRk9UUklqalA5bWdITXhqQnZLVUNVVy1fS3U5NFFwazM3VENTZW95TVE5SUFqam8yaF9yMHZR?oc=5",
       "source": "Reuters",
       "sort_key": "2026-04-24T07:46:00+05:30",
@@ -179,15 +269,6 @@
       "time": "24 Apr, 06:57 AM",
       "type": "news",
       "description": "Secretary (West) in the External Affairs Ministry, Sibi George, participated in Interactive Dialogues convened by the United Nations General Assembly "
-    },
-    {
-      "title": "Israel-Iran war LIVE: Trump says Lebanon and Israel agree to extend Israel-Hezbollah ceasefire by 3 weeks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T06:54:28+05:30",
-      "time": "24 Apr, 06:54 AM",
-      "type": "news",
-      "description": "Israel says it struck Hezbollah missile launcher in Lebanon that had fired into Israel"
     },
     {
       "title": "Indian Embassy in Tehran issues \u2018do not travel\u2019 advisory for Iran",
@@ -287,15 +368,6 @@
       "time": "24 Apr, 05:07 AM",
       "type": "news",
       "description": "Earlier, blasts were reported over Tehran and air defences activated, although Israel claimed it was not attacking Iran"
-    },
-    {
-      "title": "Israel-Hezbollah ceasefire extended by 3 weeks, says Trump",
-      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T05:04:04+05:30",
-      "time": "24 Apr, 05:04 AM",
-      "type": "news",
-      "description": "The White House meeting was the second high-level negotiation between Israel and Lebanon since last week"
     },
     {
       "title": "Exchange of gunfire inside Mall of Louisiana leaves 1 person dead, 5 wounded",
@@ -631,15 +703,6 @@
       "description": ""
     },
     {
-      "title": "India to import urea at double prices amid Middle East disruption - Reuters - India's News.Net",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRncxS01PY094aV9YWnVzTDkyRi1zbEcyc2NpcTRsY0Q5cmpCV1FiOE5fTWxlMDl6NmFxd1gxNXg4eDF0enVNdEhZRm1SenRTWXZuR1FiYXA1SkNKWkVFM3VhM0d5b21mX1RWaDBGa05JZUxEMW0zcVRNTHRSQzFPdThaU0EwSndZT0tBajRMS2M0cUZvNUF4QWZIc0FJV2o3bjM3S19MZTN5WlN2YVExYmcwRTgxQQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T17:50:00+05:30",
-      "time": "23 Apr, 05:50 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "US military says it seizes another oil tanker associated with Iran",
       "link": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/articleshow/130468280.cms",
       "source": "Economic Times",
@@ -694,6 +757,15 @@
       "description": "The core of the US military\u2019s AI deployment in Iran is a system called the Maven Smart System, built by software company Palantir Technologies."
     },
     {
+      "title": "How Iran raised Hormuz stakes by capturing ships - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUER2cWp5S3Z5RldCdURNQXF2S2pPemdpTlp2M2p1a2U5X3FIYkNwUTBwM3FIMDhrZTlCN0dfeE1VbTZ4Q2tBTFdsS1hBN3ZlSDZMZHB3M21hT0Q4LTE1Ukt5OFFyNF93Vm1kU0lIR2lLM3lOdG16SThfNXpKWUFRbGJNNDc4QWE1d1pHM1dNa1ZxZUHSAZgBQVVfeXFMUHIzTC1TZktJX2lMZ1M1bWNVVUtZVXpody1JdEVDTUxfdXlTNmN3bENmVjVyblBCTDlZSW9SVlR0ZUM4cnFMRFdENVlDTlpHT0VqRW1Pc1FKNHlBbUg1UVV0QXctTEJ0NEUwNTFiYTZTaXY5T2kyenM4V1VZVXN3RmxiMGFraGNTeGxEdWJDdk5IWE85UGtlQVg?oc=5",
+      "source": "Al Jazeera",
+      "sort_key": "2026-04-23T16:58:59+05:30",
+      "time": "23 Apr, 04:58 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Space will decide future wars, India needs whole-of-nation push to catch up: DRDO Chief Samir Kamat",
       "link": "https://economictimes.indiatimes.com/news/defence/space-will-decide-future-wars-india-needs-whole-of-nation-push-to-catch-up-drdo-chief-samir-kamat/articleshow/130466400.cms",
       "source": "Economic Times",
@@ -701,6 +773,15 @@
       "time": "23 Apr, 04:56 PM",
       "type": "news",
       "description": "Space is now the key to future conflicts. India must boost its capabilities to match rivals. DRDO is working with startups, MSMEs, and academia. Inves"
+    },
+    {
+      "title": "Will another film star be able to sway the election in India\u2019s Tamil Nadu? - Island.lk",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1lXUGIzOGNsVFQycVg2LWZSR3Z2TzN6WW9RV2tlWmg4YWlrd0REZ1ZXQmMwdkdlVHZzWDBlamNQWVRPejF3ZWRueWxiQ2dESWhyU1k0VDI1T1Q5Y05EZ1Bxb09jcnJ5Z1dCWGh6b052SU83M21GWW1pSGJ5SzI0cm5CTUpMdGpraXEzSGZOd1JldVNF?oc=5",
+      "source": "Al Jazeera",
+      "sort_key": "2026-04-23T16:51:24+05:30",
+      "time": "23 Apr, 04:51 PM",
+      "type": "news",
+      "description": ""
     },
     {
       "title": "Pakistan Minister, U.S. envoy discuss efforts for 2nd round of U.S.-Iran talks",
@@ -802,24 +883,6 @@
       "description": ""
     },
     {
-      "title": "India says fuel retailers suffering losses on petrol, diesel for sales below market rates - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmpwOWdfZXByOEZDWUZaSUVEQ2lXTURDTG9HMGtXcUJKWUZIMHlXSUk5VVlIQzBYOFd6WWVDeGZIWTd0SU40RkQ0TTRqQWJMTjRLZFpBbTRXa2tDR3VyV2dPOEQwMGkyQXI3SlRJLW9ERk53WG1Dc3VWbE0zREZ0ODR5N1NkX1ZSSm5jQQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T15:50:03+05:30",
-      "time": "23 Apr, 03:50 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "India stocks, rupee, swaps, call at 3:30 p.m. IST - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDVfVFJwSGhVbUgyZkdpVnUwcWlxRGw5cDNRVDAtQUpsMS1TbmxrYmUtOUhDYnF4TVFRbVcyOHRtRjdxSTlsdzBpLXY0azVoR2IzQXQ3RHU0bWZkYmNrSzdCVWlvbm01RjU2YktJMENDcW5rQ1FXa0NFR2tqdVY2TnNKNkt2WlQ2d2JSUHJTQWpOajk3TzdRY3NjZXAtNXNVOWM4b0lMN0ktNzBVYkNmdDRFeWc5UQ?oc=5",
-      "source": "Reuters",
-      "sort_key": "2026-04-23T15:39:20+05:30",
-      "time": "23 Apr, 03:39 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
       "link": "https://www.thehindu.com/news/international/iran-says-wont-reopen-hormuz-if-us-upholds-naval-blockade/article70896406.ece",
       "source": "The Hindu",
@@ -854,15 +917,6 @@
       "time": "23 Apr, 02:57 PM",
       "type": "news",
       "description": "Iran's Revolutionary Guard has seized two commercial ships, including the Panama-flagged MSC Francesca, in the Strait of Hormuz, citing navigational v"
-    },
-    {
-      "title": "India and Egypt agree on bilateral defence cooperation plan 2026-27, strengthening Joint training exchanges",
-      "link": "https://www.newsonair.gov.in/india-and-egypt-reaffirm-commitment-to-further-strengthen-defence-ties/",
-      "source": "AIR International",
-      "sort_key": "2026-04-23T14:55:10+05:30",
-      "time": "23 Apr, 02:55 PM",
-      "type": "news",
-      "description": "The India-Egypt Joint Defence Committee (JDC) held productive discussions towards enhancing bilateral defence cooperation during its 11th meeting in C"
     },
     {
       "title": "US orders citizens to flee Lebanon as fragile ceasefire ends, airport roads blocked",
@@ -1979,27 +2033,63 @@
       "time": "22 Apr, 10:33 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Taiwan president cancels Africa trip blaming Chinese pressure",
-      "link": "https://www.thehindu.com/news/international/taiwan-president-cancels-africa-trip-blaming-chinese-pressure/article70888985.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-22T10:14:20+05:30",
-      "time": "22 Apr, 10:14 AM",
-      "type": "news",
-      "description": "Madagascar foreign ministry official said the overflight request had been denied"
-    },
-    {
-      "title": "Iran denies Trump\u2019s claim of women protesters facing execution",
-      "link": "https://indianexpress.com/article/world/us-news/iran-denies-trump-claims-women-protesters-execution-death-row-10649250/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-22T09:49:14+05:30",
-      "time": "22 Apr, 09:49 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "Two terrorists working for the ISI were arrested by the UP ATS. \n\nHijbulla was instructed to carry out targeted killings and grenade attacks. Sameer Khan was assigned to recruit new members and spread propaganda, such as writing \"TTH \u2013 Tehrik-e-Taliban Hindustan\" slogans.",
+      "link": "https://nitter.net/elitepredatorss/status/2047538582244782191#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-24T10:20:14+05:30",
+      "time": "24 Apr, 10:20 AM",
+      "type": "tweets",
+      "content": "Two terrorists working for the ISI were arrested by the UP ATS. \n\nHijbulla was instructed to carry out targeted killings and grenade attacks. Sameer Khan was assigned to recruit new members and spread propaganda, such as writing \"TTH \u2013 Tehrik-e-Taliban Hindustan\" slogans."
+    },
+    {
+      "title": "India holds BRICS consultations this week in Delhi. Diplomats of all member countries participating. Comes ahead of BRICS FMs meet next month.",
+      "link": "https://nitter.net/sidhant/status/2047538445229408298#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-24T10:19:41+05:30",
+      "time": "24 Apr, 10:19 AM",
+      "type": "tweets",
+      "content": "India holds BRICS consultations this week in Delhi. Diplomats of all member countries participating. Comes ahead of BRICS FMs meet next month."
+    },
+    {
+      "title": "\"Very soon, there will be a big visit coming up\", Netherlands Ambassador Marisa Gerards says. PM Modi is expected to travel to Netherlands in May.",
+      "link": "https://nitter.net/sidhant/status/2047538439084728583#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-24T10:19:39+05:30",
+      "time": "24 Apr, 10:19 AM",
+      "type": "tweets",
+      "content": "\"Very soon, there will be a big visit coming up\", Netherlands Ambassador Marisa Gerards says. PM Modi is expected to travel to Netherlands in May."
+    },
+    {
+      "title": "Indian CG to Toronto @MahavirSinghvii meets the parents of the late Kartik Vasudev. A Canada court sentenced the killer of Ghaziabad student Kartik Vasudev to life imprisonment a few days ago.",
+      "link": "https://nitter.net/sidhant/status/2047536207681446025#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-24T10:10:47+05:30",
+      "time": "24 Apr, 10:10 AM",
+      "type": "tweets",
+      "content": "Indian CG to Toronto @MahavirSinghvii meets the parents of the late Kartik Vasudev. A Canada court sentenced the killer of Ghaziabad student Kartik Vasudev to life imprisonment a few days ago."
+    },
+    {
+      "title": "Another \u201cgolden feather\u201d in Pakistan\u2019s cap.\n\n@ForeignOfficePk, can you clarify where TRF operates from? \n\nTRF is another front of Lashkar-e-Taiba. LeT has been designated a terrorist organisation for years. Last year, its proxy wing TRF was also officially designated as a terrorist organisation.",
+      "link": "https://nitter.net/OsintTV/status/2047527034742616157#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-24T09:34:20+05:30",
+      "time": "24 Apr, 09:34 AM",
+      "type": "tweets",
+      "content": "Another \u201cgolden feather\u201d in Pakistan\u2019s cap.\n\n@ForeignOfficePk, can you clarify where TRF operates from? \n\nTRF is another front of Lashkar-e-Taiba. LeT has been designated a terrorist organisation for years. Last year, its proxy wing TRF was also officially designated as a terrorist organisation."
+    },
+    {
+      "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
+      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-24T08:45:26+05:30",
+      "time": "24 Apr, 08:45 AM",
+      "type": "tweets",
+      "content": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot."
+    },
     {
       "title": "R to @elitepredatorss: Image",
       "link": "https://nitter.net/elitepredatorss/status/2047513991354921363#m",
@@ -2017,6 +2107,15 @@
       "time": "24 Apr, 08:41 AM",
       "type": "tweets",
       "content": "Habib Tahir was associated with the Jammu Kashmir Students Liberation Front. Later, he joined Lashkar-e-Taiba, confirms Saddam Hayat, who is affiliated with the JKLF and JKSLF."
+    },
+    {
+      "title": "RT by @OsintTV: #WhiteKnightCorps | #SaluteToPatriot\n\n\ud835\uddd4 \ud835\uddd5\ud835\uddff\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\udddb\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\udddf\ud835\uddee\ud835\uddf6\ud835\uddf1 \ud835\udde7\ud835\uddfc \ud835\udde5\ud835\uddf2\ud835\ude00\ud835\ude01\n\nWith deep sorrow and immense gratitude, #IndianArmy bid a solemn farewell to \ud835\udde7\ud835\uddee\ud835\uddf5\ud835\uddf6\ud835\uddff \ud835\uddd9\ud835\uddee\ud835\ude07\ud835\uddee\ud835\uddf9, a valiant son of the soil who stood shoulder to shoulder with own troops during Op Sarpvinash in 2003.\n\nHis \ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude00\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf6\ud835\ude01, \ud835\ude02\ud835\uddfb\ud835\ude04\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 and strong bond with the Indian Army remain a testament to his exceptional character. His \ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddff will forever be etched in our hearts.\n\n#IndianArmy stands steadfast with the bereaved family in this hour of grief.\n\n@adgpi\n@NorthernComd_IA\n@Whiteknight_IA\n@SpokespersonMoD\n@ANI",
+      "link": "https://nitter.net/prodefencejammu/status/2047513436658229736#m",
+      "source": "OsintTV",
+      "sort_key": "2026-04-24T08:40:18+05:30",
+      "time": "24 Apr, 08:40 AM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: #WhiteKnightCorps | #SaluteToPatriot\n\n\ud835\uddd4 \ud835\uddd5\ud835\uddff\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\udddb\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\udddf\ud835\uddee\ud835\uddf6\ud835\uddf1 \ud835\udde7\ud835\uddfc \ud835\udde5\ud835\uddf2\ud835\ude00\ud835\ude01\n\nWith deep sorrow and immense gratitude, #IndianArmy bid a solemn farewell to \ud835\udde7\ud835\uddee\ud835\uddf5\ud835\uddf6\ud835\uddff \ud835\uddd9\ud835\uddee\ud835\ude07\ud835\uddee\ud835\uddf9, a valiant son of the soil who stood shoulder to shoulder with own troops during Op Sarpvinash in 2003.\n\nHis \ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude00\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf6\ud835\ude01, \ud835\ude02\ud835\uddfb\ud835\ude04\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 and strong bond with the Indian Army remain a testament to his exceptional character. His \ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddff will forever be etched in our hearts.\n\n#IndianArmy stands steadfast with the bereaved family in this hour of grief.\n\n@adgpi\n@NorthernComd_IA\n@Whiteknight_IA\n@SpokespersonMoD\n@ANI"
     },
     {
       "title": "At UN, India's counter terror focus:",
@@ -2107,6 +2206,15 @@
       "time": "24 Apr, 05:15 AM",
       "type": "tweets",
       "content": "Is this a threat to India?\n\nAlthough they are trying everything in their playbook to get under the skin of the old man !\n\nFrom a full fledge psy ops in the name of Epstein. First put pressure on Mr. Puri when he turned out to be a fast responder and put out his version of story very quickly.\n\nOld man became the target because they knew he will not touch this topic.\n\nThe Americans are doing this for months because the old man rejected their trade deal demands."
+    },
+    {
+      "title": "RT by @sidhant: Mr Jitesh Vasudev and Mrs Pooja Vasudev, parents of late Mr. Kartik Vasudev, met Consul General, @MahavirSinghvii, following conviction of the culprit for murder of their son on 7 April 2022. They acknowledged the assistance provided by the Consulate following the gruesome homicide of their son. Consul General assured them that the Consulate remains steadfast in providing all assistance in their pursuit of justice.\n\n@HCI_Ottawa @MEAIndia",
+      "link": "https://nitter.net/IndiainToronto/status/2047443708929552527#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-24T04:03:14+05:30",
+      "time": "24 Apr, 04:03 AM",
+      "type": "tweets",
+      "content": "RT by @sidhant: Mr Jitesh Vasudev and Mrs Pooja Vasudev, parents of late Mr. Kartik Vasudev, met Consul General, @MahavirSinghvii, following conviction of the culprit for murder of their son on 7 April 2022. They acknowledged the assistance provided by the Consulate following the gruesome homicide of their son. Consul General assured them that the Consulate remains steadfast in providing all assistance in their pursuit of justice.\n\n@HCI_Ottawa @MEAIndia"
     },
     {
       "title": "Iran deploys more mines in the Strait of Hormuz\n\n[Axios]",
@@ -2244,15 +2352,6 @@
       "content": "R to @sidhant: Maldives Welcomes:"
     },
     {
-      "title": "Just in: India extends INR 30 billion Swap Facility to Maldives",
-      "link": "https://nitter.net/sidhant/status/2047346976812044391#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T21:38:51+05:30",
-      "time": "23 Apr, 09:38 PM",
-      "type": "tweets",
-      "content": "Just in: India extends INR 30 billion Swap Facility to Maldives"
-    },
-    {
       "title": "RT by @OsintTV: After the Pahalgam attack, the same guy was saying on Sky News that Pakistan has stopped supporting LeT.",
       "link": "https://nitter.net/Griezmenace/status/2047346334622167062#m",
       "source": "OsintTV",
@@ -2316,24 +2415,6 @@
       "content": "Daily US-Israel-Iran War Brief: \n23rd April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.  \n\n\u25cf Secretary of the US Navy John C. Phelan departed from the administration.\n\n\u25cf French FM Jean-No\u00ebl Barrot warned that the EU could adopt sanctions in the coming days against those responsible for violence against Palestinians.\n\n\u25cf US forces carried out a maritime interdiction and right-of-visit boarding of the sanctioned stateless vessel M/T Majestic X.\n\n\u25cf Trump ordered the US Navy to shoot any boat that is putting mines in the Strait of Hormuz, at a tripled level.\n\n\u25cf The Hormuz crisis has increased congestion at the Panama Canal by redirecting US Gulf crude, refined products, and LPG exports to Asia via the canal.\n\n\u25cf An Israeli strike in southern Lebanon reportedly killed one journalist and wounded another today, further complicating the fragile Israel-Lebanon truce.\n\n\u25cf The US Department of War said that clearing naval mines in the Strait of Hormuz could take up to six months.\n\n\u25cf A Hezbollah Radwan Force terrorist in southern Lebanon, who was planning an imminent attack against IDF soldiers, was apprehended by IDF.\n\nEND OF THE BRIEF"
     },
     {
-      "title": "'India started isolating apartheid regime, India supported our struggle...we owe much to India', South Africa High Commissioner @AnilSooklalji Adds,'we are free country today, democratic country, because of India'",
-      "link": "https://nitter.net/sidhant/status/2047329037207609656#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T20:27:34+05:30",
-      "time": "23 Apr, 08:27 PM",
-      "type": "tweets",
-      "content": "'India started isolating apartheid regime, India supported our struggle...we owe much to India', South Africa High Commissioner @AnilSooklalji Adds,'we are free country today, democratic country, because of India'"
-    },
-    {
-      "title": "South Africa celebrates 'Freedom Day' in Delhi. HC @AnilSooklalji leads the celebration.",
-      "link": "https://nitter.net/sidhant/status/2047316604816658754#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T19:38:10+05:30",
-      "time": "23 Apr, 07:38 PM",
-      "type": "tweets",
-      "content": "South Africa celebrates 'Freedom Day' in Delhi. HC @AnilSooklalji leads the celebration."
-    },
-    {
       "title": "Absolute insane level of cope, expected from Pakistani though \ud83e\udd23",
       "link": "https://nitter.net/elitepredatorss/status/2047313200245559791#m",
       "source": "Elite Predators",
@@ -2379,15 +2460,6 @@
       "content": "Civil Defence Air Raid Mock Drill and Blackout Exercise will be conducted in Baramulla, J&K on 24 April \n\nBlack out and Sirens will be tested at 8:30 PM April-24"
     },
     {
-      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
-      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:43:01+05:30",
-      "time": "23 Apr, 06:43 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
-    },
-    {
       "title": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4",
       "link": "https://nitter.net/NetramDefence/status/2047302723658477800#m",
       "source": "Netram Defense",
@@ -2397,13 +2469,13 @@
       "content": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4"
     },
     {
-      "title": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4",
-      "link": "https://nitter.net/NetramDefence/status/2047302720504336553#m",
+      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
+      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
       "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:43:00+05:30",
+      "sort_key": "2026-04-23T18:43:01+05:30",
       "time": "23 Apr, 06:43 PM",
       "type": "tweets",
-      "content": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4"
+      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
     },
     {
       "title": "Thread \ud83e\uddf5 \n\nWhy Pakistan is Desperate to Broker a Peace Deal between US and Iran\n\nPakistan\u2019s current role as a mediator is not merely an act of diplomacy; it is a desperate attempt to prevent a regional catastrophe that would hit its economy and social fabric harder than almost any other nation in the vicinity.\n\nHere are the reasons: \ud83d\udc47\ud83c\udffc\n\n1/4",
@@ -2431,15 +2503,6 @@
       "time": "23 Apr, 06:26 PM",
       "type": "tweets",
       "content": "Pakistan is Hit Hard by Qatar's LNG Blackout\n\nPakistan is being forced back into the expensive spot LNG market for the first time in nearly 3 years as Qatar\u2019s LNG supply collapses amid the Gulf conflict.\n\nWhat\u2019s happening:\n- Damage to Ras Laffan LNG complex + Hormuz disruption choking supply\n-'20% of global LNG flows impacted\n- Pakistan facing power cuts, fuel shortages, industrial shutdowns\n-  Emergency tender issued for spot LNG cargoes (high prices)\n\nQatar\u2019s losses estimated at $20B/year, with repairs taking up to 5 years."
-    },
-    {
-      "title": "U.S. Embassy Spokesperson on Trump's hellhole comment:\n\nThe President has said \u201cIndia is a great country with a very good friend of mine at the top.\u201d",
-      "link": "https://nitter.net/sidhant/status/2047295679224291604#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T18:15:01+05:30",
-      "time": "23 Apr, 06:15 PM",
-      "type": "tweets",
-      "content": "U.S. Embassy Spokesperson on Trump's hellhole comment:\n\nThe President has said \u201cIndia is a great country with a very good friend of mine at the top.\u201d"
     },
     {
       "title": "A gold and copper mining firm, National resources limited in Darigwan, chagai district of Balochistan was attacked by Unknown Gunmen in which 10 bodies were recovered which included a foreign national and Pakistani armed forces personnel.",
@@ -2631,24 +2694,6 @@
       "content": "BREAKING: Iran Refuses to Reopen Strait of Hormuz\n\nIran says it will not reopen the Strait of Hormuz as long as a U.S. naval blockade remains in place, despite the ongoing ceasefire.\n\nTehran has also seized two vessels attempting to transit the route, signaling continued enforcement of its position.\n\nIranian official Mohammad Bagher Ghalibaf stated:\n\u201cA ceasefire has no meaning if it is violated through a naval blockade.\u201d"
     },
     {
-      "title": "The ongoing civil defence air raid and blackout mock exercise is being conducted in the highlighted Indian states. In many places, the exercise is limited to specific areas, not entire states. \n\nPlease check official notifications for accurate information.",
-      "link": "https://nitter.net/OsintTV/status/2047187129051001164#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-23T11:03:41+05:30",
-      "time": "23 Apr, 11:03 AM",
-      "type": "tweets",
-      "content": "The ongoing civil defence air raid and blackout mock exercise is being conducted in the highlighted Indian states. In many places, the exercise is limited to specific areas, not entire states. \n\nPlease check official notifications for accurate information."
-    },
-    {
-      "title": "\ud83d\udea8The attack looks massive.\n\nScreengrab shows the aftermath at Pakistan National Resources Limited facility in Darigwan, Balochistan following an attack by unknown assailants \n\nhttps://propakistani.pk/2026/04/23/unidentified-attackers-target-national-resources-ltd-site-in-balochistan/",
-      "link": "https://nitter.net/OsintTV/status/2047180896378179604#m",
-      "source": "OsintTV",
-      "sort_key": "2026-04-23T10:38:55+05:30",
-      "time": "23 Apr, 10:38 AM",
-      "type": "tweets",
-      "content": "\ud83d\udea8The attack looks massive.\n\nScreengrab shows the aftermath at Pakistan National Resources Limited facility in Darigwan, Balochistan following an attack by unknown assailants \n\nhttps://propakistani.pk/2026/04/23/unidentified-attackers-target-national-resources-ltd-site-in-balochistan/"
-    },
-    {
       "title": "Pakistan's National \u200bRefinery Limited \u200csaid its Darigwan \u200bsite \u200bin southwestern Balochistan \u2060was \u200battacked \u200bby unidentified gunmen.",
       "link": "https://nitter.net/elitepredatorss/status/2047178781585207445#m",
       "source": "Elite Predators",
@@ -2746,6 +2791,15 @@
       "time": "22 Apr, 11:03 PM",
       "type": "tweets",
       "content": "RT by @NetramDefence: New Drone based battle units raised by the Indian Army:\n\n1\ufe0f\u20e3 \u201cAshni\u201d platoons \u2192 Intelligence Surveillance Reconnaissance (ISR) + loitering strikes\n2\ufe0f\u20e3 \u201cDivyastra\u201d batteries \u2192 UAV-assisted artillery targeting\n3\ufe0f\u20e3 \u201cShaktibaan\u201d regiments \u2192 swarm drones & long-range strikes\n4\ufe0f\u20e3 \u201cShaurya\u201d squadrons \u2192 armoured UAV integration"
+    },
+    {
+      "title": "R to @sidhant: 22th April (Day 54)\n-Trump extends ceasefire ahead of deadline\n-Confusion on US Iran talks\n-Iran: confiscated 2 vessels in Hormuz\n-2nd French UN Peacekeeper killed in Lebanon\n-Israel says ceasefire violated by Hezbollah \n-US extends wavier on Iran, Russian seaborne oil",
+      "link": "https://nitter.net/sidhant/status/2046994708136915263#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-22T22:19:04+05:30",
+      "time": "22 Apr, 10:19 PM",
+      "type": "tweets",
+      "content": "R to @sidhant: 22th April (Day 54)\n-Trump extends ceasefire ahead of deadline\n-Confusion on US Iran talks\n-Iran: confiscated 2 vessels in Hormuz\n-2nd French UN Peacekeeper killed in Lebanon\n-Israel says ceasefire violated by Hezbollah \n-US extends wavier on Iran, Russian seaborne oil"
     },
     {
       "title": "RT by @elitepredatorss: CNIC cards of two out of the three terrorists who executed the terror attack in Pahalgam on 22.04.2025, killing 26 civilians.\n\nHabib Nazeer alias Habib Tahir and Bilal Afzal alias Faisal Jutt alias Suleman.\n\nBoth of these terrorists, who were citizens of Pakistan and were issued CNIC cards by @NadraPak, were eliminated on 28.07.2025 along with their third accomplice, Hanan Zafar alias Hamza Afghani.\n\n@TararAttaullah, if you want to verify, ask NADRA to provide you with their addresses so you can visit their families and offer Ghaibana Namaz upon their deaths.\n\nAlso, just search for Operation Mahadev. You can find their photos after they were sent to hell by @adgpi, and you can ask your team to use facial recognition to confirm that the Pahalgam terror attack was orchestrated and executed by your nationals.",
@@ -2980,20 +3034,11 @@
       "time": "22 Apr, 11:02 AM",
       "type": "tweets",
       "content": "3 SSG, including a Captain rank officer 72'd of Pak Army Special Forces, multiple other severely injured, many of them likely to succumb.\n\nTTP and Pak Army's Special Force clashed in Khyber Akakhel, 3 SSG commandos, including Captain Bilal, were 72'dd, while 21 soldiers, including two more officers, Major Adil and Captain Abdullah, were injured.\n\nThe Pak Army SF operatives who are said to be injured by TTP were shot in critical parts."
-    },
-    {
-      "title": "Chief of Chemical and Nuclear Surety for the U.S. Army, Andrew Hugg  stripped the US naked!\n\nJust listen to how much confidential information he is spilling.",
-      "link": "https://nitter.net/elitepredatorss/status/2046810728435433717#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-22T10:08:00+05:30",
-      "time": "22 Apr, 10:08 AM",
-      "type": "tweets",
-      "content": "Chief of Chemical and Nuclear Surety for the U.S. Army, Andrew Hugg  stripped the US naked!\n\nJust listen to how much confidential information he is spilling."
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "09:24 AM IST",
-    "next_update": "10:24 AM IST"
+    "last_updated": "10:24 AM IST",
+    "next_update": "11:24 AM IST"
   }
 }
