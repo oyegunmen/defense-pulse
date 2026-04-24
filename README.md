@@ -1,14 +1,13 @@
 Static Website to Monitor the Situation.
 
-## 🎯 Project Purpose
-**Indian News Pulse (indipulse.in)** is a specialized, lightweight aggregator for Indian Defense and Geopolitical news, social media updates (X/Twitter), and YouTube content.
+## Project Purpose
+Indian News Pulse is a specialized, lightweight aggregator for Indian Defense and Geopolitical news, social media updates (X/Twitter), and YouTube content.
 * **Target Audience:** Non-technical Indian users looking for a clean, ad-free monitoring tool.
 * **Core Value:** Ad-free, Anonymous, Curated, and Centralized.
 * **Guiding Principle:** Avoid LLM summaries, vector databases, or complex AI features to keep the project sustainable on free hosting resources.
 
----
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 The project uses a **Static Site Generation (SSG)** approach where data is updated periodically by a script rather than a live server-side database.
 
 ### 1. Backend Engine (`Aggregator.py`)
@@ -30,16 +29,12 @@ The project uses a **Static Site Generation (SSG)** approach where data is updat
 * **Rendering:** Uses a tabbed system (News/Tweets/YouTube) with a shared `render()` function generating HTML cards dynamically.
 * **Cache Busting:** Fetches `data.json?v=[timestamp]` to bypass browser caching and show real-time updates.
 
----
-
-## 🛠️ Known Issues & Specific Logic
+## Known Issues & Specific Logic
 * **YouTube RSS Bug:** Includes a hardcoded error state UI to handle the intermittent YouTube RSS 404 errors (typically 8 AM – 1 PM IST).
 * **Source Filtering:** The UI dynamically builds the filter checklist based *only* on the sources available in the currently active tab.
 * **Analytics:** Uses **GoatCounter** for privacy-first, lightweight tracking without cookies.
 
----
-
-## 🚫 Development Constraints
+## Development Constraints
 1. **No Paid Services:** Never suggest features requiring AWS, Firebase, or paid APIs.
 2. **No AI/LLM:** Do not suggest "AI-powered" summaries, sentiment analysis, or chatbots.
 3. **Keep it Static:** All interactivity must remain client-side using the `data.json` file.
