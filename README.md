@@ -1,5 +1,5 @@
 ![Monitor the situation](img/social-preview.png)
-Static Website to Monitor the Situation.
+*Static Website to Monitor the Situation.*
 
 ## Project Purpose
 [India Pulse](https://indipulse.in) is a aggregator website for Indian Defense and Geopolitical news, social media updates (X/Twitter), and YouTube content.
