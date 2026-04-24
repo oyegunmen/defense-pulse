@@ -24,7 +24,7 @@ The project uses a **Static Site Generation (SSG)** approach where data is updat
     * `metadata`: Stores `last_updated` and `next_update` strings for the UI status bar.
 
 ### 3. Frontend (`index.html` + `app.js`)
-* **Framework:** No frameworks (No React/Vue/Tailwind). Uses **Vanilla JavaScript** and minimalist CSS [`@knadh/oat`](https://github.com/knadh/oat/deployments).
+* **Framework:** No frameworks (No React/Vue/Tailwind). Uses **Vanilla JavaScript** and minimalist CSS [`@knadh/oat`](https://github.com/knadh/oat/).
 * **State Management:** Uses a `Set` for `activeSources` to allow real-time client-side filtering.
 * **Rendering:** Uses a tabbed system (News/Tweets/YouTube) with a shared `render()` function generating HTML cards dynamically.
 * **Cache Busting:** Fetches `data.json?v=[timestamp]` to bypass browser caching and show real-time updates.
