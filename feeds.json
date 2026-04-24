@@ -85,7 +85,7 @@
     },
     {
         "type": "tweets",
-        "name": "WarMonitor",
+        "name": "War Monitor",
         "url": "https://nitter.net/WarMonitorINTL/rss",
         "hide_desc": false
     },
@@ -103,13 +103,13 @@
     },
     {
         "type": "tweets",
-        "name": "OsintTV",
+        "name": "Osint TV",
         "url": "https://nitter.net/OsintTV/rss",
         "hide_desc": false
     },
     {
         "type": "tweets",
-        "name": "AngryRumi",
+        "name": "Angry Rumi",
         "url": "https://nitter.net/AngryRumi7/rss",
         "hide_desc": false
     },
