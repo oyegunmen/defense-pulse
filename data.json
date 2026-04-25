@@ -1,31 +1,130 @@
 {
   "news": [
     {
-      "title": "US President Donald Trump Backs FBI Chief Kash Patel",
+      "title": "Israel-Iran war LIVE: Iran Foreign Minister Araghchi meets Pakistan Army chief Munir",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T14:20:30+05:30",
+      "time": "25 Apr, 02:20 PM",
+      "type": "news",
+      "description": "Iran resumes commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two months ag"
+    },
+    {
+      "title": "\u2018My heart remains with victims\u2019: Sam Altman apologises after warning signs missed in Canada shooting",
+      "link": "https://indianexpress.com/article/world/sam-altman-apology-letter-canada-tumbler-ridge-shooting-10655228/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-25T14:12:37+05:30",
+      "time": "25 Apr, 02:12 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "World Health Organization Flags High Measles Outbreak Risk in Bangladesh",
+      "link": "https://www.newsonair.gov.in/world-health-organization-flags-high-measles-outbreak-risk-in-bangladesh/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T14:05:33+05:30",
+      "time": "25 Apr, 02:05 PM",
+      "type": "news",
+      "description": "The World Health Organization has classified Bangladesh as facing a high risk of a measles outbreak, warning that urgent action is needed to address c"
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran\u2019s international airport for first time since conflict",
+      "link": "https://www.thehindu.com/news/international/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-conflict/article70904871.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:59:40+05:30",
+      "time": "25 Apr, 01:59 PM",
+      "type": "news",
+      "description": "Iran has resumed commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two month"
+    },
+    {
+      "title": "US Envoys Witkoff, Kushner to Visit Pakistan for Ceasefire Talks with Iran",
+      "link": "https://www.newsonair.gov.in/us-envoys-witkoff-kushner-to-visit-pakistan-for-ceasefire-talks-with-iran/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T13:59:02+05:30",
+      "time": "25 Apr, 01:59 PM",
+      "type": "news",
+      "description": "US negotiators are scheduled to leave for Pakistan today, but Iran said its officials did not plan to meet the Americans to discuss ending the war tha"
+    },
+    {
+      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
+      "link": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:50:30+05:30",
+      "time": "25 Apr, 01:50 PM",
+      "type": "news",
+      "description": "The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries"
+    },
+    {
+      "title": "Loud blasts, gunfire heard near Mali's main military camp, witness says",
+      "link": "https://www.thehindu.com/news/international/loud-blasts-gunfire-heard-near-malis-main-military-camp-witness-says/article70904788.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:45:27+05:30",
+      "time": "25 Apr, 01:45 PM",
+      "type": "news",
+      "description": "It was not clear what caused \u200cthe explosions and no militant group \u200cimmediately \u2060claimed responsibility for an \u2060attack"
+    },
+    {
+      "title": "Major Russian attack on Ukraine kills four, wounds dozens",
+      "link": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-wounds-dozens/article70904775.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:43:53+05:30",
+      "time": "25 Apr, 01:43 PM",
+      "type": "news",
+      "description": "Russia has been launching smaller \u2060barrages of dozens of drones every night at Ukraine, interspersing them \u200cwith occasional large-scale attacks that u"
+    },
+    {
+      "title": "Iran executes man over 'mission' for Israel's spy agency",
+      "link": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:35:00+05:30",
+      "time": "25 Apr, 01:35 PM",
+      "type": "news",
+      "description": "Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said."
+    },
+    {
+      "title": "Iran executes atomic agency worker over \u2018spying\u2019 charge, hangs protester as crackdown intensifies",
+      "link": "https://indianexpress.com/article/world/iran-executions-mehdi-farid-mossad-spy-erfan-kiani-protests-10655191/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-25T13:34:23+05:30",
+      "time": "25 Apr, 01:34 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
+      "link": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:33:01+05:30",
+      "time": "25 Apr, 01:33 PM",
+      "type": "news",
+      "description": "Pakistan's Deputy Prime Minister and Foreign Minister Dar, in a social media post, expressed hope for \"meaningful engagements\" between the two warring"
+    },
+    {
+      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
+      "link": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:23:34+05:30",
+      "time": "25 Apr, 01:23 PM",
+      "type": "news",
+      "description": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent \u200ba new challenge \u200cto regi"
+    },
+    {
+      "title": "U.S. negotiators to go to Islamabad, but Iran says no direct talks",
+      "link": "https://www.thehindu.com/news/international/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks/article70904574.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:18:48+05:30",
+      "time": "25 Apr, 01:18 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US President Trump Reaffirms Support for FBI Chief Kash Patel, Highlights Falling Crime Rates",
       "link": "https://www.newsonair.gov.in/us-president-donald-trump-backs-fbi-chief-kash-patel/",
       "source": "AIR International",
       "sort_key": "2026-04-25T13:17:09+05:30",
       "time": "25 Apr, 01:17 PM",
       "type": "news",
       "description": "US President Donald Trump continues to back FBI Director Kash Patel, the White House said, defending his leadership and citing a sharp drop in crime a"
-    },
-    {
-      "title": "Major Russian attack on Ukraine kills four, wounds dozens",
-      "link": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-four-wounds-dozens/article70904775.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:13:29+05:30",
-      "time": "25 Apr, 01:13 PM",
-      "type": "news",
-      "description": "Russia has been launching smaller \u2060barrages of dozens of drones every night at Ukraine, interspersing them \u200cwith occasional large-scale attacks that u"
-    },
-    {
-      "title": "Loud blasts, gunfire heard near Mali's main military camp, witness says",
-      "link": "https://www.thehindu.com/news/international/loud-blasts-gunfire-heard-near-malis-main-military-camp-witness-says/article70904788.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:12:18+05:30",
-      "time": "25 Apr, 01:12 PM",
-      "type": "news",
-      "description": "It was not clear what caused \u200cthe explosions and no militant group \u200cimmediately \u2060claimed responsibility for an \u2060attack"
     },
     {
       "title": "China acquired capacity to build 50 nuclear power reactors simultaneously: Official report",
@@ -64,24 +163,6 @@
       "description": "The 63-year-old former nurse, who is married with two children, is the first woman to lead the mother church of the world's 85-million strong Anglican"
     },
     {
-      "title": "Israel-Iran war LIVE: Egyptian and Pakistani officials discuss Iran war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:47:00+05:30",
-      "time": "25 Apr, 12:47 PM",
-      "type": "news",
-      "description": "U.S. President Donald Trump sends envoys to Islamabad; Iran rules out direct talks"
-    },
-    {
-      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
-      "link": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:41:28+05:30",
-      "time": "25 Apr, 12:41 PM",
-      "type": "news",
-      "description": "The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries"
-    },
-    {
       "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
       "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
       "source": "The Hindu",
@@ -91,16 +172,7 @@
       "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority "
     },
     {
-      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
-      "link": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:17:36+05:30",
-      "time": "25 Apr, 12:17 PM",
-      "type": "news",
-      "description": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent \u200ba new challenge \u200cto regi"
-    },
-    {
-      "title": "Mexican President Says Sovereignty Is Not Negotiable, Rejects Foreign Interference",
+      "title": "Mexican President Says Sovereignty Is Not Negotiable, Rejects US Interference",
       "link": "https://www.newsonair.gov.in/mexican-president-says-sovereignty-is-not-negotiable-rejects-foreign-interference/",
       "source": "AIR International",
       "sort_key": "2026-04-25T12:16:06+05:30",
@@ -154,15 +226,6 @@
       "description": ""
     },
     {
-      "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
-      "link": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T11:57:42+05:30",
-      "time": "25 Apr, 11:57 AM",
-      "type": "news",
-      "description": "Pakistan's Deputy Prime Minister and Foreign Minister Dar, in a social media post, expressed hope for \"meaningful engagements\" between the two warring"
-    },
-    {
       "title": "3-year \u2018H-1B freeze\u2019 proposal: How the new \u2018end H-1B Visa abuse act\u2019 could ban families and bring down salary cap",
       "link": "https://indianexpress.com/article/world/us-news/h1b-visa-3-year-pause-bill-congress-eli-crane-reforms-10655013/",
       "source": "The Indian Express",
@@ -188,15 +251,6 @@
       "time": "25 Apr, 11:54 AM",
       "type": "news",
       "description": "European Commission President Ursula von der Leyen said on April 25, 2026 that EU is ready to work with Persian Gulf countries for new projects convey"
-    },
-    {
-      "title": "U.S. negotiators to go to Islamabad, but Iran says no direct talks",
-      "link": "https://www.thehindu.com/news/international/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks/article70904574.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T11:49:28+05:30",
-      "time": "25 Apr, 11:49 AM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "U.S. imposes sanctions on China-based oil refinery, 40 shippers over Iranian oil",
@@ -361,16 +415,7 @@
       "description": "In the United States, the Justice Department has decided to adopt firing squads as a permitted method of execution as the Trump administration moves t"
     },
     {
-      "title": "Donald Trump Administration Imposes Sanctions on China-Based Refinery, 40 Firms Over Iran Oil Trade",
-      "link": "https://www.newsonair.gov.in/donald-trump-administration-imposes-sanctions-on-china-based-refinery-40-firms-over-iran-oil-trade/",
-      "source": "AIR International",
-      "sort_key": "2026-04-25T07:32:40+05:30",
-      "time": "25 Apr, 07:32 AM",
-      "type": "news",
-      "description": "In United States, the Trump administration has imposed economic sanctions on a major China-based oil refinery and around 40 shipping companies and tan"
-    },
-    {
-      "title": "US Iran War News Live Updates: Witkoff and Kushner head to Pakistan for Iran negotiations",
+      "title": "US Iran War News Live Updates: Iran\u2019s IRGC arrests 240 suspects in massive crackdown",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -503,15 +548,6 @@
       "time": "24 Apr, 10:14 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Global hunger crisis deepens as acute hunger doubles in a decade",
-      "link": "https://www.newsonair.gov.in/global-hunger-crisis-deepens-as-acute-hunger-doubles-in-a-decade/",
-      "source": "AIR International",
-      "sort_key": "2026-04-24T22:04:22+05:30",
-      "time": "24 Apr, 10:04 PM",
-      "type": "news",
-      "description": "Acute food insecurity and malnutrition levels remain alarmingly high and deeply entrenched, according to the Global Report on Food Crises (GRFC) 2026,"
     },
     {
       "title": "J-K: IAF dismisses aircraft crash reports near Kishtwar, terms it false",
@@ -1090,15 +1126,6 @@
       "description": "Concern among health officials in Karachi with the festival of Id al-Azha due next month"
     },
     {
-      "title": "Watch: Above 92% turnout in Bengal, 85% in Tamil Nadu amid poll violence | Above the Fold | 23.04.2026",
-      "link": "https://www.thehindu.com/videos/watch-above-92-turnout-in-bengal-85-in-tamil-nadu-amid-poll-violence-above-the-fold-23042026/article70898876.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T22:39:07+05:30",
-      "time": "23 Apr, 10:39 PM",
-      "type": "news",
-      "description": "In today\u2019s episode, we look at the key election trends in Tamil Nadu and West Bengal, tracking major shifts ahead of polling. We also cover the politi"
-    },
-    {
       "title": "Pakistan-US thaw may influence India's response to future terror attacks, says ex-US envoy Juster",
       "link": "https://economictimes.indiatimes.com/news/defence/pakistan-us-thaw-may-influence-indias-response-to-future-terror-attacks-says-ex-us-envoy-juster/articleshow/130474240.cms",
       "source": "Economic Times",
@@ -1160,15 +1187,6 @@
       "time": "23 Apr, 08:42 PM",
       "type": "news",
       "description": "As America's military stockpiles face a concerning decline, the prolonged ceasefire with Iran gains new importance. The US has exhausted many of its p"
-    },
-    {
-      "title": "Indian seafarer among crew of ship held by Iran in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/national/indian-seafarer-among-crew-of-ship-held-by-iran-in-strait-of-hormuz/article70898158.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T20:16:54+05:30",
-      "time": "23 Apr, 08:16 PM",
-      "type": "news",
-      "description": "Of two vessels in Iranian custody, one Indian is among the 21 crew onboard Epaminondas"
     },
     {
       "title": "Military pushes for private participation in space, more Indian satellites. \u2018Can\u2019t rely on single entity\u2019",
@@ -1243,15 +1261,6 @@
       "description": "Space is now the key to future conflicts. India must boost its capabilities to match rivals. DRDO is working with startups, MSMEs, and academia. Inves"
     },
     {
-      "title": "India\u2019s Private Sector Activity Accelerates In April As Manufacturing Drives Growth - Swarajyamag",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0xZdkFRNGRYSjhlTWd3b3RvdDZEMTUya1g3T1EzalY3LWJhWnFja1dTaUlLOUdXYmxaUDB0NjZlWlZFRnRDU2M0YmdyaE9ScXhJRXpmZzQ3UGFZN1NWOWtJOXVqV0daUkJmU01jMjFIeVVTTVdFa0plZ1JKVnF2T1JSZWNVX3duVTJ5bHVjQ2lMWHdMV1FlNThrMjIxRUZ0TVl1WkM5eWpZNWQ3R19KZzBzOELSAcQBQVVfeXFMTVo4cWJBRFozRlcxQzlDb0E5clU2SV9BdTBVMjBmTUJNdUh3Y1NrejJoYWdpeVlzVFVZMm9rUkRQOFI5aHNwWVVzSUJQakxRd1VyWVdteGIxX0VqUzJYMEhBbmc5aVBxNjBnemQzSWdOV3VuUWViQldvajh0RGhHX3dNcE9IOFlmcWZqaVBYdHVzUjF1SjhwbV9jMzBOYmoxNGw5emdyVHYwTjN0VlNnVnRtUDZGeXpUVVpBTzkxX3BoSWc2Zg?oc=5",
-      "source": "Swarajya",
-      "sort_key": "2026-04-23T16:26:38+05:30",
-      "time": "23 Apr, 04:26 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
       "title": "\u2018Not a violation\u2019: US on Iran ship seizures, Tehran cries Strait of Hormuz blockade",
       "link": "https://indianexpress.com/article/world/not-a-violation-us-on-iran-ship-seizures-tehran-cries-strait-of-hormuz-blockade-10651629/",
       "source": "The Indian Express",
@@ -1295,72 +1304,36 @@
       "time": "23 Apr, 02:30 PM",
       "type": "news",
       "description": "China has revealed a video hinting at a new nuclear-powered aircraft carrier. The nation also plans to strengthen its island infrastructure. These mov"
-    },
-    {
-      "title": "Shadow of Hormuz: Why is the Gulf crisis turning all eyes to Malacca Strait",
-      "link": "https://economictimes.indiatimes.com/news/defence/the-rising-tensions-in-hormuz-and-their-impact-on-the-malacca-strait-a-crucial-maritime-crisis/articleshow/130462134.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T14:07:23+05:30",
-      "time": "23 Apr, 02:07 PM",
-      "type": "news",
-      "description": "The Strait of Malacca, a vital global trade artery, faces increased scrutiny following disruptions elsewhere. This busy waterway connects East Asia to"
-    },
-    {
-      "title": "BAE Systems awarded $180 million contract from Sweden for TRIDON Mk2",
-      "link": "https://www.indiastrategic.in/bae-systems-awarded-180-million-contract-from-sweden-for-tridon-mk2/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-23T14:00:42+05:30",
-      "time": "23 Apr, 02:00 PM",
-      "type": "news",
-      "description": "<p>KARLSKOGA, Sweden/NewDelhi, April 23, 2026. BAE Systems has secured a contract worth $180 million from the Swedish Defence Materiel Administration "
-    },
-    {
-      "title": "India's future warfare will depend on theatre commands, AI and space systems: Ex-IAF Chief RKS Bhadauria",
-      "link": "https://economictimes.indiatimes.com/news/defence/indias-future-warfare-will-depend-on-theatre-commands-ai-and-space-systems-ex-iaf-chief-rks-bhadauria/articleshow/130462115.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T13:55:31+05:30",
-      "time": "23 Apr, 01:55 PM",
-      "type": "news",
-      "description": "India's military is set for a major transformation. Theater-based integration, rapid technology adoption, and AI-driven systems will be key. Ongoing d"
-    },
-    {
-      "title": "Dubai Metro Gold Line: How the city\u2019s first fully underground line will transform connectivity",
-      "link": "https://indianexpress.com/article/world/dubai-metro-gold-line-how-the-citys-first-fully-underground-line-will-transform-connectivity-10650861/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T13:53:17+05:30",
-      "time": "23 Apr, 01:53 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Middle East conflict re-sets equations: Flurry of activity in Beijing as US depletes power",
-      "link": "https://www.indiastrategic.in/middle-east-conflict-re-sets-equations-flurry-of-activity-in-beijing-as-us-depletes-power/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-23T13:51:05+05:30",
-      "time": "23 Apr, 01:51 PM",
-      "type": "news",
-      "description": "<p>By Simran Sodhi New Delhi. After a 40-day period of conflict between the United States-Israel and Iran, the world is in the middle of a fragile cea"
-    },
-    {
-      "title": "Navy chief Admiral Dinesh K Tripathi stresses operational synergy to address emerging challenges in Indo-Pacific",
-      "link": "https://economictimes.indiatimes.com/news/defence/navy-chief-admiral-dinesh-k-tripathi-stresses-operational-synergy-to-address-emerging-challenges-in-indo-pacific/articleshow/130461995.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T13:49:13+05:30",
-      "time": "23 Apr, 01:49 PM",
-      "type": "news",
-      "description": "Navy chief Admiral Dinesh K Tripathi visited the Andaman and Nicobar Command. He emphasized coordination among Army, Navy, Air Force, and Coast Guard "
-    },
-    {
-      "title": "Hormuz crisis deepens: Mine clearance may take six months",
-      "link": "https://economictimes.indiatimes.com/news/defence/strait-of-hormuz-crisis-pentagon-estimate-reveals-6-month-mine-clearance-timeline-amid-rising-oil-prices/articleshow/130461466.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T13:29:50+05:30",
-      "time": "23 Apr, 01:29 PM",
-      "type": "news",
-      "description": "Clearing Iranian mines from the Strait of Hormuz could take six months. This operation may keep oil prices high. Iran has largely blocked the vital wa"
     }
   ],
   "tweets": [
+    {
+      "title": "RT by @NetramDefence: BREAKING: Tension escalated during the COCOMI mass rally in Imphal, Manipur on Saturday as a confrontation broke out between the rally participants and police personnel. Police fired tear gas shells to disperse the crowd and bring the situation under control.",
+      "link": "https://nitter.net/KangleipakDaily/status/2047955935340204148#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-25T13:58:38+05:30",
+      "time": "25 Apr, 01:58 PM",
+      "type": "tweets",
+      "content": "RT by @NetramDefence: BREAKING: Tension escalated during the COCOMI mass rally in Imphal, Manipur on Saturday as a confrontation broke out between the rally participants and police personnel. Police fired tear gas shells to disperse the crowd and bring the situation under control."
+    },
+    {
+      "title": "Ashok Lahiri, new Vice Chairman of Niti Aayog meets PM Modi",
+      "link": "https://nitter.net/sidhant/status/2047955501959512292#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-25T13:56:55+05:30",
+      "time": "25 Apr, 01:56 PM",
+      "type": "tweets",
+      "content": "Ashok Lahiri, new Vice Chairman of Niti Aayog meets PM Modi"
+    },
+    {
+      "title": "Who was the brave unsung hero Tahir Fazal Chaudhary and why he was honoured by Indian army ?\n\nTahir Fazal Chaudhary, also known as \"Bahadur-e-Hill Kaka,\" an unsung hero from Op Sarp Vinash, passed away very recently, on April 22, 2026, at the age of 62 due to a heart attack in Uttarakhand. 16RR paid tribute by performing full military honors. \n\nIn 2002, Tahir was working in Saudi Arabia when he received news that his brother, Haji Mohammad Arif, had been brutally killed by militants. He immediately quit his job and returned to Poonch, taking a solemn oath to avenge his brother and liberate his homeland.\u00a0\n\nAfter His Return To India\nHe mobilized local youth to stand against foreign terrorists and formed \u2018Pir Panjal Scouts,' initially funded by himself, who jointly worked with 9 Para SF & 16 RR.\n\nHis Role in OP Sarp Vinash\nAs a local, he became the eye, ear, and heart of the Indian Army. Where the Army helicopter couldn\u2019t land, he used to provide the precise location of the hideout to foot soldiers of the Indian Army, which led to the killing of 80+ terrorists and dismantled the whole terrorist network in the Pir Panjal mountains.\n\nAftermath Of His Role\nTahir killed terrorist commander Kassid, who killed his brother, and kept his AK-47 as a trophy of war for life.",
+      "link": "https://nitter.net/OsintTV/status/2047949044387910008#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-25T13:31:15+05:30",
+      "time": "25 Apr, 01:31 PM",
+      "type": "tweets",
+      "content": "Who was the brave unsung hero Tahir Fazal Chaudhary and why he was honoured by Indian army ?\n\nTahir Fazal Chaudhary, also known as \"Bahadur-e-Hill Kaka,\" an unsung hero from Op Sarp Vinash, passed away very recently, on April 22, 2026, at the age of 62 due to a heart attack in Uttarakhand. 16RR paid tribute by performing full military honors. \n\nIn 2002, Tahir was working in Saudi Arabia when he received news that his brother, Haji Mohammad Arif, had been brutally killed by militants. He immediately quit his job and returned to Poonch, taking a solemn oath to avenge his brother and liberate his homeland.\u00a0\n\nAfter His Return To India\nHe mobilized local youth to stand against foreign terrorists and formed \u2018Pir Panjal Scouts,' initially funded by himself, who jointly worked with 9 Para SF & 16 RR.\n\nHis Role in OP Sarp Vinash\nAs a local, he became the eye, ear, and heart of the Indian Army. Where the Army helicopter couldn\u2019t land, he used to provide the precise location of the hideout to foot soldiers of the Indian Army, which led to the killing of 80+ terrorists and dismantled the whole terrorist network in the Pir Panjal mountains.\n\nAftermath Of His Role\nTahir killed terrorist commander Kassid, who killed his brother, and kept his AK-47 as a trophy of war for life."
+    },
     {
       "title": "I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI",
       "link": "https://nitter.net/OsintTV/status/2047946019241930926#m",
@@ -1621,6 +1594,15 @@
       "time": "24 Apr, 10:26 PM",
       "type": "tweets",
       "content": "Yes, that's why your Mamu Imran Khan\u2019s pants got wet and rushed to release Wing Commander Abhinandan in 2019...."
+    },
+    {
+      "title": "RT by @OsintTV: Pakistan's terror links exposed\n\nFresh visuals raise questions over Pakistan's terror links\n\n@ShreyaOpines brings you more",
+      "link": "https://nitter.net/WIONews/status/2047713245943955767#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-24T21:54:17+05:30",
+      "time": "24 Apr, 09:54 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: Pakistan's terror links exposed\n\nFresh visuals raise questions over Pakistan's terror links\n\n@ShreyaOpines brings you more"
     },
     {
       "title": "Daily US-Israel-Iran War Brief: \n24th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf The FMs of Qatar, Jordan, UAE, Indonesia, Pakistan, Turkey, Saudi Arabia, and Egypt have condemned repeated Israeli violations of the historical and legal status quo of Islamic and Christian holy sites in Jerusalem.\n\n\u25cf The airspace at the Kuwait International Airport will reopen. Kuwait is the last GCC country to open its airspace, following the regional crisis since February 28.\n\n\u25cf Trump said that the meeting with representatives of Israel and Lebanon went well, and that the ceasefire between Israel and Lebanon would be extended by three weeks.\n\n\u25cf Iran's state TV released that the energy facilities in Qatar, UAE, Saudi Arabia, and Kuwait will be targeted when the war resumes.\n\n\u25cf Iran's FM Araghchi to commence a diplomatic tour of Islamabad, Muscat, and Moscow. The mission underscores Iran's \"neighborhood first\" policy.\n\n\u25cf US-sanctioned tanker, YURI, carrying ~2mil barrels of Iranian crude was tracked near the Strait of Hormuz today. It had gone dark for several days, and was seen passing Larak Island late Thursday.\n\n\u25cf CENTCOM: To date, US forces have redirected 34 vessels.\n\n\u25cf Secretary of War Pete Hegseth announced that the US naval blockade is going global.\n\nEND IF THE BRIEF",
@@ -1911,15 +1893,6 @@
       "content": "Breaking: \n\nNetanyahu reveals he quietly underwent treatment for undisclosed prostate cancer."
     },
     {
-      "title": "'locked & loaded', says US Defence secretary on West Asia situation",
-      "link": "https://nitter.net/sidhant/status/2047650683625832869#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-24T17:45:41+05:30",
-      "time": "24 Apr, 05:45 PM",
-      "type": "tweets",
-      "content": "'locked & loaded', says US Defence secretary on West Asia situation"
-    },
-    {
       "title": "\ud83d\udccd",
       "link": "https://nitter.net/OsintTV/status/2047647068303265805#m",
       "source": "Osint TV",
@@ -1956,6 +1929,15 @@
       "content": "RT by @NetramDefence: Two Kuki and one Tangkhul killed in crossfire at Mullam and Sinakeithei villages; Kuki and Tangkhul militants blame each other for the attack."
     },
     {
+      "title": "RT by @OsintTV: Pakistan's terror links exposed \n\nImage: Khwaja Asif meets PMML general secy Yasir Arafat Butt \n\nReports claim PMML is a political front of banned LeT outfit \n\n@ShreyaOpines has more on this",
+      "link": "https://nitter.net/WIONews/status/2047628254480339115#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-24T16:16:33+05:30",
+      "time": "24 Apr, 04:16 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: Pakistan's terror links exposed \n\nImage: Khwaja Asif meets PMML general secy Yasir Arafat Butt \n\nReports claim PMML is a political front of banned LeT outfit \n\n@ShreyaOpines has more on this"
+    },
+    {
       "title": "Raghav Chadha along with Ashok Mittal and Sandeep Pathak quit Aam Aadmi Party & they're going to join BJP.",
       "link": "https://nitter.net/Goreunit/status/2047627831761617212#m",
       "source": "War & Gore",
@@ -1972,33 +1954,6 @@
       "time": "24 Apr, 04:09 PM",
       "type": "tweets",
       "content": "\"Pakistan's warm relations with the United States may cause India to limit its response to the next significant cross-border terrorist incident..,\" says Kenneth Juster, Former US Ambassador to India\n\nHow are they so confident of a next significant terrorist incident!!!!"
-    },
-    {
-      "title": "OsintTV \ud83d\udcfa\n@OsintTV\n\ud83d\udea8Where is all the IMF loan and borrowed money spent?\n\nA CNN-News18 investigation flags fresh concerns over Pakistan\u2019s outreach in Washington during the Pahalgam attack.\n\nFilings under the Foreign Agents Registration Act indicate Pakistan hired multiple lobbying firms to engage US lawmakers in spring 2025.\n\nPublic money, private influence.",
-      "link": "https://nitter.net/OsintTV/status/2047611893381042622#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T15:11:32+05:30",
-      "time": "24 Apr, 03:11 PM",
-      "type": "tweets",
-      "content": "OsintTV \ud83d\udcfa\n@OsintTV\n\ud83d\udea8Where is all the IMF loan and borrowed money spent?\n\nA CNN-News18 investigation flags fresh concerns over Pakistan\u2019s outreach in Washington during the Pahalgam attack.\n\nFilings under the Foreign Agents Registration Act indicate Pakistan hired multiple lobbying firms to engage US lawmakers in spring 2025.\n\nPublic money, private influence."
-    },
-    {
-      "title": "\ud835\uddd9\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\ude04\ud835\uddf2\ud835\uddf9\ud835\uddf9 \ud835\ude01\ud835\uddfc \ud835\uddee \ud835\udde0\ud835\uddee\ud835\uddfb \ud835\uddfc\ud835\uddf3 \ud835\uddd6\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 \n\n23-04-2026 - Poonch, J&K\n\nWith heavy hearts, the Indian Army bids goodbye to Tahir Fazal, who stood firm alongside our troops during Operation Sarp Vinash 2003.\n\nPoonch will remember him.\nSo will the nation.\n\nHe chose courage when it was hardest.\nHe stood his ground when it mattered most.\nThank you for your service.\n\nRest in peace.",
-      "link": "https://nitter.net/OsintTV/status/2047603764765344052#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T14:39:14+05:30",
-      "time": "24 Apr, 02:39 PM",
-      "type": "tweets",
-      "content": "\ud835\uddd9\ud835\uddee\ud835\uddff\ud835\uddf2\ud835\ude04\ud835\uddf2\ud835\uddf9\ud835\uddf9 \ud835\ude01\ud835\uddfc \ud835\uddee \ud835\udde0\ud835\uddee\ud835\uddfb \ud835\uddfc\ud835\uddf3 \ud835\uddd6\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 \n\n23-04-2026 - Poonch, J&K\n\nWith heavy hearts, the Indian Army bids goodbye to Tahir Fazal, who stood firm alongside our troops during Operation Sarp Vinash 2003.\n\nPoonch will remember him.\nSo will the nation.\n\nHe chose courage when it was hardest.\nHe stood his ground when it mattered most.\nThank you for your service.\n\nRest in peace."
-    },
-    {
-      "title": "RT by @OsintTV: The One of the real turning point in the Indo-Pak War of 1965,1971 was in the #Khemkaran sector, where history witnessed the making of the \u201c#Patton Graveyard\u201da symbol of Pakistan\u2019s heavy losses and India\u2019s decisive strength.\nDueing #OpsSindoor once again, in the same region opposite Khemkaran in areas like Sehjra and Kasur Pakistan has been forced to show the white flag.\nThis image may be from 1971, but the message remains the same\u2026 the outcome, you already understand.\ud83c\uddee\ud83c\uddf3\n#WarHistory",
-      "link": "https://nitter.net/manishindiatv/status/2047598660985434235#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T14:18:57+05:30",
-      "time": "24 Apr, 02:18 PM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: The One of the real turning point in the Indo-Pak War of 1965,1971 was in the #Khemkaran sector, where history witnessed the making of the \u201c#Patton Graveyard\u201da symbol of Pakistan\u2019s heavy losses and India\u2019s decisive strength.\nDueing #OpsSindoor once again, in the same region opposite Khemkaran in areas like Sehjra and Kasur Pakistan has been forced to show the white flag.\nThis image may be from 1971, but the message remains the same\u2026 the outcome, you already understand.\ud83c\uddee\ud83c\uddf3\n#WarHistory"
     },
     {
       "title": "RT by @NetramDefence: Pakistan secures First rank in Global Terrorism Index.",
@@ -2127,15 +2082,6 @@
       "content": "Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man"
     },
     {
-      "title": "R to @sidhant: 23th April (Day 55)\n-Air defenses activated in Tehran\n-US military boards a \"sanctioned\" vessel transporting oil from Iran in the Indian Ocean\n-2nd rounds of Lebanon, Israel talks in DC\n-Trump says US has \"total control\" over Hormuz\n-India advises its national on Iran visit",
-      "link": "https://nitter.net/sidhant/status/2047379719642050724#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T23:48:58+05:30",
-      "time": "23 Apr, 11:48 PM",
-      "type": "tweets",
-      "content": "R to @sidhant: 23th April (Day 55)\n-Air defenses activated in Tehran\n-US military boards a \"sanctioned\" vessel transporting oil from Iran in the Indian Ocean\n-2nd rounds of Lebanon, Israel talks in DC\n-Trump says US has \"total control\" over Hormuz\n-India advises its national on Iran visit"
-    },
-    {
       "title": "Rajasthan IB: Blackout to Take Place in Barmer Tomorrow\n\nRehearsal of Air Strikes and Mock Drill Also to Be Conducted",
       "link": "https://nitter.net/Goreunit/status/2047337604400680969#m",
       "source": "War & Gore",
@@ -2244,15 +2190,6 @@
       "content": "Pakistan is Hit Hard by Qatar's LNG Blackout\n\nPakistan is being forced back into the expensive spot LNG market for the first time in nearly 3 years as Qatar\u2019s LNG supply collapses amid the Gulf conflict.\n\nWhat\u2019s happening:\n- Damage to Ras Laffan LNG complex + Hormuz disruption choking supply\n-'20% of global LNG flows impacted\n- Pakistan facing power cuts, fuel shortages, industrial shutdowns\n-  Emergency tender issued for spot LNG cargoes (high prices)\n\nQatar\u2019s losses estimated at $20B/year, with repairs taking up to 5 years."
     },
     {
-      "title": "A gold and copper mining firm, National resources limited in Darigwan, chagai district of Balochistan was attacked by Unknown Gunmen in which 10 bodies were recovered which included a foreign national and Pakistani armed forces personnel.",
-      "link": "https://nitter.net/NetramDefence/status/2047283757632422161#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T17:27:39+05:30",
-      "time": "23 Apr, 05:27 PM",
-      "type": "tweets",
-      "content": "A gold and copper mining firm, National resources limited in Darigwan, chagai district of Balochistan was attacked by Unknown Gunmen in which 10 bodies were recovered which included a foreign national and Pakistani armed forces personnel."
-    },
-    {
       "title": "Journalist: Donald Trump has reposted a letter referring to India and other countries as \u201chellholes\u201d. Any response?\n\nMEA: We have seen some reports. That is where I leave it",
       "link": "https://nitter.net/WarMonitorINTL/status/2047280306261307673#m",
       "source": "War Monitor",
@@ -2287,33 +2224,6 @@
       "time": "23 Apr, 03:01 PM",
       "type": "tweets",
       "content": "Four over ground workers (OGWs), including one woman, were arrested in Srinagar.\nAll accused are residents of Hazratbal.\nArrested individuals: Zahoor Ahmad Mir, Bashir Ahmad Bhat, Ghulam Mohammad Bhat, and Shazia Mohammad.\nThey were allegedly providing logistic support to terrorists.\n\nRecovered items: one hand grenade, 15 AK-47 rounds, four mobile phones, and cash."
-    },
-    {
-      "title": "District Administration of Kathua, J&K will conduct a civil defence mock drill, including an air raid and blackout exercise, across the district today at 8:30 PM.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047229215465250909#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-23T13:50:55+05:30",
-      "time": "23 Apr, 01:50 PM",
-      "type": "tweets",
-      "content": "District Administration of Kathua, J&K will conduct a civil defence mock drill, including an air raid and blackout exercise, across the district today at 8:30 PM."
-    },
-    {
-      "title": "RT by @NetramDefence: \ud83e\uddf5THREAD: Khongjom Day\n\nOn 23 April, Manipur observes Khongjom Day - a day to remember the brave warriors who fought in the final battle of the Anglo-Manipuri War in 1891.\n\n135 years ago, Manipuri soldiers made their last stand against British forces at Khongjom.\n\n@CMO_MANIPUR_",
-      "link": "https://nitter.net/MN_Unfiltered/status/2047226851693617623#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T13:41:31+05:30",
-      "time": "23 Apr, 01:41 PM",
-      "type": "tweets",
-      "content": "RT by @NetramDefence: \ud83e\uddf5THREAD: Khongjom Day\n\nOn 23 April, Manipur observes Khongjom Day - a day to remember the brave warriors who fought in the final battle of the Anglo-Manipuri War in 1891.\n\n135 years ago, Manipuri soldiers made their last stand against British forces at Khongjom.\n\n@CMO_MANIPUR_"
-    },
-    {
-      "title": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua.",
-      "link": "https://nitter.net/Goreunit/status/2047226278315798691#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-23T13:39:15+05:30",
-      "time": "23 Apr, 01:39 PM",
-      "type": "tweets",
-      "content": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua."
     }
   ],
   "youtube": [
@@ -2391,7 +2301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "01:24 PM IST",
-    "next_update": "02:24 PM IST"
+    "last_updated": "02:24 PM IST",
+    "next_update": "03:24 PM IST"
   }
 }
