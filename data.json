@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Iran's Foreign Minister Araghchi meets Pakistan Army chief Munir",
+      "link": "https://www.thehindu.com/news/international/irans-foreign-minister-araghchi-meets-pakistan-army-chief-munir/article70905131.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T16:44:19+05:30",
+      "time": "25 Apr, 04:44 PM",
+      "type": "news",
+      "description": "There is no clarity on whether direct talks between Washington and Tehran will take place during the visit"
+    },
+    {
+      "title": "Mali attacks: Gunfire, blasts rock Bamako and northern cities in suspected coordinated assault",
+      "link": "https://indianexpress.com/article/world/mali-attacks-gunfire-blasts-rock-bamako-and-northern-cities-in-suspected-coordinated-assault-10655592/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-25T16:26:19+05:30",
+      "time": "25 Apr, 04:26 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Israel-Iran war LIVE: Iran Foreign Minister Araghchi meets Pakistan Army chief Munir",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T16:13:23+05:30",
+      "time": "25 Apr, 04:13 PM",
+      "type": "news",
+      "description": "Iran resumes commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two months ag"
+    },
+    {
+      "title": "Israel-Iran war updates: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T16:04:29+05:30",
+      "time": "25 Apr, 04:04 PM",
+      "type": "news",
+      "description": "Iran made it clear that there would be no direct negotiations with American government representatives"
+    },
+    {
+      "title": "Iran resumes commercial flights from Tehran\u2019s international airport for first time since conflict",
+      "link": "https://www.thehindu.com/news/international/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-conflict/article70904871.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T15:31:22+05:30",
+      "time": "25 Apr, 03:31 PM",
+      "type": "news",
+      "description": "Iran has resumed commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two month"
+    },
+    {
       "title": "Trump teases Iran deal: \u2018They\u2019re making an offer\u2019 amid Islamabad diplomacy push",
       "link": "https://indianexpress.com/article/world/trump-says-iran-may-make-offer-to-meet-us-in-islamabad-10655308/",
       "source": "The Indian Express",
@@ -37,15 +82,6 @@
       "description": "Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said."
     },
     {
-      "title": "Israel-Iran war LIVE: Iran Foreign Minister Araghchi meets Pakistan Army chief Munir",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T14:20:30+05:30",
-      "time": "25 Apr, 02:20 PM",
-      "type": "news",
-      "description": "Iran resumes commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two months ag"
-    },
-    {
       "title": "\u2018My heart remains with victims\u2019: Sam Altman apologises after warning signs missed in Canada shooting",
       "link": "https://indianexpress.com/article/world/sam-altman-apology-letter-canada-tumbler-ridge-shooting-10655228/",
       "source": "The Indian Express",
@@ -62,15 +98,6 @@
       "time": "25 Apr, 02:05 PM",
       "type": "news",
       "description": "The World Health Organization has classified Bangladesh as facing a high risk of a measles outbreak, warning that urgent action is needed to address c"
-    },
-    {
-      "title": "Iran resumes commercial flights from Tehran\u2019s international airport for first time since conflict",
-      "link": "https://www.thehindu.com/news/international/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-conflict/article70904871.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:59:40+05:30",
-      "time": "25 Apr, 01:59 PM",
-      "type": "news",
-      "description": "Iran has resumed commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two month"
     },
     {
       "title": "US Envoys Witkoff, Kushner to Visit Pakistan for Ceasefire Talks with Iran",
@@ -442,7 +469,7 @@
       "description": "In the United States, the Justice Department has decided to adopt firing squads as a permitted method of execution as the Trump administration moves t"
     },
     {
-      "title": "US Iran War News Live Updates: Iran FM Abbas Araghchi meets Pakistan Army chief Asim Munir in Islamabad",
+      "title": "US Iran War News Live Updates: Abbas Araghchi conveys Iran\u2019s demands, reservations on US proposals, says report",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -476,15 +503,6 @@
       "time": "25 Apr, 05:41 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Israel-Iran war updates: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T05:33:55+05:30",
-      "time": "25 Apr, 05:33 AM",
-      "type": "news",
-      "description": "Iran made it clear that there would be no direct negotiations with American government representatives"
     },
     {
       "title": "\u2018The damage is done\u2019: Why the IEA chief believes the global oil market will never return to normal",
@@ -1126,15 +1144,6 @@
       "description": "The MEA response came after Opposition members and former diplomats criticised the government for not offering a stronger response to the\u00a0U.S."
     },
     {
-      "title": "Pentagon says top Navy official to leave office \u2018immediately\u2019",
-      "link": "https://www.thehindu.com/news/international/pentagon-says-top-navy-official-to-leave-office-immediately/article70898930.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T23:03:14+05:30",
-      "time": "23 Apr, 11:03 PM",
-      "type": "news",
-      "description": "No reason was given for the unexpected departure of the Navy\u2019s top civilian official, coming as the sea service has imposed a blockade of Iranian port"
-    },
-    {
       "title": "The Quad Is on the Brink of Extinction",
       "link": "https://foreignpolicy.com/2026/04/23/trump-quad-india-japan-australia-modi-china-summit-diplomacy-geopolitics/",
       "source": "Foreign Policy",
@@ -1259,27 +1268,36 @@
       "time": "23 Apr, 05:47 PM",
       "type": "news",
       "description": "US forces seized another tanker linked to Iranian oil smuggling in the Indian Ocean, escalating tensions after Iran captured two vessels in the Strait"
-    },
-    {
-      "title": "War at machine speed: How AI became a decisive force in US-Israel conflict with Iran",
-      "link": "https://theprint.in/defence/war-at-machine-speed-how-ai-became-a-decisive-force-in-us-israel-conflict-with-iran/2912204/",
-      "source": "The Print",
-      "sort_key": "2026-04-23T17:03:20+05:30",
-      "time": "23 Apr, 05:03 PM",
-      "type": "news",
-      "description": "The core of the US military\u2019s AI deployment in Iran is a system called the Maven Smart System, built by software company Palantir Technologies."
-    },
-    {
-      "title": "Space will decide future wars, India needs whole-of-nation push to catch up: DRDO Chief Samir Kamat",
-      "link": "https://economictimes.indiatimes.com/news/defence/space-will-decide-future-wars-india-needs-whole-of-nation-push-to-catch-up-drdo-chief-samir-kamat/articleshow/130466400.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T16:56:21+05:30",
-      "time": "23 Apr, 04:56 PM",
-      "type": "news",
-      "description": "Space is now the key to future conflicts. India must boost its capabilities to match rivals. DRDO is working with startups, MSMEs, and academia. Inves"
     }
   ],
   "tweets": [
+    {
+      "title": "Some more unverified images surfaced on social media of pathetic food quality onboard US aircraft carrier USS Abraham Lincoln.\n\nA crew with green color tshirt can be seen in the left side picture, these guys work on the deck and maintainance of aircrafts.",
+      "link": "https://nitter.net/elitepredatorss/status/2047999611055505800#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T16:52:11+05:30",
+      "time": "25 Apr, 04:52 PM",
+      "type": "tweets",
+      "content": "Some more unverified images surfaced on social media of pathetic food quality onboard US aircraft carrier USS Abraham Lincoln.\n\nA crew with green color tshirt can be seen in the left side picture, these guys work on the deck and maintainance of aircrafts."
+    },
+    {
+      "title": "US delegation is set to arrive in Pakistan tonight.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047999431312843130#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-25T16:51:29+05:30",
+      "time": "25 Apr, 04:51 PM",
+      "type": "tweets",
+      "content": "US delegation is set to arrive in Pakistan tonight."
+    },
+    {
+      "title": "'Serious Mistake By Cops': Family Of Accused, Arrested Over Terror Plot, Claims He Has Mental Illness",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047995824769241118#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-25T16:37:09+05:30",
+      "time": "25 Apr, 04:37 PM",
+      "type": "tweets",
+      "content": "'Serious Mistake By Cops': Family Of Accused, Arrested Over Terror Plot, Claims He Has Mental Illness"
+    },
     {
       "title": "A little girl was playing in her backyard while her mother stood by her side. As dusk fell, a leopard crept in and made an unexpected attack on the girl. Hearing the noise, the girl\u2019s father, Suresh Rathwa, came out of his house.\n\nThough he was shocked initially, he regained his nerve after seeing that his daughter was being taken away by the leopard.\n\nHe attacked the leopard fiercely and freed his daughter from its clutches. He kept fighting with the leopard despite its efforts to counter his attack.\n\nEventually, the leopard gave up and moved towards the fields.\n\nThrough his courage, he managed to save his daughter from the claws of death.",
       "link": "https://nitter.net/WarMonitorINTL/status/2047991859667243051#m",
@@ -2163,15 +2181,6 @@
       "content": "Daily US-Israel-Iran War Brief: \n23rd April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.  \n\n\u25cf Secretary of the US Navy John C. Phelan departed from the administration.\n\n\u25cf French FM Jean-No\u00ebl Barrot warned that the EU could adopt sanctions in the coming days against those responsible for violence against Palestinians.\n\n\u25cf US forces carried out a maritime interdiction and right-of-visit boarding of the sanctioned stateless vessel M/T Majestic X.\n\n\u25cf Trump ordered the US Navy to shoot any boat that is putting mines in the Strait of Hormuz, at a tripled level.\n\n\u25cf The Hormuz crisis has increased congestion at the Panama Canal by redirecting US Gulf crude, refined products, and LPG exports to Asia via the canal.\n\n\u25cf An Israeli strike in southern Lebanon reportedly killed one journalist and wounded another today, further complicating the fragile Israel-Lebanon truce.\n\n\u25cf The US Department of War said that clearing naval mines in the Strait of Hormuz could take up to six months.\n\n\u25cf A Hezbollah Radwan Force terrorist in southern Lebanon, who was planning an imminent attack against IDF soldiers, was apprehended by IDF.\n\nEND OF THE BRIEF"
     },
     {
-      "title": "Absolute insane level of cope, expected from Pakistani though \ud83e\udd23",
-      "link": "https://nitter.net/elitepredatorss/status/2047313200245559791#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T19:24:38+05:30",
-      "time": "23 Apr, 07:24 PM",
-      "type": "tweets",
-      "content": "Absolute insane level of cope, expected from Pakistani though \ud83e\udd23"
-    },
-    {
       "title": "India \"Great Country\", Says Trump\n\n\"India is a great country with a very good friend of mine at the top,\" says Trump after 'hell-hole' row",
       "link": "https://nitter.net/WarMonitorINTL/status/2047309629345141105#m",
       "source": "War Monitor",
@@ -2199,15 +2208,6 @@
       "content": "\u2018India is a great country\u2019: Donald Trump's clarification on \u2018hellhole\u2019 remark"
     },
     {
-      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
-      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:43:01+05:30",
-      "time": "23 Apr, 06:43 PM",
-      "type": "tweets",
-      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
-    },
-    {
       "title": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4",
       "link": "https://nitter.net/NetramDefence/status/2047302723658477800#m",
       "source": "Netram Defense",
@@ -2217,13 +2217,13 @@
       "content": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4"
     },
     {
-      "title": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4",
-      "link": "https://nitter.net/NetramDefence/status/2047302720504336553#m",
+      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
+      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
       "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:43:00+05:30",
+      "sort_key": "2026-04-23T18:43:01+05:30",
       "time": "23 Apr, 06:43 PM",
       "type": "tweets",
-      "content": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4"
+      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
     },
     {
       "title": "Thread \ud83e\uddf5 \n\nWhy Pakistan is Desperate to Broker a Peace Deal between US and Iran\n\nPakistan\u2019s current role as a mediator is not merely an act of diplomacy; it is a desperate attempt to prevent a regional catastrophe that would hit its economy and social fabric harder than almost any other nation in the vicinity.\n\nHere are the reasons: \ud83d\udc47\ud83c\udffc\n\n1/4",
@@ -2242,15 +2242,6 @@
       "time": "23 Apr, 06:26 PM",
       "type": "tweets",
       "content": "Is the BJP winning in West Bengal?"
-    },
-    {
-      "title": "Journalist: Donald Trump has reposted a letter referring to India and other countries as \u201chellholes\u201d. Any response?\n\nMEA: We have seen some reports. That is where I leave it",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047280306261307673#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-23T17:13:56+05:30",
-      "time": "23 Apr, 05:13 PM",
-      "type": "tweets",
-      "content": "Journalist: Donald Trump has reposted a letter referring to India and other countries as \u201chellholes\u201d. Any response?\n\nMEA: We have seen some reports. That is where I leave it"
     }
   ],
   "youtube": [
@@ -2328,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST",
-    "next_update": "05:24 PM IST"
+    "last_updated": "05:24 PM IST",
+    "next_update": "06:24 PM IST"
   }
 }
