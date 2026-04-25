@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "US President Donald Trump Backs FBI Chief Kash Patel",
+      "link": "https://www.newsonair.gov.in/us-president-donald-trump-backs-fbi-chief-kash-patel/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T13:17:09+05:30",
+      "time": "25 Apr, 01:17 PM",
+      "type": "news",
+      "description": "US President Donald Trump continues to back FBI Director Kash Patel, the White House said, defending his leadership and citing a sharp drop in crime a"
+    },
+    {
+      "title": "Major Russian attack on Ukraine kills four, wounds dozens",
+      "link": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-four-wounds-dozens/article70904775.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:13:29+05:30",
+      "time": "25 Apr, 01:13 PM",
+      "type": "news",
+      "description": "Russia has been launching smaller \u2060barrages of dozens of drones every night at Ukraine, interspersing them \u200cwith occasional large-scale attacks that u"
+    },
+    {
+      "title": "Loud blasts, gunfire heard near Mali's main military camp, witness says",
+      "link": "https://www.thehindu.com/news/international/loud-blasts-gunfire-heard-near-malis-main-military-camp-witness-says/article70904788.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:12:18+05:30",
+      "time": "25 Apr, 01:12 PM",
+      "type": "news",
+      "description": "It was not clear what caused \u200cthe explosions and no militant group \u200cimmediately \u2060claimed responsibility for an \u2060attack"
+    },
+    {
+      "title": "China acquired capacity to build 50 nuclear power reactors simultaneously: Official report",
+      "link": "https://www.thehindu.com/news/international/china-acquired-capacity-to-build-50-nuclear-power-reactors-simultaneously-official-report/article70904311.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:09:23+05:30",
+      "time": "25 Apr, 01:09 PM",
+      "type": "news",
+      "description": "China\u2019s total installed nuclear power capacity has reached 125 million kilowatts, ranking first globally, State-run CCTV said, quoting the China Nucle"
+    },
+    {
+      "title": "U.S. won't renew Iranian, Russian oil waivers: Bessent",
+      "link": "https://www.thehindu.com/news/international/us-wont-renew-iranian-russian-oil-waivers-bessent/article70904300.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:06:27+05:30",
+      "time": "25 Apr, 01:06 PM",
+      "type": "news",
+      "description": "Bessent\u2019s statements come as the world is on edge over the U.S.-Israeli war in Iran, and global energy markets have been ensnarled by the closure of t"
+    },
+    {
+      "title": "Palestinians vote in first elections since Gaza war",
+      "link": "https://www.thehindu.com/news/international/palestinians-vote-in-first-elections-since-gaza-war/article70904518.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T13:04:28+05:30",
+      "time": "25 Apr, 01:04 PM",
+      "type": "news",
+      "description": "Nearly 1.5 million people are registered to vote in the Israeli-occupied West Bank, as well as 70,000 people in Gaza\u2019s Deir el-Balah area, according t"
+    },
+    {
+      "title": "First female Archbishop of Canterbury to meet Pope Leo",
+      "link": "https://www.thehindu.com/news/international/first-female-archbishop-of-canterbury-to-meet-pope-leo/article70904653.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T12:51:27+05:30",
+      "time": "25 Apr, 12:51 PM",
+      "type": "news",
+      "description": "The 63-year-old former nurse, who is married with two children, is the first woman to lead the mother church of the world's 85-million strong Anglican"
+    },
+    {
+      "title": "Israel-Iran war LIVE: Egyptian and Pakistani officials discuss Iran war",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T12:47:00+05:30",
+      "time": "25 Apr, 12:47 PM",
+      "type": "news",
+      "description": "U.S. President Donald Trump sends envoys to Islamabad; Iran rules out direct talks"
+    },
+    {
+      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
+      "link": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T12:41:28+05:30",
+      "time": "25 Apr, 12:41 PM",
+      "type": "news",
+      "description": "The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries"
+    },
+    {
+      "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
+      "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T12:22:55+05:30",
+      "time": "25 Apr, 12:22 PM",
+      "type": "news",
+      "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority "
+    },
+    {
+      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
+      "link": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T12:17:36+05:30",
+      "time": "25 Apr, 12:17 PM",
+      "type": "news",
+      "description": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent \u200ba new challenge \u200cto regi"
+    },
+    {
       "title": "Mexican President Says Sovereignty Is Not Negotiable, Rejects Foreign Interference",
       "link": "https://www.newsonair.gov.in/mexican-president-says-sovereignty-is-not-negotiable-rejects-foreign-interference/",
       "source": "AIR International",
@@ -10,7 +109,7 @@
       "description": "Mexican President Claudia Sheinbaum has said that the country&#8217;s sovereignty is not negotiable, rejecting any form of foreign interference, parti"
     },
     {
-      "title": "\u2018Drank melted snow to stay alive\u2019: Ukraine fires top commander after photos reveal starving frontline soldiers",
+      "title": "From 90kg to 50kg: Ukraine sacks top commander after \u2018starving\u2019 soldiers\u2019 rib-showing photos go viral",
       "link": "https://indianexpress.com/article/world/ukraines-army-removed-personnel-says-they-are-given-food-in-17-days-10655047/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T12:12:22+05:30",
@@ -44,15 +143,6 @@
       "time": "25 Apr, 12:01 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Israel-Iran war LIVE: Trump sends envoys to Islamabad; Iran rules out direct talks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:01:07+05:30",
-      "time": "25 Apr, 12:01 PM",
-      "type": "news",
-      "description": "Foreign Ministry spokesperson said Pakistani officials and Iran would convey messages between the delegations"
     },
     {
       "title": "US blocks UK access to unredacted Epstein files: Why the DoJ is forcing a \u2018bureaucratic\u2019 delay in Prince Andrew probe",
@@ -98,15 +188,6 @@
       "time": "25 Apr, 11:54 AM",
       "type": "news",
       "description": "European Commission President Ursula von der Leyen said on April 25, 2026 that EU is ready to work with Persian Gulf countries for new projects convey"
-    },
-    {
-      "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
-      "link": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T11:54:16+05:30",
-      "time": "25 Apr, 11:54 AM",
-      "type": "news",
-      "description": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent \u200ba new challenge \u200cto regi"
     },
     {
       "title": "U.S. negotiators to go to Islamabad, but Iran says no direct talks",
@@ -172,15 +253,6 @@
       "description": "Taiwan's defense ministry reported Chinese aircraft and vessels near its territory. This follows similar detections on previous days. China claims Tai"
     },
     {
-      "title": "Palestinians vote in first elections since Gaza war",
-      "link": "https://www.thehindu.com/news/international/palestinians-vote-in-first-elections-since-gaza-war/article70904518.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T10:50:00+05:30",
-      "time": "25 Apr, 10:50 AM",
-      "type": "news",
-      "description": "Nearly 1.5 million people are registered to vote in the Israeli-occupied West Bank, as well as 70,000 people in Gaza\u2019s Deir el-Balah area, according t"
-    },
-    {
       "title": "Iran peace talks is Pakistan\u2019s attempt to whitewash its global image, says Ex-PM Imran Khan\u2019s son",
       "link": "https://indianexpress.com/article/world/imran-khan-son-sulaiman-interview-middle-east-mediation-vision-loss-10654970/",
       "source": "The Indian Express",
@@ -197,15 +269,6 @@
       "time": "25 Apr, 10:36 AM",
       "type": "news",
       "description": "Iran's Foreign Minister is in Islamabad for talks. Meanwhile, Iran's Defence Ministry states much of its missile capability is unused.  The country as"
-    },
-    {
-      "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
-      "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T10:31:42+05:30",
-      "time": "25 Apr, 10:31 AM",
-      "type": "news",
-      "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority "
     },
     {
       "title": "Bangladesh: Concerns Over Minority Safety Rise After Hindu Temple Caretaker\u2019s Body Recovered in Cox\u2019s Bazar",
@@ -307,7 +370,7 @@
       "description": "In United States, the Trump administration has imposed economic sanctions on a major China-based oil refinery and around 40 shipping companies and tan"
     },
     {
-      "title": "US Iran War News Live Updates: US envoys to go to Pakistan for peace talks but Iran says no direct meeting planned",
+      "title": "US Iran War News Live Updates: Witkoff and Kushner head to Pakistan for Iran negotiations",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -325,15 +388,6 @@
       "description": ""
     },
     {
-      "title": "China acquired capacity to build 50 nuclear power reactors simultaneously: Official report",
-      "link": "https://www.thehindu.com/news/international/china-acquired-capacity-to-build-50-nuclear-power-reactors-simultaneously-official-report/article70904311.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T07:06:25+05:30",
-      "time": "25 Apr, 07:06 AM",
-      "type": "news",
-      "description": "China\u2019s total installed nuclear power capacity has reached 125 million kilowatts, ranking first globally, State-run CCTV said, quoting the China Nucle"
-    },
-    {
       "title": "Tunisia suspends Nobel Peace Prize-winning LTDH rights group",
       "link": "https://www.thehindu.com/news/international/tunisia-suspends-nobel-peace-prize-winning-ltdh-rights-group/article70904306.ece",
       "source": "The Hindu",
@@ -341,15 +395,6 @@
       "time": "25 Apr, 06:46 AM",
       "type": "news",
       "description": "The league said the move was part of a \u201cwider pattern of increasingly systematic \u200ccurbs on civil society and on free and independent voices\u201d"
-    },
-    {
-      "title": "U.S. won't renew Iranian, Russian oil waivers: Bessent",
-      "link": "https://www.thehindu.com/news/international/us-wont-renew-iranian-russian-oil-waivers-bessent/article70904300.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T06:33:29+05:30",
-      "time": "25 Apr, 06:33 AM",
-      "type": "news",
-      "description": "Bessent\u2019s statements come as the world is on edge over the U.S.-Israeli war in Iran, and global energy markets have been ensnarled by the closure of t"
     },
     {
       "title": "\u2018No meeting is planned\u2019: Iran rules out direct talks with US in Islamabad; asserts engage via Pakistan",
@@ -467,15 +512,6 @@
       "time": "24 Apr, 10:04 PM",
       "type": "news",
       "description": "Acute food insecurity and malnutrition levels remain alarmingly high and deeply entrenched, according to the Global Report on Food Crises (GRFC) 2026,"
-    },
-    {
-      "title": "Israel continues airstrikes in southern Lebanon despite ceasefire extension",
-      "link": "https://www.newsonair.gov.in/israel-continues-airstrikes-in-southern-lebanon-despite-ceasefire-extension/",
-      "source": "AIR International",
-      "sort_key": "2026-04-24T22:03:57+05:30",
-      "time": "24 Apr, 10:03 PM",
-      "type": "news",
-      "description": "Israel carried out airstrikes in southern Lebanon today, targeting militant infrastructure despite an announced ceasefire extension. The Israeli Air F"
     },
     {
       "title": "J-K: IAF dismisses aircraft crash reports near Kishtwar, terms it false",
@@ -1144,15 +1180,6 @@
       "description": "CDS Anil Chauhan says future space capability will not be built by government agencies alone. \u2018It will be co-developed with industry, start-ups, and t"
     },
     {
-      "title": "Trump orders U.S. military to 'shoot and kill' Iranian small boats choking Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/trump-us-military-shoot-and-kill-order-strait-of-hormuz-blockade-iran-boats/article70897694.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T19:11:15+05:30",
-      "time": "23 Apr, 07:11 PM",
-      "type": "news",
-      "description": "Pentagon blasted as cherry picking and false a news report saying that the dept. assessed it could take six months to completely clear the Strait of H"
-    },
-    {
       "title": "\u2018Sealed up tight\u2019: Trump says US controls Hormuz until Iran agrees to deal",
       "link": "https://economictimes.indiatimes.com/news/defence/sealed-up-tight-trump-says-us-controls-hormuz-until-iran-agrees-to-deal/articleshow/130469958.cms",
       "source": "Economic Times",
@@ -1160,24 +1187,6 @@
       "time": "23 Apr, 06:56 PM",
       "type": "news",
       "description": "President Donald Trump has taken a decisive stance regarding the Strait of Hormuz, declaring it firmly under US control. He has instructed the US Navy"
-    },
-    {
-      "title": "U.S. military says it seizes another oil tanker associated with Iran",
-      "link": "https://www.thehindu.com/news/international/us-military-says-it-seizes-another-oil-tanker-associated-with-iran/article70897378.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T18:55:54+05:30",
-      "time": "23 Apr, 06:55 PM",
-      "type": "news",
-      "description": "The seizure comes a day after Iran attacked three cargo ships in the strait, capturing two of them, in a move that intensified its assault on shipping"
-    },
-    {
-      "title": "Reza Pahlavi splattered with red liquid in Berlin",
-      "link": "https://www.thehindu.com/news/international/reza-pahlavi-splattered-with-red-liquid-in-berlin/article70897305.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T18:44:26+05:30",
-      "time": "23 Apr, 06:44 PM",
-      "type": "news",
-      "description": "The son of Iran\u2019s ousted\u00a0shah called on Europeans to do more to support Iranian people;  alleged perpetrator detained"
     },
     {
       "title": "Trump approval sinks to record lows: Why 70% of Americans say US is on \u2018wrong track\u2019 ahead of 2026 Midterms",
@@ -1205,15 +1214,6 @@
       "time": "23 Apr, 06:33 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Russia says it's maintaining oil supplies but has no new OPEC+ initiatives",
-      "link": "https://www.thehindu.com/news/international/russia-says-its-maintaining-oil-supplies-but-has-no-new-opec-initiatives/article70897206.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T18:13:04+05:30",
-      "time": "23 Apr, 06:13 PM",
-      "type": "news",
-      "description": "\u201cAt \u200cthe moment, we are making our \u200ccontribution \u2060to stabilizing prices and minimizing the consequences \u2060of the global energy crisis. Russia continues"
     },
     {
       "title": "US military says it seizes another oil tanker associated with Iran",
@@ -1358,27 +1358,18 @@
       "time": "23 Apr, 01:29 PM",
       "type": "news",
       "description": "Clearing Iranian mines from the Strait of Hormuz could take six months. This operation may keep oil prices high. Iran has largely blocked the vital wa"
-    },
-    {
-      "title": "India to get German submarines soon: Check key features and capabilities of TKMS Type 214 submarines to be acquired under $8 billion",
-      "link": "https://economictimes.indiatimes.com/news/defence/india-to-get-german-submarines-soon-check-key-features-and-capabilities-of-tkms-type-214-submarines-to-be-acquired-under-8-billion/articleshow/130460328.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T13:00:36+05:30",
-      "time": "23 Apr, 01:00 PM",
-      "type": "news",
-      "description": "India is set to acquire advanced Type 214 submarines from Germany. Defence ministers from both nations visited a submarine facility, highlighting coop"
-    },
-    {
-      "title": "Iran\u2019s foreign ministry says it \u2018appreciates\u2019 Pakistan\u2019s efforts to end Middle East war",
-      "link": "https://indianexpress.com/article/world/irans-foreign-ministry-says-it-appreciates-pakistans-efforts-to-end-middle-east-war-10651542/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T12:45:35+05:30",
-      "time": "23 Apr, 12:45 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI",
+      "link": "https://nitter.net/OsintTV/status/2047946019241930926#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-25T13:19:14+05:30",
+      "time": "25 Apr, 01:19 PM",
+      "type": "tweets",
+      "content": "I stand by that statement even today, \"not an inch has been lost to China\": Former Army Chief Gen M.M Naravane to ANI"
+    },
     {
       "title": "Chinese ZFB-05 APC was stuck in snow somewhere at the India China line of actual control (LAC).\n\nThe same APC showed its poor performance in the failed  BOLIVIAN military coup too.",
       "link": "https://nitter.net/Goreunit/status/2047921756049215994#m",
@@ -2082,15 +2073,6 @@
       "content": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot."
     },
     {
-      "title": "RT by @OsintTV: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-24T08:45:26+05:30",
-      "time": "24 Apr, 08:45 AM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot."
-    },
-    {
       "title": "R to @elitepredatorss: Image",
       "link": "https://nitter.net/elitepredatorss/status/2047513991354921363#m",
       "source": "Elite Predators",
@@ -2208,6 +2190,15 @@
       "content": "\u2018India is a great country\u2019: Donald Trump's clarification on \u2018hellhole\u2019 remark"
     },
     {
+      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
+      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-23T18:43:01+05:30",
+      "time": "23 Apr, 06:43 PM",
+      "type": "tweets",
+      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
+    },
+    {
       "title": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4",
       "link": "https://nitter.net/NetramDefence/status/2047302723658477800#m",
       "source": "Netram Defense",
@@ -2217,13 +2208,13 @@
       "content": "R to @NetramDefence: Economic Stabilization:\n\nPakistan\u2019s economy is currently reeling from the \"war shock\" of 2026.\n\n1\ufe0f\u20e3 Import Bills: Estimates suggest that every $10 increase in global oil prices adds approximately $1.8 billion to $2 billion to Pakistan\u2019s annual import bill. \n\n2\ufe0f\u20e3 Remittance Lifelines: Millions of Pakistanis work in the Gulf Cooperation Council (GCC) states. A full-scale war involving Iran and the US threatens the stability of these host nations, risking a collapse in the remittances that keep Pakistan\u2019s foreign exchange reserves afloat.\n\n3/4"
     },
     {
-      "title": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4",
-      "link": "https://nitter.net/NetramDefence/status/2047302726674239896#m",
+      "title": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4",
+      "link": "https://nitter.net/NetramDefence/status/2047302720504336553#m",
       "source": "Netram Defense",
-      "sort_key": "2026-04-23T18:43:01+05:30",
+      "sort_key": "2026-04-23T18:43:00+05:30",
       "time": "23 Apr, 06:43 PM",
       "type": "tweets",
-      "content": "R to @NetramDefence: Internal Security \n\n1\ufe0f\u20e3 Prevention of Sectarian Spillover: Pakistan is home to the world\u2019s second-largest Shia population. The 2026 assassination of Ayatollah Khamenei and subsequent strikes on Iranian soil have already triggered mass protests and civil unrest in Karachi and Islamabad. A prolonged war risks domestic radicalization and sectarian friction that could destabilize the internal security of the country.\n\n2\ufe0f\u20e3 Border Security and Insurgency\nThe Sistan-Baluchestan region, which straddles the Iran-Pakistan border, is a hotbed for separatist movements. A vacuum of authority in Iran or a shift in Iranian focus toward a war with the U.S. allows insurgent groups to operate with greater freedom. Pakistan cannot afford a \"Four-front\" security crisis where it must monitor internal insurgent groups, Afghan Border, Iran Border and its traditional eastern border with India.\n\n4/4"
+      "content": "R to @NetramDefence: Energy Security:\n\nPakistan\u2019s energy infrastructure is dependent on the stability of the Persian Gulf.\n\n1\ufe0f\u20e3 The Strait of Hormuz: Approximately 81.6% of Pakistan\u2019s energy imports pass through this waterway. The 2026 blockade has already decimated LNG arrivals, with shipments dropping from 12 in January to just two in March.\n\n2\ufe0f\u20e3 The Iran-Pakistan (IP) Gas Pipeline: This long-delayed project is Pakistan\u2019s most viable solution to its chronic energy deficit. However, it cannot be fully operationalized without a formal US-Iran deal that provides sanctions waivers. A peace deal would transform the \"Peace Pipeline\" from a dormant asset into a functional energy lifeline.\n\n2/4"
     },
     {
       "title": "Thread \ud83e\uddf5 \n\nWhy Pakistan is Desperate to Broker a Peace Deal between US and Iran\n\nPakistan\u2019s current role as a mediator is not merely an act of diplomacy; it is a desperate attempt to prevent a regional catastrophe that would hit its economy and social fabric harder than almost any other nation in the vicinity.\n\nHere are the reasons: \ud83d\udc47\ud83c\udffc\n\n1/4",
@@ -2323,24 +2314,6 @@
       "time": "23 Apr, 01:39 PM",
       "type": "tweets",
       "content": "District Administration Kathua to conduct Civil Defence air raid/blackout mock drill today at 8:30 PM across Kathua."
-    },
-    {
-      "title": "RT by @elitepredatorss: \ud83d\udea8Report:\n\nFour OGWs have been arrested in summer capital of Jammu and Kashmir for providing logistical support to terrorists\n\nThe accused have been identified as \n\nZahoor Ahmad Mir, \nBashir Ahmad Bhat, \nGhulam Mohammad Bhat, \nand Shazia Mohammad, \n\nAll residents of Hazratbal. Shazia Mohammad has been highlighted as the woman among those arrested.\n\nOfficials said a hand grenade, 15 AK-47 rounds, four mobile phones, and cash were recovered from their possession.\n\nA case has been registered under various sections of UAPA and Arms Act, and further investigation is underway.",
-      "link": "https://nitter.net/OsintTV/status/2047220822201254072#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T13:17:34+05:30",
-      "time": "23 Apr, 01:17 PM",
-      "type": "tweets",
-      "content": "RT by @elitepredatorss: \ud83d\udea8Report:\n\nFour OGWs have been arrested in summer capital of Jammu and Kashmir for providing logistical support to terrorists\n\nThe accused have been identified as \n\nZahoor Ahmad Mir, \nBashir Ahmad Bhat, \nGhulam Mohammad Bhat, \nand Shazia Mohammad, \n\nAll residents of Hazratbal. Shazia Mohammad has been highlighted as the woman among those arrested.\n\nOfficials said a hand grenade, 15 AK-47 rounds, four mobile phones, and cash were recovered from their possession.\n\nA case has been registered under various sections of UAPA and Arms Act, and further investigation is underway."
-    },
-    {
-      "title": "Trump's anti-India post, calling countries like India and China 'hell'",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047211705881788771#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-23T12:41:20+05:30",
-      "time": "23 Apr, 12:41 PM",
-      "type": "tweets",
-      "content": "Trump's anti-India post, calling countries like India and China 'hell'"
     }
   ],
   "youtube": [
@@ -2418,7 +2391,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "12:24 PM IST",
-    "next_update": "01:24 PM IST"
+    "last_updated": "01:24 PM IST",
+    "next_update": "02:24 PM IST"
   }
 }
