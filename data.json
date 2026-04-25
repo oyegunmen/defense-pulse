@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys\u2019 visit to Pakistan for talks; says 'does not mean restart of war'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T03:44:15+05:30",
+      "time": "26 Apr, 03:44 AM",
+      "type": "news",
+      "description": "Iran\u2019s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran\u2019s internatio"
+    },
+    {
+      "title": "India advises nationals in Mali to stay indoors, exercise caution due to security developments",
+      "link": "https://www.thehindu.com/news/national/india-advises-nationals-in-mali-to-stay-indoors-exercise-caution-due-to-security-developments/article70906718.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T03:44:00+05:30",
+      "time": "26 Apr, 03:44 AM",
+      "type": "news",
+      "description": "The Indian embassy added that it was closely monitoring the evolving situation in coordination with Malian authorities and will issue further updates "
+    },
+    {
+      "title": "Islamic militants, separatists claim simultaneous attacks across Mali",
+      "link": "https://www.thehindu.com/news/international/islamic-militants-separatists-claim-simultaneous-attacks-across-mali/article70906721.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T03:43:23+05:30",
+      "time": "26 Apr, 03:43 AM",
+      "type": "news",
+      "description": "The U.S. Embassy in Bamako issued a security alert citing reports of explosions and gunfire near Kati and the international airport, and urged U.S. ci"
+    },
+    {
       "title": "Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
       "link": "https://www.thehindu.com/news/international/altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/article70906462.ece",
       "source": "The Hindu",
@@ -17,15 +44,6 @@
       "time": "26 Apr, 01:47 AM",
       "type": "news",
       "description": "identified two projectiles launched from Lebanon, decrying \u201ca blatant violation of the ceasefire understandings\u201d by Hezbollah and later intercepted an"
-    },
-    {
-      "title": "Israel-Iran war LIVE: Trump cancels U.S. envoys\u2019 visit to Pakistan for talks; says 'does not mean restart of war'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T01:45:06+05:30",
-      "time": "26 Apr, 01:45 AM",
-      "type": "news",
-      "description": "Iran\u2019s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran\u2019s internatio"
     },
     {
       "title": "Gaza Civil Defence says Israeli strikes kill 13",
@@ -1070,24 +1088,6 @@
       "time": "24 Apr, 12:32 PM",
       "type": "news",
       "description": "Nothing from the U.S. has told them they can't \u200ccome,\" Mr. Rubio told reporters. President Donald Trump also said his administration \"would not want t"
-    },
-    {
-      "title": "Thai court accepts case against 44 opposition figures over royal insult law",
-      "link": "https://www.thehindu.com/news/international/thai-court-accepts-case-against-44-opposition-figures-over-royal-insult-law/article70900495.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T12:25:04+05:30",
-      "time": "24 Apr, 12:25 PM",
-      "type": "news",
-      "description": "The court\u2019s acceptance of the case is the latest in a string of \u200csetbacks for Thailand\u2019s liberal, anti-establishment opposition, which has found itsel"
-    },
-    {
-      "title": "China to send giant pandas to Atlanta again",
-      "link": "https://www.thehindu.com/news/international/china-to-send-giant-pandas-to-atlanta-again/article70900566.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T12:16:14+05:30",
-      "time": "24 Apr, 12:16 PM",
-      "type": "news",
-      "description": "China\u2019s giant panda loan program has long been known as a tool of Beijing\u2019s soft-power diplomacy"
     },
     {
       "title": "Hical Technologies Joins India-Germany Defence Industry Roundtable in Munich as India Deepens Global Co-Development Partnerships",
@@ -2292,7 +2292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 AM IST",
-    "next_update": "04:24 AM IST"
+    "last_updated": "04:24 AM IST",
+    "next_update": "05:24 AM IST"
   }
 }
