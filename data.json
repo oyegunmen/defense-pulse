@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "title": "MEA Secretary Sibi George Meets UN General Assembly President Annalena Baerbock",
+      "link": "https://www.newsonair.gov.in/mea-secretary-sibi-george-meets-un-general-assembly-president-annalena-baerbock/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T11:06:19+05:30",
+      "time": "25 Apr, 11:06 AM",
+      "type": "news",
+      "description": "Secretary (West) in the Ministry of External Affairs, Sibi George held a meeting with the President of United Nations General Assembly, Annalena Baerb"
+    },
+    {
+      "title": "From 'Chak De Phatte' to INS Khukri: Naravane\u2019s new book revisits military myths",
+      "link": "https://economictimes.indiatimes.com/news/defence/from-chak-de-phatte-to-ins-khukri-naravanes-new-book-revisits-military-myths/articleshow/130508731.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-25T10:59:32+05:30",
+      "time": "25 Apr, 10:59 AM",
+      "type": "news",
+      "description": "Former Army Chief General Manoj Mukund Naravane has released a new book. It reveals lesser-known stories from India's armed forces. The book unearths "
+    },
+    {
+      "title": "Taiwan detects 8 sorties of Chinese aircraft, 7 vessels around itself",
+      "link": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-8-sorties-of-chinese-aircraft-7-vessels-around-itself/articleshow/130508692.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-25T10:54:38+05:30",
+      "time": "25 Apr, 10:54 AM",
+      "type": "news",
+      "description": "Taiwan's defense ministry reported Chinese aircraft and vessels near its territory. This follows similar detections on previous days. China claims Tai"
+    },
+    {
+      "title": "Palestinians vote in first elections since Gaza war",
+      "link": "https://www.thehindu.com/news/international/palestinians-vote-in-first-elections-since-gaza-war/article70904518.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T10:50:00+05:30",
+      "time": "25 Apr, 10:50 AM",
+      "type": "news",
+      "description": "Nearly 1.5 million people are registered to vote in the Israeli-occupied West Bank, as well as 70,000 people in Gaza\u2019s Deir el-Balah area, according t"
+    },
+    {
+      "title": "Iran peace talks is Pakistan\u2019s attempt to whitewash its global image, says Ex-PM Imran Khan\u2019s son",
+      "link": "https://indianexpress.com/article/world/imran-khan-son-sulaiman-interview-middle-east-mediation-vision-loss-10654970/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-25T10:48:07+05:30",
+      "time": "25 Apr, 10:48 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Iran signals firepower before talks, says missile capability \u2018not used yet\u2019",
+      "link": "https://economictimes.indiatimes.com/news/defence/as-iranian-fm-reaches-islamabad-army-talks-tough-says-missile-capability-not-been-used/articleshow/130508517.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-25T10:36:36+05:30",
+      "time": "25 Apr, 10:36 AM",
+      "type": "news",
+      "description": "Iran's Foreign Minister is in Islamabad for talks. Meanwhile, Iran's Defence Ministry states much of its missile capability is unused.  The country as"
+    },
+    {
+      "title": "U.S. imposes sanctions on China-based oil refinery, 40 shippers over Iranian oil",
+      "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-china-based-oil-refinery-40-shippers-over-iranian-oil/article70904476.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T10:36:16+05:30",
+      "time": "25 Apr, 10:36 AM",
+      "type": "news",
+      "description": "These sanctions come just a few weeks before President Donald Trump and China's Xi Jinping are due to meet in China"
+    },
+    {
+      "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
+      "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T10:31:42+05:30",
+      "time": "25 Apr, 10:31 AM",
+      "type": "news",
+      "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority "
+    },
+    {
+      "title": "Bangladesh: Concerns Over Minority Safety Rise After Hindu Temple Caretaker\u2019s Body Recovered in Cox\u2019s Bazar",
+      "link": "https://www.newsonair.gov.in/bangladesh-concerns-over-minority-safety-rise-after-hindu-temple-caretakers-body-recovered-in-coxs-bazar/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T10:29:50+05:30",
+      "time": "25 Apr, 10:29 AM",
+      "type": "news",
+      "description": "In Bangladesh, the recovery of a Hindu temple caretaker\u2019s body in Cox\u2019s Bazar has sparked protests and raised concerns over the safety of minority com"
+    },
+    {
       "title": "Watch: Iran says no direct talks with U.S. in Islamabad planned",
       "link": "https://www.thehindu.com/videos/watch-iran-says-no-direct-talks-with-us-in-islamabad-planned/article70904422.ece",
       "source": "The Hindu",
@@ -343,15 +424,6 @@
       "description": "Commander, Pacific Air Forces and Air Component Commander, US Indo-Pacific Command General Kevin B Schneider today called on Defence Secretary Rajesh "
     },
     {
-      "title": "US says it is expanding blockade against Iran on global scale",
-      "link": "https://www.newsonair.gov.in/us-says-it-is-expanding-blockade-against-iran-on-global-scale/",
-      "source": "AIR International",
-      "sort_key": "2026-04-24T21:33:30+05:30",
-      "time": "24 Apr, 09:33 PM",
-      "type": "news",
-      "description": "The United States said today that its expanding naval blockade of Iran was tightening by the hour. Defence Secretary Pete Hegseth said Tehran now face"
-    },
-    {
       "title": "Airbus delivers first A321XLR for Air Canada",
       "link": "https://www.indiastrategic.in/airbus-delivers-first-a321xlr-for-air-canada/",
       "source": "India Strategic",
@@ -413,15 +485,6 @@
       "time": "24 Apr, 06:31 PM",
       "type": "news",
       "description": "The Israeli PM said he requested a delay in the publication of his annual medical report to not allow Iran to \u2018spread even more false propaganda\u2019 amid"
-    },
-    {
-      "title": "Nepal: 2 dead, 29 injured in Bus accident",
-      "link": "https://www.newsonair.gov.in/nepal-2-dead-29-injured-in-bus-accident/",
-      "source": "AIR International",
-      "sort_key": "2026-04-24T18:29:04+05:30",
-      "time": "24 Apr, 06:29 PM",
-      "type": "news",
-      "description": "In Nepal, two people have died, and 29 have been injured in a bus accident this afternoon at Shera in Shuklagandaki Municipality-7 of Tanahu district."
     },
     {
       "title": "Defence Minister addresses Defence Investor Summit in Berlin",
@@ -1153,15 +1216,6 @@
       "description": "About 40 militants on motorcycles and other vehicles stormed the mining project site of Pakistani company NRL in the Darigwan area of Chagai district "
     },
     {
-      "title": "Iran says won't reopen Hormuz if U.S. upholds naval blockade",
-      "link": "https://www.thehindu.com/news/international/iran-says-wont-reopen-hormuz-if-us-upholds-naval-blockade/article70896406.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T15:17:33+05:30",
-      "time": "23 Apr, 03:17 PM",
-      "type": "news",
-      "description": "While strikes around the region have mostly ceased since the truce began, there has been no letup in the pressure around the crucial trade route, with"
-    },
-    {
       "title": "Defence and maritime cooperation of India-Africa driven by vision 'MAHASAGAR', says EAM S Jaishankar",
       "link": "https://economictimes.indiatimes.com/news/defence/defence-and-maritime-cooperation-of-india-africa-driven-by-vision-mahasagar-says-eam-s-jaishankar/articleshow/130463500.cms",
       "source": "Economic Times",
@@ -1187,24 +1241,6 @@
       "time": "23 Apr, 02:48 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Rodrigo Duterte to face ICC trial after judges confirm charges",
-      "link": "https://www.thehindu.com/news/international/rodrigo-duterte-to-face-icc-trial-after-judges-confirm-charges/article70896718.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T14:41:25+05:30",
-      "time": "23 Apr, 02:41 PM",
-      "type": "news",
-      "description": "Pre-trial judges \u201cunanimously confirmed all the charges... against Rodrigo Roa Duterte and committed him to trial,\u201d the ICC said in a statement"
-    },
-    {
-      "title": "Turkish Parliament passes bill to restrict social media access for under-15s",
-      "link": "https://www.thehindu.com/sci-tech/technology/turkish-parliament-passes-bill-to-restrict-social-media-access-for-under-15s/article70896686.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T14:35:21+05:30",
-      "time": "23 Apr, 02:35 PM",
-      "type": "news",
-      "description": "State-run media says Turkish lawmakers have passed a bill that includes restricting access to social media platforms for children under 15"
     },
     {
       "title": "China teases new aircraft carrier in video, vows to build up islands",
@@ -1331,54 +1367,27 @@
       "time": "23 Apr, 11:35 AM",
       "type": "news",
       "description": "Defence and security-related firms for the first time have their own section at the world's top industrial fair in Hanover this week -- a sign of the "
-    },
-    {
-      "title": "Rajnath Singh tours TKMS shipyard, inspects Type 212 submarine in Germany",
-      "link": "https://economictimes.indiatimes.com/news/defence/rajnath-singh-tours-tkms-shipyard-inspects-type-212-submarine-in-germany/articleshow/130457177.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T11:11:47+05:30",
-      "time": "23 Apr, 11:11 AM",
-      "type": "news",
-      "description": "Defence Minister Rajnath Singh visited Germany, touring a submarine shipyard. India and Germany signed key defence cooperation agreements. These pacts"
-    },
-    {
-      "title": "India Is Replacing A Million Chinese Cameras. That's Only The Easy Part. - Swarajyamag",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNam5FcktkZDN4M3I1WHFQdHRLWHRPYVp1dWZTQlk5MlFVSFZxR1QwWDJyMnpueVNMancwbWxXd2hwTGZtZVpDWVc2T2s5VWJyTmpfMkEtdTF3c3NBT1F5aHBlMjhUV2c0bWcxb0hTUTY3cDJkMEdZYlk4cGVJb05LWFRCeXFpNDl6X0lYWGRkUmwwZEsxeWpnLVgzYnRfLTFtTVVF0gGzAUFVX3lxTE04N1hJQnpDSjBOZ0VaZnBSYlk4Q2FrN01RMk5GX1pRLUxSQV94Zk9xZHoxWWU0ZWlFMFhhVWJraVB0VXNGaC02VEJXOEJJQ2hMZlVxalNITEY4VXBTUmo3UzRXeWt2QnY3dGl4dDQxbm9JM3ZrQzZWc0NydGpKSEF3UW1iNEdrTEpjOExOMEN1c095S1JHXy05OEFFNjVrNHdnMWJZaWI4TmZtZzFpSDFLWXBJ?oc=5",
-      "source": "Swarajya",
-      "sort_key": "2026-04-23T11:08:21+05:30",
-      "time": "23 Apr, 11:08 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "UK moves to phase out smoking: Anyone born after 2008 faces lifetime cigarette ban",
-      "link": "https://indianexpress.com/article/world/uk-tobacco-vapes-bill-generational-smoking-ban-explained-2009-cutoff-10651250/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T10:59:39+05:30",
-      "time": "23 Apr, 10:59 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "\u2018Ceasefire continues, so does economic pressure on Iran\u2019, says White House press secretary",
-      "link": "https://indianexpress.com/article/world/trump-iran-ceasefire-no-deadline-us-pressure-press-secretary-karoline-leavitt-10651196/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T10:44:54+05:30",
-      "time": "23 Apr, 10:44 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Iran seizes Gujarat-bound container ship in Strait of Hormuz; chilling video shows armed soldiers boarding vessels",
-      "link": "https://indianexpress.com/article/world/video-shows-armed-soldiers-boarding-containers-in-the-strait-of-hormuz-10651349/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-23T10:32:17+05:30",
-      "time": "23 Apr, 10:32 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "EU Plans New Energy Routes to Bypass Hormuz Risk, The bloc is also considering long-term projects like the India\u2013Middle East\u2013Europe corridor to diversify supply chains.\n\nThe European Union is exploring alternative energy infrastructure in the Middle East to reduce reliance on the Strait of Hormuz, amid disruption caused by the ongoing conflict\n\nUrsula von der Leyen said the EU is ready to partner with Gulf nations to build new export routes and repair damaged energy facilities, aiming to avoid critical choke points.",
+      "link": "https://nitter.net/NetramDefence/status/2047903879027732695#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-25T10:31:47+05:30",
+      "time": "25 Apr, 10:31 AM",
+      "type": "tweets",
+      "content": "EU Plans New Energy Routes to Bypass Hormuz Risk, The bloc is also considering long-term projects like the India\u2013Middle East\u2013Europe corridor to diversify supply chains.\n\nThe European Union is exploring alternative energy infrastructure in the Middle East to reduce reliance on the Strait of Hormuz, amid disruption caused by the ongoing conflict\n\nUrsula von der Leyen said the EU is ready to partner with Gulf nations to build new export routes and repair damaged energy facilities, aiming to avoid critical choke points."
+    },
+    {
+      "title": "'Not An Inch Lost To China During Ladakh Standoff': Ex-Army Chief MM Naravane",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047902613702881317#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-25T10:26:45+05:30",
+      "time": "25 Apr, 10:26 AM",
+      "type": "tweets",
+      "content": "'Not An Inch Lost To China During Ladakh Standoff': Ex-Army Chief MM Naravane"
+    },
     {
       "title": "No debri found in Kishtwar so far, investigation going on if the fire is man made.\n\nForces carefully sweeping the area.",
       "link": "https://nitter.net/elitepredatorss/status/2047899484131398015#m",
@@ -1396,15 +1405,6 @@
       "time": "25 Apr, 09:52 AM",
       "type": "tweets",
       "content": "RT by @sidhant: Time changes everything\u2026 except the comfort of old friends.\nYesterday proved it again. \ud83e\udd0d\n@AdityaRajKaul @AshishSinghLIVE @sidhant @Wangu_News18 @sneheshphilip"
-    },
-    {
-      "title": "RT by @OsintTV: War trophies are the kind of reminders that continue to instill fear and hesitation in #Pakistan. This is a detailed report (SITREP) from the 1971 Battle of #AsalUttar, clearly highlighting the extent of Pakistan\u2019s losses and how even their senior officers were eliminated during the conflict.\nOn similar lines, had the war/ conflict continued for more than four days, the situation could have unfolded in much the same way once again. It was perhaps a wise move that Pakistan proposed a ceasefire during #OperationSindoor otherwise, history might have repeated itself. \ud83c\uddee\ud83c\uddf3",
-      "link": "https://nitter.net/manishindiatv/status/2047889275585179935#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-25T09:33:45+05:30",
-      "time": "25 Apr, 09:33 AM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: War trophies are the kind of reminders that continue to instill fear and hesitation in #Pakistan. This is a detailed report (SITREP) from the 1971 Battle of #AsalUttar, clearly highlighting the extent of Pakistan\u2019s losses and how even their senior officers were eliminated during the conflict.\nOn similar lines, had the war/ conflict continued for more than four days, the situation could have unfolded in much the same way once again. It was perhaps a wise move that Pakistan proposed a ceasefire during #OperationSindoor otherwise, history might have repeated itself. \ud83c\uddee\ud83c\uddf3"
     },
     {
       "title": "ISIS-Pak-linked network busted in Uttar Pradesh.\n\nUP ATS & Police arrest two suspected operatives from Bijnor.\n\nPakistani handlers allegedly directed the suspects to carry out arson attacks and spread panic in Uttar Pradesh.",
@@ -1713,13 +1713,13 @@
       "content": "Yesterday's attack in Balochistan:\n\nThe details of the individuals killed in the attack on the site of the local mining company NREL in Chagai are as follows:\n\n1. Omar, Turkish National (Driller)\n\n2. Rahmatullah son of Jumma Khan, Qoum Hassan Zai Baloch, resident of Dalbandin (Military Guard)\n\n3. Akram Khan son of Dost Muhammad, resident of Faisal Colony Dalbandin (Military Guard)\n\n4. Sher Zaman, resident of Karkh Khyber Pakhtunkhwa (Military Guard)\n\n5. Muhammad Shafiq (Geologist)\n\n6. Muhammad Asif, resident of Gilgit (Geologist)\n\n7. Ali Sher, resident of Khyber Pur Sindh (Laborer)\n\n8. Sultan, resident of Bila Balochistan (Laborer)\n\n9. Sajjad Usman, resident of Chitral (Laborer)\n\n10. Wakram Gloram, resident of Ghotki Sindh (Laborer)"
     },
     {
-      "title": "Fake Claims About IAF Crash in J&K\nMultiple social media accounts are falsely claiming an Indian Air Force aircraft has crashed in Jammu & Kashmir. The Indian Airforce has denied all such reports and has issued a statement:\n\nThere are certain media outlets and SM handles claiming an IAF aircraft has crashed near Kishtwar. This report is false.\nAll media outlets are requested to verify information from Official sources before publishing/transmitting: IAF Spokesperson",
+      "title": "RT by @NetramDefence: Fake Claims About IAF Crash in J&K\nMultiple social media accounts are falsely claiming an Indian Air Force aircraft has crashed in Jammu & Kashmir. The Indian Airforce has denied all such reports and has issued a statement:\n\nThere are certain media outlets and SM handles claiming an IAF aircraft has crashed near Kishtwar. This report is false.\nAll media outlets are requested to verify information from Official sources before publishing/transmitting: IAF Spokesperson",
       "link": "https://nitter.net/NetramDefence/status/2047671414426374447#m",
       "source": "Netram Defense",
       "sort_key": "2026-04-24T19:08:03+05:30",
       "time": "24 Apr, 07:08 PM",
       "type": "tweets",
-      "content": "Fake Claims About IAF Crash in J&K\nMultiple social media accounts are falsely claiming an Indian Air Force aircraft has crashed in Jammu & Kashmir. The Indian Airforce has denied all such reports and has issued a statement:\n\nThere are certain media outlets and SM handles claiming an IAF aircraft has crashed near Kishtwar. This report is false.\nAll media outlets are requested to verify information from Official sources before publishing/transmitting: IAF Spokesperson"
+      "content": "RT by @NetramDefence: Fake Claims About IAF Crash in J&K\nMultiple social media accounts are falsely claiming an Indian Air Force aircraft has crashed in Jammu & Kashmir. The Indian Airforce has denied all such reports and has issued a statement:\n\nThere are certain media outlets and SM handles claiming an IAF aircraft has crashed near Kishtwar. This report is false.\nAll media outlets are requested to verify information from Official sources before publishing/transmitting: IAF Spokesperson"
     },
     {
       "title": "There are certain media outlets and SM handles claiming an IAF aircraft has crashed near Kishtwar. This report is false.\nAll media outlets are requested to verify information from Official sources before publishing/transmitting: IAF Spokesperson",
@@ -2029,7 +2029,7 @@
     },
     {
       "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/i/status/2047514724863271343#m",
+      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-24T08:45:26+05:30",
       "time": "24 Apr, 08:45 AM",
@@ -2107,6 +2107,15 @@
       "time": "23 Apr, 11:59 PM",
       "type": "tweets",
       "content": "Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man"
+    },
+    {
+      "title": "RT by @OsintTV: Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man",
+      "link": "https://nitter.net/elitepredatorss/status/2047382365107011762#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-23T23:59:29+05:30",
+      "time": "23 Apr, 11:59 PM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man"
     },
     {
       "title": "Rajasthan IB: Blackout to Take Place in Barmer Tomorrow\n\nRehearsal of Air Strikes and Mock Drill Also to Be Conducted",
@@ -2253,15 +2262,6 @@
       "content": "Met someone last evening. The guy is into the waste processing business and was earlier in the scrap collection business. I am generally very curious about how different businesses work and what kind of potential they have in the future. Heard some shocking facts:\n\n- A seasoned mid-level scrap collector can earn up to \u20b910K\u2013\u20b912K per day. The game is to build a network of other waste collectors who can supply good-quality scrap.\n\n- The industry is booming, and businesses in it are extremely cash-rich. You\u2019re looking at millionaire-level annual numbers here.\n\nI have always had a theory in my mind: are there groups across countries motivated to damage infrastructure and steal public assets meant for citizens\u2019 safety and convenience?\n\nThings like construction materials, especially iron, bridge railings, reflectors, metal signboards, benches at bus stops.\n\nHe didn\u2019t confirm it outright, but he seemed uncomfortable. After gently pushing for a couple of minutes, he partially acknowledged it and said such activities can be politically motivated, and that if one digs deeper, a religious angle might also emerge.\n\n\ud83d\udcf7Picture for representation"
     },
     {
-      "title": "DRDO Hands Over \u2018Prajna\u2019 AI Satellite System to Ministry of Home Affairs \n\nDRDO has delivered the AI-enabled satellite imaging system \u201cPrajna\u201d to the Ministry of Home Affairs to enhance real-time security and surveillance capabilities.\n\nFeatures:\n1\ufe0f\u20e3 Provides real-time decision support for security agencies\n2\ufe0f\u20e3 Designed for monitoring sensitive regions & counter-terror operations\n3\ufe0f\u20e3 Developed by DRDO\u2019s Centre for Artificial Intelligence and Robotics (CAIR)",
-      "link": "https://nitter.net/NetramDefence/status/2047253676818157758#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T15:28:07+05:30",
-      "time": "23 Apr, 03:28 PM",
-      "type": "tweets",
-      "content": "DRDO Hands Over \u2018Prajna\u2019 AI Satellite System to Ministry of Home Affairs \n\nDRDO has delivered the AI-enabled satellite imaging system \u201cPrajna\u201d to the Ministry of Home Affairs to enhance real-time security and surveillance capabilities.\n\nFeatures:\n1\ufe0f\u20e3 Provides real-time decision support for security agencies\n2\ufe0f\u20e3 Designed for monitoring sensitive regions & counter-terror operations\n3\ufe0f\u20e3 Developed by DRDO\u2019s Centre for Artificial Intelligence and Robotics (CAIR)"
-    },
-    {
       "title": "\ud83d\uddd2\ufe0f\ud83e\udd71Number of Terrorists in Jammu Kashmir is at all time low ,any Haphazard  hysterical move  is tantamount to autophagy",
       "link": "https://nitter.net/AngryRumi7/status/2047251020968026170#m",
       "source": "Angry Rumi",
@@ -2278,15 +2278,6 @@
       "time": "23 Apr, 03:01 PM",
       "type": "tweets",
       "content": "Four over ground workers (OGWs), including one woman, were arrested in Srinagar.\nAll accused are residents of Hazratbal.\nArrested individuals: Zahoor Ahmad Mir, Bashir Ahmad Bhat, Ghulam Mohammad Bhat, and Shazia Mohammad.\nThey were allegedly providing logistic support to terrorists.\n\nRecovered items: one hand grenade, 15 AK-47 rounds, four mobile phones, and cash."
-    },
-    {
-      "title": "The U.S. Department of War has told the U.S. Congress that \"clearing naval mines in the Strait of Hormuz could take up to six months.\"\n\nU.S. intelligence reports indicate that Iran has deployed 20 or more naval mines in the Strait of Hormuz and surrounding areas, including some advanced types that utilize GPS-based remote technologies.",
-      "link": "https://nitter.net/NetramDefence/status/2047235083803799720#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-23T14:14:14+05:30",
-      "time": "23 Apr, 02:14 PM",
-      "type": "tweets",
-      "content": "The U.S. Department of War has told the U.S. Congress that \"clearing naval mines in the Strait of Hormuz could take up to six months.\"\n\nU.S. intelligence reports indicate that Iran has deployed 20 or more naval mines in the Strait of Hormuz and surrounding areas, including some advanced types that utilize GPS-based remote technologies."
     },
     {
       "title": "District Administration of Kathua, J&K will conduct a civil defence mock drill, including an air raid and blackout exercise, across the district today at 8:30 PM.",
@@ -2341,15 +2332,6 @@
       "time": "23 Apr, 12:01 PM",
       "type": "tweets",
       "content": "\"America has literally spit in India's face under the Trump administration. Bringing India closer to the US has been a 30 year project for every US president. I would not do what Trump has done,\" says former US Ambassador Rahm Emanuel"
-    },
-    {
-      "title": "Pakistan's National \u200bRefinery Limited \u200csaid its Darigwan \u200bsite \u200bin southwestern Balochistan \u2060was \u200battacked \u200bby unidentified gunmen.",
-      "link": "https://nitter.net/elitepredatorss/status/2047178781585207445#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T10:30:30+05:30",
-      "time": "23 Apr, 10:30 AM",
-      "type": "tweets",
-      "content": "Pakistan's National \u200bRefinery Limited \u200csaid its Darigwan \u200bsite \u200bin southwestern Balochistan \u2060was \u200battacked \u200bby unidentified gunmen."
     }
   ],
   "youtube": [
@@ -2427,7 +2409,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 AM IST",
-    "next_update": "11:24 AM IST"
+    "last_updated": "11:24 AM IST",
+    "next_update": "12:24 PM IST"
   }
 }
