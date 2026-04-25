@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Iran requested an in-person meeting with the US government",
+      "link": "https://indianexpress.com/article/world/us-news/iran-us-islamabad-talks-araghchi-kushner-witkoff-peace-deal-10654665/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-25T05:41:45+05:30",
+      "time": "25 Apr, 05:41 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "\u2018The damage is done\u2019: Why the IEA chief believes the global oil market will never return to normal",
       "link": "https://indianexpress.com/article/world/us-news/iea-chief-fatih-birol-global-oil-crisis-energy-market-reshape-10654642/",
       "source": "The Indian Express",
@@ -1358,15 +1367,6 @@
       "time": "23 Apr, 06:49 AM",
       "type": "news",
       "description": "US forces have intercepted at least three Iranian oil tankers in Asian waters. These vessels were near India, Malaysia, and Sri Lanka. The US military"
-    },
-    {
-      "title": "US Navy Secretary John Phelan leaves his job, marks latest departure of a top defense leader",
-      "link": "https://economictimes.indiatimes.com/news/defence/us-navy-secretary-john-phelan-leaves-his-job-marks-latest-departure-of-a-top-defense-leader/articleshow/130454201.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-23T06:09:58+05:30",
-      "time": "23 Apr, 06:09 AM",
-      "type": "news",
-      "description": "US Navy Secretary John Phelan has suddenly departed his post. Undersecretary Hung Cao, a decorated Navy veteran and former congressional candidate, is"
     }
   ],
   "tweets": [
@@ -1974,8 +1974,17 @@
       "content": "Two terrorists working for the ISI were arrested by the UP ATS. \n\nHijbulla was instructed to carry out targeted killings and grenade attacks. Sameer Khan was assigned to recruit new members and spread propaganda, such as writing \"TTH \u2013 Tehrik-e-Taliban Hindustan\" slogans."
     },
     {
+      "title": "Another \u201cgolden feather\u201d in Pakistan\u2019s cap.\n\n@ForeignOfficePk, can you clarify where TRF operates from? \n\nTRF is another front of Lashkar-e-Taiba. LeT has been designated a terrorist organisation for years. Last year, its proxy wing TRF was also officially designated as a terrorist organisation.",
+      "link": "https://nitter.net/OsintTV/status/2047527034742616157#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-24T09:34:20+05:30",
+      "time": "24 Apr, 09:34 AM",
+      "type": "tweets",
+      "content": "Another \u201cgolden feather\u201d in Pakistan\u2019s cap.\n\n@ForeignOfficePk, can you clarify where TRF operates from? \n\nTRF is another front of Lashkar-e-Taiba. LeT has been designated a terrorist organisation for years. Last year, its proxy wing TRF was also officially designated as a terrorist organisation."
+    },
+    {
       "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
+      "link": "https://nitter.net/i/status/2047514724863271343#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-24T08:45:26+05:30",
       "time": "24 Apr, 08:45 AM",
@@ -2290,7 +2299,7 @@
     },
     {
       "title": "RT by @elitepredatorss: \ud83d\udea8Report:\n\nFour OGWs have been arrested in summer capital of Jammu and Kashmir for providing logistical support to terrorists\n\nThe accused have been identified as \n\nZahoor Ahmad Mir, \nBashir Ahmad Bhat, \nGhulam Mohammad Bhat, \nand Shazia Mohammad, \n\nAll residents of Hazratbal. Shazia Mohammad has been highlighted as the woman among those arrested.\n\nOfficials said a hand grenade, 15 AK-47 rounds, four mobile phones, and cash were recovered from their possession.\n\nA case has been registered under various sections of UAPA and Arms Act, and further investigation is underway.",
-      "link": "https://nitter.net/OsintTV/status/2047220822201254072#m",
+      "link": "https://nitter.net/i/status/2047220822201254072#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-23T13:17:34+05:30",
       "time": "23 Apr, 01:17 PM",
@@ -2335,7 +2344,7 @@
     },
     {
       "title": "RT by @elitepredatorss: OSINT Report\ud83d\uddc3\ufe0f\n\nDate - 23/04/2026\n\nThis post is in continuation with the earlier posted PIDs of Pakistani terrorists as part of the OSINT report on Pahalgam.\n\nNames of the terrorists involved:\n\n1. Bilal Afzal alias Suleiman Shah (Neutralized in July, 2025).\u2705\n2. Habib Tahir alias Hamza Afghani (Neutralized in July, 2025).\u2705\n3. Hanan Zafar alias Jibran Bhai (Neutralized in July, 2025).\u2705\n\nAttached documents are photobanks for reference with the identities of the Pakistani terrorists who executed the cowardly Pahalgam Attack.\n\n'We Protect, We Serve'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source",
-      "link": "https://nitter.net/HecterOSINT/status/2047176390265680137#m",
+      "link": "https://nitter.net/i/status/2047176390265680137#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-23T10:21:00+05:30",
       "time": "23 Apr, 10:21 AM",
@@ -2427,7 +2436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST",
-    "next_update": "06:24 AM IST"
+    "last_updated": "06:24 AM IST",
+    "next_update": "07:24 AM IST"
   }
 }
