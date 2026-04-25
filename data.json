@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Watch: Iran says no direct talks with U.S. in Islamabad planned",
+      "link": "https://www.thehindu.com/videos/watch-iran-says-no-direct-talks-with-us-in-islamabad-planned/article70904422.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T09:48:27+05:30",
+      "time": "25 Apr, 09:48 AM",
+      "type": "news",
+      "description": "Iran has ruled out direct talks with the United States as Foreign Minister Abbas Araghchi visits Pakistan. Tehran says no face-to-face meetings are pl"
+    },
+    {
+      "title": "Bill for three-year pause on H-1B visas introduced in U.S. Congress",
+      "link": "https://www.thehindu.com/news/international/bill-for-three-year-pause-on-h-1b-visas-introduced-in-us-congress/article70904409.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T09:45:28+05:30",
+      "time": "25 Apr, 09:45 AM",
+      "type": "news",
+      "description": "Congressman Eli Crane from Arizona introduced the End H-1B Visa Abuse Act of 2026, which was co-sponsored by seven other Republican lawmakers"
+    },
+    {
+      "title": "Colombian President Gustavo Petro Arrives in Venezuela to Meet Acting President Delcy Rodriguez",
+      "link": "https://www.newsonair.gov.in/colombian-president-gustavo-petro-arrives-in-venezuela-to-meet-acting-president-delcy-rodriguez/",
+      "source": "AIR International",
+      "sort_key": "2026-04-25T09:45:01+05:30",
+      "time": "25 Apr, 09:45 AM",
+      "type": "news",
+      "description": "Colombian President Gustavo Petro arrived in Venezuela to meet Acting President Delcy Rodriguez, marking the first visit by a foreign leader since the"
+    },
+    {
+      "title": "Military-grade jet fuel cargoes from US show scale of Iran war impact",
+      "link": "https://economictimes.indiatimes.com/news/defence/military-grade-jet-fuel-cargoes-from-us-show-scale-of-iran-war-impact/articleshow/130507725.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-25T09:40:31+05:30",
+      "time": "25 Apr, 09:40 AM",
+      "type": "news",
+      "description": "Unusual US fuel shipments to Asia reveal global oil supply chain disruptions. Military-grade jet fuel and diesel are sailing from Washington state to "
+    },
+    {
+      "title": "U.S. military strike on alleged drug boat kills 2 in eastern Pacific",
+      "link": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-people-in-eastern-pacific/article70904356.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T09:22:11+05:30",
+      "time": "25 Apr, 09:22 AM",
+      "type": "news",
+      "description": "The Trump administration\u2019s campaign of blowing up alleged drug-trafficking vessels in Latin American waters has persisted since early September and ki"
+    },
+    {
+      "title": "The moral eclipse of politics in the modern age",
+      "link": "https://www.thehindu.com/opinion/lead/the-moral-eclipse-of-politics-in-the-modern-age/article70902765.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T09:21:40+05:30",
+      "time": "25 Apr, 09:21 AM",
+      "type": "news",
+      "description": "Pope Leo XIV\u2019s anti-war stance is a reminder that politics was never meant to be morally silent or neutral"
+    },
+    {
       "title": "Kuwait says drones coming from Iraq target border posts",
       "link": "https://economictimes.indiatimes.com/news/defence/kuwait-says-drones-coming-from-iraq-target-border-posts/articleshow/130507128.cms",
       "source": "Economic Times",
@@ -46,7 +100,16 @@
       "description": "In United States, the Trump administration has imposed economic sanctions on a major China-based oil refinery and around 40 shipping companies and tan"
     },
     {
-      "title": "US Iran War News Live Updates: \u2018No meeting is planned\u2019, Iran rules out direct talks with US in Pakistan",
+      "title": "Israel-Iran war LIVE: Iran says no direct talks with U.S. in Islamabad planned",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-25T07:29:51+05:30",
+      "time": "25 Apr, 07:29 AM",
+      "type": "news",
+      "description": "Foreign Ministry spokesperson said Pakistani officials and Iran would convey messages between the delegations"
+    },
+    {
+      "title": "US Iran War News Live Updates: US envoys to go to Pakistan for peace talks but Iran says no direct meeting planned",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -82,15 +145,6 @@
       "description": "The league said the move was part of a \u201cwider pattern of increasingly systematic \u200ccurbs on civil society and on free and independent voices\u201d"
     },
     {
-      "title": "Israel-Iran war LIVE: Iran says no direct talks with U.S. in Islamabad planned",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T06:44:26+05:30",
-      "time": "25 Apr, 06:44 AM",
-      "type": "news",
-      "description": "Foreign Ministry spokesperson said Pakistani officials and Iran would convey messages between the delegations"
-    },
-    {
       "title": "U.S. won't renew Iranian, Russian oil waivers: Bessent",
       "link": "https://www.thehindu.com/news/international/us-wont-renew-iranian-russian-oil-waivers-bessent/article70904300.ece",
       "source": "The Hindu",
@@ -100,7 +154,7 @@
       "description": "Bessent\u2019s statements come as the world is on edge over the U.S.-Israeli war in Iran, and global energy markets have been ensnarled by the closure of t"
     },
     {
-      "title": "Iran requested an in-person meeting with the US government",
+      "title": "\u2018No meeting is planned\u2019: Iran rules out direct talks with US in Islamabad; asserts engage via Pakistan",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-islamabad-talks-araghchi-kushner-witkoff-peace-deal-10654665/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T05:41:45+05:30",
@@ -125,15 +179,6 @@
       "time": "25 Apr, 05:01 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "The moral eclipse of politics in the modern age",
-      "link": "https://www.thehindu.com/opinion/lead/the-moral-eclipse-of-politics-in-the-modern-age/article70902765.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T01:27:14+05:30",
-      "time": "25 Apr, 01:27 AM",
-      "type": "news",
-      "description": "Pope Leo XIV\u2019s anti-war stance is a reminder that politics was never meant to be morally silent or neutral"
     },
     {
       "title": "'Not an inch lost to China': Ex-Army Chief Naravane stands firm, urges nation to keep defence forces out of politics",
@@ -386,15 +431,6 @@
       "time": "24 Apr, 06:09 PM",
       "type": "news",
       "description": "<p>Co-develop and co-produce with India in niche tech for secured national interests and global stability &#38; resilience: Defence Minister to German"
-    },
-    {
-      "title": "India-Netherlands bond progressing towards stronger strategic partnership: Union Minister Jitendra Singh",
-      "link": "https://www.newsonair.gov.in/india-netherlands-bond-progressing-towards-stronger-strategic-partnership-union-minister-jitendra-singh/",
-      "source": "AIR International",
-      "sort_key": "2026-04-24T17:50:02+05:30",
-      "time": "24 Apr, 05:50 PM",
-      "type": "news",
-      "description": "Union Minister for Science and Technology Dr Jitendra Singh has said that India-Netherlands share an enduring relationship and the bond between the tw"
     },
     {
       "title": "US-Iran peace talks could resume in Pakistan; Iran's foreign minister due, say sources",
@@ -1180,15 +1216,6 @@
       "description": "China has revealed a video hinting at a new nuclear-powered aircraft carrier. The nation also plans to strengthen its island infrastructure. These mov"
     },
     {
-      "title": "Two trains collide in Denmark, leaving several critically injured",
-      "link": "https://www.thehindu.com/news/international/denmark-train-collision-copenhagen-injured-updates/article70896159.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T14:17:49+05:30",
-      "time": "23 Apr, 02:17 PM",
-      "type": "news",
-      "description": "A police statement called it \u201ca serious accident\u201d, but a police spokesman told AFP that all passengers had been evacuated from the trains."
-    },
-    {
       "title": "Shadow of Hormuz: Why is the Gulf crisis turning all eyes to Malacca Strait",
       "link": "https://economictimes.indiatimes.com/news/defence/the-rising-tensions-in-hormuz-and-their-impact-on-the-malacca-strait-a-crucial-maritime-crisis/articleshow/130462134.cms",
       "source": "Economic Times",
@@ -1243,15 +1270,6 @@
       "description": "Navy chief Admiral Dinesh K Tripathi visited the Andaman and Nicobar Command. He emphasized coordination among Army, Navy, Air Force, and Coast Guard "
     },
     {
-      "title": "Samsung workers rally in South Korea, demanding higher pay, threatening to strike",
-      "link": "https://www.thehindu.com/news/international/samsung-workers-rally-in-south-korea-demanding-higher-pay-threatening-to-strike/article70896376.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T13:40:50+05:30",
-      "time": "23 Apr, 01:40 PM",
-      "type": "news",
-      "description": "Samsung's union, which represents about 74,000 workers, says the company has failed to offer adequate compensation despite its strong performance"
-    },
-    {
       "title": "Hormuz crisis deepens: Mine clearance may take six months",
       "link": "https://economictimes.indiatimes.com/news/defence/strait-of-hormuz-crisis-pentagon-estimate-reveals-6-month-mine-clearance-timeline-amid-rising-oil-prices/articleshow/130461466.cms",
       "source": "Economic Times",
@@ -1268,15 +1286,6 @@
       "time": "23 Apr, 01:00 PM",
       "type": "news",
       "description": "India is set to acquire advanced Type 214 submarines from Germany. Defence ministers from both nations visited a submarine facility, highlighting coop"
-    },
-    {
-      "title": "Trust trumps everything else: Anthropic\u2019s India chief Irina Ghose",
-      "link": "https://www.thehindu.com/sci-tech/technology/trust-trumps-everything-else-anthropics-india-chief-irina-ghose/article70895901.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-23T12:46:12+05:30",
-      "time": "23 Apr, 12:46 PM",
-      "type": "news",
-      "description": "At the AWS Summit in Bengaluru, Irina Ghose, Managing Director of India at Anthropic, highlighted the importance of customers\u2019 trust and reliable prod"
     },
     {
       "title": "Iran\u2019s foreign ministry says it \u2018appreciates\u2019 Pakistan\u2019s efforts to end Middle East war",
@@ -1370,6 +1379,33 @@
     }
   ],
   "tweets": [
+    {
+      "title": "No debri found in Kishtwar so far, investigation going on if the fire is man made.\n\nForces carefully sweeping the area.",
+      "link": "https://nitter.net/elitepredatorss/status/2047899484131398015#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T10:14:19+05:30",
+      "time": "25 Apr, 10:14 AM",
+      "type": "tweets",
+      "content": "No debri found in Kishtwar so far, investigation going on if the fire is man made.\n\nForces carefully sweeping the area."
+    },
+    {
+      "title": "RT by @sidhant: Time changes everything\u2026 except the comfort of old friends.\nYesterday proved it again. \ud83e\udd0d\n@AdityaRajKaul @AshishSinghLIVE @sidhant @Wangu_News18 @sneheshphilip",
+      "link": "https://nitter.net/rsrobin1/status/2047893925663547628#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-25T09:52:14+05:30",
+      "time": "25 Apr, 09:52 AM",
+      "type": "tweets",
+      "content": "RT by @sidhant: Time changes everything\u2026 except the comfort of old friends.\nYesterday proved it again. \ud83e\udd0d\n@AdityaRajKaul @AshishSinghLIVE @sidhant @Wangu_News18 @sneheshphilip"
+    },
+    {
+      "title": "RT by @OsintTV: War trophies are the kind of reminders that continue to instill fear and hesitation in #Pakistan. This is a detailed report (SITREP) from the 1971 Battle of #AsalUttar, clearly highlighting the extent of Pakistan\u2019s losses and how even their senior officers were eliminated during the conflict.\nOn similar lines, had the war/ conflict continued for more than four days, the situation could have unfolded in much the same way once again. It was perhaps a wise move that Pakistan proposed a ceasefire during #OperationSindoor otherwise, history might have repeated itself. \ud83c\uddee\ud83c\uddf3",
+      "link": "https://nitter.net/manishindiatv/status/2047889275585179935#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-25T09:33:45+05:30",
+      "time": "25 Apr, 09:33 AM",
+      "type": "tweets",
+      "content": "RT by @OsintTV: War trophies are the kind of reminders that continue to instill fear and hesitation in #Pakistan. This is a detailed report (SITREP) from the 1971 Battle of #AsalUttar, clearly highlighting the extent of Pakistan\u2019s losses and how even their senior officers were eliminated during the conflict.\nOn similar lines, had the war/ conflict continued for more than four days, the situation could have unfolded in much the same way once again. It was perhaps a wise move that Pakistan proposed a ceasefire during #OperationSindoor otherwise, history might have repeated itself. \ud83c\uddee\ud83c\uddf3"
+    },
     {
       "title": "ISIS-Pak-linked network busted in Uttar Pradesh.\n\nUP ATS & Police arrest two suspected operatives from Bijnor.\n\nPakistani handlers allegedly directed the suspects to carry out arson attacks and spread panic in Uttar Pradesh.",
       "link": "https://nitter.net/Goreunit/status/2047880451063480660#m",
@@ -1857,15 +1893,6 @@
       "content": "Breaking:\n\nPanic gripped Kishtwar, J&K after a loud blast-like sound and thick smoke were reported; the cause remains unknown."
     },
     {
-      "title": "China foreign ministry spox on Trump\u2019s remarks that the Iranian cargo ship intercepted by US might have carried a \u201cgift\u201d from China:\n\n\"China rejects any assertion and speculation that lack factual evidence. Normal trade between countries should not be disrupted\"",
-      "link": "https://nitter.net/sidhant/status/2047636378226466847#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-24T16:48:50+05:30",
-      "time": "24 Apr, 04:48 PM",
-      "type": "tweets",
-      "content": "China foreign ministry spox on Trump\u2019s remarks that the Iranian cargo ship intercepted by US might have carried a \u201cgift\u201d from China:\n\n\"China rejects any assertion and speculation that lack factual evidence. Normal trade between countries should not be disrupted\""
-    },
-    {
       "title": "Unconfirmed reports from Kishtwar \ud83d\ude4f\ud83c\udffb",
       "link": "https://nitter.net/Goreunit/status/2047636329559908798#m",
       "source": "War & Gore",
@@ -2002,7 +2029,7 @@
     },
     {
       "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
+      "link": "https://nitter.net/i/status/2047514724863271343#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-24T08:45:26+05:30",
       "time": "24 Apr, 08:45 AM",
@@ -2080,24 +2107,6 @@
       "time": "23 Apr, 11:59 PM",
       "type": "tweets",
       "content": "Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man"
-    },
-    {
-      "title": "RT by @OsintTV: Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man",
-      "link": "https://nitter.net/elitepredatorss/status/2047382365107011762#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-23T23:59:29+05:30",
-      "time": "23 Apr, 11:59 PM",
-      "type": "tweets",
-      "content": "RT by @OsintTV: Next time terorrists and governments harboring terorrists will not be seen as different identites.\n\n         - The Old Man"
-    },
-    {
-      "title": "R to @sidhant: 23th April (Day 55)\n-Air defenses activated in Tehran\n-US military boards a \"sanctioned\" vessel transporting oil from Iran in the Indian Ocean\n-2nd rounds of Lebanon, Israel talks in DC\n-Trump says US has \"total control\" over Hormuz\n-India advises its national on Iran visit",
-      "link": "https://nitter.net/sidhant/status/2047379719642050724#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-23T23:48:58+05:30",
-      "time": "23 Apr, 11:48 PM",
-      "type": "tweets",
-      "content": "R to @sidhant: 23th April (Day 55)\n-Air defenses activated in Tehran\n-US military boards a \"sanctioned\" vessel transporting oil from Iran in the Indian Ocean\n-2nd rounds of Lebanon, Israel talks in DC\n-Trump says US has \"total control\" over Hormuz\n-India advises its national on Iran visit"
     },
     {
       "title": "Rajasthan IB: Blackout to Take Place in Barmer Tomorrow\n\nRehearsal of Air Strikes and Mock Drill Also to Be Conducted",
@@ -2341,24 +2350,6 @@
       "time": "23 Apr, 10:30 AM",
       "type": "tweets",
       "content": "Pakistan's National \u200bRefinery Limited \u200csaid its Darigwan \u200bsite \u200bin southwestern Balochistan \u2060was \u200battacked \u200bby unidentified gunmen."
-    },
-    {
-      "title": "RT by @elitepredatorss: OSINT Report\ud83d\uddc3\ufe0f\n\nDate - 23/04/2026\n\nThis post is in continuation with the earlier posted PIDs of Pakistani terrorists as part of the OSINT report on Pahalgam.\n\nNames of the terrorists involved:\n\n1. Bilal Afzal alias Suleiman Shah (Neutralized in July, 2025).\u2705\n2. Habib Tahir alias Hamza Afghani (Neutralized in July, 2025).\u2705\n3. Hanan Zafar alias Jibran Bhai (Neutralized in July, 2025).\u2705\n\nAttached documents are photobanks for reference with the identities of the Pakistani terrorists who executed the cowardly Pahalgam Attack.\n\n'We Protect, We Serve'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source",
-      "link": "https://nitter.net/HecterOSINT/status/2047176390265680137#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T10:21:00+05:30",
-      "time": "23 Apr, 10:21 AM",
-      "type": "tweets",
-      "content": "RT by @elitepredatorss: OSINT Report\ud83d\uddc3\ufe0f\n\nDate - 23/04/2026\n\nThis post is in continuation with the earlier posted PIDs of Pakistani terrorists as part of the OSINT report on Pahalgam.\n\nNames of the terrorists involved:\n\n1. Bilal Afzal alias Suleiman Shah (Neutralized in July, 2025).\u2705\n2. Habib Tahir alias Hamza Afghani (Neutralized in July, 2025).\u2705\n3. Hanan Zafar alias Jibran Bhai (Neutralized in July, 2025).\u2705\n\nAttached documents are photobanks for reference with the identities of the Pakistani terrorists who executed the cowardly Pahalgam Attack.\n\n'We Protect, We Serve'\n\n\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\n\nCC: Open Source"
-    },
-    {
-      "title": "Picture of LeT Security Chief Mudassar Killed in Op Sindoor\n\nMudassar Khadian, head of security at Markaz Taiba, Muridke, was killed last year. Affiliated with Lashkar-e-Taiba, he received a guard of honour at his funeral. Lt. Gen Fayyaz Hussain Shah, serving Corps Commander of IV Corps Lahore, along with other senior army officials, visited Mudassar\u2019s residence after his funeral",
-      "link": "https://nitter.net/elitepredatorss/status/2047172907403706630#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-23T10:07:10+05:30",
-      "time": "23 Apr, 10:07 AM",
-      "type": "tweets",
-      "content": "Picture of LeT Security Chief Mudassar Killed in Op Sindoor\n\nMudassar Khadian, head of security at Markaz Taiba, Muridke, was killed last year. Affiliated with Lashkar-e-Taiba, he received a guard of honour at his funeral. Lt. Gen Fayyaz Hussain Shah, serving Corps Commander of IV Corps Lahore, along with other senior army officials, visited Mudassar\u2019s residence after his funeral"
     }
   ],
   "youtube": [
@@ -2436,7 +2427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "09:24 AM IST",
-    "next_update": "10:24 AM IST"
+    "last_updated": "10:24 AM IST",
+    "next_update": "11:24 AM IST"
   }
 }
