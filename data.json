@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "\u2018Violence has no place in democracy\u2019: PM Modi \u2018relieved\u2019 as Trump, First Lady safe after White House shooting",
+      "link": "https://indianexpress.com/article/world/white-house-correspondents-dinner-shooting-trump-safe-modi-reaction-10656388/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T11:52:47+05:30",
+      "time": "26 Apr, 11:52 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Israel-Iran war live: Pakistan PM dials Iranian President, discusses evolving regional situation",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:44:57+05:30",
+      "time": "26 Apr, 11:44 AM",
+      "type": "news",
+      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.S. Navy intercepts Iran-linked vessel in Arabian Sea"
+    },
+    {
+      "title": "DIG calls for heightened vigilance, robust security grid along IB in J-K's Kathua",
+      "link": "https://economictimes.indiatimes.com/news/defence/dig-calls-for-heightened-vigilance-robust-security-grid-along-ib-in-j-ks-kathua/articleshow/130527323.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-26T11:41:49+05:30",
+      "time": "26 Apr, 11:41 AM",
+      "type": "news",
+      "description": "Jammu DIG Shridhar Patil emphasized strict vigilance along the Kathua border.  He urged officers to maintain heightened alertness to thwart anti-natio"
+    },
+    {
+      "title": "Zurich-bound Swiss plane aborts take-off at Delhi airport",
+      "link": "https://www.thehindu.com/news/national/zurich-bound-swiss-plane-aborts-take-off-at-delhi-airport/article70907898.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:40:30+05:30",
+      "time": "26 Apr, 11:40 AM",
+      "type": "news",
+      "description": "In a detailed statement, an airline spokesperson said there were 228 passengers and four infants on board and six passengers are undergoing medical ev"
+    },
+    {
+      "title": "Donald Trump says suspect was armed with multiple weapons at White House correspondents\u2019 dinner",
+      "link": "https://www.thehindu.com/news/international/shooting-incident-white-house-correspondents-dinner-meeting-donald-trump-briefing/article70907678.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:39:57+05:30",
+      "time": "26 Apr, 11:39 AM",
+      "type": "news",
+      "description": "One officer was shot, but he was protected by a bulletproof vest"
+    },
+    {
+      "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
+      "link": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:30:53+05:30",
+      "time": "26 Apr, 11:30 AM",
+      "type": "news",
+      "description": "During their warm and cordial conversation that lasted fifty minutes, the two leaders had a detailed exchange of views on the current regional situati"
+    },
+    {
+      "title": "What we know about the Donald Trump press gala shooting",
+      "link": "https://www.thehindu.com/news/international/what-we-know-about-the-donald-trump-press-gala-shooting/article70907849.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:26:16+05:30",
+      "time": "26 Apr, 11:26 AM",
+      "type": "news",
+      "description": "As details continue to emerge and investigations are underway, here is what we know about the shooting"
+    },
+    {
+      "title": "U.S. Navy intercepts Iran-linked vessel in Arabian Sea",
+      "link": "https://www.thehindu.com/news/international/us-navy-intercepts-iran-linked-vessel-in-arabian-sea/article70907599.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:22:43+05:30",
+      "time": "26 Apr, 11:22 AM",
+      "type": "news",
+      "description": "The U.S. Department of Treasury sanctioned M/V Sevan and 18 other \u201cshadow fleet\u201d vessels for transporting billions in Iranian energy products to forei"
+    },
+    {
+      "title": "Inauguration of OTM Complex CGDHQ-13, Puducherry",
+      "link": "https://www.indiastrategic.in/inauguration-of-otm-complex-cgdhq-13-puducherry/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-26T11:18:47+05:30",
+      "time": "26 Apr, 11:18 AM",
+      "type": "news",
+      "description": "<p>New Delhi. In a momentous stride for Bharat\u2019s maritime security construct, DG Paramesh Sivamani, AVSM, PTM, TM, Director General Indian Coast Guard"
+    },
+    {
+      "title": "Trump says cancelled envoys' Pakistan trip, but Iran war not resuming",
+      "link": "https://www.thehindu.com/news/international/trump-says-cancelled-envoys-pakistan-trip-but-war-not-resuming/article70906506.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T11:18:14+05:30",
+      "time": "26 Apr, 11:18 AM",
+      "type": "news",
+      "description": "Iran\u2019s Foreign Ministry said Mr. Araghchi had left Islamabad and arrived in Muscat on Saturday (April 25) for meetings with Omani officials"
+    },
+    {
       "title": "DRDO unveils Advanced Armoured Platforms (Tracked & Wheeled)",
       "link": "https://www.indiastrategic.in/drdo-unveils-advanced-armoured-platforms-tracked-wheeled/",
       "source": "India Strategic",
@@ -8,15 +98,6 @@
       "time": "26 Apr, 11:10 AM",
       "type": "news",
       "description": "<p>New Delhi. The Advanced Armoured Platforms (Tracked and Wheeled), designed and developed by Vehicles Research &#38; Development Establishment, were"
-    },
-    {
-      "title": "Israel-Iran live: Pakistan PM dials Iranian President, discusses evolving regional situation",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T11:06:10+05:30",
-      "time": "26 Apr, 11:06 AM",
-      "type": "news",
-      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.S. Navy intercepts Iran-linked vessel in Arabian Sea"
     },
     {
       "title": "Russian strikes kill three, wound four in Ukraine",
@@ -35,24 +116,6 @@
       "time": "26 Apr, 11:03 AM",
       "type": "news",
       "description": "The shooting suspect accused of storming the Washington media gala will be arraigned in the U.S. capital on April 27, 2026, the federal prosecutor sai"
-    },
-    {
-      "title": "What we know about the Donald Trump press gala shooting",
-      "link": "https://www.thehindu.com/news/international/what-we-know-about-the-donald-trump-press-gala-shooting/article70907849.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T11:02:28+05:30",
-      "time": "26 Apr, 11:02 AM",
-      "type": "news",
-      "description": "As details continue to emerge and investigations are underway, here is what we know about the shooting"
-    },
-    {
-      "title": "Pakistan PM dials Iranian President, discusses evolving regional situation",
-      "link": "https://www.thehindu.com/news/national/pakistan-pm-dials-iranian-president-discusses-evolving-regional-situation/article70907837.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T10:59:37+05:30",
-      "time": "26 Apr, 10:59 AM",
-      "type": "news",
-      "description": "During their warm and cordial conversation that lasted fifty minutes, the two leaders had a detailed exchange of views on the current regional situati"
     },
     {
       "title": "IAF seeks indigenous drone swarm radar system to boost surveillance in contested zones",
@@ -89,15 +152,6 @@
       "time": "26 Apr, 10:44 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Donald Trump says suspect was armed with multiple weapons at White House correspondents\u2019 dinner",
-      "link": "https://www.thehindu.com/news/international/shooting-incident-white-house-correspondents-dinner-meeting-donald-trump-briefing/article70907678.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T10:27:42+05:30",
-      "time": "26 Apr, 10:27 AM",
-      "type": "news",
-      "description": "One officer was shot, but he was protected by a bulletproof vest"
     },
     {
       "title": "Loud bangs and a Trump evacuation: chaos at correspondents' dinner",
@@ -251,24 +305,6 @@
       "time": "26 Apr, 06:55 AM",
       "type": "news",
       "description": "Iranian Foreign Minister Abbas Araghchi could revisit Islamabad after his current stop in Oman and before heading to Russia, according to Iranian medi"
-    },
-    {
-      "title": "Trump says cancelled envoys' Pakistan trip, but Iran war not resuming",
-      "link": "https://www.thehindu.com/news/international/trump-says-cancelled-envoys-pakistan-trip-but-war-not-resuming/article70906506.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T06:47:13+05:30",
-      "time": "26 Apr, 06:47 AM",
-      "type": "news",
-      "description": "Iran\u2019s Foreign Ministry said Mr. Araghchi had left Islamabad and arrived in Muscat on Saturday (April 25) for meetings with Omani officials"
-    },
-    {
-      "title": "U.S. Navy intercepts Iran-linked vessel in Arabian Sea",
-      "link": "https://www.thehindu.com/news/international/us-navy-intercepts-iran-linked-vessel-in-arabian-sea/article70907599.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T06:44:11+05:30",
-      "time": "26 Apr, 06:44 AM",
-      "type": "news",
-      "description": "The U.S. Department of Treasury sanctioned M/V Sevan and 18 other \u201cshadow fleet\u201d vessels for transporting billions in Iranian energy products to forei"
     },
     {
       "title": "Trump evacuated after gunshots heard at White House correspondent\u2019s dinner; shooter held",
@@ -1108,15 +1144,6 @@
       "description": "The Indian Air Force has denied reports of an aircraft crash near Kishtwar. Meanwhile, the Air Force successfully activated its Emergency Landing Faci"
     },
     {
-      "title": "Israel-Lebanon ceasefire extended by three weeks",
-      "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T22:01:47+05:30",
-      "time": "24 Apr, 10:01 PM",
-      "type": "news",
-      "description": "U.S. President Donald Trump announces the development after meeting representatives from both countries in Washington"
-    },
-    {
       "title": "Israel\u2019s Benjamin Netanyahu says he was treated for prostate cancer",
       "link": "https://indianexpress.com/article/world/israel-netanyahu-treated-prostate-cancer-10654387/",
       "source": "The Indian Express",
@@ -1241,42 +1268,6 @@
       "time": "24 Apr, 12:42 PM",
       "type": "news",
       "description": "Indus Water Treaty News: Pakistan has approached the UN Security Council after India suspended the Indus Waters Treaty following a deadly terror attac"
-    },
-    {
-      "title": "Hical Technologies Joins India-Germany Defence Industry Roundtable in Munich as India Deepens Global Co-Development Partnerships",
-      "link": "https://www.indiastrategic.in/hical-technologies-joins-india-germany-defence-industry-roundtable-in-munich-as-india-deepens-global-co-development-partnerships/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-24T12:11:29+05:30",
-      "time": "24 Apr, 12:11 PM",
-      "type": "news",
-      "description": "<p>Bengaluru, April 23, 2026. Hical Technologies, a leading Indian aerospace and defence manufacturing company, announced that its Managing Director, "
-    },
-    {
-      "title": "The Gulf Confrontation Is Not About Hormuz",
-      "link": "https://www.indiastrategic.in/the-gulf-confrontation-is-not-about-hormuz/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-24T12:05:14+05:30",
-      "time": "24 Apr, 12:05 PM",
-      "type": "news",
-      "description": "<p>From Shyam Bhatia London, April 20, 2026. At first glance, this confrontation looks like it is about oil. Tankers diverted. Insurance premiums spik"
-    },
-    {
-      "title": "UN General Assembly President Annalena Baerbock to visit India next week",
-      "link": "https://www.indiastrategic.in/un-general-assembly-president-annalena-baerbock-to-visit-india-next-week/",
-      "source": "India Strategic",
-      "sort_key": "2026-04-24T11:53:21+05:30",
-      "time": "24 Apr, 11:53 AM",
-      "type": "news",
-      "description": "<p>By R Anil Kumar During her visit to India, Ms. Baerbock will hold \u201cmultiple bilateral meetings with various government officials\u201d and also meet the"
-    },
-    {
-      "title": "Pakistan tests Taimur anti-ship missile with 600-km range: How it could be part of PAF\u2019s plan to target Indian Navy ships",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-tests-taimur-anti-ship-missile-with-600-km-range-how-it-could-be-part-of-pafs-plan-to-target-indian-navy-ships/articleshow/130484852.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T11:47:16+05:30",
-      "time": "24 Apr, 11:47 AM",
-      "type": "news",
-      "description": "Pakistan has successfully test-fired its Taimoor air-launched cruise missile. This indigenous weapon can strike enemy ships from up to 600 kilometers "
     }
   ],
   "tweets": [
@@ -1423,15 +1414,6 @@
       "time": "26 Apr, 08:38 AM",
       "type": "tweets",
       "content": "On Truth Social, Trump releases CCTV visuals of the alleged shooter at the White House Correspondents Dinner"
-    },
-    {
-      "title": "[to the people under the table] You gonna finish that? No? Thanks.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2048231479935984016#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-26T08:13:33+05:30",
-      "time": "26 Apr, 08:13 AM",
-      "type": "tweets",
-      "content": "[to the people under the table] You gonna finish that? No? Thanks."
     },
     {
       "title": "\"im too old for this shit.\" Accepted whatever might come.",
@@ -1650,15 +1632,6 @@
       "content": "Trump Expresses Frustration as Iran says no talks with US; cancels business partner Witkoff, son-in-law Kushner's Pakistan visit"
     },
     {
-      "title": "Trump cancels Kushner, Witkoff's Islamabad visit. Iran had made it clear, no talks with US\n\nFrom Fox News:",
-      "link": "https://nitter.net/sidhant/status/2048071120646201788#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-25T21:36:21+05:30",
-      "time": "25 Apr, 09:36 PM",
-      "type": "tweets",
-      "content": "Trump cancels Kushner, Witkoff's Islamabad visit. Iran had made it clear, no talks with US\n\nFrom Fox News:"
-    },
-    {
       "title": "Daily US-Israel-Iran War Brief: \n25th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Iranian FM Araghchi began his meetings with Pakistani officials today. He emphasized that his tour is focused on a \"neighborhood first\" policy with partners in Pakistan, Oman, and Russia.\n\n\u25cf US officials Witkoff and Kushner arrive in Islamabad, however Iran denies any talks with US.\n\n\u25cf UKMTO reported the hijacking of a tanker approximately 45nm northeast of Mareeyo, Somalia.\n\n\u25cf Iran\u2019s Khatam al-Anbiya Central HQ warned that if US continues its naval blockade and maritime piracy in the region, it will encounter a severe reaction from Iran\u2019s armed forces.\n\n\u25cf Israeli PM Netanyahu is expected to travel to Washington in about two and a half weeks for the summit with President Trump and Lebanese President Aoun.\n\n\u25cf Iran resumes international services of Imam Khomeini Airport.\n\n\u25cf Despite the ceasefire extension, the IDF struck Hezbollah sites in southern Lebanon today, killing at least four people.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2048069673892356209#m",
       "source": "Netram Defense",
@@ -1758,6 +1731,15 @@
       "content": "BREAKING: Iran FM Meets Pakistan Army Chief in Islamabad\n\nAbbas Araghchi held talks with Asim Munir in Islamabad, as Pakistan pushes to facilitate U.S.\u2013Iran engagement.\n\nThe meeting was attended by senior Iranian officials including Kazem Gharibabadi and spokesperson Esmaeil Baghaei, along with Ambassador Reza Amiri Moghadam.\n\nPakistan was represented by Interior Minister Mohsin Naqvi and other officials."
     },
     {
+      "title": "RT by @sidhant: Inaugurated the BIMSTEC Youth Leadership Exchange Program, organized jointly with @MEAIndia, alongside Shri C.S. Ram (Joint Secretary, BIMSTEC and SAARC, MEA) & Shri P. Vijayan (ADGP, Kerala). \n\nYouth from 7 BIMSTEC countries are at @ArtofLivingIC to attend leadership programs & foster cross-cultural collaboration.\n\n@ArtofLiving",
+      "link": "https://nitter.net/Gurudev/status/2048002584074752243#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-25T17:04:00+05:30",
+      "time": "25 Apr, 05:04 PM",
+      "type": "tweets",
+      "content": "RT by @sidhant: Inaugurated the BIMSTEC Youth Leadership Exchange Program, organized jointly with @MEAIndia, alongside Shri C.S. Ram (Joint Secretary, BIMSTEC and SAARC, MEA) & Shri P. Vijayan (ADGP, Kerala). \n\nYouth from 7 BIMSTEC countries are at @ArtofLivingIC to attend leadership programs & foster cross-cultural collaboration.\n\n@ArtofLiving"
+    },
+    {
       "title": "Some more unverified images surfaced on social media of pathetic food quality onboard US aircraft carrier USS Abraham Lincoln.\n\nA crew with green color tshirt can be seen in the left side picture, these guys work on the deck and maintainance of aircrafts.",
       "link": "https://nitter.net/elitepredatorss/status/2047999611055505800#m",
       "source": "Elite Predators",
@@ -1810,6 +1792,24 @@
       "time": "25 Apr, 03:13 PM",
       "type": "tweets",
       "content": "R to @elitepredatorss: XUV700 as assault and weapon support vehicle."
+    },
+    {
+      "title": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974799008465101#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:36+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: Armored Safari for day to day communte of high level dignitaries."
+    },
+    {
+      "title": "R to @elitepredatorss: Force Urbania as command and control center on wheels.",
+      "link": "https://nitter.net/elitepredatorss/status/2047974786215862695#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-25T15:13:33+05:30",
+      "time": "25 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "R to @elitepredatorss: Force Urbania as command and control center on wheels."
     },
     {
       "title": "Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.\n\nScorpion-N as a support and escord vehicle.",
@@ -2235,6 +2235,15 @@
       "content": "Raghav Chadha along with Ashok Mittal and Sandeep Pathak quit Aam Aadmi Party & they're going to join BJP."
     },
     {
+      "title": "\"Pakistan's warm relations with the United States may cause India to limit its response to the next significant cross-border terrorist incident..,\" says Kenneth Juster, Former US Ambassador to India\n\nHow are they so confident of a next significant terrorist incident!!!!",
+      "link": "https://nitter.net/WarMonitorINTL/status/2047626423456997766#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-24T16:09:17+05:30",
+      "time": "24 Apr, 04:09 PM",
+      "type": "tweets",
+      "content": "\"Pakistan's warm relations with the United States may cause India to limit its response to the next significant cross-border terrorist incident..,\" says Kenneth Juster, Former US Ambassador to India\n\nHow are they so confident of a next significant terrorist incident!!!!"
+    },
+    {
       "title": "RT by @NetramDefence: Pakistan secures First rank in Global Terrorism Index.",
       "link": "https://nitter.net/NetramDefence/status/2047588742635135153#m",
       "source": "Netram Defense",
@@ -2260,20 +2269,11 @@
       "time": "24 Apr, 12:43 PM",
       "type": "tweets",
       "content": "Cry hard Pakis, \nIWT will always be in Abeyance until or unless you stop exporting terrorism."
-    },
-    {
-      "title": "FTAs  FOR THE WIN \ud83d\udcaf\n\nASEAN \u2705\nSAFTA \u2705\nEU \u2705\nUK \u2705\nUAE \u2705\nOman \u2705\nAustralia \u2705\nJapan \u2705\nSouth Korea \u2705\nIsrael \u2705\n\nNZ \ud83d\udfe2\nGCC - Loading \ud83d\udfe2\nCanada - Loading\ud83d\udfe2\nMexico - Loading\ud83d\udfe2\nEuraisan Economic Union led by Russia - Loading \ud83d\udfe2\n\nThe whole world wants to trade with India.",
-      "link": "https://nitter.net/elitepredatorss/status/2047556716297097333#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-24T11:32:17+05:30",
-      "time": "24 Apr, 11:32 AM",
-      "type": "tweets",
-      "content": "FTAs  FOR THE WIN \ud83d\udcaf\n\nASEAN \u2705\nSAFTA \u2705\nEU \u2705\nUK \u2705\nUAE \u2705\nOman \u2705\nAustralia \u2705\nJapan \u2705\nSouth Korea \u2705\nIsrael \u2705\n\nNZ \ud83d\udfe2\nGCC - Loading \ud83d\udfe2\nCanada - Loading\ud83d\udfe2\nMexico - Loading\ud83d\udfe2\nEuraisan Economic Union led by Russia - Loading \ud83d\udfe2\n\nThe whole world wants to trade with India."
     }
   ],
   "youtube": [],
   "metadata": {
-    "last_updated": "11:24 AM IST",
-    "next_update": "12:24 PM IST"
+    "last_updated": "12:24 PM IST",
+    "next_update": "01:24 PM IST"
   }
 }
