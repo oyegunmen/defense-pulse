@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "title": "Israel-Iran live: U.S. Navy intercepts Iran-linked vessel in Arabian Sea",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T08:11:15+05:30",
+      "time": "26 Apr, 08:11 AM",
+      "type": "news",
+      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold"
+    },
+    {
+      "title": "Trump and First Lady 'safe,' one suspect in custody after reported shooting incident at White House Correspondents\u2019 Dinner | LIVE",
+      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T08:10:17+05:30",
+      "time": "26 Apr, 08:10 AM",
+      "type": "news",
+      "description": "Shooting was at \u2018screening area\u2019 outside Trump dinner venue: Secret Service"
+    },
+    {
+      "title": "Small plane crash near Minneapolis kills North Dakota state legislator and pilot",
+      "link": "https://www.thehindu.com/news/international/small-plane-crash-near-minneapolis-kills-north-dakota-state-legislator-and-pilot/article70907655.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T08:09:24+05:30",
+      "time": "26 Apr, 08:09 AM",
+      "type": "news",
+      "description": "North Dakota state Rep. Liz Conmy, of Fargo, was killed in the crash, her colleague, state Sen. Tim Mathern"
+    },
+    {
+      "title": "White House Dinner Shooting Live Updates: Trump says \u2018shooter apprehended\u2019 after president rushed from White House Correspondents\u2019 Dinner",
+      "link": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T07:41:31+05:30",
+      "time": "26 Apr, 07:41 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Trump uninjured after after security incident at White House Correspondents\u2019 Dinner",
+      "link": "https://www.thehindu.com/news/international/shots-fired-at-white-house-correspondents-dinner-trump-and-others-evacuated/article70907601.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T07:35:41+05:30",
+      "time": "26 Apr, 07:35 AM",
+      "type": "news",
+      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
+    },
+    {
+      "title": "\u2018In perfect condition\u2019: Trump confirms everyone, from First Lady to cabinet members, is safe after White House shooting",
+      "link": "https://indianexpress.com/article/world/trump-to-address-media-shortly-says-we-all-are-in-perfect-condition-10656180/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T07:34:58+05:30",
+      "time": "26 Apr, 07:34 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Seven Killed, Over 17 Injured in Bus Blast in Colombia",
       "link": "https://www.newsonair.gov.in/seven-killed-over-17-injured-in-bus-blast-in-colombia/",
       "source": "AIR International",
@@ -8,24 +62,6 @@
       "time": "26 Apr, 07:21 AM",
       "type": "news",
       "description": "In Colombia, seven people were killed and more than 17 injured when an explosive device detonated on a bus traveling along the Pan-American Highway in"
-    },
-    {
-      "title": "Israel-Iran live: U.S. Navy intercepts Iran-linked vessel in Arabian Sea",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T07:20:28+05:30",
-      "time": "26 Apr, 07:20 AM",
-      "type": "news",
-      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold"
-    },
-    {
-      "title": "Trump uninjured after after security incident at White House Correspondents\u2019 Dinner",
-      "link": "https://www.thehindu.com/news/international/shots-fired-at-white-house-correspondents-dinner-trump-and-others-evacuated/article70907601.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T07:08:19+05:30",
-      "time": "26 Apr, 07:08 AM",
-      "type": "news",
-      "description": "The Secret Service and other authorities swarmed the banquet hall as guests ducked under tables by the hundreds"
     },
     {
       "title": "Viktor Orb\u00e1n steps back from Parliament after landslide loss, vows to rebuild Hungary\u2019s \u2019national side\u2019",
@@ -64,7 +100,7 @@
       "description": "The U.S. Department of Treasury sanctioned M/V Sevan and 18 other \u201cshadow fleet\u201d vessels for transporting billions in Iranian energy products to forei"
     },
     {
-      "title": "Trump evacuated after suspected gunshots at White House correspondents dinner; no sign of injuries",
+      "title": "Trump evacuated after gunshots heard at White House correspondent\u2019s dinner; shooter held",
       "link": "https://indianexpress.com/article/world/us-news/donald-trump-evacuated-white-house-correspondents-dinner-security-incident-10656161/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T06:43:08+05:30",
@@ -1117,24 +1153,6 @@
       "description": ""
     },
     {
-      "title": "Pakistan repays $3.45 billion loan to UAE",
-      "link": "https://www.thehindu.com/news/international/pakistan-repays-345-billion-loan-to-uae/article70900758.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T13:38:16+05:30",
-      "time": "24 Apr, 01:38 PM",
-      "type": "news",
-      "description": "The UAE had asked for the immediate return of the funds in the wake of the recent situation in West Asia following the U.S.-Israel war on Iran"
-    },
-    {
-      "title": "Democrats slam Trump for amplifying 'racist trash' on social media",
-      "link": "https://www.thehindu.com/news/international/democrats-slam-trump-for-amplifying-racist-trash-on-social-media/article70900579.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-24T13:31:02+05:30",
-      "time": "24 Apr, 01:31 PM",
-      "type": "news",
-      "description": "He (Trump) does not understand the grit, sacrifice, and determination it takes to build a life from the ground up. He does not understand public servi"
-    },
-    {
       "title": "Indus water treaty: Pakistan cries for help at UNSC over suspension of agreement by India amid rising summer heat",
       "link": "https://economictimes.indiatimes.com/news/defence/indus-water-treaty-pakistan-cries-for-help-at-unsc-over-suspension-of-agreement-by-india-amid-rising-summer-heat/articleshow/130486112.cms",
       "source": "Economic Times",
@@ -1241,27 +1259,63 @@
       "time": "24 Apr, 08:45 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump rules out nuclear strike on Iran, calls it \u2018stupid question\u2019",
-      "link": "https://indianexpress.com/article/world/us-news/donald-trump-nuclear-strike-iran-stupid-question-10652956/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-24T08:05:23+05:30",
-      "time": "24 Apr, 08:05 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Trump says Middle East conflict timeline unclear; 78% targets hit, warns of escalation if talks fail",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-warns-of-escalation-in-middle-east-conflict-as-oil-infrastructure-faces-crisis/articleshow/130481742.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T07:50:59+05:30",
-      "time": "24 Apr, 07:50 AM",
-      "type": "news",
-      "description": "Donald Trump says America has completed most initial goals in the West Asia conflict. He is now evaluating options for a negotiated settlement. Trump "
     }
   ],
   "tweets": [
+    {
+      "title": "[to the people under the table] You gonna finish that? No? Thanks.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048231479935984016#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-26T08:13:33+05:30",
+      "time": "26 Apr, 08:13 AM",
+      "type": "tweets",
+      "content": "[to the people under the table] You gonna finish that? No? Thanks."
+    },
+    {
+      "title": "\"im too old for this shit.\" Accepted whatever might come.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048230891567395003#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-26T08:11:13+05:30",
+      "time": "26 Apr, 08:11 AM",
+      "type": "tweets",
+      "content": "\"im too old for this shit.\" Accepted whatever might come."
+    },
+    {
+      "title": "\u201cShots fired,\u201d indeed\u2026.",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048226768952406075#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-26T07:54:50+05:30",
+      "time": "26 Apr, 07:54 AM",
+      "type": "tweets",
+      "content": "\u201cShots fired,\u201d indeed\u2026."
+    },
+    {
+      "title": "FOOTAGE AS TRUMP IS RUSHED FROM THE STAGE",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048225550502932528#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-26T07:50:00+05:30",
+      "time": "26 Apr, 07:50 AM",
+      "type": "tweets",
+      "content": "FOOTAGE AS TRUMP IS RUSHED FROM THE STAGE"
+    },
+    {
+      "title": "What? Has Trump been attacked?",
+      "link": "https://nitter.net/WarMonitorINTL/status/2048224334498689423#m",
+      "source": "War Monitor",
+      "sort_key": "2026-04-26T07:45:10+05:30",
+      "time": "26 Apr, 07:45 AM",
+      "type": "tweets",
+      "content": "What? Has Trump been attacked?"
+    },
+    {
+      "title": "President Trump will deliver a statement in the White House Briefing Room: White House statement",
+      "link": "https://nitter.net/sidhant/status/2048220842526720241#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-26T07:31:17+05:30",
+      "time": "26 Apr, 07:31 AM",
+      "type": "tweets",
+      "content": "President Trump will deliver a statement in the White House Briefing Room: White House statement"
+    },
     {
       "title": "Trump, after the shooting incident says will do a press conference. Says US leadership is safe",
       "link": "https://nitter.net/sidhant/status/2048218173741412436#m",
@@ -1875,15 +1929,6 @@
       "content": "New Zealand trade minister Todd McClay in Delhi ahead of signing of India, New Zealand trade agreement."
     },
     {
-      "title": "UNSC, under Presidency of Bahrain to hold a high level meeting on \"The Safety and Protection of Waterways in the Maritime Domain\u201d.",
-      "link": "https://nitter.net/sidhant/status/2047852690072625266#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-25T07:08:23+05:30",
-      "time": "25 Apr, 07:08 AM",
-      "type": "tweets",
-      "content": "UNSC, under Presidency of Bahrain to hold a high level meeting on \"The Safety and Protection of Waterways in the Maritime Domain\u201d."
-    },
-    {
       "title": "RT by @NetramDefence: Iran\u2019s position is in contrast to what Pakistan and US are saying.\n\nAraghchi said that the trip\u2019s purpose is regarding bilateral matters, and that their neighbors are priority.\n\nHowever there is news that Jared Kushner and Steve Witkoff will go to Pakistan for talks with Iran.",
       "link": "https://nitter.net/Globalwatchh/status/2047779610054603232#m",
       "source": "Netram Defense",
@@ -2227,7 +2272,7 @@
     },
     {
       "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/i/status/2047514724863271343#m",
+      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-24T08:45:26+05:30",
       "time": "24 Apr, 08:45 AM",
@@ -2260,15 +2305,6 @@
       "time": "24 Apr, 08:38 AM",
       "type": "tweets",
       "content": "Uttar Pradesh: 2 terrorists working for Pakistani gangsters and ISI were arrested by the UP-ATS (Anti-Terror Squad)."
-    },
-    {
-      "title": "RT by @AngryRumi7: #WhiteKnightCorps | #SaluteToPatriot\n\n\ud835\uddd4 \ud835\uddd5\ud835\uddff\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\udddb\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\udddf\ud835\uddee\ud835\uddf6\ud835\uddf1 \ud835\udde7\ud835\uddfc \ud835\udde5\ud835\uddf2\ud835\ude00\ud835\ude01\n\nWith deep sorrow and immense gratitude, #IndianArmy bid a solemn farewell to \ud835\udde7\ud835\uddee\ud835\uddf5\ud835\uddf6\ud835\uddff \ud835\uddd9\ud835\uddee\ud835\ude07\ud835\uddee\ud835\uddf9, a valiant son of the soil who stood shoulder to shoulder with own troops during Op Sarpvinash in 2003.\n\nHis \ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude00\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf6\ud835\ude01, \ud835\ude02\ud835\uddfb\ud835\ude04\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 and strong bond with the Indian Army remain a testament to his exceptional character. His \ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddff will forever be etched in our hearts.\n\n#IndianArmy stands steadfast with the bereaved family in this hour of grief.\n\n@adgpi | @NorthernComd_IA | @SpokespersonMoD | >@prodefencejammu | @PRODefLko | @PRODefPrayagraj | @PRODefDehradun | @PRODefPune | >@PRODefKohima | @PRO_Vizag | >@PRODefRjsthn | #IndianArmy",
-      "link": "https://nitter.net/Whiteknight_IA/status/2047505201544990832#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-04-24T08:07:35+05:30",
-      "time": "24 Apr, 08:07 AM",
-      "type": "tweets",
-      "content": "RT by @AngryRumi7: #WhiteKnightCorps | #SaluteToPatriot\n\n\ud835\uddd4 \ud835\uddd5\ud835\uddff\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\udddb\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\udddf\ud835\uddee\ud835\uddf6\ud835\uddf1 \ud835\udde7\ud835\uddfc \ud835\udde5\ud835\uddf2\ud835\ude00\ud835\ude01\n\nWith deep sorrow and immense gratitude, #IndianArmy bid a solemn farewell to \ud835\udde7\ud835\uddee\ud835\uddf5\ud835\uddf6\ud835\uddff \ud835\uddd9\ud835\uddee\ud835\ude07\ud835\uddee\ud835\uddf9, a valiant son of the soil who stood shoulder to shoulder with own troops during Op Sarpvinash in 2003.\n\nHis \ud835\uddf1\ud835\uddee\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude00\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf6\ud835\ude01, \ud835\ude02\ud835\uddfb\ud835\ude04\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf0\ud835\uddfc\ud835\ude02\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 and strong bond with the Indian Army remain a testament to his exceptional character. His \ud835\uddf6\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\uddfc\ud835\ude02\ud835\uddff will forever be etched in our hearts.\n\n#IndianArmy stands steadfast with the bereaved family in this hour of grief.\n\n@adgpi | @NorthernComd_IA | @SpokespersonMoD | >@prodefencejammu | @PRODefLko | @PRODefPrayagraj | @PRODefDehradun | @PRODefPune | >@PRODefKohima | @PRO_Vizag | >@PRODefRjsthn | #IndianArmy"
     }
   ],
   "youtube": [
@@ -2346,7 +2382,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST",
-    "next_update": "08:24 AM IST"
+    "last_updated": "08:24 AM IST",
+    "next_update": "09:24 AM IST"
   }
 }
