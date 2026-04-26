@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "Explosive device kills 13, injures 38 on bus in southwestern Colombia as violence persists",
+      "link": "https://www.thehindu.com/news/international/colombia-bus-attack-terrorist-explosion-several-death-injuries-latest/article70908171.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T14:36:23+05:30",
+      "time": "26 Apr, 02:36 PM",
+      "type": "news",
+      "description": "Octavio Guzman, the Governor of the region of Cauca, said on X that the device was set off while the bus was travelling along the Panamerican Highway "
+    },
+    {
+      "title": "Israel-Iran war live: Oman's Sultan meets Iran's Araghchi to discuss regional situation",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T14:26:17+05:30",
+      "time": "26 Apr, 02:26 PM",
+      "type": "news",
+      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.S. Navy intercepts Iran-linked vessel in Arabian Sea"
+    },
+    {
       "title": "NSA Ajit Doval Meets UAE President Mohammed bin Zayed Al Nahyan",
       "link": "https://www.newsonair.gov.in/nsa-ajit-doval-meets-uae-president-mohammed-bin-zayed-al-nahyan/",
       "source": "AIR International",
@@ -44,15 +62,6 @@
       "time": "26 Apr, 01:52 PM",
       "type": "news",
       "description": "The task force warned Americans of Filipino descent in the U.S. to be wary of being lured by left-wing activist groups into joining or supporting Fili"
-    },
-    {
-      "title": "Israel-Iran war live: Oman's Sultan meets Iran's Araghchi to discuss regional situation",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T13:50:50+05:30",
-      "time": "26 Apr, 01:50 PM",
-      "type": "news",
-      "description": "U.S. President Trump cancels Pakistan talks trip and says Iran war on hold; U.S. Navy intercepts Iran-linked vessel in Arabian Sea"
     },
     {
       "title": "Who is Cole Tomas Allen, suspect apprehended in connection to shooting in Washington",
@@ -163,7 +172,7 @@
       "description": "In the northeastern Ukraine border region of Sumy, one Russian drone attack killed two civilians, according to the head of Sumy\u2019s regional military ad"
     },
     {
-      "title": "\u2018Violence has no place in democracy\u2019: PM Modi \u2018relieved\u2019 as Trump, First Lady safe after White House shooting",
+      "title": "\u2018Violence has no place in democracy\u2019: PM Modi \u2018relieved\u2019 as Trump, First Lady safe after shooting",
       "link": "https://indianexpress.com/article/world/white-house-correspondents-dinner-shooting-trump-safe-modi-reaction-10656388/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T11:52:47+05:30",
@@ -289,7 +298,7 @@
       "description": "The U.S. President had cancelled his envoys\u2019 trip to Pakistan for peace talks with Iran"
     },
     {
-      "title": "Who is Cole Tomas Allen? The 31-year-old California man identified as White House shooting suspect",
+      "title": "Who is Cole Tomas Allen? The 31-year-old California man identified as Trump dinner shooting suspect",
       "link": "https://indianexpress.com/article/world/us-news/whjtw-house-shooting-suspect-cole-tomas-allen-white-house-correspondents-dinner-shooting-suspect-trump-evacuated-10656228/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T10:02:10+05:30",
@@ -370,7 +379,7 @@
       "description": "North Dakota state Rep. Liz Conmy, of Fargo, was killed in the crash, her colleague, state Sen. Tim Mathern"
     },
     {
-      "title": "White House Dinner Shooting Live Updates: No country is immune from political violence, says Trump",
+      "title": "White House Dinner Shooting Live Updates: Trump safe after shooting at White House Correspondents\u2019 dinner, suspect in custody",
       "link": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T07:41:31+05:30",
@@ -1108,15 +1117,6 @@
       "description": ""
     },
     {
-      "title": "Tunisia suspends Nobel Peace Prize-winning LTDH rights group",
-      "link": "https://www.thehindu.com/news/international/tunisia-suspends-nobel-peace-prize-winning-ltdh-rights-group/article70904306.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T06:46:49+05:30",
-      "time": "25 Apr, 06:46 AM",
-      "type": "news",
-      "description": "The league said the move was part of a \u201cwider pattern of increasingly systematic \u200ccurbs on civil society and on free and independent voices\u201d"
-    },
-    {
       "title": "\u2018No meeting is planned\u2019: Iran rules out direct talks with US in Islamabad; asserts engage via Pakistan",
       "link": "https://indianexpress.com/article/world/us-news/iran-us-islamabad-talks-araghchi-kushner-witkoff-peace-deal-10654665/",
       "source": "The Indian Express",
@@ -1250,36 +1250,18 @@
       "time": "24 Apr, 03:36 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Pakistan forces kill 22 militants in northwest clash, child killed near Afghan border",
-      "link": "https://economictimes.indiatimes.com/news/defence/pakistan-forces-kill-22-militants-in-northwest-clash-child-killed-near-afghan-border/articleshow/130489247.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T14:52:49+05:30",
-      "time": "24 Apr, 02:52 PM",
-      "type": "news",
-      "description": "Pakistani forces eliminated 22 suspected militants in Khyber district near the Afghan border during a fierce exchange of fire. Tragically, a 10-year-o"
-    },
-    {
-      "title": "UAE to deploy agentic AI across 50% of government sectors within two years",
-      "link": "https://indianexpress.com/article/world/uae-to-deploy-agentic-ai-across-50-of-government-sectors-within-two-years-10653525/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-24T14:24:52+05:30",
-      "time": "24 Apr, 02:24 PM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "Argument turns deadly at Mall of Louisiana: High school seniors among victims as FBI Director Kash Patel joins probe",
-      "link": "https://indianexpress.com/article/world/us-news/world-mall-louisiana-shooting-baton-food-court-dead-kash-patel-10653407/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-24T14:23:38+05:30",
-      "time": "24 Apr, 02:23 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "DRDO Unveils Next-Gen Indigenous Armoured Platforms\n\nDefence Research and Development Organisation has flagged off advanced tracked and wheeled armoured platforms at VRDE, Ahilyanagar. Built with ~65% indigenous content (target 90%), manufactured by Tata Advanced Systems Limited and Bharat Forge Limited.\n\nHighlights:\n- Designed for Infantry Combat Vehicle (ICV) & APC roles\n- Equipped with 30mm crewless turret + ATGM capability\n- STANAG Level 4\u20135 protection with modular armour\n- Amphibious capability with hydro jets",
+      "link": "https://nitter.net/NetramDefence/status/2048337146696880528#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-26T15:13:26+05:30",
+      "time": "26 Apr, 03:13 PM",
+      "type": "tweets",
+      "content": "DRDO Unveils Next-Gen Indigenous Armoured Platforms\n\nDefence Research and Development Organisation has flagged off advanced tracked and wheeled armoured platforms at VRDE, Ahilyanagar. Built with ~65% indigenous content (target 90%), manufactured by Tata Advanced Systems Limited and Bharat Forge Limited.\n\nHighlights:\n- Designed for Infantry Combat Vehicle (ICV) & APC roles\n- Equipped with 30mm crewless turret + ATGM capability\n- STANAG Level 4\u20135 protection with modular armour\n- Amphibious capability with hydro jets"
+    },
     {
       "title": "Whenever you post something about China \n\nRandom Porkis in the comment section be like:",
       "link": "https://nitter.net/Goreunit/status/2048315524556448194#m",
@@ -2337,7 +2319,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST",
-    "next_update": "03:24 PM IST"
+    "last_updated": "03:24 PM IST",
+    "next_update": "04:24 PM IST"
   }
 }
