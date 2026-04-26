@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T23:15:20+05:30",
+      "time": "26 Apr, 11:15 PM",
+      "type": "news",
+      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
+    },
+    {
+      "title": "UAE-Iran differences and India\u2019s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
+      "link": "https://www.thehindu.com/news/national/uae-iran-differences-and-indias-plans-to-dilute-language-on-israel-palestine-derail-joint-statement-at-brics-meet/article70909165.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T23:14:47+05:30",
+      "time": "26 Apr, 11:14 PM",
+      "type": "news",
+      "description": "Deeply polarised deputy FMs meeting in Delhi spell trouble for India\u2019s BRICS Presidency; as the language of a joint statement eluded diplomats, India ..."
+    },
+    {
+      "title": "\u2018Hate to say I\u2019m honoured\u2019: Trump\u2019s Lincoln reference over repeated violent incidents",
+      "link": "https://indianexpress.com/article/world/donald-trump-white-house-correspondents-dinner-shooting-lincoln-comparison-cole-tomas-allen-10657143/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T23:00:35+05:30",
+      "time": "26 Apr, 11:00 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Syrian court begins proceedings against Assad and allies",
+      "link": "https://www.thehindu.com/news/international/syrian-court-begins-proceedings-against-assad-and-allies/article70909634.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T22:54:14+05:30",
+      "time": "26 Apr, 10:54 PM",
+      "type": "news",
+      "description": "Assad and his brother Maher have fled Syria and will be tried in absentia, but one of their relatives, former security official Atef Najib, was in the..."
+    },
+    {
+      "title": "Iran Foreign Minister Araghchi meets Army Chief Munir after returning to Pakistan",
+      "link": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T22:53:03+05:30",
+      "time": "26 Apr, 10:53 PM",
+      "type": "news",
+      "description": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month."
+    },
+    {
+      "title": "North Ireland police suspect dissident republicans in latest car bombing",
+      "link": "https://www.thehindu.com/news/international/north-ireland-police-suspect-dissident-republicans-in-latest-car-bombing/article70909633.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T22:48:25+05:30",
+      "time": "26 Apr, 10:48 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India Hands Over Two Personal Watercrafts and Safety Gear to Sri Lanka Coast Guard",
+      "link": "https://www.newsonair.gov.in/india-hands-over-two-personal-watercrafts-and-safety-gear-to-sri-lanka-coast-guard/",
+      "source": "AIR International",
+      "sort_key": "2026-04-26T22:33:52+05:30",
+      "time": "26 Apr, 10:33 PM",
+      "type": "news",
+      "description": "India handed over two Personal Watercrafts (PWCs) and safety gear to the Sri Lanka Coast Guard today. \u00a0 In a social media post, the High Commission of..."
+    },
+    {
+      "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
+      "link": "https://www.thehindu.com/news/international/israel-pm-says-hezbollah-dismantling-ceasefire-with-lebanon/article70909606.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T22:32:12+05:30",
+      "time": "26 Apr, 10:32 PM",
+      "type": "news",
+      "description": "Under the terms of the truce, which was recently extended, Israel reserves the right to respond to \u201cplanned, imminent or ongoing attacks\u201d and has been..."
+    },
+    {
+      "title": "Suspect in Attempted Assassination of Donald Trump to Appear in Federal Court for Initial Hearing",
+      "link": "https://www.newsonair.gov.in/suspect-in-attempted-assassination-of-donald-trump-to-appear-in-federal-court-for-initial-hearing/",
+      "source": "AIR International",
+      "sort_key": "2026-04-26T22:28:00+05:30",
+      "time": "26 Apr, 10:28 PM",
+      "type": "news",
+      "description": "The US Department of Justice has said that Cole Allen, the suspect in an attempted assassination of President Donald Trump, will appear in a federal c..."
+    },
+    {
+      "title": "Zelenskyy accuses Russia of 'nuclear terrorism' on Chernobyl anniversary",
+      "link": "https://www.thehindu.com/news/international/zelenskyy-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniversary/article70909561.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-26T22:18:10+05:30",
+      "time": "26 Apr, 10:18 PM",
+      "type": "news",
+      "description": "Five people were killed across Ukraine after Moscow launched more than 100 drones overnight, the latest in an almost nightly barrage the country has f..."
+    },
+    {
       "title": "Trump has \u2018good conversations\u2019 with Putin, Zelenskyy: report",
       "link": "https://www.thehindu.com/news/international/trump-speaks-to-putin-zelenskyy-ukraine-russia-war/article70909546.ece",
       "source": "The Hindu",
@@ -8,15 +98,6 @@
       "time": "26 Apr, 10:07 PM",
       "type": "news",
       "description": "The U.S. President said \u201chatred \u200cbetween Putin and Zelenskyy is ridiculous\u201d; did not want to reveal when he spoke to Russia\u2019s President last"
-    },
-    {
-      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T22:03:03+05:30",
-      "time": "26 Apr, 10:03 PM",
-      "type": "news",
-      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
       "title": "Iranian Foreign Minister Abbas Araghchi Returns to Islamabad Amid Efforts to Revive Iran\u2013US Talks",
@@ -89,15 +170,6 @@
       "time": "26 Apr, 08:38 PM",
       "type": "news",
       "description": "The suspect will be formally charged in federal court on Monday (April 27, 2026); Todd Blanche said he did not know if there was any \u2018Iran connection\u2019"
-    },
-    {
-      "title": "Iran's Foreign Minister Araghchi returns to Islamabad as Pakistan races to save talks with U.S.",
-      "link": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T20:11:36+05:30",
-      "time": "26 Apr, 08:11 PM",
-      "type": "news",
-      "description": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month."
     },
     {
       "title": "Pakistan races to save negotiations between US and Iran",
@@ -550,15 +622,6 @@
       "description": "Can Iran legally restrict transit through the Strait of Hormuz? Is the U.S. blockade of the strait lawful? What is the legal position on interceptions..."
     },
     {
-      "title": "US President Donald Trump Evacuated After Suspected Gunshots at Washington Hilton Event",
-      "link": "https://www.newsonair.gov.in/us-president-donald-trump-evacuated-after-suspected-gunshots-at-washington-hilton-event/",
-      "source": "AIR International",
-      "sort_key": "2026-04-26T08:53:27+05:30",
-      "time": "26 Apr, 08:53 AM",
-      "type": "news",
-      "description": "US President Donald Trump was evacuated from the White House Correspondents&#8217; Association Dinner early this morning after suspected gunshots were..."
-    },
-    {
       "title": "Trump shares picture of suspect under arrest: \u2018Secret Service officers acted quickly and bravely\u2019",
       "link": "https://indianexpress.com/article/world/trump-picture-suspect-arrest-says-secret-service-officers-acted-quickly-bravely-10656221/",
       "source": "The Indian Express",
@@ -611,15 +674,6 @@
       "time": "26 Apr, 07:34 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Seven Killed, Over 17 Injured in Bus Blast in Colombia",
-      "link": "https://www.newsonair.gov.in/seven-killed-over-17-injured-in-bus-blast-in-colombia/",
-      "source": "AIR International",
-      "sort_key": "2026-04-26T07:21:37+05:30",
-      "time": "26 Apr, 07:21 AM",
-      "type": "news",
-      "description": "In Colombia, seven people were killed and more than 17 injured when an explosive device detonated on a bus traveling along the Pan-American Highway in..."
     },
     {
       "title": "Viktor Orb\u00e1n steps back from Parliament after landslide loss, vows to rebuild Hungary\u2019s \u2019national side\u2019",
@@ -1072,24 +1126,6 @@
       "description": "Nearly 1.5 million people are registered to vote in the Israeli-occupied West Bank, as well as 70,000 people in Gaza\u2019s Deir el-Balah area, according t..."
     },
     {
-      "title": "First female Archbishop of Canterbury to meet Pope Leo",
-      "link": "https://www.thehindu.com/news/international/first-female-archbishop-of-canterbury-to-meet-pope-leo/article70904653.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:51:27+05:30",
-      "time": "25 Apr, 12:51 PM",
-      "type": "news",
-      "description": "The 63-year-old former nurse, who is married with two children, is the first woman to lead the mother church of the world's 85-million strong Anglican..."
-    },
-    {
-      "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
-      "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:22:55+05:30",
-      "time": "25 Apr, 12:22 PM",
-      "type": "news",
-      "description": "The West Bank-based Palestinian Authority hopes the symbolic inclusion of the Gazan city \u2060of Deir al-Balah will help reinforce its claim to authority ..."
-    },
-    {
       "title": "From 90kg to 50kg: Ukraine sacks top commander after \u2018starving\u2019 soldiers\u2019 rib-showing photos go viral",
       "link": "https://indianexpress.com/article/world/ukraines-army-removed-personnel-says-they-are-given-food-in-17-days-10655047/",
       "source": "The Indian Express",
@@ -1106,15 +1142,6 @@
       "time": "25 Apr, 12:04 PM",
       "type": "news",
       "description": "Gen Manoj Naravane (retd) said in an exclusive interview with ThePrint that India should focus on having more experts who understand China's psyche an..."
-    },
-    {
-      "title": "Watch: Witkoff and Kushner headed to Pakistan for Iran talks: White House",
-      "link": "https://www.thehindu.com/shorts/watch-witkoff-and-kushner-headed-to-pakistan-for-iran-talks-white-house/article70904659.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T12:01:37+05:30",
-      "time": "25 Apr, 12:01 PM",
-      "type": "news",
-      "description": ""
     },
     {
       "title": "US blocks UK access to unredacted Epstein files: Why the DoJ is forcing a \u2018bureaucratic\u2019 delay in Prince Andrew probe",
@@ -1142,24 +1169,6 @@
       "time": "25 Apr, 11:56 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "EU considers helping with West Asia energy infrastructure to bypass conflict zones",
-      "link": "https://www.thehindu.com/news/international/eu-considers-helping-with-west-asia-energy-infrastructure-to-bypass-conflict-zones/article70904480.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T11:54:46+05:30",
-      "time": "25 Apr, 11:54 AM",
-      "type": "news",
-      "description": "European Commission President Ursula von der Leyen said on April 25, 2026 that EU is ready to work with Persian Gulf countries for new projects convey..."
-    },
-    {
-      "title": "U.S. imposes sanctions on China-based oil refinery, 40 shippers over Iranian oil",
-      "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-china-based-oil-refinery-40-shippers-over-iranian-oil/article70904476.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T11:21:47+05:30",
-      "time": "25 Apr, 11:21 AM",
-      "type": "news",
-      "description": "These sanctions come just a few weeks before President Donald Trump and China's Xi Jinping are due to meet in China"
     },
     {
       "title": "From 'Chak De Phatte' to INS Khukri: Naravane\u2019s new book revisits military myths",
@@ -1280,6 +1289,26 @@
     }
   ],
   "tweets": [
+    {
+      "title": "Trump claims 11 planes were shot down during the May 2025 Pakistan India conflict.\n\nThe US is yet to issue details on the planes lost & bases damaged during conflict with Iran in March 2026.",
+      "link": "https://nitter.net/sidhant/status/2048458328125419539#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-26T23:14:58+05:30",
+      "time": "26 Apr, 11:14 PM",
+      "type": "tweets",
+      "content": "<p>Trump claims 11 planes were shot down during the May 2025 Pakistan India conflict.<br />\n<br />\nThe US is yet to issue details on the planes lost &amp; bases damaged during conflict with Iran in March 2026.</p>\n<a href=\"https://nitter.net/sidhant/status/2048458328125419539#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048458288799649792%2Fpu%2Fimg%2FW_7TWF9RZlP5en0S.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The 2026 Global Report on Food Crises (GRFC) places Pakistan and Bangladesh among the top 10 countries worst affected by acute food insecurity.\n\nThe report highlights that around 11 million people in Pakistan faced severe food insecurity in 2025 .",
+      "link": "https://nitter.net/OsintTV/status/2048454936262799656#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-26T23:01:29+05:30",
+      "time": "26 Apr, 11:01 PM",
+      "type": "tweets",
+      "content": "<p>The 2026 Global Report on Food Crises (GRFC) places Pakistan and Bangladesh among the top 10 countries worst affected by acute food insecurity.<br />\n<br />\nThe report highlights that around 11 million people in Pakistan faced severe food insecurity in 2025 .</p>",
+      "author": "@OsintTV"
+    },
     {
       "title": "Daily US-Israel-Iran War Brief: \n26th April 2026  \n\n- We will be posting daily war updates on the ongoing war in Middle East \n- \u2060Follow us for daily Brief.\n  \n\u25cf Iran\u2019s Foreign Minister Araghchi met Oman's Sultan in Muscat, discussing Strait of Hormuz security and broader regional efforts.\n\n\u25cf Iran FM returns to Pakistan; phones Saudi & Egyptian counterparts.\n\n\u25cf After Pakistan and Oman, Araghchi is scheduled to meet Russian leaders in Moscow tomorrow for consultations on Iran-US negotiations.\n\n\u25cf Iranian MP Ebrahim Rezaei previously questioned Pakistan\u2019s role as a fully neutral mediator.\n\n\u25cf Kuwait International Airport resumed limited commercial operations.\n\n\u25cf Israel reports strikes on Hezbollah facilities in Lebanon.\n\n\u25cf India\u2019s NSA Ajit Doval meets UAE President in Abu Dhabi on West Asia situation.\n\n\u25cf A fire broke out in a storage building at the UK base used by the US Air Force for Iran-related operations. No injuries or aircraft damage reported; cause believed accidental.\n\n\u25cf An armed suspect opened fire while attempting to breach security at the event in Washington, where Trump was present. Trump was unharmed; the suspect was apprehended by Secret Service.\n\nEND OF THE BRIEF",
       "link": "https://nitter.net/NetramDefence/status/2048441995639799880#m",
@@ -1648,16 +1677,6 @@
       "time": "26 Apr, 12:28 PM",
       "type": "tweets",
       "content": "<p>Indian NSA Ajit Doval in UAE, meets UAE President Sheikh Mohamed bin Zayed Al Nahyan (MBZ). This is the 2nd high level visit from Indian to UAE, after visit of EAM Dr S Jaishankar. <br />\n<br />\nvdo ctsy: WAM News Agency</p>\n<a href=\"https://nitter.net/sidhant/status/2048295724572618854#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048295372767088640%2Fimg%2FJ_aDkyyyoqZ4RX2S.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian NSA Ajit Doval meets UAE President in Abu Dhabi. WAM news agency says they discussed west Asia situation, its implication on energy prices.",
-      "link": "https://nitter.net/sidhant/status/2048295050199847348#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T12:26:10+05:30",
-      "time": "26 Apr, 12:26 PM",
-      "type": "tweets",
-      "content": "<p>Indian NSA Ajit Doval meets UAE President in Abu Dhabi. WAM news agency says they discussed west Asia situation, its implication on energy prices.</p>\n<img src=\"https://nitter.net/pic/media%2FHG0BWViawAAWPy8.jpg\" />",
       "author": "@sidhant"
     },
     {
@@ -2171,16 +2190,6 @@
       "author": "@NetramDefence"
     },
     {
-      "title": "RT by @OsintTV: #Thread\n\nExpose : As Pakistan\u2019s Information Minister @TararAttaullah and the @ForeignOfficePk claim Pakistan has \u201cnothing to do\u201d with terror activities in India. \n\nWe are going to expose how, inside Pakistan\u2019s terror ecosystem, terrorists are not just protected, they are rewarded, promoted and institutionalised. A key example is @MuftiAbidShb now the head of Lashkar-e-Taiba\u2019s Jamia-ud-Dawa seminary in Muridke, which has been under the control of the Government of Pakistan since 2019.\n\n(1/n)",
-      "link": "https://nitter.net/shivank_8mishra/status/2047915604409983380#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-25T11:18:23+05:30",
-      "time": "25 Apr, 11:18 AM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Thread\">#Thread</a><br />\n<br />\nExpose : As Pakistan\u2019s Information Minister <a href=\"https://nitter.net/TararAttaullah\" title=\"Attaullah Tarar\">@TararAttaullah</a> and the <a href=\"https://nitter.net/ForeignOfficePk\" title=\"Ministry of Foreign Affairs - Pakistan\">@ForeignOfficePk</a> claim Pakistan has \u201cnothing to do\u201d with terror activities in India. <br />\n<br />\nWe are going to expose how, inside Pakistan\u2019s terror ecosystem, terrorists are not just protected, they are rewarded, promoted and institutionalised. A key example is <a href=\"https://nitter.net/MuftiAbidShb\" title=\"Mufti Abdul Rehman Abid Official\">@MuftiAbidShb</a> now the head of Lashkar-e-Taiba\u2019s Jamia-ud-Dawa seminary in Muridke, which has been under the control of the Government of Pakistan since 2019.<br />\n<br />\n(1/n)</p>\n<img src=\"https://nitter.net/pic/media%2FHGuoYKjW0AAGpWm.jpg\" />",
-      "author": "@shivank_8mishra"
-    },
-    {
       "title": "EU Plans New Energy Routes to Bypass Hormuz Risk, The bloc is also considering long-term projects like the India\u2013Middle East\u2013Europe corridor to diversify supply chains.\n\nThe European Union is exploring alternative energy infrastructure in the Middle East to reduce reliance on the Strait of Hormuz, amid disruption caused by the ongoing conflict\n\nUrsula von der Leyen said the EU is ready to partner with Gulf nations to build new export routes and repair damaged energy facilities, aiming to avoid critical choke points.",
       "link": "https://nitter.net/NetramDefence/status/2047903879027732695#m",
       "source": "Netram Defense",
@@ -2273,6 +2282,15 @@
   ],
   "youtube": [
     {
+      "title": "Indian Defence News:250 AMCA FINAL?,Super Sukhoi Banega Stealth Killer! India Ka Master Plan Exposed",
+      "link": "https://www.youtube.com/watch?v=dst4GSaHkfk",
+      "source": "Indian Defense News",
+      "sort_key": "2026-04-26T23:00:15+05:30",
+      "time": "26 Apr, 11:00 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/dst4GSaHkfk/mqdefault.jpg"
+    },
+    {
       "title": "Defence Updates - BrahMos Production Delay, DRDO Vikram Platform, Unknown Gunmen Strikes",
       "link": "https://www.youtube.com/watch?v=78emqC42uRA",
       "source": "Defense Squad",
@@ -2319,6 +2337,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "10:24 PM IST"
+    "last_updated": "11:24 PM IST"
   }
 }
