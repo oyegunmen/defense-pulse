@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "title": "\u2018Shots fired\u2019: Inside Washington Hilton attack, how President Trump was escorted",
+      "link": "https://indianexpress.com/article/world/us-news/donald-trump-evacuated-white-house-correspondents-dinner-shooting-timeline-cole-tomas-allen-10656689/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T16:53:48+05:30",
+      "time": "26 Apr, 04:53 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Skyroot\u2019s Vikram-1, India\u2019s First Private Orbital Rocket, Flagged Off by Telangana CM for Sriharikota",
+      "link": "https://www.indiastrategic.in/skyroots-vikram-1-indias-first-private-orbital-rocket-flagged-off-by-telangana-cm-for-sriharikota/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-26T16:26:06+05:30",
+      "time": "26 Apr, 04:26 PM",
+      "type": "news",
+      "description": "<p>Hyderabad. Vikram-1, India\u2019s first privately built orbital rocket by Skyroot Aerospace, was flagged off on April 26 by Mr. A. Revanth Reddy, Chief "
+    },
+    {
       "title": "IDSA: Thinking Ahead for MoD",
       "link": "https://www.indiastrategic.in/idsa-thinking-ahead-for-mod/",
       "source": "India Strategic",
@@ -1108,7 +1126,7 @@
       "description": "US naval forces have intercepted an Iranian-flagged ship. This action is part of a wider US strategy to enforce a maritime blockade against Iran. Seve"
     },
     {
-      "title": "US-Israel-Iran War Ceasefire News Live Updates: Iran rejects talks under siege, Trump cancels envoys\u2019 trip",
+      "title": "US-Israel-Iran War Ceasefire News Live Updates: Araghchi, Oman Sultan discuss Hormuz security; Iranian FM urges collective regional security without US role",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -1253,6 +1271,15 @@
     }
   ],
   "tweets": [
+    {
+      "title": "'Once in a generation agreement...', New Zealand PM Luxon on India, New Zealand FTA that will be signed on Monday (12.30 PM IST)",
+      "link": "https://nitter.net/sidhant/status/2048356862840754568#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-26T16:31:47+05:30",
+      "time": "26 Apr, 04:31 PM",
+      "type": "tweets",
+      "content": "'Once in a generation agreement...', New Zealand PM Luxon on India, New Zealand FTA that will be signed on Monday (12.30 PM IST)"
+    },
     {
       "title": "UAE President Sheikh Mohamed bin Zayed Al Nahyan holds a meeting with Indian NSA Ajit Doval.",
       "link": "https://nitter.net/WarMonitorINTL/status/2048354071145525372#m",
@@ -1630,15 +1657,6 @@
       "time": "25 Apr, 10:51 PM",
       "type": "tweets",
       "content": "UNGA President Baerbock visits India next week..."
-    },
-    {
-      "title": "MEA MoS Pabitra Margherita visits Pacific- Vanuatu & Tuvalu.",
-      "link": "https://nitter.net/sidhant/status/2048088909670981866#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-25T22:47:02+05:30",
-      "time": "25 Apr, 10:47 PM",
-      "type": "tweets",
-      "content": "MEA MoS Pabitra Margherita visits Pacific- Vanuatu & Tuvalu."
     },
     {
       "title": "Pakistan launches\u2026? \ud83e\udd14\n\nKuch toh sharam karo.....\n\nEO-3 is Pakistan\u2019s satellite, but the launch was done by China from the Taiyuan Satellite Launch Center.\n\nFYI, in India even school kids are building satellites and setting world records.",
@@ -2215,33 +2233,6 @@
       "time": "24 Apr, 05:56 PM",
       "type": "tweets",
       "content": "Breaking: \n\nNetanyahu reveals he quietly underwent treatment for undisclosed prostate cancer."
-    },
-    {
-      "title": "Breaking:\n\nPanic gripped Kishtwar, J&K after a loud blast-like sound and thick smoke were reported; the cause remains unknown.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047637044953075715#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-24T16:51:29+05:30",
-      "time": "24 Apr, 04:51 PM",
-      "type": "tweets",
-      "content": "Breaking:\n\nPanic gripped Kishtwar, J&K after a loud blast-like sound and thick smoke were reported; the cause remains unknown."
-    },
-    {
-      "title": "Unconfirmed reports from Kishtwar \ud83d\ude4f\ud83c\udffb",
-      "link": "https://nitter.net/Goreunit/status/2047636329559908798#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-24T16:48:38+05:30",
-      "time": "24 Apr, 04:48 PM",
-      "type": "tweets",
-      "content": "Unconfirmed reports from Kishtwar \ud83d\ude4f\ud83c\udffb"
-    },
-    {
-      "title": "RT by @NetramDefence: Two Kuki and one Tangkhul killed in crossfire at Mullam and Sinakeithei villages; Kuki and Tangkhul militants blame each other for the attack.",
-      "link": "https://nitter.net/KangleipakDaily/status/2047635001018388786#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-24T16:43:22+05:30",
-      "time": "24 Apr, 04:43 PM",
-      "type": "tweets",
-      "content": "RT by @NetramDefence: Two Kuki and one Tangkhul killed in crossfire at Mullam and Sinakeithei villages; Kuki and Tangkhul militants blame each other for the attack."
     }
   ],
   "youtube": [
@@ -2298,19 +2289,10 @@
       "time": "24 Apr, 05:31 PM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/UvQnxCggo3k/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : Su-57 Dual Offer,6th Gen Fighter Deal,Achuk-150 Test,PAK Taimur ALCM Test",
-      "link": "https://www.youtube.com/watch?v=giOkhibVLJM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-04-24T17:09:23+05:30",
-      "time": "24 Apr, 05:09 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/giOkhibVLJM/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "04:24 PM IST",
-    "next_update": "05:24 PM IST"
+    "last_updated": "05:24 PM IST",
+    "next_update": "06:24 PM IST"
   }
 }
