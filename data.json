@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "title": "Magnitude 6.1 earthquake strikes in northern Japan",
+      "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T04:07:27+05:30",
+      "time": "27 Apr, 04:07 AM",
+      "type": "news",
+      "description": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USG..."
+    },
+    {
+      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T03:12:34+05:30",
+      "time": "27 Apr, 03:12 AM",
+      "type": "news",
+      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
+    },
+    {
+      "title": "White House correspondents' dinner shooting updates: King Charles state visit to U.S. to go on as planned after shooting",
+      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T03:07:03+05:30",
+      "time": "27 Apr, 03:07 AM",
+      "type": "news",
+      "description": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that calle..."
+    },
+    {
+      "title": "\u200bTurning point: On the U.S. and India\u2019s independent foreign policy",
+      "link": "https://www.thehindu.com/opinion/editorial/turning-point-on-the-us-and-indias-independent-foreign-policy/article70909254.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T01:56:49+05:30",
+      "time": "27 Apr, 01:56 AM",
+      "type": "news",
+      "description": "The U.S. is slicing away at India\u2019s ability to pursue an independent foreign policy"
+    },
+    {
       "title": "Hindu temple caretaker found dead in Bangladesh, minority group demands strong action",
       "link": "https://www.thehindu.com/news/international/hindu-temple-caretaker-found-dead-in-bangladesh-minority-group-demands-strong-action/article70909769.ece",
       "source": "The Hindu",
@@ -8,15 +44,6 @@
       "time": "27 Apr, 01:11 AM",
       "type": "news",
       "description": "Bangladesh Puja Celebration Council\u2019s Cox\u2019s Bazar unit general secretary Jony Dhar said the body was recovered three days after Nayan went missing, in..."
-    },
-    {
-      "title": "White House correspondents' dinner shooting LIVE: King Charles state visit to U.S. to go on as planned after shooting",
-      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T00:51:50+05:30",
-      "time": "27 Apr, 12:51 AM",
-      "type": "news",
-      "description": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that calle..."
     },
     {
       "title": "Indian national arrested in Nepal for possessing prescription drug in large quantity",
@@ -53,15 +80,6 @@
       "time": "27 Apr, 12:30 AM",
       "type": "news",
       "description": "Asked about NATO, Mr. Trump said he was \u201cvery, very disappointed\u201d in the military alliance, which he has suggested the U.S. may consider leaving"
-    },
-    {
-      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T00:29:12+05:30",
-      "time": "27 Apr, 12:29 AM",
-      "type": "news",
-      "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
       "title": "Sigma gets \u20b93,800 crore Rolls-Royce contract for aerospace parts",
@@ -1126,15 +1144,6 @@
       "description": "The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries..."
     },
     {
-      "title": "Loud blasts, gunfire heard near Mali's main military camp, witness says",
-      "link": "https://www.thehindu.com/news/international/loud-blasts-gunfire-heard-near-malis-main-military-camp-witness-says/article70904788.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:45:27+05:30",
-      "time": "25 Apr, 01:45 PM",
-      "type": "news",
-      "description": "It was not clear what caused \u200cthe explosions and no militant group \u200cimmediately \u2060claimed responsibility for an \u2060attack"
-    },
-    {
       "title": "Iran executes atomic agency worker over \u2018spying\u2019 charge, hangs protester as crackdown intensifies",
       "link": "https://indianexpress.com/article/world/iran-executions-mehdi-farid-mossad-spy-erfan-kiani-protests-10655191/",
       "source": "The Indian Express",
@@ -1142,15 +1151,6 @@
       "time": "25 Apr, 01:34 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
-      "link": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:33:01+05:30",
-      "time": "25 Apr, 01:33 PM",
-      "type": "news",
-      "description": "Pakistan's Deputy Prime Minister and Foreign Minister Dar, in a social media post, expressed hope for \"meaningful engagements\" between the two warring..."
     },
     {
       "title": "From 90kg to 50kg: Ukraine sacks top commander after \u2018starving\u2019 soldiers\u2019 rib-showing photos go viral",
@@ -2356,6 +2356,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 AM IST"
+    "last_updated": "04:24 AM IST"
   }
 }
