@@ -1,7 +1,25 @@
 {
   "news": [
     {
-      "title": "Donald Trump cancels US envoys\u2019 trip to Pakistan for talks on Iran war",
+      "title": "\"Shadow fleet\" intercepted: US Navy forces sanctioned tanker Sevan to retreat toward Iran",
+      "link": "https://economictimes.indiatimes.com/news/defence/shadow-fleet-intercepted-us-navy-forces-sanctioned-tanker-sevan-to-retreat-toward-iran-war/articleshow/130524980.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-26T06:05:03+05:30",
+      "time": "26 Apr, 06:05 AM",
+      "type": "news",
+      "description": "The US Navy has intercepted an Iranian vessel, the M/V Sevan, in the Arabian Sea. This ship is part of Iran's 'shadow fleet' and was forced to return "
+    },
+    {
+      "title": "Iran caused more extensive damage to US military bases than publicly known",
+      "link": "https://indianexpress.com/article/world/us-news/iran-missile-strikes-us-military-bases-damage-10656071/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-26T05:15:28+05:30",
+      "time": "26 Apr, 05:15 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Why Trump cancelled Pakistan talks on Iran; \u2018We have all the cards,\u2019 he says",
       "link": "https://indianexpress.com/article/world/us-news/donald-trump-cancels-us-envoys-trip-to-pakistan-for-talks-on-iran-war-10656087/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T05:00:20+05:30",
@@ -703,7 +721,7 @@
       "description": "US naval forces have intercepted an Iranian-flagged ship. This action is part of a wider US strategy to enforce a maritime blockade against Iran. Seve"
     },
     {
-      "title": "US-Israel-Iran War Ceasefire News Live Updates: Trump cancels US envoys\u2019 trip to Pakistan for talks on Iran war",
+      "title": "US-Israel-Iran War Ceasefire News Live Updates: Iran rejects talks under siege, Trump cancels envoys\u2019 trip",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
@@ -1223,33 +1241,6 @@
       "time": "24 Apr, 06:45 AM",
       "type": "news",
       "description": "Uttar Pradesh ATS arrested two men in Noida for alleged links with Pakistani handlers. The duo reportedly received instructions from Pakistani gangste"
-    },
-    {
-      "title": "Israel says it struck Hezbollah missile launcher soon after ceasefire with Lebanon",
-      "link": "https://economictimes.indiatimes.com/news/defence/israel-says-it-struck-hezbollah-missile-launcher-soon-after-ceasefire-with-lebanon/articleshow/130481153.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T06:19:34+05:30",
-      "time": "24 Apr, 06:19 AM",
-      "type": "news",
-      "description": "Israel's military struck a missile launcher in Lebanon after it fired rockets into Israel. Hezbollah claimed responsibility for the rocket attack, sta"
-    },
-    {
-      "title": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
-      "link": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T06:07:17+05:30",
-      "time": "24 Apr, 06:07 AM",
-      "type": "news",
-      "description": "US-Iran war news: Tehran showcased its power over the Strait of Hormuz with a video of commandos boarding a cargo ship. This comes after peace talks w"
-    },
-    {
-      "title": "Trump says Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-says-lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting/articleshow/130481045.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-24T06:01:16+05:30",
-      "time": "24 Apr, 06:01 AM",
-      "type": "news",
-      "description": "Lebanon and Israel have extended their ceasefire for three weeks. This decision follows high-level talks hosted by U.S. President Donald Trump in Wash"
     }
   ],
   "tweets": [
@@ -2182,7 +2173,7 @@
     },
     {
       "title": "RT by @elitepredatorss: Habib Nazeer alias Habib Tahir the Pakistani National who executed Pahalgam Attack during his JKLF days 2017-2018.\n\nHe was District  Head of SLF (Student wing of JKLF).\n\nLOCATION: Rawalakot.",
-      "link": "https://nitter.net/i/status/2047514724863271343#m",
+      "link": "https://nitter.net/shivank_8mishra/status/2047514724863271343#m",
       "source": "Elite Predators",
       "sort_key": "2026-04-24T08:45:26+05:30",
       "time": "24 Apr, 08:45 AM",
@@ -2292,7 +2283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST",
-    "next_update": "06:24 AM IST"
+    "last_updated": "06:24 AM IST",
+    "next_update": "07:24 AM IST"
   }
 }
