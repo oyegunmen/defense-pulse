@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "Watch DRDO\u2019s news amphibious combat platforms built for land and water warfare",
+      "link": "https://economictimes.indiatimes.com/news/defence/watch-drdos-news-amphibious-combat-platforms-built-for-land-and-water-warfare/videoshow/130550462.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T15:23:26+05:30",
+      "time": "27 Apr, 03:23 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Commander of US Pacific Air Forces visits India to strengthen bilateral defence cooperation",
+      "link": "https://economictimes.indiatimes.com/news/defence/commander-of-us-pacific-air-forces-visits-india-to-strengthen-bilateral-defence-cooperation/articleshow/130550368.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T15:22:02+05:30",
+      "time": "27 Apr, 03:22 PM",
+      "type": "news",
+      "description": "US Pacific Air Forces Commander General Kevin Schneider visited India from April 19-25. The visit aimed to strengthen the US-India defense partnership..."
+    },
+    {
+      "title": "India's military expenditure rose by 8.9% to USD 92.1 bln in 2025: Report says global spending surged 2.9%",
+      "link": "https://economictimes.indiatimes.com/news/defence/indias-military-expenditure-rose-by-8-9-to-usd-92-1-bln-in-2025-report-says-global-spending-surged-2-9/articleshow/130549489.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T15:20:56+05:30",
+      "time": "27 Apr, 03:20 PM",
+      "type": "news",
+      "description": "Global military spending surged to USD 2887 billion in 2025, marking the eleventh consecutive year of growth. India ranked fifth, increasing its spend..."
+    },
+    {
+      "title": "Israel-Iran LIVE: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T14:50:19+05:30",
+      "time": "27 Apr, 02:50 PM",
+      "type": "news",
+      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
+    },
+    {
+      "title": "Iran offers to end chokehold on Strait of Hormuz, asks U.S. to end blockade",
+      "link": "https://www.thehindu.com/news/international/iran-offers-to-end-chokehold-on-strait-of-hormuz-asks-us-to-end-blockade/article70911449.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T14:50:02+05:30",
+      "time": "27 Apr, 02:50 PM",
+      "type": "news",
+      "description": "Iran also wants the U.S. to end its blockade of the country as part of its proposal, said the two officials, who spoke on condition of anonymity to di..."
+    },
+    {
+      "title": "\u2018Were groomed to protect him\u2019: In U-turn after 16 years, Michael Jackson\u2019s \u2018second family\u2019 says he abused them",
+      "link": "https://indianexpress.com/article/world/michael-jackson-second-family-sexual-abuse-10658042/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T14:48:32+05:30",
+      "time": "27 Apr, 02:48 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Iran war disrupts the\u00a0circuit board supply chain, raises costs for tech firms",
+      "link": "https://www.thehindu.com/sci-tech/technology/iran-war-disrupts-thecircuit-board-supply-chain-raises-costs-for-tech-firms/article70911358.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T14:31:12+05:30",
+      "time": "27 Apr, 02:31 PM",
+      "type": "news",
+      "description": "The disruption is a fresh blow to electronics manufacturers which are already grappling with soaring memory chip \u200ccosts and highlights the broadening ..."
+    },
+    {
       "title": "Iran proposes to reopen Strait of Hormuz without nuclear agreement",
       "link": "https://www.thehindu.com/news/international/iran-proposal-reopen-strait-of-hormuz-nuclear-agreement-abbas-araghchi-iran-fm-us-iran-talks/article70911158.ece",
       "source": "The Hindu",
@@ -8,24 +71,6 @@
       "time": "27 Apr, 01:58 PM",
       "type": "news",
       "description": "Iran FM in Saint Petersburg blames U.S. for failure of Pakistan talks, state media said"
-    },
-    {
-      "title": "Iranian Foreign Minister says his visit to Russia aimed at coordinating with Moscow following war involving Israel, US",
-      "link": "https://www.newsonair.gov.in/iranian-foreign-minister-says-his-visit-to-russia-aimed-at-coordinating-with-moscow-following-war-involving-israel-us/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T13:57:24+05:30",
-      "time": "27 Apr, 01:57 PM",
-      "type": "news",
-      "description": "Iranian Foreign Minister Abbas Araghchi said today that his visit to Russia was aimed at coordinating with Moscow following the war involving Israel a..."
-    },
-    {
-      "title": "Strikes continue in Lebanon as ceasefire holds under strain",
-      "link": "https://www.newsonair.gov.in/strikes-continue-in-lebanon-as-ceasefire-holds-under-strain/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T13:28:24+05:30",
-      "time": "27 Apr, 01:28 PM",
-      "type": "news",
-      "description": "Israeli airstrikes in southern Lebanon have killed at least 14 people, according to Lebanon\u2019s Ministry of Health, as tensions persist despite an ongoi..."
     },
     {
       "title": "Rajnath Singh to attend SCO Defence Ministers\u2019 meet in Bishkek amid heightened regional security concerns",
@@ -73,33 +118,6 @@
       "description": ""
     },
     {
-      "title": "Israel-Iran LIVE: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T12:46:55+05:30",
-      "time": "27 Apr, 12:46 PM",
-      "type": "news",
-      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
-    },
-    {
-      "title": "Sri Lanka\u2019s Criminal Investigation Department intensifies investigations into 2.5 million dollar cyber fraud",
-      "link": "https://www.newsonair.gov.in/sri-lankas-criminal-investigation-department-intensifies-investigations-into-2-5-million-dollar-cyber-fraud/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T12:34:26+05:30",
-      "time": "27 Apr, 12:34 PM",
-      "type": "news",
-      "description": "Sri Lanka\u2019s Criminal Investigation Department has intensified investigations into a 2.5 million dollar cyber fraud involving the Finance Ministry\u2019s De..."
-    },
-    {
-      "title": "Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf says Iran still has leverage against US",
-      "link": "https://www.newsonair.gov.in/irans-parliament-speaker-mohammad-bagher-ghalibaf-says-iran-still-has-leverage-against-us/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T12:09:03+05:30",
-      "time": "27 Apr, 12:09 PM",
-      "type": "news",
-      "description": "Iran&#8217;s Parliament Speaker Mohammad Bagher Ghalibaf today said Iran still has leverage against the United States, pushing back against claims by ..."
-    },
-    {
       "title": "Guns, drones &amp; algos: AI joins the fight on frontlines",
       "link": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-is-rapidly-transforming-modern-warfare-enabling-real-time-intelligence-autonomous-drones-and-faster-battlefield-decision-making-across-global-conflicts-/articleshow/130545354.cms",
       "source": "Economic Times",
@@ -136,15 +154,6 @@
       "description": "Defence Minister Rajnath Singh is in Bishkek, Kyrgyzstan for the SCO Defence Ministers' Meeting. He will highlight India's commitment to global peace ..."
     },
     {
-      "title": "Bangladesh: Lightning strikes kill 14 as Kalbaishakhi storms sweep country",
-      "link": "https://www.newsonair.gov.in/bangladesh-lightning-strikes-kill-14-as-kalbaishakhi-storms-sweep-country/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T11:09:11+05:30",
-      "time": "27 Apr, 11:09 AM",
-      "type": "news",
-      "description": "In Bangladesh, at least 14 people were killed and several others injured after lightning strikes hit seven districts during Kalbaishakhi (Nor\u2019wester) ..."
-    },
-    {
       "title": "Malaysia\u2019s jailed ex-PM Najib withdraws appeal on house arrest, local media reports",
       "link": "https://www.thehindu.com/news/international/malaysias-jailed-ex-pm-najib-withdraws-appeal-on-house-arrest-local-media-reports/article70910831.ece",
       "source": "The Hindu",
@@ -152,15 +161,6 @@
       "time": "27 Apr, 11:02 AM",
       "type": "news",
       "description": "The withdrawal of \u200cappeal for home detention would mark yet another setback for Najib, \u200bafter he was jailed a further 15 years and fined $2.8 billion ..."
-    },
-    {
-      "title": "World Tapir Day being observed today",
-      "link": "https://www.newsonair.gov.in/world-tapir-day-being-observed-today/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T11:02:50+05:30",
-      "time": "27 Apr, 11:02 AM",
-      "type": "news",
-      "description": "World Tapir Day is being observed today globally. This day is crucial to raise awareness about the species of Tapir and to protect it from human encro..."
     },
     {
       "title": "President Trump Stands Fearless After Third Assassination Attempt",
@@ -260,42 +260,6 @@
       "time": "27 Apr, 09:16 AM",
       "type": "news",
       "description": "Mr. Trump said at a hastily arranged late-night news conference at the White House that he first thought the noise was a tray being dropped, before re..."
-    },
-    {
-      "title": "Mali\u2019s Defence Minister killed in suicide truck bombing targeting his residence near Bamako",
-      "link": "https://www.newsonair.gov.in/malis-defence-minister-killed-in-suicide-truck-bombing-targeting-his-residence-near-bamako/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T08:48:16+05:30",
-      "time": "27 Apr, 08:48 AM",
-      "type": "news",
-      "description": "Mali&#8217;s defence minister has been killed in an apparent suicide truck bombing at his residence near the capital, Bamako. Multiple news outlets re..."
-    },
-    {
-      "title": "US President Donald Trump calls for White House Correspondents\u2019 Dinner to be held again within 30 days",
-      "link": "https://www.newsonair.gov.in/us-president-donald-trump-calls-for-white-house-correspondents-dinner-to-be-held-again-within-30-days/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T08:36:41+05:30",
-      "time": "27 Apr, 08:36 AM",
-      "type": "news",
-      "description": "US President Donald Trump has called for the White House Correspondents\u2019 Dinner to be held again within 30 days, insisting that a crazy person should ..."
-    },
-    {
-      "title": "6.1 magnitude earthquake strikes northern Japan",
-      "link": "https://www.newsonair.gov.in/6-1-magnitude-earthquake-strikes-northern-japan/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T08:34:06+05:30",
-      "time": "27 Apr, 08:34 AM",
-      "type": "news",
-      "description": "A 6.1 magnitude earthquake struck northern Japan early this morning, the US Geological Survey reported, but there were no immediate reports of fatalit..."
-    },
-    {
-      "title": "Pakistan\u2019s Blasphemy laws allow abuse, mob violence, targeting of individuals and religious minorities: Report",
-      "link": "https://www.newsonair.gov.in/pakistans-blasphemy-laws-allow-abuse-mob-violence-targeting-of-individuals-and-religious-minorities-report/",
-      "source": "AIR International",
-      "sort_key": "2026-04-27T08:30:51+05:30",
-      "time": "27 Apr, 08:30 AM",
-      "type": "news",
-      "description": "In Pakistan, Blasphemy laws allow abuse, mob violence, and the targeting of individuals and religious minorities, including Christians, for criminal p..."
     },
     {
       "title": "Lebanon says Israel strikes kill 14 in deadliest day since truce",
@@ -1153,24 +1117,6 @@
       "description": "The Indian embassy added that it was closely monitoring the evolving situation in coordination with Malian authorities and will issue further updates ..."
     },
     {
-      "title": "Islamic militants, separatists claim simultaneous attacks across Mali",
-      "link": "https://www.thehindu.com/news/international/islamic-militants-separatists-claim-simultaneous-attacks-across-mali/article70906721.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T03:43:23+05:30",
-      "time": "26 Apr, 03:43 AM",
-      "type": "news",
-      "description": "The U.S. Embassy in Bamako issued a security alert citing reports of explosions and gunfire near Kati and the international airport, and urged U.S. ci..."
-    },
-    {
-      "title": "Altman apologises after OpenAI failed to alert police before Tumbler Ridge killings",
-      "link": "https://www.thehindu.com/news/international/altman-apologises-after-openai-failed-to-alert-police-before-tumbler-ridge-killings/article70906462.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T01:55:50+05:30",
-      "time": "26 Apr, 01:55 AM",
-      "type": "news",
-      "description": "\u201cI am deeply sorry that we did not alert law enforcement to the account that was banned in June,\u201d Mr. Altman said"
-    },
-    {
       "title": "Defence Indigenous Push: DRDO, Navy Complete Advanced Hydrodynamic Testing For Frontline Warship",
       "link": "https://www.republicworld.com/defence/defence-indigenous-push-drdo-navy-complete-advanced-hydrodynamic-testing-for-frontline-warship",
       "source": "Republic World",
@@ -1295,18 +1241,109 @@
       "time": "25 Apr, 03:28 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump has paused 3 Mideast wars, but grievances remain and could reignite them",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-has-paused-3-mideast-wars-but-grievances-remain-and-could-reignite-them/articleshow/130511459.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-25T14:29:11+05:30",
-      "time": "25 Apr, 02:29 PM",
-      "type": "news",
-      "description": "The Middle East faces a fragile peace after recent events. Conditional ceasefires are in place, but underlying issues persist. Millions remain displac..."
     }
   ],
   "tweets": [
+    {
+      "title": "New Zealand Trade Minister Todd says he hopes the India NZ FTA trade deal will come to force this year after parliamentary approvals.",
+      "link": "https://nitter.net/sidhant/status/2048701599363862581#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T15:21:38+05:30",
+      "time": "27 Apr, 03:21 PM",
+      "type": "tweets",
+      "content": "<p>New Zealand Trade Minister Todd says he hopes the India NZ FTA trade deal will come to force this year after parliamentary approvals.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian Trade Minister Goyal, Foreign Secretary Vikram Misri after signing of FTA",
+      "link": "https://nitter.net/sidhant/status/2048700897765839290#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T15:18:51+05:30",
+      "time": "27 Apr, 03:18 PM",
+      "type": "tweets",
+      "content": "<p>Indian Trade Minister Goyal, Foreign Secretary Vikram Misri after signing of FTA</p>\n<img src=\"https://nitter.net/pic/media%2FHG5ylq_aEAAJbsr.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Minister Todd's Gift to Minister Goyal after signing of FTA",
+      "link": "https://nitter.net/sidhant/status/2048696979224772763#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T15:03:17+05:30",
+      "time": "27 Apr, 03:03 PM",
+      "type": "tweets",
+      "content": "<p>Minister Todd's Gift to Minister Goyal after signing of FTA</p>\n<img src=\"https://nitter.net/pic/media%2FHG5vBZVbAAEXu9B.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India, New Zealand sign historic FTA lowering tariffs, $20 bn investment from NZ to India",
+      "link": "https://nitter.net/sidhant/status/2048696599103279107#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T15:01:46+05:30",
+      "time": "27 Apr, 03:01 PM",
+      "type": "tweets",
+      "content": "<p>India, New Zealand sign historic FTA lowering tariffs, $20 bn investment from NZ to India</p>\n<a href=\"https://nitter.net/sidhant/status/2048696599103279107#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048696440135053312%2Fpu%2Fimg%2F7WH7v2vQ11SWagCT.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "New Zealand trade minister Todd recalls the role of Indian soldiers in the Galipoli campaign along with Anzac troops ahead of signing of FTA",
+      "link": "https://nitter.net/sidhant/status/2048694852595114095#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:54:50+05:30",
+      "time": "27 Apr, 02:54 PM",
+      "type": "tweets",
+      "content": "<p>New Zealand trade minister Todd recalls the role of Indian soldiers in the Galipoli campaign along with Anzac troops ahead of signing of FTA</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present</p>\n<img src=\"https://nitter.net/pic/media%2FHG5nrqra4AArdLe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2048688903813845043#m\">https://nitter.net/sidhant/status/2048688903813845043#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "India is a strategic priority, says New Zealand trade minister Todd.",
+      "link": "https://nitter.net/sidhant/status/2048694712039886906#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:54:16+05:30",
+      "time": "27 Apr, 02:54 PM",
+      "type": "tweets",
+      "content": "<p>India is a strategic priority, says New Zealand trade minister Todd.</p>\n<img src=\"https://nitter.net/pic/media%2FHG5s91kbcAAc7l9.jpg\" />\n\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>The lines of the world economy are being re drawn says Indian Trade Minister Goyal</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2048692122963071242#m\">https://nitter.net/sidhant/status/2048692122963071242#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "New Zealand FTA mentions about \"close T20 final\" ahead of signing of FTA",
+      "link": "https://nitter.net/sidhant/status/2048694398100365410#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:53:02+05:30",
+      "time": "27 Apr, 02:53 PM",
+      "type": "tweets",
+      "content": "<p>New Zealand FTA mentions about \"close T20 final\" ahead of signing of FTA</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present</p>\n<img src=\"https://nitter.net/pic/media%2FHG5nrqra4AArdLe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2048688903813845043#m\">https://nitter.net/sidhant/status/2048688903813845043#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "\"Defining milestone\", Indian Trade Minister Goyal on signing of India, New Zealand FTA; Points it is 7th FTA in last 3 1/2 year.",
+      "link": "https://nitter.net/sidhant/status/2048692620722069560#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:45:58+05:30",
+      "time": "27 Apr, 02:45 PM",
+      "type": "tweets",
+      "content": "<p>\"Defining milestone\", Indian Trade Minister Goyal on signing of India, New Zealand FTA; Points it is 7th FTA in last 3 1/2 year.</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present</p>\n<img src=\"https://nitter.net/pic/media%2FHG5nrqra4AArdLe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2048688903813845043#m\">https://nitter.net/sidhant/status/2048688903813845043#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "The lines of the world economy are being re drawn says Indian Trade Minister Goyal",
+      "link": "https://nitter.net/sidhant/status/2048692122963071242#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:43:59+05:30",
+      "time": "27 Apr, 02:43 PM",
+      "type": "tweets",
+      "content": "<p>The lines of the world economy are being re drawn says Indian Trade Minister Goyal</p>\n<hr />\n<blockquote>\n<b>Sidhant Sibal (@sidhant)</b>\n<p>\n<p>Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present</p>\n<img src=\"https://nitter.net/pic/media%2FHG5nrqra4AArdLe.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/sidhant/status/2048688903813845043#m\">https://nitter.net/sidhant/status/2048688903813845043#m</a>\n</footer>\n</blockquote>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present",
+      "link": "https://nitter.net/sidhant/status/2048688903813845043#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T14:31:12+05:30",
+      "time": "27 Apr, 02:31 PM",
+      "type": "tweets",
+      "content": "<p>Indian, New Zealand trade ministers arrive for FTA signing. FS Vikram Misri also present</p>\n<img src=\"https://nitter.net/pic/media%2FHG5nrqra4AArdLe.jpg\" />",
+      "author": "@sidhant"
+    },
     {
       "title": "India, New Zealand FTA signing at 3 PM IST",
       "link": "https://nitter.net/sidhant/status/2048678448533823718#m",
@@ -1508,16 +1545,6 @@
       "author": "@elitepredatorss"
     },
     {
-      "title": "Trump claims 11 planes were shot down during the May 2025 Pakistan India conflict.\n\nThe US is yet to issue details on the planes lost & bases damaged during conflict with Iran in March 2026.",
-      "link": "https://nitter.net/sidhant/status/2048458328125419539#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T23:14:58+05:30",
-      "time": "26 Apr, 11:14 PM",
-      "type": "tweets",
-      "content": "<p>Trump claims 11 planes were shot down during the May 2025 Pakistan India conflict.<br />\n<br />\nThe US is yet to issue details on the planes lost &amp; bases damaged during conflict with Iran in March 2026.</p>\n<a href=\"https://nitter.net/sidhant/status/2048458328125419539#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048458288799649792%2Fpu%2Fimg%2FW_7TWF9RZlP5en0S.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "The 2026 Global Report on Food Crises (GRFC) places Pakistan and Bangladesh among the top 10 countries worst affected by acute food insecurity.\n\nThe report highlights that around 11 million people in Pakistan faced severe food insecurity in 2025 .",
       "link": "https://nitter.net/OsintTV/status/2048454936262799656#m",
       "source": "Osint TV",
@@ -1536,26 +1563,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief: <br />\n26th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Iran\u2019s Foreign Minister Araghchi met Oman's Sultan in Muscat, discussing Strait of Hormuz security and broader regional efforts.<br />\n<br />\n\u25cf Iran FM returns to Pakistan; phones Saudi & Egyptian counterparts.<br />\n<br />\n\u25cf After Pakistan and Oman, Araghchi is scheduled to meet Russian leaders in Moscow tomorrow for consultations on Iran-US negotiations.<br />\n<br />\n\u25cf Iranian MP Ebrahim Rezaei previously questioned Pakistan\u2019s role as a fully neutral mediator.<br />\n<br />\n\u25cf Kuwait International Airport resumed limited commercial operations.<br />\n<br />\n\u25cf Israel reports strikes on Hezbollah facilities in Lebanon.<br />\n<br />\n\u25cf India\u2019s NSA Ajit Doval meets UAE President in Abu Dhabi on West Asia situation.<br />\n<br />\n\u25cf A fire broke out in a storage building at the UK base used by the US Air Force for Iran-related operations. No injuries or aircraft damage reported; cause believed accidental.<br />\n<br />\n\u25cf An armed suspect opened fire while attempting to breach security at the event in Washington, where Trump was present. Trump was unharmed; the suspect was apprehended by Secret Service.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHG2HHoLboAA_yKr.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n25th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Iranian FM Araghchi began his meetings with Pakistani officials today. He emphasized that his tour is focused on a \"neighborhood first\" policy with partners in Pakistan, Oman, and Russia.<br />\n<br />\n\u25cf US officials Witkoff and Kushner arrive in Islamabad, however Iran denies any talks with US.<br />\n<br />\n\u25cf UKMTO reported the hijacking of a tanker approximately 45nm northeast of Mareeyo, Somalia.<br />\n<br />\n\u25cf Iran\u2019s Khatam al-Anbiya Central HQ warned that if US continues its naval blockade and maritime piracy in the region, it will encounter a severe reaction from Iran\u2019s armed forces.<br />\n<br />\n\u25cf Israeli PM Netanyahu is expected to travel to Washington in about two and a half weeks for the summit with President Trump and Lebanese President Aoun.<br />\n<br />\n\u25cf Iran resumes international services of Imam Khomeini Airport.<br />\n<br />\n\u25cf Despite the ceasefire extension, the IDF struck Hezbollah sites in southern Lebanon today, killing at least four people.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHGw0ZhgaMAAJieR.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2048069673892356209#m\">https://nitter.net/NetramDefence/status/2048069673892356209#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "China values the important role played by India as the rotating BRICS presidency and hopes that this BRICS consultation on the Middle East will send a strong voice on the regional situation: China statement",
-      "link": "https://nitter.net/sidhant/status/2048437221376790787#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:51:06+05:30",
-      "time": "26 Apr, 09:51 PM",
-      "type": "tweets",
-      "content": "<p>China values the important role played by India as the rotating BRICS presidency and hopes that this BRICS consultation on the Middle East will send a strong voice on the regional situation: China statement</p>\n<img src=\"https://nitter.net/pic/media%2FHG2CybpagAApBpm.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "From last week: Two Azerbaijani dancers dance on a Bhojpuri song at Indian Food Festival organized by the Indian Embassy.",
-      "link": "https://nitter.net/sidhant/status/2048436148809396616#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:46:50+05:30",
-      "time": "26 Apr, 09:46 PM",
-      "type": "tweets",
-      "content": "<p>From last week: Two Azerbaijani dancers dance on a Bhojpuri song at Indian Food Festival organized by the Indian Embassy.</p>\n<a href=\"https://nitter.net/sidhant/status/2048436148809396616#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048435578644156416%2Fimg%2FrI2RvAE-80pLYszP.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "Western Command :)",
@@ -1588,26 +1595,6 @@
       "author": "@OsintTV"
     },
     {
-      "title": "Trump pitches for ballroom after White House Correspondents dinner shooting. Says, \"we\u2019re building a big, beautiful, very, very secure ballroom...\"",
-      "link": "https://nitter.net/sidhant/status/2048429849107448241#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:21:48+05:30",
-      "time": "26 Apr, 09:21 PM",
-      "type": "tweets",
-      "content": "<p>Trump pitches for ballroom after White House Correspondents dinner shooting. Says, \"we\u2019re building a big, beautiful, very, very secure ballroom...\"</p>\n<a href=\"https://nitter.net/sidhant/status/2048429849107448241#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048422195680927744%2Fimg%2F9L-p0s8fhv_CzcDp.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "US President Trump claims that Iran port blockade has been \"unbelievably effective\"",
-      "link": "https://nitter.net/sidhant/status/2048429523801460835#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:20:31+05:30",
-      "time": "26 Apr, 09:20 PM",
-      "type": "tweets",
-      "content": "<p>US President Trump claims that Iran port blockade has been \"unbelievably effective\"</p>\n<a href=\"https://nitter.net/sidhant/status/2048429523801460835#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048425031668285440%2Fimg%2FVMOsTpsfIIN_GOEo.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
       "title": "Donald Trump:\n\n11 planes were shot down during the India-Pakistan war.",
       "link": "https://nitter.net/WarMonitorINTL/status/2048429492356735025#m",
       "source": "War Monitor",
@@ -1616,16 +1603,6 @@
       "type": "tweets",
       "content": "<p>Donald Trump:<br />\n<br />\n11 planes were shot down during the India-Pakistan war.</p>\n<a href=\"https://nitter.net/WarMonitorINTL/status/2048429492356735025#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048429171693830144%2Fimg%2Fr4ntZEL7t5GJNCWJ.jpg\" />\n</a>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "\"I am very, very disappointed in NATO because they weren\u2019t there\", says US President Donald Trump",
-      "link": "https://nitter.net/sidhant/status/2048429202781987281#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:19:14+05:30",
-      "time": "26 Apr, 09:19 PM",
-      "type": "tweets",
-      "content": "<p>\"I am very, very disappointed in NATO because they weren\u2019t there\", says US President Donald Trump</p>\n<a href=\"https://nitter.net/sidhant/status/2048429202781987281#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048426966974640128%2Fimg%2F1dmpEiUwsM78Q-a2.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "RT by @NetramDefence: Israel has launched \u201cOperation Wings of Dawn\u201d to relocate members of the Bnei Menashe community from Manipur to Tel Aviv.\n\nAround 5,000 individuals, who trace their ancestry to one of the biblical \u201clost tribes\u201d of Israel, are expected to be part of the relocation process.",
@@ -1646,46 +1623,6 @@
       "type": "tweets",
       "content": "<p>Pakistan's terror links exposed by <a href=\"https://nitter.net/OsintTV\" title=\"OsintTV \ud83d\udcfa\">@OsintTV</a> being covered by <a href=\"https://nitter.net/WIONews\" title=\"WION\">@WIONews</a>. <br />\n<br />\n<a href=\"https://nitter.net/i/status/2047628254480339115\">nitter.net/i/status/2047628254480\u2026</a></p>\n<hr />\n<blockquote>\n<b>WION (@WIONews)</b>\n<p>\n<p>Pakistan's terror links exposed <br />\n<br />\nImage: Khwaja Asif meets PMML general secy Yasir Arafat Butt <br />\n<br />\nReports claim PMML is a political front of banned LeT outfit <br />\n<br />\n<a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@ShreyaOpines</a> has more on this</p>\n<a href=\"https://nitter.net/WIONews/status/2047628254480339115#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2047622111699828739%2Fimg%2F_2JRkLw_EzWWWx1N.jpg\" />\n</a>\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/WIONews/status/2047628254480339115#m\">https://nitter.net/WIONews/status/2047628254480339115#m</a>\n</footer>\n</blockquote>",
       "author": "@Drishti_K47"
-    },
-    {
-      "title": "R to @sidhant: 26th April (Day 58)\n-Iran FM in Muscat, meets Oman's Sultan\n-Iran FM back in Pakistan; \ud83d\udcdespeaks to Saudi, France, Egypt FMs\n-Mediator must be neutral says Iran MP Rezaei on Pakistan\n-Israel says it stuck Hezbollah facilities\n-NSA Doval in UAE\n-India-Kuwait direct flight restarts",
-      "link": "https://nitter.net/sidhant/status/2048425970978480504#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:06:24+05:30",
-      "time": "26 Apr, 09:06 PM",
-      "type": "tweets",
-      "content": "<p>26th April (Day 58)<br />\n-Iran FM in Muscat, meets Oman's Sultan<br />\n-Iran FM back in Pakistan; \ud83d\udcdespeaks to Saudi, France, Egypt FMs<br />\n-Mediator must be neutral says Iran MP Rezaei on Pakistan<br />\n-Israel says it stuck Hezbollah facilities<br />\n-NSA Doval in UAE<br />\n-India-Kuwait direct flight restarts</p>\n<img src=\"https://nitter.net/pic/media%2FHG14F6jaUAAs549.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG14ZMZbIAAHgUT.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG14ZM8asAAbDVq.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG14gidbcAAm2DM.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan",
-      "link": "https://nitter.net/sidhant/status/2048424815888105906#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:01:48+05:30",
-      "time": "26 Apr, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "R to @sidhant: For example, they are unwilling to tell the world that US initially accepted Pakistan's proposal but later went back on its word says Rezaei who is also the spox of key Iran Parliament comm on security",
-      "link": "https://nitter.net/sidhant/status/2048424813467938905#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:01:48+05:30",
-      "time": "26 Apr, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>For example, they are unwilling to tell the world that US initially accepted Pakistan's proposal but later went back on its word says Rezaei who is also the spox of key Iran Parliament comm on security</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Pakistan is our good friend and neighbor, but it is not a suitable mediator for negotiations and lacks the necessary credibility for mediation. They always consider Trump's interests and never say anything against the Americans' wishes: Iran MP Rezaei",
-      "link": "https://nitter.net/sidhant/status/2048424281634423264#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T20:59:41+05:30",
-      "time": "26 Apr, 08:59 PM",
-      "type": "tweets",
-      "content": "<p>Pakistan is our good friend and neighbor, but it is not a suitable mediator for negotiations and lacks the necessary credibility for mediation. They always consider Trump's interests and never say anything against the Americans' wishes: Iran MP Rezaei</p>\n<hr />\n<blockquote>\n<b>\u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0631\u0636\u0627\u06cc\u06cc (@EbrahimRezaei14)</b>\n<p>\n<p>\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u062f\u0648\u0633\u062a \u0648 \u0647\u0645\u0633\u0627\u06cc\u0647 \u062e\u0648\u0628 \u0645\u0627\u0633\u062a \u0627\u0645\u0627 \u0648\u0627\u0633\u0637\u0647 \u0645\u0646\u0627\u0633\u0628\u06cc \u062c\u0647\u062a \u0645\u0630\u0627\u06a9\u0631\u0627\u062a \u0646\u06cc\u0633\u062a \u0648 \u0627\u0639\u062a\u0628\u0627\u0631 \u0644\u0627\u0632\u0645 \u0631\u0627 \u0628\u0631\u0627\u06cc \u0648\u0627\u0633\u0637\u0647\u200c\u06af\u0631\u06cc \u0646\u062f\u0627\u0631\u062f. \u0622\u0646\u0647\u0627 \u0647\u0645\u06cc\u0634\u0647 \u0645\u0635\u0644\u062d\u062a \u062a\u0631\u0627\u0645\u067e \u0631\u0627 \u062f\u0631 \u0646\u0638\u0631 \u0645\u06cc\u200c\u06af\u06cc\u0631\u0646\u062f \u0648 \u0628\u0631\u062e\u0644\u0627\u0641 \u0645\u06cc\u0644 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc\u200c\u0647\u0627 \u062d\u0631\u0641\u06cc \u0646\u0645\u06cc\u200c\u0632\u0646\u0646\u062f \u0628\u0637\u0648\u0631 \u0645\u062b\u0627\u0644 \u062d\u0627\u0636\u0631 \u0646\u06cc\u0633\u062a\u0646\u062f \u0628\u0647 \u062f\u0646\u06cc\u0627 \u0628\u06af\u0648\u06cc\u0646\u062f \u06a9\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0627\u0628\u062a\u062f\u0627 \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0631\u0627 \u067e\u0630\u06cc\u0631\u0641\u062a \u0627\u0645\u0627 \u0628\u0639\u062f \u0632\u06cc\u0631 \u062d\u0631\u0641\u0634 \u0632\u062f. \u0646\u0645\u06cc\u200c\u06af\u0648\u06cc\u0646\u062f \u06a9\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627\u06cc\u06cc\u200c\u0647\u0627 \u062f\u0631 \u0645\u0648\u0636\u0648\u0639 \u0644\u0628\u0646\u0627\u0646 \u06cc\u0627 \u0627\u0645\u0648\u0627\u0644 \u0628\u0644\u0648\u06a9\u0647\u200c\u0634\u062f\u0647 \u062a\u0639\u0647\u062f\u0627\u062a\u06cc \u062f\u0627\u0634\u062a\u0646\u062f \u0627\u0645\u0627 \u0628\u0647 \u0622\u0646 \u0639\u0645\u0644 \u0646\u06a9\u0631\u062f\u0646\u062f. \u0645\u06cc\u0627\u0646\u062c\u06cc \u0628\u0627\u06cc\u062f \u0628\u06cc\u200c\u0637\u0631\u0641 \u0628\u0627\u0634\u062f \u0646\u0647 \u0627\u06cc\u0646\u06a9\u0647 \u0647\u0645\u06cc\u0634\u0647 \u0628\u0647 \u06cc\u06a9 \u0633\u0645\u062a \u063a\u0634 \u06a9\u0646\u062f.</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/EbrahimRezaei14/status/2048390709862871243#m\">https://nitter.net/EbrahimRezaei14/status/2048390709862871243#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
     },
     {
       "title": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf0\nEbrahim Rezaei, spox of Iran's National Security Committee, has characterized Pakistan as an unsuitable mediator, citing a lack of credibility and neutrality. Rezaei further alleged that Islamabad prioritizes the interests of Donald Trump and the United States while failing to disclose that Washington has withdrawn from prior commitments, including those regarding Lebanon, and has blocked assets.",
@@ -2018,16 +1955,6 @@
       "author": "@Goreunit"
     },
     {
-      "title": "RT by @AngryRumi7: #VIDEO || PDP MLA @Agasyedmuntazir visits Sharda temple, pushes for reopening of Sharda Peeth in PoK\n\n@jkpdp @MehboobaMufti @panditaAPMCC63",
-      "link": "https://nitter.net/KNSKashmir/status/2048042760280883310#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-04-25T19:43:39+05:30",
-      "time": "25 Apr, 07:43 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23VIDEO\">#VIDEO</a> || PDP MLA <a href=\"https://nitter.net/Agasyedmuntazir\" title=\"Muntazir Mehdi\">@Agasyedmuntazir</a> visits Sharda temple, pushes for reopening of Sharda Peeth in PoK<br />\n<br />\n<a href=\"https://nitter.net/jkpdp\" title=\"J&amp;K PDP\">@jkpdp</a> <a href=\"https://nitter.net/MehboobaMufti\" title=\"Mehbooba Mufti\">@MehboobaMufti</a> <a href=\"https://nitter.net/panditaAPMCC63\" title=\"Ravinder Pandita(Save Sharda)\">@panditaAPMCC63</a></p>\n<a href=\"https://nitter.net/KNSKashmir/status/2048042760280883310#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048042285770973184%2Fimg%2FaFbOPa1U3RVxuKal.jpg\" />\n</a>",
-      "author": "@KNSKashmir"
-    },
-    {
       "title": "Bang .... \ud83e\ude96\ud83d\udd25\n\nBig moment for India\u2019s defence strength \n\nDRDO unveils advanced armoured platforms, both tracked and wheeled, in Ahilyanagar under the leadership of Samir V Kamat. Built to match the evolving needs of the armed forces, these platforms reflect India\u2019s push for self reliance in defence.\n\nEquipped with an indigenous 30 mm crewless turret, ATGM capability, strong STANAG 4 and 5 protection, and amphibious mobility, these systems combine firepower, speed, and battlefield survivability.\n\nDeveloped with support from Tata Advanced Systems Limited, Bharat Forge Limited, and MSMEs, this marks another step towards a stronger, self reliant India.",
       "link": "https://nitter.net/OsintTV/status/2048034430984286526#m",
       "source": "Osint TV",
@@ -2146,59 +2073,18 @@
       "type": "tweets",
       "content": "<p>A little girl was playing in her backyard while her mother stood by her side. As dusk fell, a leopard crept in and made an unexpected attack on the girl. Hearing the noise, the girl\u2019s father, Suresh Rathwa, came out of his house.<br />\n<br />\nThough he was shocked initially, he regained his nerve after seeing that his daughter was being taken away by the leopard.<br />\n<br />\nHe attacked the leopard fiercely and freed his daughter from its clutches. He kept fighting with the leopard despite its efforts to counter his attack.<br />\n<br />\nEventually, the leopard gave up and moved towards the fields.<br />\n<br />\nThrough his courage, he managed to save his daughter from the claws of death.</p>\n<img src=\"https://nitter.net/pic/media%2FHGvr2HtboAA4bbq.png\" />",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "R to @elitepredatorss: TATA Harrier as Primary Jammer vehicle.",
-      "link": "https://nitter.net/elitepredatorss/status/2047974829165625446#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-25T15:13:43+05:30",
-      "time": "25 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "<p>TATA Harrier as Primary Jammer vehicle.</p>\n<img src=\"https://nitter.net/pic/media%2FHGveP77bEAAg2ZL.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "R to @elitepredatorss: XUV700 as assault and weapon support vehicle.",
-      "link": "https://nitter.net/elitepredatorss/status/2047974814498099599#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-25T15:13:39+05:30",
-      "time": "25 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "<p>XUV700 as assault and weapon support vehicle.</p>\n<img src=\"https://nitter.net/pic/media%2FHGvePAya0AAJixI.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.\n\nScorpion-N as a support and escord vehicle.",
-      "link": "https://nitter.net/elitepredatorss/status/2047974703525134540#m",
-      "source": "Elite Predators",
-      "sort_key": "2026-04-25T15:13:13+05:30",
-      "time": "25 Apr, 03:13 PM",
-      "type": "tweets",
-      "content": "<p>Imagine a defence companies + auto manufacturer consortium of India who just build badass super protected vehicles.<br />\n<br />\nScorpion-N as a support and escord vehicle.</p>\n<a href=\"https://nitter.net/elitepredatorss/status/2047974703525134540#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2047956521372565504%2Fpu%2Fimg%2Fpjedp3ofo8ujSHiJ.jpg\" />\n</a>\n\n<img src=\"https://nitter.net/pic/media%2FHGvNmvkagAAWLw_.jpg\" />",
-      "author": "@elitepredatorss"
-    },
-    {
-      "title": "RT by @OsintTV: SOG teams (@JmuKmrPolice)  on the hunt for Pakistani terrorists across J&K. The message is clear\u2014there is no safe haven. As the DGP J&K has stated: \u201cYou can run, but you can\u2019t hide.\u201d",
-      "link": "https://nitter.net/MikeLimaBravo12/status/2047963369324609747#m",
-      "source": "Osint TV",
-      "sort_key": "2026-04-25T14:28:11+05:30",
-      "time": "25 Apr, 02:28 PM",
-      "type": "tweets",
-      "content": "<p>SOG teams (<a href=\"https://nitter.net/JmuKmrPolice\" title=\"J&amp;K Police\">@JmuKmrPolice</a>)  on the hunt for Pakistani terrorists across J&amp;K. The message is clear\u2014there is no safe haven. As the DGP J&amp;K has stated: \u201cYou can run, but you can\u2019t hide.\u201d</p>\n<a href=\"https://nitter.net/MikeLimaBravo12/status/2047963369324609747#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2047963276437524480%2Fimg%2FAkqz4xk5z-2BQLXo.jpg\" />\n</a>",
-      "author": "@MikeLimaBravo12"
-    },
-    {
-      "title": "Germany unveils military strategy, aiming to become Europe's strongest conventional force by 2039.\n\nDefense Minister Boris Pistorius\u2019s new \"Responsibility for Europe\" doctrine marks a major shift, identifying Russia as an existential threat.\n\nPillars of the 2039 roadmap:\n- Force expansion to 460,000 (Active + Reserve)\n- Defense spending to hit 3.5% of GDP by 2029\n- Heavy investment in AI, drones, and hypersonic defense\n- Germany to serve as the logistical \"backbone\" of NATO",
-      "link": "https://nitter.net/NetramDefence/status/2047962147968483827#m",
-      "source": "Netram Defense",
-      "sort_key": "2026-04-25T14:23:20+05:30",
-      "time": "25 Apr, 02:23 PM",
-      "type": "tweets",
-      "content": "<p>Germany unveils military strategy, aiming to become Europe's strongest conventional force by 2039.<br />\n<br />\nDefense Minister Boris Pistorius\u2019s new \"Responsibility for Europe\" doctrine marks a major shift, identifying Russia as an existential threat.<br />\n<br />\nPillars of the 2039 roadmap:<br />\n- Force expansion to 460,000 (Active + Reserve)<br />\n- Defense spending to hit 3.5% of GDP by 2029<br />\n- Heavy investment in AI, drones, and hypersonic defense<br />\n- Germany to serve as the logistical \"backbone\" of NATO</p>\n<img src=\"https://nitter.net/pic/media%2FHGvSflXbEAAmjiq.jpg\" />",
-      "author": "@NetramDefence"
     }
   ],
   "youtube": [
+    {
+      "title": "2 Super Advance Land Systems for Indian Forces",
+      "link": "https://www.youtube.com/watch?v=Dc_1WuZSuAw",
+      "source": "Alpha Defense - Hindi",
+      "sort_key": "2026-04-27T15:20:42+05:30",
+      "time": "27 Apr, 03:20 PM",
+      "type": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Dc_1WuZSuAw/mqdefault.jpg"
+    },
     {
       "title": "Indian Defence News:250 AMCA FINAL?,Super Sukhoi Banega Stealth Killer! India Ka Master Plan Exposed",
       "link": "https://www.youtube.com/watch?v=dst4GSaHkfk",
@@ -2255,6 +2141,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 PM IST"
+    "last_updated": "03:24 PM IST"
   }
 }
