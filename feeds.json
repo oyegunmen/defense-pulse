@@ -3,138 +3,192 @@
         "type": "news",
         "name": "Republic World",
         "url": "https://www.republicworld.com/rss/defence.xml",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "The Hindu",
         "url": "https://www.thehindu.com/news/international/feeder/default.rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Defense"]
     },
     {
         "type": "news",
         "name": "The Indian Express",
         "url": "https://indianexpress.com/section/world/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
-        "name": "AIR International",
+        "name": "All India Radio",
         "url": "https://www.newsonair.gov.in/category/international/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
+    },
+    {
+        "type": "news",
+        "name": "Deccan Chronicle",
+        "url": "https://news.google.com/rss/search?q=deccan%20chronicle&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "hide_desc": true,
+        "filter_enabled": true,
+        "keywords": ["Maoist", "Naxal", "insurgency", "encounter", "Bastar", "Sukma", "CRPF", "security forces"]
     },
     {
         "type": "news",
         "name": "Economic Times",
         "url": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "The Print",
         "url": "https://theprint.in/category/defence/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "Live Fist Defense",
         "url": "https://www.livefistdefence.com/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "Swarajya",
         "url": "https://news.google.com/rss/search?q=defense+india+site:swarajyamag.com&hl=en-IN&gl=IN&ceid=IN:en",
-        "hide_desc": true
+        "hide_desc": true,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "India Strategic",
         "url": "https://www.indiastrategic.in/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "Defense Monitor",
         "url": "https://defencemonitor.in/category/categories/indian-defence/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "news",
         "name": "Foreign Policy",
         "url": "https://foreignpolicy.com/tag/india/feed/",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "War & Gore",
         "url": "https://nitter.net/Goreunit/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "War Monitor",
         "url": "https://nitter.net/WarMonitorINTL/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "Netram Defense",
         "url": "https://nitter.net/NetramDefence/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "Elite Predators",
         "url": "https://nitter.net/elitepredatorss/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "Osint TV",
         "url": "https://nitter.net/OsintTV/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "Angry Rumi",
         "url": "https://nitter.net/AngryRumi7/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "tweets",
         "name": "Sidhant Sibal",
         "url": "https://nitter.net/sidhant/rss",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "youtube",
         "name": "Indian Defence Updates",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWUFwrNEs9MnFTc8LcQh8Pg",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "youtube",
         "name": "Indian Defense News",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBcG9TT58nA1w9Oo3Os3MMg",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "youtube",
         "name": "Elite Predators",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9FUmGRv0LL58RppMFEsv3w",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "youtube",
         "name": "Alpha Defense - Hindi",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrJRNE5lnnfXb9rP4lTGmvw",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     },
     {
         "type": "youtube",
         "name": "Defense Squad",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQRIKdVEcMTIBaoHLMEN5uA",
-        "hide_desc": false
+        "hide_desc": false,
+        "filter_enabled": false,
+        "keywords": ["Tejas", "DRDO", "Navy"]
     }
 ]

@@ -7,6 +7,19 @@ ist_tz = timezone(timedelta(hours=5, minutes=30))
 last_run_time = datetime.now(ist_tz) + timedelta(minutes=2)
 last_run_str = last_run_time.strftime("%I:%M %p IST")
 
+def matches_filter(item_title, item_body, source_config):
+    if not source_config.get('filter_enabled', False):
+        return True
+    
+    keywords = source_config.get('keywords', [])
+
+    if not keywords:
+        return True
+    
+    search_text = f"{item_title} {item_body}".lower()
+
+    return any(word.lower() in search_text for word in keywords)
+
 def fetch_all():
     with open('feeds.json', 'r') as f:
         sources = json.load(f)
@@ -33,6 +46,10 @@ def fetch_all():
             
             if dt_utc > cutoff:
                 dt_ist = dt_utc.astimezone(ist_tz)
+
+                entry_body = entry.get('summary', entry.get('description', ''))
+                if not matches_filter(entry.title, entry_body, source):
+                    continue
                 
                 item = {
                     "title": entry.title,
