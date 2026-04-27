@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "title": "Advancing Earth Observation at NASA Since Release of Earthrise Photo",
+      "link": "https://www.indiastrategic.in/advancing-earth-observation-at-nasa-since-release-of-earthrise-photo/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-27T16:07:02+05:30",
+      "time": "27 Apr, 04:07 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar Washington, April 24, 2026: The crescent Earth captured through the windows of the Orion spacecraft by the Artemis II crew, shortly..."
+    },
+    {
+      "title": "Israel-Iran LIVE: Hezbollah leader rejects Lebanon-Israel direct talks, vows to confront Israel",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T16:05:27+05:30",
+      "time": "27 Apr, 04:05 PM",
+      "type": "news",
+      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
+    },
+    {
+      "title": "Hezbollah leader rejects Lebanon-Israel direct talks, vows to confront Israel",
+      "link": "https://www.thehindu.com/news/international/hezbollah-leader-rejects-lebanon-israel-direct-talks-vows-to-confront-israel/article70911733.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T16:02:54+05:30",
+      "time": "27 Apr, 04:02 PM",
+      "type": "news",
+      "description": "Lebanon and Israel\u2019s U.S. ambassadors held two meetings in Washington over the past weeks, the first of their kind in decades"
+    },
+    {
+      "title": "Chokepoints and conflict: How the Hormuz crisis is exposing global shipping vulnerabilities",
+      "link": "https://www.indiastrategic.in/chokepoints-and-conflict-how-the-hormuz-crisis-is-exposing-global-shipping-vulnerabilities/",
+      "source": "India Strategic",
+      "sort_key": "2026-04-27T15:48:46+05:30",
+      "time": "27 Apr, 03:48 PM",
+      "type": "news",
+      "description": "<p>By R Anil Kumar UN, April 26, 2026. The blockading of ships in the Strait of Hormuz as a result of the conflict between the United States and Iran ..."
+    },
+    {
+      "title": "Iran\u2019s Foreign Minister arrives in Saint Petersburg to hold crucial talks with Russian President Putin amid West Asia conflict",
+      "link": "https://www.newsonair.gov.in/irans-foreign-minister-arrives-in-saint-petersburg-to-hold-crucial-talks-with-russian-president-putin-amid-west-asia-conflict/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T15:48:26+05:30",
+      "time": "27 Apr, 03:48 PM",
+      "type": "news",
+      "description": "Iran\u2019s Foreign Minister Abbas Araghchi arrived in Saint Petersburg to hold crucial talks with Russian President Vladimir Putin amid the West Asian con..."
+    },
+    {
+      "title": "Archbishop of Canterbury Sarah Mullally meets with pope and prays at the Vatican",
+      "link": "https://www.thehindu.com/news/international/archbishop-of-canterbury-sarah-mullally-meets-with-pope-and-prays-at-the-vatican/article70911589.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T15:39:26+05:30",
+      "time": "27 Apr, 03:39 PM",
+      "type": "news",
+      "description": "Archbishop Mullally is on a four-day pilgrimage to Rome that has included visits to the main pontifical basilicas, where she has prayed at the tombs o..."
+    },
+    {
+      "title": "In a first, Israel deploys Iron Dome to UAE to counter Iran missile and drone attacks",
+      "link": "https://economictimes.indiatimes.com/news/defence/in-a-first-israel-deploys-iron-dome-to-uae-to-counter-iran-missile-and-drone-attacks/articleshow/130550577.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T15:35:40+05:30",
+      "time": "27 Apr, 03:35 PM",
+      "type": "news",
+      "description": "Israel has deployed its Iron Dome air defense system in the United Arab Emirates for the first time outside of Israel, in response to repeated Iranian..."
+    },
+    {
       "title": "Watch DRDO\u2019s news amphibious combat platforms built for land and water warfare",
       "link": "https://economictimes.indiatimes.com/news/defence/watch-drdos-news-amphibious-combat-platforms-built-for-land-and-water-warfare/videoshow/130550462.cms",
       "source": "Economic Times",
@@ -28,13 +91,13 @@
       "description": "Global military spending surged to USD 2887 billion in 2025, marking the eleventh consecutive year of growth. India ranked fifth, increasing its spend..."
     },
     {
-      "title": "Israel-Iran LIVE: Iran proposes to reopen Strait of Hormuz without nuclear agreement",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "title": "Iran proposes to reopen Strait of Hormuz without nuclear agreement",
+      "link": "https://www.thehindu.com/news/international/iran-proposal-reopen-strait-of-hormuz-nuclear-agreement-abbas-araghchi-iran-fm-us-iran-talks/article70911158.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-27T14:50:19+05:30",
-      "time": "27 Apr, 02:50 PM",
+      "sort_key": "2026-04-27T15:16:26+05:30",
+      "time": "27 Apr, 03:16 PM",
       "type": "news",
-      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
+      "description": "Iran FM in Saint Petersburg blames U.S. for failure of Pakistan talks, state media said"
     },
     {
       "title": "Iran offers to end chokehold on Strait of Hormuz, asks U.S. to end blockade",
@@ -64,13 +127,22 @@
       "description": "The disruption is a fresh blow to electronics manufacturers which are already grappling with soaring memory chip \u200ccosts and highlights the broadening ..."
     },
     {
-      "title": "Iran proposes to reopen Strait of Hormuz without nuclear agreement",
-      "link": "https://www.thehindu.com/news/international/iran-proposal-reopen-strait-of-hormuz-nuclear-agreement-abbas-araghchi-iran-fm-us-iran-talks/article70911158.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T13:58:06+05:30",
-      "time": "27 Apr, 01:58 PM",
+      "title": "Iranian Foreign Minister says his visit to Russia aimed at coordinating with Moscow following war involving Israel, US",
+      "link": "https://www.newsonair.gov.in/iranian-foreign-minister-says-his-visit-to-russia-aimed-at-coordinating-with-moscow-following-war-involving-israel-us/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T13:57:24+05:30",
+      "time": "27 Apr, 01:57 PM",
       "type": "news",
-      "description": "Iran FM in Saint Petersburg blames U.S. for failure of Pakistan talks, state media said"
+      "description": "Iranian Foreign Minister Abbas Araghchi said today that his visit to Russia was aimed at coordinating with Moscow following the war involving Israel a..."
+    },
+    {
+      "title": "Strikes continue in Lebanon as ceasefire holds under strain",
+      "link": "https://www.newsonair.gov.in/strikes-continue-in-lebanon-as-ceasefire-holds-under-strain/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T13:28:24+05:30",
+      "time": "27 Apr, 01:28 PM",
+      "type": "news",
+      "description": "Israeli airstrikes in southern Lebanon have killed at least 14 people, according to Lebanon\u2019s Ministry of Health, as tensions persist despite an ongoi..."
     },
     {
       "title": "Rajnath Singh to attend SCO Defence Ministers\u2019 meet in Bishkek amid heightened regional security concerns",
@@ -118,6 +190,24 @@
       "description": ""
     },
     {
+      "title": "Sri Lanka\u2019s Criminal Investigation Department intensifies investigations into 2.5 million dollar cyber fraud",
+      "link": "https://www.newsonair.gov.in/sri-lankas-criminal-investigation-department-intensifies-investigations-into-2-5-million-dollar-cyber-fraud/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T12:34:26+05:30",
+      "time": "27 Apr, 12:34 PM",
+      "type": "news",
+      "description": "Sri Lanka\u2019s Criminal Investigation Department has intensified investigations into a 2.5 million dollar cyber fraud involving the Finance Ministry\u2019s De..."
+    },
+    {
+      "title": "Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf says Iran still has leverage against US",
+      "link": "https://www.newsonair.gov.in/irans-parliament-speaker-mohammad-bagher-ghalibaf-says-iran-still-has-leverage-against-us/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T12:09:03+05:30",
+      "time": "27 Apr, 12:09 PM",
+      "type": "news",
+      "description": "Iran&#8217;s Parliament Speaker Mohammad Bagher Ghalibaf today said Iran still has leverage against the United States, pushing back against claims by ..."
+    },
+    {
       "title": "Guns, drones &amp; algos: AI joins the fight on frontlines",
       "link": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-is-rapidly-transforming-modern-warfare-enabling-real-time-intelligence-autonomous-drones-and-faster-battlefield-decision-making-across-global-conflicts-/articleshow/130545354.cms",
       "source": "Economic Times",
@@ -154,6 +244,15 @@
       "description": "Defence Minister Rajnath Singh is in Bishkek, Kyrgyzstan for the SCO Defence Ministers' Meeting. He will highlight India's commitment to global peace ..."
     },
     {
+      "title": "Bangladesh: Lightning strikes kill 14 as Kalbaishakhi storms sweep country",
+      "link": "https://www.newsonair.gov.in/bangladesh-lightning-strikes-kill-14-as-kalbaishakhi-storms-sweep-country/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T11:09:11+05:30",
+      "time": "27 Apr, 11:09 AM",
+      "type": "news",
+      "description": "In Bangladesh, at least 14 people were killed and several others injured after lightning strikes hit seven districts during Kalbaishakhi (Nor\u2019wester) ..."
+    },
+    {
       "title": "Malaysia\u2019s jailed ex-PM Najib withdraws appeal on house arrest, local media reports",
       "link": "https://www.thehindu.com/news/international/malaysias-jailed-ex-pm-najib-withdraws-appeal-on-house-arrest-local-media-reports/article70910831.ece",
       "source": "The Hindu",
@@ -161,6 +260,15 @@
       "time": "27 Apr, 11:02 AM",
       "type": "news",
       "description": "The withdrawal of \u200cappeal for home detention would mark yet another setback for Najib, \u200bafter he was jailed a further 15 years and fined $2.8 billion ..."
+    },
+    {
+      "title": "World Tapir Day being observed today",
+      "link": "https://www.newsonair.gov.in/world-tapir-day-being-observed-today/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T11:02:50+05:30",
+      "time": "27 Apr, 11:02 AM",
+      "type": "news",
+      "description": "World Tapir Day is being observed today globally. This day is crucial to raise awareness about the species of Tapir and to protect it from human encro..."
     },
     {
       "title": "President Trump Stands Fearless After Third Assassination Attempt",
@@ -235,7 +343,7 @@
       "description": "Russian and Iranian state media confirmed Mr. Araghchi\u2019s talks with Putin, citing officials from their respective governments"
     },
     {
-      "title": "Iran US War News Live Updates: Iran FM Abbas Araghchi blames US \u2018excessive demands\u2019 for failed Pakistan talks",
+      "title": "Iran US War News Live Updates: Iran FM Abbas Araghchi blames US\u2019 \u2018excessive demands\u2019 for failed Pakistan talks",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks-10657521/",
       "source": "The Indian Express",
       "sort_key": "2026-04-27T09:31:31+05:30",
@@ -260,6 +368,33 @@
       "time": "27 Apr, 09:16 AM",
       "type": "news",
       "description": "Mr. Trump said at a hastily arranged late-night news conference at the White House that he first thought the noise was a tray being dropped, before re..."
+    },
+    {
+      "title": "Mali\u2019s Defence Minister killed in suicide truck bombing targeting his residence near Bamako",
+      "link": "https://www.newsonair.gov.in/malis-defence-minister-killed-in-suicide-truck-bombing-targeting-his-residence-near-bamako/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T08:48:16+05:30",
+      "time": "27 Apr, 08:48 AM",
+      "type": "news",
+      "description": "Mali&#8217;s defence minister has been killed in an apparent suicide truck bombing at his residence near the capital, Bamako. Multiple news outlets re..."
+    },
+    {
+      "title": "US President Donald Trump calls for White House Correspondents\u2019 Dinner to be held again within 30 days",
+      "link": "https://www.newsonair.gov.in/us-president-donald-trump-calls-for-white-house-correspondents-dinner-to-be-held-again-within-30-days/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T08:36:41+05:30",
+      "time": "27 Apr, 08:36 AM",
+      "type": "news",
+      "description": "US President Donald Trump has called for the White House Correspondents\u2019 Dinner to be held again within 30 days, insisting that a crazy person should ..."
+    },
+    {
+      "title": "6.1 magnitude earthquake strikes northern Japan",
+      "link": "https://www.newsonair.gov.in/6-1-magnitude-earthquake-strikes-northern-japan/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T08:34:06+05:30",
+      "time": "27 Apr, 08:34 AM",
+      "type": "news",
+      "description": "A 6.1 magnitude earthquake struck northern Japan early this morning, the US Geological Survey reported, but there were no immediate reports of fatalit..."
     },
     {
       "title": "Lebanon says Israel strikes kill 14 in deadliest day since truce",
@@ -1099,24 +1234,6 @@
       "description": ""
     },
     {
-      "title": "Israel-Iran war updates: Trump cancels U.S. envoys\u2019 visit to Pakistan for talks; says 'does not mean restart of war'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T04:59:52+05:30",
-      "time": "26 Apr, 04:59 AM",
-      "type": "news",
-      "description": "Iran\u2019s Foreign Minister leaves Islamabad without meeting U.S. envoys, say Pakistan officials; Iran resumes commercial flights from Tehran\u2019s internatio..."
-    },
-    {
-      "title": "India advises nationals in Mali to stay indoors, exercise caution due to security developments",
-      "link": "https://www.thehindu.com/news/national/india-advises-nationals-in-mali-to-stay-indoors-exercise-caution-due-to-security-developments/article70906718.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T03:44:00+05:30",
-      "time": "26 Apr, 03:44 AM",
-      "type": "news",
-      "description": "The Indian embassy added that it was closely monitoring the evolving situation in coordination with Malian authorities and will issue further updates ..."
-    },
-    {
       "title": "Defence Indigenous Push: DRDO, Navy Complete Advanced Hydrodynamic Testing For Frontline Warship",
       "link": "https://www.republicworld.com/defence/defence-indigenous-push-drdo-navy-complete-advanced-hydrodynamic-testing-for-frontline-warship",
       "source": "Republic World",
@@ -1232,18 +1349,39 @@
       "time": "25 Apr, 04:26 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Trump teases Iran deal: \u2018They\u2019re making an offer\u2019 amid Islamabad diplomacy push",
-      "link": "https://indianexpress.com/article/world/trump-says-iran-may-make-offer-to-meet-us-in-islamabad-10655308/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T15:28:42+05:30",
-      "time": "25 Apr, 03:28 PM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "We have never opened our dairy market, says Indian Trade Minister Piyush Goyal",
+      "link": "https://nitter.net/sidhant/status/2048712208562221534#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T16:03:48+05:30",
+      "time": "27 Apr, 04:03 PM",
+      "type": "tweets",
+      "content": "<p>We have never opened our dairy market, says Indian Trade Minister Piyush Goyal</p>\n<a href=\"https://nitter.net/sidhant/status/2048712208562221534#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048711360826232832%2Fpu%2Fimg%2Fcs9NA0q2H6NtPWoU.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "New Zealand trade minister Todd hopeful that India, New Zealand FTA will be passed in New Zealand parliament",
+      "link": "https://nitter.net/sidhant/status/2048711913799078135#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T16:02:38+05:30",
+      "time": "27 Apr, 04:02 PM",
+      "type": "tweets",
+      "content": "<p>New Zealand trade minister Todd hopeful that India, New Zealand FTA will be passed in New Zealand parliament</p>\n<a href=\"https://nitter.net/sidhant/status/2048711913799078135#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048711043590074368%2Fpu%2Fimg%2FklJ_YDWUXvFoOUhv.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "UNGA President Annalena Baerbock reaches Delhi later today. Tomm is the main day of engagement, when she meets EAM Jaishankar.",
+      "link": "https://nitter.net/sidhant/status/2048705038256898522#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T15:35:18+05:30",
+      "time": "27 Apr, 03:35 PM",
+      "type": "tweets",
+      "content": "<p>UNGA President Annalena Baerbock reaches Delhi later today. Tomm is the main day of engagement, when she meets EAM Jaishankar.</p>",
+      "author": "@sidhant"
+    },
     {
       "title": "New Zealand Trade Minister Todd says he hopes the India NZ FTA trade deal will come to force this year after parliamentary approvals.",
       "link": "https://nitter.net/sidhant/status/2048701599363862581#m",
@@ -1445,16 +1583,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "\"This is a once-in-a-generation agreement that gives NZ exporters unprecedented access to 1.4 billion people..\", New Zealand PM ahead of the signing of India, New Zealand FTA",
-      "link": "https://nitter.net/sidhant/status/2048628476207591590#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T10:31:05+05:30",
-      "time": "27 Apr, 10:31 AM",
-      "type": "tweets",
-      "content": "<p>\"This is a once-in-a-generation agreement that gives NZ exporters unprecedented access to 1.4 billion people..\", New Zealand PM ahead of the signing of India, New Zealand FTA</p>\n<hr />\n<blockquote>\n<b>Christopher Luxon (@chrisluxonmp)</b>\n<p>\n<p>Just over a year ago, I met with Prime Minister Modi in India. <br />\n<br />\nWe agreed then, that we\u2019d launch negotiations on a free trade agreement. For decades, many people said it couldn\u2019t be done. But tonight, that deal gets signed.<br />\n<br />\nThis is a once-in-a-generation agreement that gives NZ exporters unprecedented access to 1.4 billion people and an economy set to become the third-largest in the world.\u00a0<br />\n<br />\nIt means more jobs on farms and orchards, it means more money coming into local communities, and it means more opportunities for your family to get ahead.</p>\n<img src=\"https://nitter.net/pic/media%2FHG4fVrnagAEgWGG.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG4fVr4agAARO0C.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG4fVrSboAAVBr4.jpg\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/chrisluxonmp/status/2048609408876454145#m\">https://nitter.net/chrisluxonmp/status/2048609408876454145#m</a>\n</footer>\n</blockquote>",
-      "author": "@sidhant"
-    },
-    {
       "title": "A top LET commander, Sheikh Yousuf Afridi, has reportedly been killed by unidentified gunmen.\n\nSOURCE - NDTV",
       "link": "https://nitter.net/WarMonitorINTL/status/2048623764028719235#m",
       "source": "War Monitor",
@@ -1483,26 +1611,6 @@
       "type": "tweets",
       "content": "<p>Iran Sends New Peace Proposal to U.S. via Pakistan<br />\n<br />\nIran has reportedly submitted a \u201cnew proposal\u201d to the United States through Pakistani intermediaries, aiming to reopen the Strait of Hormuz and end the war, according to reports.<br />\n<br />\n Key points of the proposal:<br />\n- Two-stage plan; first restore maritime flow & ease blockade<br />\n- Option of extended ceasefire or permanent end to conflict<br />\n- Nuclear talks to be deferred until after Hormuz is reopened<br />\n<br />\nIran\u2019s Foreign Minister Abbas Araghchi reportedly told mediators there is no internal consensus yet on U.S. demands like halting uranium enrichment.</p>\n<img src=\"https://nitter.net/pic/media%2FHG4fVVjakAAsBCw.jpg\" />",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "India, New Zealand to sign FTA today in Delhi. The FTA lowers & eliminates tariffs on range of items, providing 100% duty free access to Indian exporters. $20 bn investment from NZ. Comes at time when India has signed & announced a number of FTA- EU, Oman, UK etc.",
-      "link": "https://nitter.net/sidhant/status/2048595719100178702#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T08:20:55+05:30",
-      "time": "27 Apr, 08:20 AM",
-      "type": "tweets",
-      "content": "<p>India, New Zealand to sign FTA today in Delhi. The FTA lowers &amp; eliminates tariffs on range of items, providing 100% duty free access to Indian exporters. $20 bn investment from NZ. Comes at time when India has signed &amp; announced a number of FTA- EU, Oman, UK etc.</p>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Iranian foreign minister Seyed Abbas Araghchi in Russia. Expected to meet Russian President Putin.",
-      "link": "https://nitter.net/sidhant/status/2048594632586797148#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T08:16:36+05:30",
-      "time": "27 Apr, 08:16 AM",
-      "type": "tweets",
-      "content": "<p>Iranian foreign minister Seyed Abbas Araghchi in Russia. Expected to meet Russian President Putin.</p>",
-      "author": "@sidhant"
     },
     {
       "title": "BREAKING: NIA Probes Recovery of 79 Crude Bombs in West Bengal\n\nNational Investigation Agency has registered a case to investigate the recovery of 79 crude bombs in West Bengal, The explosives were recovered in Bhangar, South 24 Parganas, district bordering Bangladesh, where they were reportedly stored in a residential premises.",
@@ -1955,6 +2063,16 @@
       "author": "@Goreunit"
     },
     {
+      "title": "RT by @AngryRumi7: #VIDEO || PDP MLA @Agasyedmuntazir visits Sharda temple, pushes for reopening of Sharda Peeth in PoK\n\n@jkpdp @MehboobaMufti @panditaAPMCC63",
+      "link": "https://nitter.net/KNSKashmir/status/2048042760280883310#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-04-25T19:43:39+05:30",
+      "time": "25 Apr, 07:43 PM",
+      "type": "tweets",
+      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23VIDEO\">#VIDEO</a> || PDP MLA <a href=\"https://nitter.net/Agasyedmuntazir\" title=\"Muntazir Mehdi\">@Agasyedmuntazir</a> visits Sharda temple, pushes for reopening of Sharda Peeth in PoK<br />\n<br />\n<a href=\"https://nitter.net/jkpdp\" title=\"J&amp;K PDP\">@jkpdp</a> <a href=\"https://nitter.net/MehboobaMufti\" title=\"Mehbooba Mufti\">@MehboobaMufti</a> <a href=\"https://nitter.net/panditaAPMCC63\" title=\"Ravinder Pandita(Save Sharda)\">@panditaAPMCC63</a></p>\n<a href=\"https://nitter.net/KNSKashmir/status/2048042760280883310#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048042285770973184%2Fimg%2FaFbOPa1U3RVxuKal.jpg\" />\n</a>",
+      "author": "@KNSKashmir"
+    },
+    {
       "title": "Bang .... \ud83e\ude96\ud83d\udd25\n\nBig moment for India\u2019s defence strength \n\nDRDO unveils advanced armoured platforms, both tracked and wheeled, in Ahilyanagar under the leadership of Samir V Kamat. Built to match the evolving needs of the armed forces, these platforms reflect India\u2019s push for self reliance in defence.\n\nEquipped with an indigenous 30 mm crewless turret, ATGM capability, strong STANAG 4 and 5 protection, and amphibious mobility, these systems combine firepower, speed, and battlefield survivability.\n\nDeveloped with support from Tata Advanced Systems Limited, Bharat Forge Limited, and MSMEs, this marks another step towards a stronger, self reliant India.",
       "link": "https://nitter.net/OsintTV/status/2048034430984286526#m",
       "source": "Osint TV",
@@ -2063,16 +2181,6 @@
       "type": "tweets",
       "content": "<p>'Serious Mistake By Cops': Family Of Accused, Arrested Over Terror Plot, Claims He Has Mental Illness</p>\n<img src=\"https://nitter.net/pic/media%2FHGvw-AZa0AEFnz2.jpg\" />",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "A little girl was playing in her backyard while her mother stood by her side. As dusk fell, a leopard crept in and made an unexpected attack on the girl. Hearing the noise, the girl\u2019s father, Suresh Rathwa, came out of his house.\n\nThough he was shocked initially, he regained his nerve after seeing that his daughter was being taken away by the leopard.\n\nHe attacked the leopard fiercely and freed his daughter from its clutches. He kept fighting with the leopard despite its efforts to counter his attack.\n\nEventually, the leopard gave up and moved towards the fields.\n\nThrough his courage, he managed to save his daughter from the claws of death.",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047991859667243051#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-25T16:21:23+05:30",
-      "time": "25 Apr, 04:21 PM",
-      "type": "tweets",
-      "content": "<p>A little girl was playing in her backyard while her mother stood by her side. As dusk fell, a leopard crept in and made an unexpected attack on the girl. Hearing the noise, the girl\u2019s father, Suresh Rathwa, came out of his house.<br />\n<br />\nThough he was shocked initially, he regained his nerve after seeing that his daughter was being taken away by the leopard.<br />\n<br />\nHe attacked the leopard fiercely and freed his daughter from its clutches. He kept fighting with the leopard despite its efforts to counter his attack.<br />\n<br />\nEventually, the leopard gave up and moved towards the fields.<br />\n<br />\nThrough his courage, he managed to save his daughter from the claws of death.</p>\n<img src=\"https://nitter.net/pic/media%2FHGvr2HtboAA4bbq.png\" />",
-      "author": "@WarMonitorINTL"
     }
   ],
   "youtube": [
@@ -2141,6 +2249,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "03:24 PM IST"
+    "last_updated": "04:24 PM IST"
   }
 }
