@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "title": "Maharashtra Heatwave Intensifies; Akola Tops Nation At 46.9\u00b0C",
+      "link": "https://www.deccanchronicle.com/nation/maharashtra-heatwave-intensifies-akola-tops-nation-at-469c-1953217",
+      "source": "Deccan Chronicle",
+      "sort_key": "2026-04-28T02:30:33+05:30",
+      "time": "28 Apr, 02:30 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Sarnaik Firm On Mandatory Marathi For Drivers; Decision On Extension Pending",
       "link": "https://www.deccanchronicle.com/nation/sarnaik-firm-on-mandatory-marathi-for-drivers-decision-on-extension-pending-1953216",
       "source": "Deccan Chronicle",
@@ -5477,6 +5486,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "02:24 AM IST"
+    "last_updated": "03:24 AM IST"
   }
 }
