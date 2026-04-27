@@ -1,11 +1,74 @@
 {
   "news": [
     {
-      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+      "title": "Iran gave US a proposal for reopening the Strait Of Hormuz and ending the war: Report",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-gave-us-a-proposal-for-reopening-the-strait-of-hormuz-and-ending-the-war-report/articleshow/130541632.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T06:50:17+05:30",
+      "time": "27 Apr, 06:50 AM",
+      "type": "news",
+      "description": "Iran, via Pakistani mediators, has offered the United States a new proposal to reopen the Strait of Hormuz and end the war, while deferring nuclear ne..."
+    },
+    {
+      "title": "Magnitude 6.2 earthquake shakes part of northern Japan",
+      "link": "https://indianexpress.com/article/world/magnitude-6-2-earthquake-shakes-part-of-northern-japan-10657430/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T06:40:05+05:30",
+      "time": "27 Apr, 06:40 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "US-Pakistan tango: This risky double-game may dent Islamabad\u2019s relations with Beijing, and also cause international humiliation",
+      "link": "https://economictimes.indiatimes.com/news/defence/us-pakistan-tango-this-risky-double-game-may-dent-islamabads-relations-with-beijing-and-also-cause-international-humiliation/articleshow/130541592.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T06:39:49+05:30",
+      "time": "27 Apr, 06:39 AM",
+      "type": "news",
+      "description": "Iran's foreign minister refused to meet a US delegation in Pakistan, exposing Islamabad's risky diplomatic tightrope walk. This move, allegedly influe..."
+    },
+    {
+      "title": "2026 Review Conference of Parties to Treaty on NPT begins in New York today",
+      "link": "https://www.newsonair.gov.in/2026-review-conference-of-parties-to-treaty-on-npt-begins-in-new-york-today/",
+      "source": "AIR International",
+      "sort_key": "2026-04-27T06:10:37+05:30",
+      "time": "27 Apr, 06:10 AM",
+      "type": "news",
+      "description": "The 2026 Review Conference of the Parties to the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) will begin today in New York. Convened by th..."
+    },
+    {
+      "title": "King Charles state visit to U.S. to go on as planned after shooting",
+      "link": "https://www.thehindu.com/news/international/king-charles-state-visit-to-us-to-go-on-as-planned-after-shooting/article70909912.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T05:54:42+05:30",
+      "time": "27 Apr, 05:54 AM",
+      "type": "news",
+      "description": "Earlier, senior U.K. Minister Darren Jones told British broadcasters during a round of interviews that security teams in Britain and the U.S. were \"wo..."
+    },
+    {
+      "title": "\u2018I wasn\u2019t worried\u2026 we live in a crazy world\u2019: Donald Trump on shooting scare at Washington dinner",
+      "link": "https://indianexpress.com/article/world/us-news/donald-trump-shooting-scare-white-house-correspondents-dinner-washington-10657369/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T05:53:17+05:30",
+      "time": "27 Apr, 05:53 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Malian defense chief is killed as jihadis and rebels seize towns and military bases",
+      "link": "https://indianexpress.com/article/world/malian-defense-chief-is-killed-as-jihadis-and-rebels-seize-towns-and-military-bases-10657345/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T05:18:09+05:30",
+      "time": "27 Apr, 05:18 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Israel-Iran war updates: Trump says Iran can call U.S. if it wants to negotiate",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
       "source": "The Hindu",
-      "sort_key": "2026-04-27T04:30:29+05:30",
-      "time": "27 Apr, 04:30 AM",
+      "sort_key": "2026-04-27T04:51:05+05:30",
+      "time": "27 Apr, 04:51 AM",
       "type": "news",
       "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
@@ -631,15 +694,6 @@
       "description": "The Indian Air Force is seeking domestic industry, academia, and startups to develop collaborative drone-based surveillance radar systems under the Me..."
     },
     {
-      "title": "Bangladesh Police Issue Nationwide Security Alert Over Possible Militant Attack Threats",
-      "link": "https://www.newsonair.gov.in/bangladesh-police-issue-nationwide-security-alert-over-possible-militant-attack-threats/",
-      "source": "AIR International",
-      "sort_key": "2026-04-26T10:47:10+05:30",
-      "time": "26 Apr, 10:47 AM",
-      "type": "news",
-      "description": "Bangladesh Police has issued a nationwide security alert over possible militant attacks on key installations, including the parliament complex. Offici..."
-    },
-    {
       "title": "Trump unharmed after shooting incident at WH correspondents\u2019 dinner",
       "link": "https://www.thehindu.com/news/international/shots-fired-at-white-house-correspondents-dinner-trump-and-others-evacuated/article70907601.ece",
       "source": "The Hindu",
@@ -748,7 +802,7 @@
       "description": "North Dakota state Rep. Liz Conmy, of Fargo, was killed in the crash, her colleague, state Sen. Tim Mathern"
     },
     {
-      "title": "White House Dinner Shooting Live Updates: Alleged Trump dinner shooter sent manifesto to family 10 minutes before firing, says report",
+      "title": "White House Dinner Shooting Live Updates: \u2018I\u2019m not a pedophile\u2026 you are a disgrace\u2019, Trump snaps at reporter over shooter \u2018manifesto\u2019",
       "link": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T07:41:31+05:30",
@@ -1135,15 +1189,6 @@
       "description": ""
     },
     {
-      "title": "Australia and New Zealand gather in Turkiye to commemorate WWI battle",
-      "link": "https://www.thehindu.com/news/international/australia-and-new-zealand-gather-in-turkiye-to-commemorate-wwi-battle/article70904704.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T13:50:30+05:30",
-      "time": "25 Apr, 01:50 PM",
-      "type": "news",
-      "description": "The hour-long event included mournful hymns, prayers and the laying of wreaths by the participants, which included representatives from many countries..."
-    },
-    {
       "title": "Iran executes atomic agency worker over \u2018spying\u2019 charge, hangs protester as crackdown intensifies",
       "link": "https://indianexpress.com/article/world/iran-executions-mehdi-farid-mossad-spy-erfan-kiani-protests-10655191/",
       "source": "The Indian Express",
@@ -1261,29 +1306,11 @@
       "description": "US naval forces have intercepted an Iranian-flagged ship. This action is part of a wider US strategy to enforce a maritime blockade against Iran. Seve..."
     },
     {
-      "title": "US-Israel-Iran War Ceasefire News Live Updates: Iran\u2019s Abbas Araghchi lands back in Islamabad as high-stakes diplomacy gathers pace",
+      "title": "US-Israel-Iran War Ceasefire News Live Updates: Araghchi to meet Putin; Trump says Tehran can call for talks",
       "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
       "source": "The Indian Express",
       "sort_key": "2026-04-25T07:24:02+05:30",
       "time": "25 Apr, 07:24 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
-      "link": "https://indianexpress.com/article/world/us-news/us-state-dept-deepseek-china-ai-theft-warning-10654733/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T07:20:51+05:30",
-      "time": "25 Apr, 07:20 AM",
-      "type": "news",
-      "description": ""
-    },
-    {
-      "title": "\u2018No meeting is planned\u2019: Iran rules out direct talks with US in Islamabad; asserts engage via Pakistan",
-      "link": "https://indianexpress.com/article/world/us-news/iran-us-islamabad-talks-araghchi-kushner-witkoff-peace-deal-10654665/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T05:41:45+05:30",
-      "time": "25 Apr, 05:41 AM",
       "type": "news",
       "description": ""
     }
@@ -2301,24 +2328,6 @@
       "thumbnail": "https://img.youtube.com/vi/dst4GSaHkfk/mqdefault.jpg"
     },
     {
-      "title": "Defence Updates - BrahMos Production Delay, DRDO Vikram Platform, Unknown Gunmen Strikes",
-      "link": "https://www.youtube.com/watch?v=78emqC42uRA",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-26T21:53:31+05:30",
-      "time": "26 Apr, 09:53 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/78emqC42uRA/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : 1500 Km ET-LDHCM,Vikram VT-21 Launched,250 AMCA Order,P-18 Destroyer Test",
-      "link": "https://www.youtube.com/watch?v=zqT-5t61C8k",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-04-26T17:52:22+05:30",
-      "time": "26 Apr, 05:52 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/zqT-5t61C8k/mqdefault.jpg"
-    },
-    {
       "title": "Tejas Mk2 Stealth Upgrade ,China Warning on India-Japan Defence Pact!,New Stealth UCAV?",
       "link": "https://www.youtube.com/watch?v=NEwiP9dzVq0",
       "source": "Indian Defense News",
@@ -2326,27 +2335,9 @@
       "time": "26 Apr, 06:30 AM",
       "type": "youtube",
       "thumbnail": "https://img.youtube.com/vi/NEwiP9dzVq0/mqdefault.jpg"
-    },
-    {
-      "title": "Defence Updates - Mock War Drill In India, DRDO 2 New Weapons, SSS Defence 3000+ Rifles Induction",
-      "link": "https://www.youtube.com/watch?v=oE6cTPY2b8o",
-      "source": "Defense Squad",
-      "sort_key": "2026-04-25T22:15:41+05:30",
-      "time": "25 Apr, 10:15 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/oE6cTPY2b8o/mqdefault.jpg"
-    },
-    {
-      "title": "Indian Defence Updates : India-Ukraine Mega Deal,Rudram-4 Test,AMCA Integration,BrahMos Crisis ?",
-      "link": "https://www.youtube.com/watch?v=TnhIyizCVPM",
-      "source": "Indian Defence Updates",
-      "sort_key": "2026-04-25T18:06:49+05:30",
-      "time": "25 Apr, 06:06 PM",
-      "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/TnhIyizCVPM/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "05:24 AM IST"
+    "last_updated": "07:24 AM IST"
   }
 }
