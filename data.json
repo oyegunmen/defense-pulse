@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "title": "Israel-Iran LIVE: Iran Foreign Minister heads to Russia as talks remain stalled",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T07:55:03+05:30",
+      "time": "27 Apr, 07:55 AM",
+      "type": "news",
+      "description": "Iran gave U.S. a proposal for reopening the Strait Of Hormuz and ending the war, says report"
+    },
+    {
+      "title": "Iran offers US new proposal seeking to reopen Strait of Hormuz, end war: Report",
+      "link": "https://indianexpress.com/article/world/iran-us-new-proposal-reopen-hormuz-end-war-report-10657465/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T07:54:44+05:30",
+      "time": "27 Apr, 07:54 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "India hands over personal watercraft to Sri Lanka",
+      "link": "https://economictimes.indiatimes.com/news/defence/india-hands-over-personal-watercraft-to-sri-lanka/articleshow/130542109.cms",
+      "source": "Economic Times",
+      "sort_key": "2026-04-27T07:53:20+05:30",
+      "time": "27 Apr, 07:53 AM",
+      "type": "news",
+      "description": "India has boosted Sri Lanka's coast guard with two personal watercraft for search and rescue operations. This follows a joint naval diving exercise in..."
+    },
+    {
+      "title": "\u200bTurning point: On the U.S. and India\u2019s independent foreign policy",
+      "link": "https://www.thehindu.com/opinion/editorial/turning-point-on-the-us-and-indias-independent-foreign-policy/article70909254.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T07:42:41+05:30",
+      "time": "27 Apr, 07:42 AM",
+      "type": "news",
+      "description": "The U.S. is slicing away at India\u2019s ability to pursue an independent foreign policy"
+    },
+    {
+      "title": "Magnitude 6.2 earthquake shakes part of northern Japan",
+      "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T07:40:50+05:30",
+      "time": "27 Apr, 07:40 AM",
+      "type": "news",
+      "description": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USG..."
+    },
+    {
+      "title": "\u2018I\u2019m not a pedophile\u2026 you are a disgrace\u2019: Trump snaps at reporter over shooter \u2018manifesto\u2019",
+      "link": "https://indianexpress.com/article/world/us-news/trump-snaps-reporter-pedophile-manifesto-washington-dinner-shooting-10657387/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T07:27:11+05:30",
+      "time": "27 Apr, 07:27 AM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Lebanon says Israel strikes kill 14 in deadliest day since truce",
+      "link": "https://www.thehindu.com/news/international/lebanon-says-israel-strikes-kill-14-in-deadliest-day-since-truce/article70910594.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T07:21:25+05:30",
+      "time": "27 Apr, 07:21 AM",
+      "type": "news",
+      "description": "Israeli strikes have killed at least 36 people since the truce began, according to an AFP tally of Health Ministry figures"
+    },
+    {
+      "title": "Trump makes a fresh case for White House ballroom after shooting incident at dinner event",
+      "link": "https://www.thehindu.com/news/international/trump-makes-a-fresh-case-for-white-house-ballroom-after-shooting-incident-at-dinner-event/article70909700.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T07:12:47+05:30",
+      "time": "27 Apr, 07:12 AM",
+      "type": "news",
+      "description": "Mr. Trump slammed the petitioner in the case, contending that she had absolutely no standing to bring such a suit and it must be dropped immediately"
+    },
+    {
       "title": "Iran gave US a proposal for reopening the Strait Of Hormuz and ending the war: Report",
       "link": "https://economictimes.indiatimes.com/news/defence/iran-gave-us-a-proposal-for-reopening-the-strait-of-hormuz-and-ending-the-war-report/articleshow/130541632.cms",
       "source": "Economic Times",
@@ -73,15 +145,6 @@
       "description": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign \u200bMinister Abbas Araghchi \u200cheld talks in \u200bOman, discussed security \u200cin the Strai..."
     },
     {
-      "title": "Magnitude 6.1 earthquake strikes in northern Japan",
-      "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T04:07:27+05:30",
-      "time": "27 Apr, 04:07 AM",
-      "type": "news",
-      "description": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USG..."
-    },
-    {
       "title": "White House correspondents' dinner shooting updates: King Charles state visit to U.S. to go on as planned after shooting",
       "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
       "source": "The Hindu",
@@ -89,15 +152,6 @@
       "time": "27 Apr, 03:07 AM",
       "type": "news",
       "description": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that calle..."
-    },
-    {
-      "title": "\u200bTurning point: On the U.S. and India\u2019s independent foreign policy",
-      "link": "https://www.thehindu.com/opinion/editorial/turning-point-on-the-us-and-indias-independent-foreign-policy/article70909254.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T01:56:49+05:30",
-      "time": "27 Apr, 01:56 AM",
-      "type": "news",
-      "description": "The U.S. is slicing away at India\u2019s ability to pursue an independent foreign policy"
     },
     {
       "title": "Hindu temple caretaker found dead in Bangladesh, minority group demands strong action",
@@ -161,15 +215,6 @@
       "time": "27 Apr, 12:15 AM",
       "type": "news",
       "description": "India and Australia are set to sign a new maritime cooperation pact this year. Australia views India as a vital security partner in the Indo-Pacific r..."
-    },
-    {
-      "title": "Trump makes a fresh case for White House ballroom after shooting incident at dinner event",
-      "link": "https://www.thehindu.com/news/international/trump-makes-a-fresh-case-for-white-house-ballroom-after-shooting-incident-at-dinner-event/article70909700.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T23:59:22+05:30",
-      "time": "26 Apr, 11:59 PM",
-      "type": "news",
-      "description": "Mr. Trump slammed the petitioner in the case, contending that she had absolutely no standing to bring such a suit and it must be dropped immediately"
     },
     {
       "title": "Taiwan will not 'bow its head': FM hits out at China during visit to Eswatini",
@@ -802,7 +847,7 @@
       "description": "North Dakota state Rep. Liz Conmy, of Fargo, was killed in the crash, her colleague, state Sen. Tim Mathern"
     },
     {
-      "title": "White House Dinner Shooting Live Updates: \u2018I\u2019m not a pedophile\u2026 you are a disgrace\u2019, Trump snaps at reporter over shooter \u2018manifesto\u2019",
+      "title": "White House Dinner Shooting Live Updates: Trump tells 60 Minutes in wake of White House press dinner shooting, \u2018we live in a crazy world\u2019",
       "link": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
       "source": "The Indian Express",
       "sort_key": "2026-04-26T07:41:31+05:30",
@@ -1144,15 +1189,6 @@
       "description": "Iran made it clear that there would be no direct negotiations with American government representatives"
     },
     {
-      "title": "Iran resumes commercial flights from Tehran\u2019s international airport for first time since conflict",
-      "link": "https://www.thehindu.com/news/international/iran-resumes-commercial-flights-from-tehrans-international-airport-for-first-time-since-conflict/article70904871.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T15:31:22+05:30",
-      "time": "25 Apr, 03:31 PM",
-      "type": "news",
-      "description": "Iran has resumed commercial flights from Tehran\u2019s international airport for the first time since the conflict with the U.S. and Israel began two month..."
-    },
-    {
       "title": "Trump teases Iran deal: \u2018They\u2019re making an offer\u2019 amid Islamabad diplomacy push",
       "link": "https://indianexpress.com/article/world/trump-says-iran-may-make-offer-to-meet-us-in-islamabad-10655308/",
       "source": "The Indian Express",
@@ -1169,15 +1205,6 @@
       "time": "25 Apr, 02:29 PM",
       "type": "news",
       "description": "The Middle East faces a fragile peace after recent events. Conditional ceasefires are in place, but underlying issues persist. Millions remain displac..."
-    },
-    {
-      "title": "Iran executes man over 'mission' for Israel's spy agency",
-      "link": "https://www.thehindu.com/news/international/iran-executes-man-over-mission-for-israels-spy-agency/article70904834.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-25T14:22:42+05:30",
-      "time": "25 Apr, 02:22 PM",
-      "type": "news",
-      "description": "Erfan Kiani was hanged after his sentence was upheld by the country's Supreme Court, the judiciary's Mizan Online website said."
     },
     {
       "title": "\u2018My heart remains with victims\u2019: Sam Altman apologises after warning signs missed in Canada shooting",
@@ -1304,18 +1331,39 @@
       "time": "25 Apr, 08:35 AM",
       "type": "news",
       "description": "US naval forces have intercepted an Iranian-flagged ship. This action is part of a wider US strategy to enforce a maritime blockade against Iran. Seve..."
-    },
-    {
-      "title": "US-Israel-Iran War Ceasefire News Live Updates: Araghchi to meet Putin; Trump says Tehran can call for talks",
-      "link": "https://indianexpress.com/article/world/us-news/iran-war-live-updates-tehrans-fm-in-islamabad-us-envoys-to-travel-for-talks-10654685/",
-      "source": "The Indian Express",
-      "sort_key": "2026-04-25T07:24:02+05:30",
-      "time": "25 Apr, 07:24 AM",
-      "type": "news",
-      "description": ""
     }
   ],
   "tweets": [
+    {
+      "title": "India, New Zealand to sign FTA today in Delhi. The FTA lowers & eliminates tariffs on range of items, providing 100% duty free access to Indian exporters. $20 bn investment from NZ. Comes at time when India has signed & announced a number of FTA- EU, Oman, UK etc.",
+      "link": "https://nitter.net/sidhant/status/2048595719100178702#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T08:20:55+05:30",
+      "time": "27 Apr, 08:20 AM",
+      "type": "tweets",
+      "content": "<p>India, New Zealand to sign FTA today in Delhi. The FTA lowers &amp; eliminates tariffs on range of items, providing 100% duty free access to Indian exporters. $20 bn investment from NZ. Comes at time when India has signed &amp; announced a number of FTA- EU, Oman, UK etc.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Iranian foreign minister Seyed Abbas Araghchi in Russia. Expected to meet Russian President Putin.",
+      "link": "https://nitter.net/sidhant/status/2048594632586797148#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T08:16:36+05:30",
+      "time": "27 Apr, 08:16 AM",
+      "type": "tweets",
+      "content": "<p>Iranian foreign minister Seyed Abbas Araghchi in Russia. Expected to meet Russian President Putin.</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "BREAKING: NIA Probes Recovery of 79 Crude Bombs in West Bengal\n\nNational Investigation Agency has registered a case to investigate the recovery of 79 crude bombs in West Bengal, The explosives were recovered in Bhangar, South 24 Parganas, district bordering Bangladesh, where they were reportedly stored in a residential premises.",
+      "link": "https://nitter.net/NetramDefence/status/2048587501296816317#m",
+      "source": "Netram Defense",
+      "sort_key": "2026-04-27T07:48:15+05:30",
+      "time": "27 Apr, 07:48 AM",
+      "type": "tweets",
+      "content": "<p>BREAKING: NIA Probes Recovery of 79 Crude Bombs in West Bengal<br />\n<br />\nNational Investigation Agency has registered a case to investigate the recovery of 79 crude bombs in West Bengal, The explosives were recovered in Bhangar, South 24 Parganas, district bordering Bangladesh, where they were reportedly stored in a residential premises.</p>\n<img src=\"https://nitter.net/pic/media%2FHG4LdlpaIAAQpwV.jpg\" />",
+      "author": "@NetramDefence"
+    },
     {
       "title": "I think we have finally figured out our game of ecosystem of platforms.\n\nI hope we figure out anti-drone game for these vehicles, otherwise they are sitting ducks.",
       "link": "https://nitter.net/elitepredatorss/status/2048502486655496508#m",
@@ -1507,16 +1555,6 @@
       "author": "@sidhant"
     },
     {
-      "title": "R to @sidhant: They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan",
-      "link": "https://nitter.net/sidhant/status/2048424815888105906#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T21:01:48+05:30",
-      "time": "26 Apr, 09:01 PM",
-      "type": "tweets",
-      "content": "<p>They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan</p>",
-      "author": "@sidhant"
-    },
-    {
       "title": "R to @sidhant: For example, they are unwilling to tell the world that US initially accepted Pakistan's proposal but later went back on its word says Rezaei who is also the spox of key Iran Parliament comm on security",
       "link": "https://nitter.net/sidhant/status/2048424813467938905#m",
       "source": "Sidhant Sibal",
@@ -1524,6 +1562,16 @@
       "time": "26 Apr, 09:01 PM",
       "type": "tweets",
       "content": "<p>For example, they are unwilling to tell the world that US initially accepted Pakistan's proposal but later went back on its word says Rezaei who is also the spox of key Iran Parliament comm on security</p>",
+      "author": "@sidhant"
+    },
+    {
+      "title": "R to @sidhant: They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan",
+      "link": "https://nitter.net/sidhant/status/2048424815888105906#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-26T21:01:48+05:30",
+      "time": "26 Apr, 09:01 PM",
+      "type": "tweets",
+      "content": "<p>They do not say that the Americans had commitments regarding Lebanon or the blocked assets but failed to fulfill them. A mediator must be neutral and not always lean toward one side says Rezaei on Pakistan</p>",
       "author": "@sidhant"
     },
     {
@@ -1715,26 +1763,6 @@
       "type": "tweets",
       "content": "<p>Whenever you post something about China <br />\n<br />\nRandom Porkis in the comment section be like:</p>\n<a href=\"https://nitter.net/Goreunit/status/2048315524556448194#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048315502062346240%2Fpu%2Fimg%2FzJMHEk8JHGpHtRcU.jpg\" />\n</a>\n\n<hr />\n<blockquote>\n<b>SPIKY Op (@op_spiky)</b>\n<p>\n<p>Bsdk tum logo ka roz koi na koi plane crash ho raha hota uske tension nhi hai saar see saar chaina poor performance saar</p>\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/op_spiky/status/2047941829073731836#m\">https://nitter.net/op_spiky/status/2047941829073731836#m</a>\n</footer>\n</blockquote>",
       "author": "@Goreunit"
-    },
-    {
-      "title": "R to @sidhant: Indian Ambassador to UAE @d_mittal73 was also present in the meeting. NSA Ajit Doval had earlier visited Saudi Arabia.",
-      "link": "https://nitter.net/sidhant/status/2048296033193746764#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T12:30:04+05:30",
-      "time": "26 Apr, 12:30 PM",
-      "type": "tweets",
-      "content": "<p>Indian Ambassador to UAE <a href=\"https://nitter.net/d_mittal73\" title=\"Deepak Mittal\">@d_mittal73</a> was also present in the meeting. NSA Ajit Doval had earlier visited Saudi Arabia.</p>\n<img src=\"https://nitter.net/pic/media%2FHG0CPVyb0AAv8zE.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian NSA Ajit Doval in UAE, meets UAE President Sheikh Mohamed bin Zayed Al Nahyan (MBZ). This is the 2nd high level visit from Indian to UAE, after visit of EAM Dr S Jaishankar. \n\nvdo ctsy: WAM News Agency",
-      "link": "https://nitter.net/sidhant/status/2048295724572618854#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-26T12:28:50+05:30",
-      "time": "26 Apr, 12:28 PM",
-      "type": "tweets",
-      "content": "<p>Indian NSA Ajit Doval in UAE, meets UAE President Sheikh Mohamed bin Zayed Al Nahyan (MBZ). This is the 2nd high level visit from Indian to UAE, after visit of EAM Dr S Jaishankar. <br />\n<br />\nvdo ctsy: WAM News Agency</p>\n<a href=\"https://nitter.net/sidhant/status/2048295724572618854#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048295372767088640%2Fimg%2FJ_aDkyyyoqZ4RX2S.jpg\" />\n</a>",
-      "author": "@sidhant"
     },
     {
       "title": "India, New Zealand to sign FTA on April 27; deal provides Indian exporters 100% duty-free access",
@@ -2305,39 +2333,29 @@
       "type": "tweets",
       "content": "<p>US imposes sanctions on China-based oil refinery, 40 shippers over Iranian oil</p>",
       "author": "@WarMonitorINTL"
-    },
-    {
-      "title": "Pakistan govt hikes petrol. diesel prices by Rs26.77 per litre",
-      "link": "https://nitter.net/WarMonitorINTL/status/2047870111944765549#m",
-      "source": "War Monitor",
-      "sort_key": "2026-04-25T08:17:36+05:30",
-      "time": "25 Apr, 08:17 AM",
-      "type": "tweets",
-      "content": "<p>Pakistan govt hikes petrol. diesel prices by Rs26.77 per litre</p>",
-      "author": "@WarMonitorINTL"
     }
   ],
   "youtube": [
     {
-      "title": "Indian Defence News:250 AMCA FINAL?,Super Sukhoi Banega Stealth Killer! India Ka Master Plan Exposed",
-      "link": "https://www.youtube.com/watch?v=dst4GSaHkfk",
-      "source": "Indian Defense News",
-      "sort_key": "2026-04-26T23:00:15+05:30",
-      "time": "26 Apr, 11:00 PM",
+      "title": "Indian Defence Updates : 1500 Km ET-LDHCM,Vikram VT-21 Launched,250 AMCA Order,P-18 Destroyer Test",
+      "link": "https://www.youtube.com/watch?v=zqT-5t61C8k",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-04-26T17:52:22+05:30",
+      "time": "26 Apr, 05:52 PM",
       "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/dst4GSaHkfk/mqdefault.jpg"
+      "thumbnail": "https://img.youtube.com/vi/zqT-5t61C8k/mqdefault.jpg"
     },
     {
-      "title": "Tejas Mk2 Stealth Upgrade ,China Warning on India-Japan Defence Pact!,New Stealth UCAV?",
-      "link": "https://www.youtube.com/watch?v=NEwiP9dzVq0",
-      "source": "Indian Defense News",
-      "sort_key": "2026-04-26T06:30:21+05:30",
-      "time": "26 Apr, 06:30 AM",
+      "title": "Indian Defence Updates : India-Ukraine Mega Deal,Rudram-4 Test,AMCA Integration,BrahMos Crisis ?",
+      "link": "https://www.youtube.com/watch?v=TnhIyizCVPM",
+      "source": "Indian Defence Updates",
+      "sort_key": "2026-04-25T18:06:49+05:30",
+      "time": "25 Apr, 06:06 PM",
       "type": "youtube",
-      "thumbnail": "https://img.youtube.com/vi/NEwiP9dzVq0/mqdefault.jpg"
+      "thumbnail": "https://img.youtube.com/vi/TnhIyizCVPM/mqdefault.jpg"
     }
   ],
   "metadata": {
-    "last_updated": "07:24 AM IST"
+    "last_updated": "08:24 AM IST"
   }
 }
