@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "title": "Watch: Iran needs \u2018fundamental change\u2019 to get sanctions dropped: EU",
+      "link": "https://www.thehindu.com/shorts/watch-iran-needs-fundamental-change-to-get-sanctions-dropped-eu/article70912948.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T19:59:31+05:30",
+      "time": "27 Apr, 07:59 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
+      "title": "Urdu Wikisource, open source global digital library for Urdu literature, launched",
+      "link": "https://www.thehindu.com/news/national/urdu-wikisource-open-source-global-digital-library-for-urdu-literature-launched/article70911838.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T19:56:36+05:30",
+      "time": "27 Apr, 07:56 PM",
+      "type": "news",
+      "description": "International partnerships provide foundational content, including rare Urdu texts, for the Wikisource platform to reach this milestone"
+    },
+    {
+      "title": "Watch: Big trade boost: India, New Zealand ink historic deal",
+      "link": "https://www.thehindu.com/videos/watch-big-trade-boost-india-new-zealand-ink-historic-deal/article70912867.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T19:45:57+05:30",
+      "time": "27 Apr, 07:45 PM",
+      "type": "news",
+      "description": "India and New Zealand sign a landmark free trade agreement in New Delhi, unlocking 100% duty-free access for Indian exports"
+    },
+    {
+      "title": "Israel-Iran LIVE: Iran\u2019s FM Araghchi calls his Islamabad visit \u2018successful'\u2019 after arriving in Russia",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "source": "The Hindu",
+      "sort_key": "2026-04-27T19:35:54+05:30",
+      "time": "27 Apr, 07:35 PM",
+      "type": "news",
+      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
+    },
+    {
+      "title": "UK PM Starmer could face parliamentary inquiry over Epstein-linked Mandelson appointment",
+      "link": "https://indianexpress.com/article/world/uk-pm-keir-starmer-parliament-vote-peter-mandelson-inquiry-10658711/",
+      "source": "The Indian Express",
+      "sort_key": "2026-04-27T19:31:22+05:30",
+      "time": "27 Apr, 07:31 PM",
+      "type": "news",
+      "description": ""
+    },
+    {
       "title": "Iran\u2019s FM Araghchi calls his Islamabad visit \u2018successful'\u2019 after arriving in Russia",
       "link": "https://www.thehindu.com/news/international/irans-fm-araghchi-calls-his-islamabad-visit-successful-after-arriving-in-russia/article70912220.ece",
       "source": "The Hindu",
@@ -17,15 +62,6 @@
       "time": "27 Apr, 07:08 PM",
       "type": "news",
       "description": "Iran has reportedly offered to end its chokehold on the Strait of Hormuz in exchange for the US lifting its blockade on the country and an end to the ..."
-    },
-    {
-      "title": "Israel-Iran LIVE: Iran\u2019s FM Araghchi calls his Islamabad visit \u2018successful'\u2019 after arriving in Russia",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-27T19:06:55+05:30",
-      "time": "27 Apr, 07:06 PM",
-      "type": "news",
-      "description": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Put..."
     },
     {
       "title": "Dinesh Trivedi appointed India's next Envoy to Dhaka",
@@ -1117,15 +1153,6 @@
       "description": ""
     },
     {
-      "title": "What rules govern international waters?",
-      "link": "https://www.thehindu.com/news/international/what-rules-govern-international-waters/article70906325.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T09:16:03+05:30",
-      "time": "26 Apr, 09:16 AM",
-      "type": "news",
-      "description": "Can Iran legally restrict transit through the Strait of Hormuz? Is the U.S. blockade of the strait lawful? What is the legal position on interceptions..."
-    },
-    {
       "title": "Trump shares picture of suspect under arrest: \u2018Secret Service officers acted quickly and bravely\u2019",
       "link": "https://indianexpress.com/article/world/trump-picture-suspect-arrest-says-secret-service-officers-acted-quickly-bravely-10656221/",
       "source": "The Indian Express",
@@ -1153,15 +1180,6 @@
       "description": ""
     },
     {
-      "title": "Small plane crash near Minneapolis kills North Dakota state legislator and pilot",
-      "link": "https://www.thehindu.com/news/international/small-plane-crash-near-minneapolis-kills-north-dakota-state-legislator-and-pilot/article70907655.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T08:09:24+05:30",
-      "time": "26 Apr, 08:09 AM",
-      "type": "news",
-      "description": "North Dakota state Rep. Liz Conmy, of Fargo, was killed in the crash, her colleague, state Sen. Tim Mathern"
-    },
-    {
       "title": "White House Dinner Shooting Highlights Trump tells 60 Minutes in wake of White House press dinner shooting, \u2018we live in a crazy world\u2019",
       "link": "https://indianexpress.com/article/world/us-news/white-house-dinner-shooting-live-shooter-gunman-donald-trump-jd-vance-melania-secret-service-washington-10656176/",
       "source": "The Indian Express",
@@ -1178,15 +1196,6 @@
       "time": "26 Apr, 07:34 AM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Viktor Orb\u00e1n steps back from Parliament after landslide loss, vows to rebuild Hungary\u2019s \u2019national side\u2019",
-      "link": "https://www.thehindu.com/news/international/viktor-orban-steps-back-from-parliament-after-landslide-loss-vows-to-rebuild-hungarys-national-side/article70906558.ece",
-      "source": "The Hindu",
-      "sort_key": "2026-04-26T07:06:47+05:30",
-      "time": "26 Apr, 07:06 AM",
-      "type": "news",
-      "description": "Mr. Orb\u00e1n said his party\u2019s caucus in parliament would be \u201cradically transformed\u201d following the election loss, and that he would not take his seat"
     },
     {
       "title": "Trump evacuated after gunshots heard at White House correspondent\u2019s dinner; shooter held",
@@ -1286,27 +1295,89 @@
       "time": "25 Apr, 09:04 PM",
       "type": "news",
       "description": ""
-    },
-    {
-      "title": "Scindia announces Rs 2,500 crore defence plant of Adani in MP's Kolaras",
-      "link": "https://economictimes.indiatimes.com/news/defence/scindia-announces-rs-2500-crore-defence-plant-of-adani-in-mps-kolaras/articleshow/130516890.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-25T19:47:35+05:30",
-      "time": "25 Apr, 07:47 PM",
-      "type": "news",
-      "description": "Union minister Jyotiraditya Scindia announced a major defence manufacturing plant for the Adani group in Kolaras, Guna. This Rs 2,500 crore facility w..."
-    },
-    {
-      "title": "Two key DRDO-developed armoured platforms unveiled",
-      "link": "https://economictimes.indiatimes.com/news/defence/two-key-drdo-developed-armoured-platforms-unveiled/articleshow/130516829.cms",
-      "source": "Economic Times",
-      "sort_key": "2026-04-25T19:45:32+05:30",
-      "time": "25 Apr, 07:45 PM",
-      "type": "news",
-      "description": "Defence Research and Development Organisation unveiled two advanced armoured platforms on Saturday. These tracked and wheeled vehicles are designed fo..."
     }
   ],
   "tweets": [
+    {
+      "title": "R to @OsintTV: Uncensored pics share on our TG channel \ud83d\udc47 \n\nhttps://t.me/c/2981133084/33639\n\n...",
+      "link": "https://nitter.net/OsintTV/status/2048776998105788498#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-27T20:21:15+05:30",
+      "time": "27 Apr, 08:21 PM",
+      "type": "tweets",
+      "content": "<p>Uncensored pics share on our TG channel \ud83d\udc47 <br />\n<br />\n<a href=\"https://t.me/c/2981133084/33639\">t.me/c/2981133084/33639</a><br />\n<br />\n...</p>",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Viewers Discretion Advised \n\nAfghan Taliban killed at least 4 Pakistani soldiers and captured one alive with 4 rifles at the Spin Boldak border.",
+      "link": "https://nitter.net/OsintTV/status/2048776194850500885#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-27T20:18:03+05:30",
+      "time": "27 Apr, 08:18 PM",
+      "type": "tweets",
+      "content": "<p>Viewers Discretion Advised <br />\n<br />\nAfghan Taliban killed at least 4 Pakistani soldiers and captured one alive with 4 rifles at the Spin Boldak border.</p>\n<img src=\"https://nitter.net/pic/media%2FHG627MQaEAAyqqF.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG627LYXIAA-B3I.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG627L8aYAAP3Qh.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG63AaTW8AEmun2.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Afghan Taliban says 3 people were killed and 45 injured in Pakistani strikes in Kunar province.",
+      "link": "https://nitter.net/OsintTV/status/2048773560567513204#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-27T20:07:35+05:30",
+      "time": "27 Apr, 08:07 PM",
+      "type": "tweets",
+      "content": "<p>Afghan Taliban says 3 people were killed and 45 injured in Pakistani strikes in Kunar province.</p>\n<img src=\"https://nitter.net/pic/media%2FHG60pFiWsAESOAe.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG60pF9bEAA1zY6.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG60pFgWwAAAkOg.jpg\" />",
+      "author": "@OsintTV"
+    },
+    {
+      "title": "Celebrations in Doda Town After J&K/Ladakh HC quashed detention of AAP MLA Mehraj Din Malik under PSA",
+      "link": "https://nitter.net/AngryRumi7/status/2048769420798140620#m",
+      "source": "Angry Rumi",
+      "sort_key": "2026-04-27T19:51:08+05:30",
+      "time": "27 Apr, 07:51 PM",
+      "type": "tweets",
+      "content": "<p>Celebrations in Doda Town After J&amp;K/Ladakh HC quashed detention of AAP MLA Mehraj Din Malik under PSA</p>\n<a href=\"https://nitter.net/AngryRumi7/status/2048769420798140620#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048769346269573120%2Fimg%2FAxBo-H3FuXX1vwTL.jpg\" />\n</a>",
+      "author": "@AngryRumi7"
+    },
+    {
+      "title": "RT by @sidhant: India and New Zealand seal landmark FTA\n\nBilateral trade is targeted to double in the coming years\n\nZero or reduced duties on key exports and imports\n\n@sidhant joins @shreyaopines for more on this",
+      "link": "https://nitter.net/WIONews/status/2048769270860173793#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T19:50:33+05:30",
+      "time": "27 Apr, 07:50 PM",
+      "type": "tweets",
+      "content": "<p>India and New Zealand seal landmark FTA<br />\n<br />\nBilateral trade is targeted to double in the coming years<br />\n<br />\nZero or reduced duties on key exports and imports<br />\n<br />\n<a href=\"https://nitter.net/sidhant\" title=\"Sidhant Sibal\">@sidhant</a> joins <a href=\"https://nitter.net/ShreyaOpines\" title=\"Shreya Upadhyaya\">@shreyaopines</a> for more on this</p>\n<a href=\"https://nitter.net/WIONews/status/2048769270860173793#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048760373864706048%2Fimg%2FCNcXvvw4Alkuyttr.jpg\" />\n</a>",
+      "author": "@WIONews"
+    },
+    {
+      "title": "R to @sidhant: In pictures:",
+      "link": "https://nitter.net/sidhant/status/2048768860300742870#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T19:48:55+05:30",
+      "time": "27 Apr, 07:48 PM",
+      "type": "tweets",
+      "content": "<p>In pictures:</p>\n<img src=\"https://nitter.net/pic/media%2FHG6wawhacAE7Rek.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG6wazubsAAeyj9.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG6wa3VbgAEmuSf.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHG6wa7Pa0AA6m8A.jpg\" />",
+      "author": "@sidhant"
+    },
+    {
+      "title": "Pakistanis conducted a strike in Kunar province of Afghanistan.\n\nThen it emerged that children were hit in the strike, making it yet another failed operation after the Kabul bombing, where around 400 innocent people were killed.\n\nNow the entire ecosystem is busy claiming that no such strike took place.",
+      "link": "https://nitter.net/elitepredatorss/status/2048767688290209982#m",
+      "source": "Elite Predators",
+      "sort_key": "2026-04-27T19:44:15+05:30",
+      "time": "27 Apr, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>Pakistanis conducted a strike in Kunar province of Afghanistan.<br />\n<br />\nThen it emerged that children were hit in the strike, making it yet another failed operation after the Kabul bombing, where around 400 innocent people were killed.<br />\n<br />\nNow the entire ecosystem is busy claiming that no such strike took place.</p>",
+      "author": "@elitepredatorss"
+    },
+    {
+      "title": "Indian and Sri Lankan Navy divers over the historic wrecks of SS Worcester & SS Perseus during the 4th IN-SLN DIVEX 26 exercise off the coast of Colombo.",
+      "link": "https://nitter.net/sidhant/status/2048767665834180766#m",
+      "source": "Sidhant Sibal",
+      "sort_key": "2026-04-27T19:44:10+05:30",
+      "time": "27 Apr, 07:44 PM",
+      "type": "tweets",
+      "content": "<p>Indian and Sri Lankan Navy divers over the historic wrecks of SS Worcester &amp; SS Perseus during the 4th IN-SLN DIVEX 26 exercise off the coast of Colombo.</p>\n<a href=\"https://nitter.net/sidhant/status/2048767665834180766#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048767641553399808%2Fpu%2Fimg%2FTOkT2E86kLaIAlCL.jpg\" />\n</a>",
+      "author": "@sidhant"
+    },
     {
       "title": "Jordan joins India led International Solar Alliance (ISA), the Coalition for Disaster Resilient Infrastructure (CDRI) and the Global Biofuel Alliance (GBA). Jordan Amb Yousef Abdelghani hands over docs to Secretary (South), Dr. Neena Malhotra.",
       "link": "https://nitter.net/sidhant/status/2048758575212986724#m",
@@ -1366,6 +1437,16 @@
       "type": "tweets",
       "content": "<p>President of the United Nations General Assembly Annalena Baerbock will travel to India, China: Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHG6gT_Ka0AAY0br.jpg\" />",
       "author": "@sidhant"
+    },
+    {
+      "title": "RT by @OsintTV: Civilian Areas and University Targeted in Kunar by Pakistani Military Strikes \n\nThe Pakistani military regime has once again targeted civilian homes in Kunar Province, causing significant human and financial losses.\n\nIt has also struck Sayed Jamaluddin Afghan University, resulting in further damage and casualties.",
+      "link": "https://nitter.net/burhan_uddin_0/status/2048750514880577715#m",
+      "source": "Osint TV",
+      "sort_key": "2026-04-27T18:36:01+05:30",
+      "time": "27 Apr, 06:36 PM",
+      "type": "tweets",
+      "content": "<p>Civilian Areas and University Targeted in Kunar by Pakistani Military Strikes <br />\n<br />\nThe Pakistani military regime has once again targeted civilian homes in Kunar Province, causing significant human and financial losses.<br />\n<br />\nIt has also struck Sayed Jamaluddin Afghan University, resulting in further damage and casualties.</p>\n<a href=\"https://nitter.net/burhan_uddin_0/status/2048750514880577715#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048750474770460672%2Fpu%2Fimg%2FZQPqzd-8B4wBUx1N.jpg\" />\n</a>",
+      "author": "@burhan_uddin_0"
     },
     {
       "title": "Iran resumes flights to Beijing, Istanbul, Muscat: Iran Media",
@@ -1515,36 +1596,6 @@
       "time": "27 Apr, 04:46 PM",
       "type": "tweets",
       "content": "<p>India has continued to expand its outreach to countries in the Gulf region, says MEA Spox Randhir Jaiswal on NSA Ajit Doval's UAE visit, recalling EAM Jaishankar's visit to the country.</p>\n<a href=\"https://nitter.net/sidhant/status/2048722834059665509#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048705997255163904%2Fimg%2F2qPV48BzQ-Wr_f5p.jpg\" />\n</a>",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Indian PM statement on India, New Zealand FTA",
-      "link": "https://nitter.net/sidhant/status/2048722449806881060#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T16:44:30+05:30",
-      "time": "27 Apr, 04:44 PM",
-      "type": "tweets",
-      "content": "<p>Indian PM statement on India, New Zealand FTA</p>\n<img src=\"https://nitter.net/pic/media%2FHG6GMLjbwAA6hna.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "Dinesh Trivedi appointed as the next High Commissioner of India to Bangladesh: India Statement",
-      "link": "https://nitter.net/sidhant/status/2048718231423389919#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T16:27:44+05:30",
-      "time": "27 Apr, 04:27 PM",
-      "type": "tweets",
-      "content": "<p>Dinesh Trivedi appointed as the next High Commissioner of India to Bangladesh: India Statement</p>\n<img src=\"https://nitter.net/pic/media%2FHG6CXW4a0AAvogE.jpg\" />",
-      "author": "@sidhant"
-    },
-    {
-      "title": "We have never opened our dairy market, says Indian Trade Minister Piyush Goyal",
-      "link": "https://nitter.net/sidhant/status/2048712208562221534#m",
-      "source": "Sidhant Sibal",
-      "sort_key": "2026-04-27T16:03:48+05:30",
-      "time": "27 Apr, 04:03 PM",
-      "type": "tweets",
-      "content": "<p>We have never opened our dairy market, says Indian Trade Minister Piyush Goyal</p>\n<a href=\"https://nitter.net/sidhant/status/2048712208562221534#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/ext_tw_video_thumb%2F2048711360826232832%2Fpu%2Fimg%2Fcs9NA0q2H6NtPWoU.jpg\" />\n</a>",
       "author": "@sidhant"
     },
     {
@@ -2046,26 +2097,6 @@
       "type": "tweets",
       "content": "<p>Daily US-Israel-Iran War Brief: <br />\n25th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf Iranian FM Araghchi began his meetings with Pakistani officials today. He emphasized that his tour is focused on a \"neighborhood first\" policy with partners in Pakistan, Oman, and Russia.<br />\n<br />\n\u25cf US officials Witkoff and Kushner arrive in Islamabad, however Iran denies any talks with US.<br />\n<br />\n\u25cf UKMTO reported the hijacking of a tanker approximately 45nm northeast of Mareeyo, Somalia.<br />\n<br />\n\u25cf Iran\u2019s Khatam al-Anbiya Central HQ warned that if US continues its naval blockade and maritime piracy in the region, it will encounter a severe reaction from Iran\u2019s armed forces.<br />\n<br />\n\u25cf Israeli PM Netanyahu is expected to travel to Washington in about two and a half weeks for the summit with President Trump and Lebanese President Aoun.<br />\n<br />\n\u25cf Iran resumes international services of Imam Khomeini Airport.<br />\n<br />\n\u25cf Despite the ceasefire extension, the IDF struck Hezbollah sites in southern Lebanon today, killing at least four people.<br />\n<br />\nEND OF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHGw0ZhgaMAAJieR.png\" />\n\n<hr />\n<blockquote>\n<b>Netram Defence Review (@NetramDefence)</b>\n<p>\n<p>Daily US-Israel-Iran War Brief: <br />\n24th April 2026  <br />\n<br />\n- We will be posting daily war updates on the ongoing war in Middle East <br />\n- \u2060Follow us for daily Brief.<br />\n  <br />\n\u25cf The FMs of Qatar, Jordan, UAE, Indonesia, Pakistan, Turkey, Saudi Arabia, and Egypt have condemned repeated Israeli violations of the historical and legal status quo of Islamic and Christian holy sites in Jerusalem.<br />\n<br />\n\u25cf The airspace at the Kuwait International Airport will reopen. Kuwait is the last GCC country to open its airspace, following the regional crisis since February 28.<br />\n<br />\n\u25cf Trump said that the meeting with representatives of Israel and Lebanon went well, and that the ceasefire between Israel and Lebanon would be extended by three weeks.<br />\n<br />\n\u25cf Iran's state TV released that the energy facilities in Qatar, UAE, Saudi Arabia, and Kuwait will be targeted when the war resumes.<br />\n<br />\n\u25cf Iran's FM Araghchi to commence a diplomatic tour of Islamabad, Muscat, and Moscow. The mission underscores Iran's \"neighborhood first\" policy.<br />\n<br />\n\u25cf US-sanctioned tanker, YURI, carrying ~2mil barrels of Iranian crude was tracked near the Strait of Hormuz today. It had gone dark for several days, and was seen passing Larak Island late Thursday.<br />\n<br />\n\u25cf CENTCOM: To date, US forces have redirected 34 vessels.<br />\n<br />\n\u25cf Secretary of War Pete Hegseth announced that the US naval blockade is going global.<br />\n<br />\nEND IF THE BRIEF</p>\n<img src=\"https://nitter.net/pic/media%2FHGrwT9-bYAIz0J_.png\" />\n\n\n</p>\n<footer>\n\u2014 <cite><a href=\"https://nitter.net/NetramDefence/status/2047713224230068429#m\">https://nitter.net/NetramDefence/status/2047713224230068429#m</a>\n</footer>\n</blockquote>",
       "author": "@NetramDefence"
-    },
-    {
-      "title": "Fresh intel flags threat in Kashmir. Pakistan-based handlers of Lashkar-e-Taiba tracking tourist hotspots and Amarnath Yatra arrangements, including security deployment. Agencies on high alert.\n\nBy Gursimran Singh",
-      "link": "https://nitter.net/Goreunit/status/2048045328218407331#m",
-      "source": "War & Gore",
-      "sort_key": "2026-04-25T19:53:51+05:30",
-      "time": "25 Apr, 07:53 PM",
-      "type": "tweets",
-      "content": "<p>Fresh intel flags threat in Kashmir. Pakistan-based handlers of Lashkar-e-Taiba tracking tourist hotspots and Amarnath Yatra arrangements, including security deployment. Agencies on high alert.<br />\n<br />\nBy Gursimran Singh</p>",
-      "author": "@Goreunit"
-    },
-    {
-      "title": "RT by @AngryRumi7: #VIDEO || PDP MLA @Agasyedmuntazir visits Sharda temple, pushes for reopening of Sharda Peeth in PoK\n\n@jkpdp @MehboobaMufti @panditaAPMCC63",
-      "link": "https://nitter.net/KNSKashmir/status/2048042760280883310#m",
-      "source": "Angry Rumi",
-      "sort_key": "2026-04-25T19:43:39+05:30",
-      "time": "25 Apr, 07:43 PM",
-      "type": "tweets",
-      "content": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23VIDEO\">#VIDEO</a> || PDP MLA <a href=\"https://nitter.net/Agasyedmuntazir\" title=\"Muntazir Mehdi\">@Agasyedmuntazir</a> visits Sharda temple, pushes for reopening of Sharda Peeth in PoK<br />\n<br />\n<a href=\"https://nitter.net/jkpdp\" title=\"J&amp;K PDP\">@jkpdp</a> <a href=\"https://nitter.net/MehboobaMufti\" title=\"Mehbooba Mufti\">@MehboobaMufti</a> <a href=\"https://nitter.net/panditaAPMCC63\" title=\"Ravinder Pandita(Save Sharda)\">@panditaAPMCC63</a></p>\n<a href=\"https://nitter.net/KNSKashmir/status/2048042760280883310#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2048042285770973184%2Fimg%2FaFbOPa1U3RVxuKal.jpg\" />\n</a>",
-      "author": "@KNSKashmir"
     }
   ],
   "youtube": [
@@ -2134,6 +2165,6 @@
     }
   ],
   "metadata": {
-    "last_updated": "07:24 PM IST"
+    "last_updated": "08:24 PM IST"
   }
 }
